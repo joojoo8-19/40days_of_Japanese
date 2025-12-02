@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>🇯🇵 40 days of Japanese: 40일 일본어 기초 회화</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app-container">
+    <header class="top-menu">
+      <nav class="menu">
+        <button class="menu-button" data-menu="letters">
+            <span class="heart-icon">♥</span>
+            히라가나/가타카나
+        </button>
+        <button class="menu-button" data-menu="grammar">
+            <span class="heart-icon">♥</span>
+            기초회화 문법
+        </button>
+        <button class="menu-button" data-menu="sentences">
+            <span class="heart-icon">♥</span>
+            문장복습
+        </button>
+      </nav>
+    </header>
+
+    <section class="window-frame">
+        <div class="window-header">
+            <div class="window-controls">
+                <div class="control-dot red"></div>
+                <div class="control-dot yellow"></div>
+                <div class="control-dot green"></div>
+            </div>
+        </div>
+        
+        <div class="window-content" id="window">
+            <div id="initial-state" class="initial-message">
+                <span class="hand-icon">👆</span>
+                <p>원하는 하트 버튼을 클릭해 보세요!<br>일본어 학습을 시작할 수 있습니다.</p>
+            </div>
+
+            <!-- LETTERS PANEL (기존 히라/카타) -->
+            <div id="letters-panel" class="panel hidden">
+                <div class="top-controls">
+                    <div class="mode-switch">
+                        <label>
+                            <input type="radio" name="kana" value="hiragana" checked>
+                            히라가나
+                        </label>
+                        <label>
+                            <input type="radio" name="kana" value="katakana">
+                            가타카나
+                        </label>
+                    </div>
+
+                    <div class="box-buttons" role="tablist" aria-label="Leitner boxes">
+                        <button class="box-btn" data-box="1">Box 1</button>
+                        <button class="box-btn" data-box="2">Box 2</button>
+                        <button class="box-btn" data-box="3">Box 3</button>
+                        <button class="box-btn" data-box="4">Box 4</button>
+                        <button class="box-btn" data-box="5">Box 5</button>
+                    </div>
+                </div>
+
+                <div class="learning-area">
+                    <aside class="sidebar">
+                        <h3>상태</h3>
+                        <ul id="box-counts" class="counts">
+                            <li>Box 1: <span data-count="1">0</span></li>
+                            <li>Box 2: <span data-count="2">0</span></li>
+                            <li>Box 3: <span data-count="3">0</span></li>
+                            <li>Box 4: <span data-count="4">0</span></li>
+                            <li>Box 5: <span data-count="5">0</span></li>
+                        </ul>
+                        <button id="reset-progress" class="small">초기화</button>
+                    </aside>
+
+                    <section class="card-area" aria-live="polite">
+                        <div id="flashcard" class="card">
+                            <div class="card-front">
+                                <div class="kana-sound" id="front-hangul">아</div>
+                                <div class="front-controls">
+                                    <button id="hint-btn">힌트</button>
+                                    <button id="flip-btn">뒤집기</button>
+                                </div>
+                                <div id="hint-area" class="hint" hidden>
+                                    <strong id="hint-keyword">키워드</strong>
+                                    <p id="hint-explanation">설명</p>
+                                </div>
+                            </div>
+                            <div class="card-back" hidden>
+                                <div class="kana-char" id="back-char">あ</div>
+                                <div class="kana-romaji" id="back-romaji">a</div>
+                                <div class="answer-controls">
+                                    <button id="correct-btn" class="correct">정답</button>
+                                    <button id="wrong-btn" class="wrong">오답</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="empty-state" class="empty" hidden>
+                            <p>선택한 박스에 학습할 카드가 없습니다.</p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+            <!-- GRAMMAR PANEL -->
+            <div id="grammar-panel" class="panel hidden">
+                <p class="panel-message">문법 학습은 준비 중입니다.</p>
+            </div>
+
+            <!-- SENTENCES PANEL (새로 추가) -->
+            <div id="sentences-panel" class="panel hidden">
+                <div class="top-controls">
+                    <div class="mode-switch">
+                        <label>Day:
+                          <select id="day-select">
+                            <!-- options 1..40 inserted by JS -->
+                          </select>
+                        </label>
+                    </div>
+
+                    <div class="box-buttons" role="tablist" aria-label="Sentence Leitner boxes">
+                        <button class="sentence-box-btn box-btn" data-box="1">Box 1</button>
+                        <button class="sentence-box-btn box-btn" data-box="2">Box 2</button>
+                        <button class="sentence-box-btn box-btn" data-box="3">Box 3</button>
+                        <button class="sentence-box-btn box-btn" data-box="4">Box 4</button>
+                        <button class="sentence-box-btn box-btn" data-box="5">Box 5</button>
+                    </div>
+                </div>
+
+                <div class="learning-area">
+                    <aside class="sidebar">
+                        <h3>상태 (문장)</h3>
+                        <ul id="sentence-box-counts" class="counts">
+                            <li>Box 1: <span data-scount="1">0</span></li>
+                            <li>Box 2: <span data-scount="2">0</span></li>
+                            <li>Box 3: <span data-scount="3">0</span></li>
+                            <li>Box 4: <span data-scount="4">0</span></li>
+                            <li>Box 5: <span data-scount="5">0</span></li>
+                        </ul>
+                        <button id="reset-sentences" class="small">초기화(문장)</button>
+                    </aside>
+
+                    <section class="card-area" aria-live="polite">
+                        <!-- sentence card is wider -->
+                        <div id="sentence-card" class="card wide">
+                            <div class="card-front">
+                                <div class="sentence-korean" id="s-front-kr" style="font-size:20px; font-weight:700;">(한국어 문장)</div>
+                                <div class="front-controls">
+                                    <button id="s-hint-btn">힌트</button>
+                                    <button id="s-flip-btn">뒤집기</button>
+                                </div>
+                                <div id="s-hint-area" class="hint" hidden>
+                                  <p id="s-hint-explain"></p>
+                                  <ul id="s-hints" class="sentence-hints"></ul>
+                                </div>
+                            </div>
+
+                            <div class="card-back" hidden>
+                                <div style="text-align:center;">
+                                  <div class="sentence-kr-small" id="s-back-kr" style="font-size:14px;color:#666;margin-bottom:8px;"></div>
+                                  <div class="sentence-jp" id="s-back-jp" style="font-size:28px;font-weight:800;"></div>
+                                  <div class="sentence-pronounce" id="s-back-pron" style="font-size:18px;color:#666;margin-top:8px;"></div>
+                                </div>
+                                <div class="answer-controls" style="margin-top:20px;">
+                                    <button id="s-correct-btn" class="correct">정답</button>
+                                    <button id="s-wrong-btn" class="wrong">오답</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="sentence-empty" class="empty" hidden>
+                            <p>선택한 박스에 학습할 문장이 없습니다.</p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+      <small>간단한 Leitner 암기 시스템 • 진행은 브라우저에 저장됩니다.</small>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

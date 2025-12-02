@@ -1,0 +1,612 @@
+[
+  {
+    "id": 64,
+    "korean": "나는 스시를 먹는다.",
+    "english": "I eat sushi.",
+    "japanese": "私が 寿司を 食べる。",
+    "pronounce_r": "Watashi ga sushi o taberu.",
+    "pronounce_h": "わたし が すし を たべる。",
+    "words": [
+      {
+        "korean": "스시",
+        "japanese": "寿司",
+        "pronounce_h": "すし"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "korean": "나는 (그냥) 잔다.",
+    "english": "I sleep.",
+    "japanese": "私が 寝る。",
+    "pronounce_r": "Watashi ga neru.",
+    "pronounce_h": "わたし が ねる。",
+    "words": [
+      {
+        "korean": "자다",
+        "japanese": "寝る",
+        "pronounce_h": "ねる"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "korean": "문이 닫힙니다.",
+    "english": "The door closes (by itself).",
+    "japanese": "ドアが 閉まる。",
+    "pronounce_r": "Doa ga shimaru.",
+    "pronounce_h": "ドア が しまる。",
+    "words": [
+      {
+        "korean": "문",
+        "japanese": "ドア",
+        "pronounce_h": "ドア"
+      },
+      {
+        "korean": "닫히다 (자동사)",
+        "japanese": "閉まる",
+        "pronounce_h": "しまる"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "korean": "문을 닫습니다.",
+    "english": "I close the door.",
+    "japanese": "ドアを 閉める。",
+    "pronounce_r": "Doa o shimeru.",
+    "pronounce_h": "ドア を しめる。",
+    "words": [
+      {
+        "korean": "닫다 (타동사)",
+        "japanese": "閉める",
+        "pronounce_h": "しめる"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "korean": "친구가 온다.",
+    "english": "A friend comes.",
+    "japanese": "友達が 来る。",
+    "pronounce_r": "Tomodachi ga kuru.",
+    "pronounce_h": "ともだち が くる。",
+    "words": [
+      {
+        "korean": "친구",
+        "japanese": "友達",
+        "pronounce_h": "ともだち"
+      },
+      {
+        "korean": "오다",
+        "japanese": "来る",
+        "pronounce_h": "くる"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "korean": "빨리 달립니다.",
+    "english": "I run fast.",
+    "japanese": "早く 走ります。",
+    "pronounce_r": "Hayaku hashirimasu.",
+    "pronounce_h": "はやく はしります。",
+    "words": [
+      {
+        "korean": "빨리",
+        "japanese": "早く",
+        "pronounce_h": "はやく"
+      },
+      {
+        "korean": "달리다",
+        "japanese": "走る",
+        "pronounce_h": "はしる"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "korean": "종이를 자릅니다.",
+    "english": "I cut paper.",
+    "japanese": "紙を 切ります。",
+    "pronounce_r": "Kami o kirimasu.",
+    "pronounce_h": "かみ を きります。",
+    "words": [
+      {
+        "korean": "종이",
+        "japanese": "紙",
+        "pronounce_h": "かみ"
+      },
+      {
+        "korean": "자르다",
+        "japanese": "切る",
+        "pronounce_h": "きる"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "korean": "규칙을 바꿉니다.",
+    "english": "I change the rule.",
+    "japanese": "ルールを 変えます。",
+    "pronounce_r": "Rūru o kaemasu.",
+    "pronounce_h": "ルール を かえます。",
+    "words": [
+      {
+        "korean": "규칙",
+        "japanese": "ルール",
+        "pronounce_h": "ルール"
+      },
+      {
+        "korean": "바꾸다",
+        "japanese": "変える",
+        "pronounce_h": "かえる"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "korean": "늦게 돌아갑니다.",
+    "english": "I go back late.",
+    "japanese": "遅く 帰ります。",
+    "pronounce_r": "Osoku kaerimasu.",
+    "pronounce_h": "おそく かえります。",
+    "words": [
+      {
+        "korean": "늦게",
+        "japanese": "遅く",
+        "pronounce_h": "おそく"
+      },
+      {
+        "korean": "돌아가다",
+        "japanese": "帰る",
+        "pronounce_h": "かえる"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "korean": "나는 어제 기념품을 사지 않았습니다.",
+    "english": "I did not buy a souvenir yesterday.",
+    "japanese": "私は 昨日、お土産を 買いませんでした。",
+    "pronounce_r": "Watashi wa kinō, omiyage o kaimasen deshita.",
+    "pronounce_h": "わたし は きのう、おみやげ を かいませんでした。",
+    "words": [
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "기념품",
+        "japanese": "お土産",
+        "pronounce_h": "おみやげ"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "korean": "나는 영화를 봤습니다.",
+    "english": "I watched a movie.",
+    "japanese": "私は 映画を 見ました。",
+    "pronounce_r": "Watashi wa eiga o mimashita.",
+    "pronounce_h": "わたし は えいが を みました。",
+    "words": [
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "korean": "나는 매일 운동을 합니다.",
+    "english": "I exercise every day.",
+    "japanese": "私は 毎日、運動を します。",
+    "pronounce_r": "Watashi wa mainichi, undō o shimasu.",
+    "pronounce_h": "わたし は まいにち、うんどう を します。",
+    "words": [
+      {
+        "korean": "매일",
+        "japanese": "毎日",
+        "pronounce_h": "まいにち"
+      },
+      {
+        "korean": "운동",
+        "japanese": "運動",
+        "pronounce_h": "うんどう"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "korean": "당신은 무엇을 마시지 않습니까?",
+    "english": "What do you not drink?",
+    "japanese": "あなたは 何を 飲みませんか。",
+    "pronounce_r": "Anata wa nani o nomimasen ka.",
+    "pronounce_h": "あなた は なに を のみませんか。",
+    "words": [
+      {
+        "korean": "당신",
+        "japanese": "あなた",
+        "pronounce_h": "あなた"
+      },
+      {
+        "korean": "무엇",
+        "japanese": "何",
+        "pronounce_h": "なに"
+      },
+      {
+        "korean": "마시다",
+        "japanese": "飲む",
+        "pronounce_h": "のむ"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "korean": "저는 아침 7시에 일어났습니다.",
+    "english": "I woke up at 7 AM.",
+    "japanese": "私は 朝 7時に 起きました。",
+    "pronounce_r": "Watashi wa asa shichiji ni okimashita.",
+    "pronounce_h": "わたし は あさ しちじ に おきました。",
+    "words": [
+      {
+        "korean": "아침",
+        "japanese": "朝",
+        "pronounce_h": "あさ"
+      },
+      {
+        "korean": "7시",
+        "japanese": "7時",
+        "pronounce_h": "しちじ"
+      },
+      {
+        "korean": "일어나다",
+        "japanese": "起きる",
+        "pronounce_h": "おきる"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "korean": "내일 친구가 여기에 옵니다.",
+    "english": "My friend will come here tomorrow.",
+    "japanese": "明日、友達が ここに 来ます。",
+    "pronounce_r": "Ashita, tomodachi ga koko ni kimasu.",
+    "pronounce_h": "あした、ともだち が ここ に きます。",
+    "words": [
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "여기",
+        "japanese": "ここ",
+        "pronounce_h": "ここ"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "korean": "선생님은 한자를 썼습니다.",
+    "english": "The teacher wrote Kanji.",
+    "japanese": "先生は 漢字を 書きました。",
+    "pronounce_r": "Sensei wa kanji o kakimashita.",
+    "pronounce_h": "せんせい は かんじ を かきました。",
+    "words": [
+      {
+        "korean": "선생님",
+        "japanese": "先生",
+        "pronounce_h": "せんせい"
+      },
+      {
+        "korean": "한자",
+        "japanese": "漢字",
+        "pronounce_h": "かんじ"
+      },
+      {
+        "korean": "쓰다",
+        "japanese": "書く",
+        "pronounce_h": "かく"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "korean": "매일 아침밥을 먹지 않습니다.",
+    "english": "I don't eat breakfast every day.",
+    "japanese": "毎日、朝ご飯を 食べません。",
+    "pronounce_r": "Mainichi, asagohan o tabemasen.",
+    "pronounce_h": "まいにち、あさごはん を たべません。",
+    "words": [
+      {
+        "korean": "아침밥",
+        "japanese": "朝ご飯",
+        "pronounce_h": "あさごはん"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "korean": "(나는) 역에서 가족을 기다렸습니다.",
+    "english": "I waited for my family at the station.",
+    "japanese": "駅で 家族を 待ちました。",
+    "pronounce_r": "Eki de kazoku o machimashita.",
+    "pronounce_h": "えき で かぞく を まちました。",
+    "words": [
+      {
+        "korean": "역",
+        "japanese": "駅",
+        "pronounce_h": "えき"
+      },
+      {
+        "korean": "가족",
+        "japanese": "家族",
+        "pronounce_h": "かぞく"
+      },
+      {
+        "korean": "기다리다",
+        "japanese": "待つ",
+        "pronounce_h": "まつ"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "korean": "저는 오늘 밤 일찍 잡니다.",
+    "english": "I will sleep early tonight.",
+    "japanese": "私は 今晩、早く 寝ます。",
+    "pronounce_r": "Watashi wa konban, hayaku nemasu.",
+    "pronounce_h": "わたし は こんばん、はやく ねます。",
+    "words": [
+      {
+        "korean": "오늘 밤",
+        "japanese": "今晩",
+        "pronounce_h": "こんばん"
+      },
+      {
+        "korean": "일찍",
+        "japanese": "早く",
+        "pronounce_h": "はやく"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "korean": "한국어로 이야기하지 않았습니다.",
+    "english": "I did not speak in Korean.",
+    "japanese": "韓国語で 話しませんでした。",
+    "pronounce_r": "Kankokugo de hanashimasen deshita.",
+    "pronounce_h": "かんこくご で はなしませんでした。",
+    "words": [
+      {
+        "korean": "한국어",
+        "japanese": "韓国語",
+        "pronounce_h": "かんこくご"
+      },
+      {
+        "korean": "이야기하다",
+        "japanese": "話す",
+        "pronounce_h": "はなす"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "korean": "선생님이 나에게 규칙을 가르쳐 주셨습니다.",
+    "english": "The teacher taught me the rule.",
+    "japanese": "先生が 私に ルールを 教えました。",
+    "pronounce_r": "Sensei ga watashi ni rūru o oshiemashita.",
+    "pronounce_h": "せんせい が わたし に ルール を おしえました。",
+    "words": [
+      {
+        "korean": "규칙",
+        "japanese": "ルール",
+        "pronounce_h": "ルール"
+      },
+      {
+        "korean": "나에게",
+        "japanese": "私に",
+        "pronounce_h": "わたしに"
+      },
+      {
+        "korean": "가르치다",
+        "japanese": "教える",
+        "pronounce_h": "おしえる"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "korean": "그 문제는 아직 알지 못합니다.",
+    "english": "I still don't know that problem.",
+    "japanese": "その問題は まだ わかりません。",
+    "pronounce_r": "Sono mondai wa mada wakarimasen.",
+    "pronounce_h": "その もんだい は まだ わかりません。",
+    "words": [
+      {
+        "korean": "문제",
+        "japanese": "問題",
+        "pronounce_h": "もんだい"
+      },
+      {
+        "korean": "아직",
+        "japanese": "まだ",
+        "pronounce_h": "まだ"
+      },
+      {
+        "korean": "알다",
+        "japanese": "わかる",
+        "pronounce_h": "わかる"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "korean": "어제는 책을 빌리지 않았습니다.",
+    "english": "I did not borrow a book yesterday.",
+    "japanese": "昨日、本を 借りませんでした。",
+    "pronounce_r": "Kinō, hon o karimasen deshita.",
+    "pronounce_h": "きのう、ほん を かりませんでした。",
+    "words": [
+      {
+        "korean": "책",
+        "japanese": "本",
+        "pronounce_h": "ほん"
+      },
+      {
+        "korean": "빌리다",
+        "japanese": "借りる",
+        "pronounce_h": "かりる"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "korean": "우리는 공원에서 놀았습니다.",
+    "english": "We played in the park.",
+    "japanese": "私たちは 公園で 遊びました。",
+    "pronounce_r": "Watashitachi wa kōen de asobimashita.",
+    "pronounce_h": "わたしたち は こうえん で あそびました。",
+    "words": [
+      {
+        "korean": "우리",
+        "japanese": "私たち",
+        "pronounce_h": "わたしたち"
+      },
+      {
+        "korean": "공원에서",
+        "japanese": "公園で",
+        "pronounce_h": "こうえんで"
+      },
+      {
+        "korean": "놀다",
+        "japanese": "遊ぶ",
+        "pronounce_h": "あそぶ"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "korean": "저는 코트를 입지 않았습니다.",
+    "english": "I did not wear a coat.",
+    "japanese": "私は コートを 着ませんでした。",
+    "pronounce_r": "Watashi wa kōto o kimasen deshita.",
+    "pronounce_h": "わたし は コート を きませんでした。",
+    "words": [
+      {
+        "korean": "코트",
+        "japanese": "コート",
+        "pronounce_h": "コート"
+      },
+      {
+        "korean": "입다",
+        "japanese": "着る",
+        "pronounce_h": "きる"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "korean": "(나는) 7시에 집에 돌아갔습니다.",
+    "english": "I returned home at 7 o'clock.",
+    "japanese": "私は 7時に 家に 帰りました。",
+    "pronounce_r": "Watashi wa shichiji ni ie ni kaerimashita.",
+    "pronounce_h": "わたし は しちじ に いえ に かえりました。",
+    "words": [
+      {
+        "korean": "집에",
+        "japanese": "家に",
+        "pronounce_h": "いえに"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "korean": "저녁 식사를 만들지 않습니다.",
+    "english": "I don't make dinner.",
+    "japanese": "晩ご飯を 作りません。",
+    "pronounce_r": "Bangohan o tsukurimasen.",
+    "pronounce_h": "ばんごはん を つくりません。",
+    "words": [
+      {
+        "korean": "저녁 식사",
+        "japanese": "晩ご飯",
+        "pronounce_h": "ばんごはん"
+      },
+      {
+        "korean": "만들다",
+        "japanese": "作る",
+        "pronounce_h": "つくる"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "korean": "그는 방에서 나가지 않았습니다.",
+    "english": "He did not go out of the room.",
+    "japanese": "彼は 部屋から 出ませんでした。",
+    "pronounce_r": "Kare wa heya kara demasen deshita.",
+    "pronounce_h": "かれ は へや から でませんでした。",
+    "words": [
+      {
+        "korean": "그",
+        "japanese": "彼",
+        "pronounce_h": "かれ"
+      },
+      {
+        "korean": "방에서",
+        "japanese": "部屋から",
+        "pronounce_h": "へやから"
+      },
+      {
+        "korean": "나가다",
+        "japanese": "出る",
+        "pronounce_h": "でる"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "korean": "서두르지 않아도 됩니다.",
+    "english": "It's okay not to hurry.",
+    "japanese": "急がなくても 大丈夫です。",
+    "pronounce_r": "Isoganakute mo daijōbu desu.",
+    "pronounce_h": "いそがなくても だいじょうぶ です。",
+    "words": [
+      {
+        "korean": "서두르다",
+        "japanese": "急ぐ",
+        "pronounce_h": "いそぐ"
+      },
+      {
+        "korean": "괜찮다",
+        "japanese": "大丈夫",
+        "pronounce_h": "だいじょうぶ"
+      }
+    ]
+  }
+]

@@ -1,0 +1,887 @@
+[
+  {
+    "id": 1,
+    "korean": "저는 한국 사람입니다.",
+    "english": "I am Korean.",
+    "japanese": "私は 韓国人です。",
+    "pronounce_r": "Watashi wa Kankokujin desu.",
+    "pronounce_h": "わたし は かんこくじん です。",
+    "words": [
+      {
+        "korean": "저/나",
+        "japanese": "私",
+        "pronounce_h": "わたし"
+      },
+      {
+        "korean": "한국 사람",
+        "japanese": "韓国人",
+        "pronounce_h": "かんこくじん"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "오늘은 주말이 아닙니다.",
+    "english": "Today is not the weekend.",
+    "japanese": "今日は 週末じゃないです。",
+    "pronounce_r": "Kyō wa shūmatsu janai desu.",
+    "pronounce_h": "きょう は しゅうまつ じゃないです。",
+    "words": [
+      {
+        "korean": "오늘",
+        "japanese": "今日",
+        "pronounce_h": "きょう"
+      },
+      {
+        "korean": "주말",
+        "japanese": "週末",
+        "pronounce_h": "しゅうまつ"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "어제는 휴일이었습니다.",
+    "english": "Yesterday was a holiday.",
+    "japanese": "昨日は 休みでした。",
+    "pronounce_r": "Kinō wa yasumi deshita.",
+    "pronounce_h": "きのう は やすみ でした。",
+    "words": [
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "휴일",
+        "japanese": "休み",
+        "pronounce_h": "やすみ"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "당신의 이름은 무엇입니까?",
+    "english": "What is your name?",
+    "japanese": "あなたの 名前は 何ですか。",
+    "pronounce_r": "Anata no namae wa nan desu ka.",
+    "pronounce_h": "あなた の なまえ は なん ですか。",
+    "words": [
+      {
+        "korean": "당신",
+        "japanese": "あなた",
+        "pronounce_h": "あなた"
+      },
+      {
+        "korean": "이름",
+        "japanese": "名前",
+        "pronounce_h": "なまえ"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "저것은 회사 건물입니다.",
+    "english": "That is a company building.",
+    "japanese": "あれは 会社の建物です。",
+    "pronounce_r": "Are wa kaisha no tatemono desu.",
+    "pronounce_h": "あれ は かいしゃ の たてもの です。",
+    "words": [
+      {
+        "korean": "저것",
+        "japanese": "あれ",
+        "pronounce_h": "あれ"
+      },
+      {
+        "korean": "회사",
+        "japanese": "会社",
+        "pronounce_h": "かいしゃ"
+      },
+      {
+        "korean": "건물",
+        "japanese": "建物",
+        "pronounce_h": "たてもの"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "저는 타나카 씨의 친구입니다.",
+    "english": "I am Mr./Ms. Tanaka's friend.",
+    "japanese": "私は 田中さんの友達です。",
+    "pronounce_r": "Watashi wa Tanaka-san no tomodachi desu.",
+    "pronounce_h": "わたし は たなかさん の ともだち です。",
+    "words": [
+      {
+        "korean": "친구",
+        "japanese": "友達",
+        "pronounce_h": "ともだち"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "저도 커피를 좋아합니다.",
+    "english": "I like coffee too.",
+    "japanese": "私も コーヒーが好きです。",
+    "pronounce_r": "Watashi mo kōhī ga suki desu.",
+    "pronounce_h": "わたし も コーヒー が すき です。",
+    "words": [
+      {
+        "korean": "커피",
+        "japanese": "コーヒー",
+        "pronounce_h": "コーヒー"
+      },
+      {
+        "korean": "좋아하다",
+        "japanese": "好き",
+        "pronounce_h": "すき"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "내일도 일입니까?",
+    "english": "Is tomorrow also work?",
+    "japanese": "明日も 仕事ですか。",
+    "pronounce_r": "Ashita mo shigoto desu ka.",
+    "pronounce_h": "あした も しごと ですか。",
+    "words": [
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "일",
+        "japanese": "仕事",
+        "pronounce_h": "しごと"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "이것도 주세요.",
+    "english": "Please give me this too.",
+    "japanese": "これも ください。",
+    "pronounce_r": "Kore mo kudasai.",
+    "pronounce_h": "これ も ください。",
+    "words": [
+      {
+        "korean": "이것",
+        "japanese": "これ",
+        "pronounce_h": "これ"
+      },
+      {
+        "korean": "주세요",
+        "japanese": "ください",
+        "pronounce_h": "ください"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "저는 학생이고, 아르바이트생입니다.",
+    "english": "I am a student and a part-timer.",
+    "japanese": "私は 学生で、アルバイトです。",
+    "pronounce_r": "Watashi wa gakusei de, arubaito desu.",
+    "pronounce_h": "わたし は がくせい で、 アルバイト です。",
+    "words": [
+      {
+        "korean": "학생",
+        "japanese": "学生",
+        "pronounce_h": "がくせい"
+      },
+      {
+        "korean": "아르바이트",
+        "japanese": "アルバイト",
+        "pronounce_h": "アルバイト"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "오늘은 맑아서 기분이 좋습니다.",
+    "english": "Today is sunny, so I feel good.",
+    "japanese": "今日は 晴れで、気持ちがいいです。",
+    "pronounce_r": "Kyō wa hare de, kimochi ga ii desu.",
+    "pronounce_h": "きょう は はれ で、 きもち が いい です。",
+    "words": [
+      {
+        "korean": "맑음(날씨)",
+        "japanese": "晴れ",
+        "pronounce_h": "はれ"
+      },
+      {
+        "korean": "기분",
+        "japanese": "気持ち",
+        "pronounce_h": "きもち"
+      },
+      {
+        "korean": "좋다",
+        "japanese": "いい",
+        "pronounce_h": "いい"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "그 영화는 조용하고, 멋졌습니다.",
+    "english": "That movie was quiet and wonderful.",
+    "japanese": "その映画は 静かで、素敵でした。",
+    "pronounce_r": "Sono eiga wa shizuka de, suteki deshita.",
+    "pronounce_h": "その えいが は しずか で、 すてき でした。",
+    "words": [
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "조용하다",
+        "japanese": "静か",
+        "pronounce_h": "しずか"
+      },
+      {
+        "korean": "멋지다",
+        "japanese": "素敵",
+        "pronounce_h": "すてき"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "물과 주스를 주문했습니다.",
+    "english": "I ordered water and juice.",
+    "japanese": "水とジュースを 注文しました。",
+    "pronounce_r": "Mizu to jūsu o chūmon shimashita.",
+    "pronounce_h": "みず と ジュース を ちゅうもん しました。",
+    "words": [
+      {
+        "korean": "물",
+        "japanese": "水",
+        "pronounce_h": "みず"
+      },
+      {
+        "korean": "주스",
+        "japanese": "ジュース",
+        "pronounce_h": "ジュース"
+      },
+      {
+        "korean": "주문하다",
+        "japanese": "注文する",
+        "pronounce_h": "ちゅうもんする"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "가방 안에 책이나 노트 **등**이 있습니다.",
+    "english": "There are books, notebooks, etc., in the bag.",
+    "japanese": "カバンの中に 本やノート**など**が あります。",
+    "pronounce_r": "Kaban no naka ni hon ya nōto nado ga arimasu.",
+    "pronounce_h": "カバン の なか に ほん や ノート など が あります。",
+    "words": [
+      {
+        "korean": "가방",
+        "japanese": "カバン",
+        "pronounce_h": "カバン"
+      },
+      {
+        "korean": "책",
+        "japanese": "本",
+        "pronounce_h": "ほん"
+      },
+      {
+        "korean": "노트",
+        "japanese": "ノート",
+        "pronounce_h": "ノート"
+      },
+      {
+        "korean": "등",
+        "japanese": "など",
+        "pronounce_h": "など"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "저는 어머니와 함께 여행했습니다.",
+    "english": "I traveled with my mother.",
+    "japanese": "私は 母と 一緒に旅行しました。",
+    "pronounce_r": "Watashi wa haha to issho ni ryokō shimashita.",
+    "pronounce_h": "わたし は はは と いっしょ に りょこう しました。",
+    "words": [
+      {
+        "korean": "어머니",
+        "japanese": "母",
+        "pronounce_h": "はは"
+      },
+      {
+        "korean": "함께",
+        "japanese": "一緒に",
+        "pronounce_h": "いっしょに"
+      },
+      {
+        "korean": "여행",
+        "japanese": "旅行",
+        "pronounce_h": "りょこう"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "돈이 필요합니다.",
+    "english": "I need money.",
+    "japanese": "お金が 必要です。",
+    "pronounce_r": "Okane ga hitsuyō desu.",
+    "pronounce_h": "おかね が ひつよう です。",
+    "words": [
+      {
+        "korean": "돈",
+        "japanese": "お金",
+        "pronounce_h": "おかね"
+      },
+      {
+        "korean": "필요",
+        "japanese": "必要",
+        "pronounce_h": "ひつよう"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "저는 한국 음식을 좋아합니다.",
+    "english": "I like Korean food.",
+    "japanese": "私は 韓国料理が 好きです。",
+    "pronounce_r": "Watashi wa Kankoku-ryōri ga suki desu.",
+    "pronounce_h": "わたし は かんこくりょうり が すき です。",
+    "words": [
+      {
+        "korean": "한국 음식",
+        "japanese": "韓国料理",
+        "pronounce_h": "かんこくりょうり"
+      },
+      {
+        "korean": "좋아하다",
+        "japanese": "好き",
+        "pronounce_h": "すき"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "혹시 누가 있습니까?",
+    "english": "Is there someone, perhaps?",
+    "japanese": "もしかして 誰か いますか。",
+    "pronounce_r": "Moshikashite dareka imasu ka.",
+    "pronounce_h": "もしかして だれか いますか。",
+    "words": [
+      {
+        "korean": "혹시",
+        "japanese": "もしかして",
+        "pronounce_h": "もしかして"
+      },
+      {
+        "korean": "누군가",
+        "japanese": "誰か",
+        "pronounce_h": "だれか"
+      },
+      {
+        "korean": "있다(생물)",
+        "japanese": "います",
+        "pronounce_h": "います"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "이것은 무엇입니까?",
+    "english": "What is this?",
+    "japanese": "これは 何ですか。",
+    "pronounce_r": "Kore wa nan desu ka.",
+    "pronounce_h": "これ は なん ですか。",
+    "words": [
+      {
+        "korean": "이것",
+        "japanese": "これ",
+        "pronounce_h": "これ"
+      },
+      {
+        "korean": "무엇",
+        "japanese": "何",
+        "pronounce_h": "なに/なん"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "당신은 누구입니까?",
+    "english": "Who are you?",
+    "japanese": "あなたは 誰ですか。",
+    "pronounce_r": "Anata wa dare desu ka.",
+    "pronounce_h": "あなた は だれ ですか。",
+    "words": [
+      {
+        "korean": "당신",
+        "japanese": "あなた",
+        "pronounce_h": "あなた"
+      },
+      {
+        "korean": "누구",
+        "japanese": "誰",
+        "pronounce_h": "だれ"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "이 근처에 편의점이 있습니까?",
+    "english": "Is there a convenience store near here?",
+    "japanese": "この近くに コンビニが ありますか。",
+    "pronounce_r": "Kono chikaku ni konbini ga arimasu ka.",
+    "pronounce_h": "この ちかく に コンビニ が ありますか。",
+    "words": [
+      {
+        "korean": "근처",
+        "japanese": "近く",
+        "pronounce_h": "ちかく"
+      },
+      {
+        "korean": "편의점",
+        "japanese": "コンビニ",
+        "pronounce_h": "コンビニ"
+      },
+      {
+        "korean": "있다(무생물)",
+        "japanese": "あります",
+        "pronounce_h": "あります"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "저는 일본어를 배우는 초보자입니다.",
+    "english": "I am a beginner learning Japanese.",
+    "japanese": "私は 日本語を習う 初心者です。",
+    "pronounce_r": "Watashi wa Nihongo o narau shoshinsha desu.",
+    "pronounce_h": "わたしは にほんごをならう しょしんしゃ です。",
+    "words": [
+      {
+        "korean": "일본어를 배우는",
+        "japanese": "日本語を習う",
+        "pronounce_h": "にほんごをならう"
+      },
+      {
+        "korean": "초보자",
+        "japanese": "初心者",
+        "pronounce_h": "しょしんしゃ"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "당신의 이름은 무엇입니까?",
+    "english": "What is your name?",
+    "japanese": "あなたの 名前は 何ですか。",
+    "pronounce_r": "Anata no namae wa nan desu ka.",
+    "pronounce_h": "あなた の なまえ は なん ですか。",
+    "words": [
+      {
+        "korean": "이름",
+        "japanese": "名前",
+        "pronounce_h": "なまえ"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "저분은 제 상사가 아니었습니다.",
+    "english": "That person was not my boss.",
+    "japanese": "あの方は 私の 上司じゃなかったです。",
+    "pronounce_r": "Ano kata wa watashi no jōshi janakatta desu.",
+    "pronounce_h": "あのかた は わたし の じょうし じゃなかった です。",
+    "words": [
+      {
+        "korean": "저분",
+        "japanese": "あの方",
+        "pronounce_h": "あのかた"
+      },
+      {
+        "korean": "상사",
+        "japanese": "上司",
+        "pronounce_h": "じょうし"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "저는 한국인이고, 학생입니다.",
+    "english": "I am Korean and a student.",
+    "japanese": "私は 韓国人で、学生です。",
+    "pronounce_r": "Watashi wa Kankokujin de, gakusei desu.",
+    "pronounce_h": "わたし は かんこくじん で、 がくせい です。",
+    "words": [
+      {
+        "korean": "한국인",
+        "japanese": "韓国人",
+        "pronounce_h": "かんこくじん"
+      },
+      {
+        "korean": "학생",
+        "japanese": "学生",
+        "pronounce_h": "がくせい"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "korean": "오늘은 토요일이 아닙니다.",
+    "english": "Today is not Saturday.",
+    "japanese": "今日は 土曜日じゃないです。",
+    "pronounce_r": "Kyō wa doyōbi janai desu.",
+    "pronounce_h": "きょう は どようび じゃないです。",
+    "words": [
+      {
+        "korean": "오늘",
+        "japanese": "今日",
+        "pronounce_h": "きょう"
+      },
+      {
+        "korean": "토요일",
+        "japanese": "土曜日",
+        "pronounce_h": "どようび"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "korean": "저는 매운 음식을 좋아하는 사람이 아닙니다.",
+    "english": "I am not a person who likes spicy food.",
+    "japanese": "私は 辛い食べ物が 好きな人じゃないです。",
+    "pronounce_r": "Watashi wa karai tabemono ga sukina hito janai desu.",
+    "pronounce_h": "わたしは からい たべもの が すきなひと じゃないです。",
+    "words": [
+      {
+        "korean": "매운 음식",
+        "japanese": "辛い食べ物",
+        "pronounce_h": "からいたべもの"
+      },
+      {
+        "korean": "좋아하는 사람",
+        "japanese": "好きな人",
+        "pronounce_h": "すきなひと"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "korean": "어제는 비가 내리는 날이었고, 휴일이었습니다.",
+    "english": "Yesterday was a rainy day and a holiday.",
+    "japanese": "昨日は 雨の日で、休みでした。",
+    "pronounce_r": "Kinō wa ame no hi de, yasumi deshita.",
+    "pronounce_h": "きのう は あめ の ひ で、 やすみ でした。",
+    "words": [
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "비가 내리는 날",
+        "japanese": "雨の日",
+        "pronounce_h": "あめのひ"
+      },
+      {
+        "korean": "휴일",
+        "japanese": "休み",
+        "pronounce_h": "やすみ"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "korean": "당신의 취미는 독서입니까?",
+    "english": "Is your hobby reading?",
+    "japanese": "あなたの 趣味は 読書ですか。",
+    "pronounce_r": "Anata no shumi wa dokusho desu ka.",
+    "pronounce_h": "あなた の しゅみ は どくしょ ですか。",
+    "words": [
+      {
+        "korean": "취미",
+        "japanese": "趣味",
+        "pronounce_h": "しゅみ"
+      },
+      {
+        "korean": "독서",
+        "japanese": "読書",
+        "pronounce_h": "どくしょ"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "korean": "저도 그 뉴스의 수신자입니다.",
+    "english": "I am also a recipient of that news.",
+    "japanese": "私も そのニュースの 受信者です。",
+    "pronounce_r": "Watashi mo sono nyūsu no jushinsha desu.",
+    "pronounce_h": "わたし も その ニュース の じゅしんしゃ です。",
+    "words": [
+      {
+        "korean": "그",
+        "japanese": "その",
+        "pronounce_h": "その"
+      },
+      {
+        "korean": "뉴스",
+        "japanese": "ニュース",
+        "pronounce_h": "ニュース"
+      },
+      {
+        "korean": "수신자",
+        "japanese": "受信者",
+        "pronounce_h": "じゅしんしゃ"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "korean": "이것은 누구의 열쇠입니까?",
+    "english": "Whose key is this?",
+    "japanese": "これは 誰の 鍵ですか。",
+    "pronounce_r": "Kore wa dare no kagi desu ka.",
+    "pronounce_h": "これ は だれ の かぎ ですか。",
+    "words": [
+      {
+        "korean": "이것",
+        "japanese": "これ",
+        "pronounce_h": "これ"
+      },
+      {
+        "korean": "열쇠",
+        "japanese": "鍵",
+        "pronounce_h": "かぎ"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "korean": "그녀는 친절한 사람이었습니다.",
+    "english": "She was a kind person.",
+    "japanese": "彼女は 親切な人でした。",
+    "pronounce_r": "Kanojo wa shinsetsu na hito deshita.",
+    "pronounce_h": "かのじょ は しんせつなひと でした。",
+    "words": [
+      {
+        "korean": "그녀",
+        "japanese": "彼女",
+        "pronounce_h": "かのじょ"
+      },
+      {
+        "korean": "친절한 사람",
+        "japanese": "親切な人",
+        "pronounce_h": "しんせつなひと"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "korean": "회의는 몇 시입니까?",
+    "english": "What time is the meeting?",
+    "japanese": "会議は 何時ですか。",
+    "pronounce_r": "Kaigi wa nan-ji desu ka.",
+    "pronounce_h": "かいぎ は なんじ ですか。",
+    "words": [
+      {
+        "korean": "회의",
+        "japanese": "会議",
+        "pronounce_h": "かいぎ"
+      },
+      {
+        "korean": "몇 시",
+        "japanese": "何時",
+        "pronounce_h": "なんじ"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "korean": "저의 꿈은 세계 여행이 아니었습니다.",
+    "english": "My dream was not world travel.",
+    "japanese": "私の 夢は 世界旅行じゃなかったです。",
+    "pronounce_r": "Watashi no yume wa sekai ryokō janakatta desu.",
+    "pronounce_h": "わたし の ゆめ は せかいりょこう じゃなかったです。",
+    "words": [
+      {
+        "korean": "꿈",
+        "japanese": "夢",
+        "pronounce_h": "ゆめ"
+      },
+      {
+        "korean": "세계 여행",
+        "japanese": "世界旅行",
+        "pronounce_h": "せかいりょこう"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "korean": "저희 가족은 아버지, 어머니, 저입니다.",
+    "english": "My family is my father, mother, and me.",
+    "japanese": "私の家族は 父と母と 私です。",
+    "pronounce_r": "Watashi no kazoku wa chichi to haha to watashi desu.",
+    "pronounce_h": "わたし の かぞく は ちち と はは と わたし です。",
+    "words": [
+      {
+        "korean": "가족",
+        "japanese": "家族",
+        "pronounce_h": "かぞく"
+      },
+      {
+        "korean": "아버지",
+        "japanese": "父",
+        "pronounce_h": "ちち"
+      },
+      {
+        "korean": "어머니",
+        "japanese": "母",
+        "pronounce_h": "はは"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "korean": "이 커피는 제 것이 아닙니다.",
+    "english": "This coffee is not mine.",
+    "japanese": "このコーヒーは 私のものじゃないです。",
+    "pronounce_r": "Kono kōhī wa watashi no mono janai desu.",
+    "pronounce_h": "この コーヒー は わたし の もの じゃないです。",
+    "words": [
+      {
+        "korean": "커피",
+        "japanese": "コーヒー",
+        "pronounce_h": "コーヒー"
+      },
+      {
+        "korean": "제 것",
+        "japanese": "私のもの",
+        "pronounce_h": "わたしのもの"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "korean": "저는 고기와 생선 모두를 좋아하는 사람입니다. ",
+    "english": "I am a person who likes both meat and fish.",
+    "japanese": "私は 肉も魚も 好きな人です。",
+    "pronounce_r": "Watashi wa niku mo sakana mo sukina hito desu.",
+    "pronounce_h": "わたしは にくも さかなも すきなひと です。",
+    "words": [
+      {
+        "korean": "고기",
+        "japanese": "肉",
+        "pronounce_h": "にく"
+      },
+      {
+        "korean": "생선",
+        "japanese": "魚",
+        "pronounce_h": "さかな"
+      },
+      {
+        "korean": "좋아하는 사람",
+        "japanese": "好きな人",
+        "pronounce_h": "すきなひと"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "korean": "점심 식사는 언제입니까?",
+    "english": "When is lunch?",
+    "japanese": "昼食は いつですか。",
+    "pronounce_r": "Chūshoku wa itsu desu ka.",
+    "pronounce_h": "ちゅうしょく は いつ ですか。",
+    "words": [
+      {
+        "korean": "점심 식사",
+        "japanese": "昼食",
+        "pronounce_h": "ちゅうしょく"
+      },
+      {
+        "korean": "언제",
+        "japanese": "いつ",
+        "pronounce_h": "いつ"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "korean": "이 근처는 지하철역입니까?",
+    "english": "Is this area a subway station?",
+    "japanese": "この近くは 地下鉄の駅ですか。",
+    "pronounce_r": "Kono chikaku wa chikatetsu no eki desu ka.",
+    "pronounce_h": "このちかく は ちかてつのえき ですか。",
+    "words": [
+      {
+        "korean": "근처",
+        "japanese": "近く",
+        "pronounce_h": "ちかく"
+      },
+      {
+        "korean": "지하철역",
+        "japanese": "地下鉄の駅",
+        "pronounce_h": "ちかてつのえき"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "korean": "그것은 제 잘못이 아니었습니다.",
+    "english": "That was not my mistake.",
+    "japanese": "それは 私の間違いじゃなかったです。",
+    "pronounce_r": "Sore wa watashi no machigai janakatta desu.",
+    "pronounce_h": "それ は わたし の まちがい じゃなかったです。",
+    "words": [
+      {
+        "korean": "그것",
+        "japanese": "それ",
+        "pronounce_h": "それ"
+      },
+      {
+        "korean": "잘못/실수",
+        "japanese": "間違い",
+        "pronounce_h": "まちがい"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "korean": "저는 영어와 일본어 등을 공부하는 학생이었습니다.",
+    "english": "I was a student studying English, Japanese, and others.",
+    "japanese": "私は 英語や日本語などを 勉強する学生でした。",
+    "pronounce_r": "Watashi wa eigo ya Nihongo nado o benkyō suru gakusei deshita.",
+    "pronounce_h": "わたしは えいごや にほんごなど を べんきょうする がくせい でした。",
+    "words": [
+      {
+        "korean": "영어",
+        "japanese": "英語",
+        "pronounce_h": "えいご"
+      },
+      {
+        "korean": "일본어",
+        "japanese": "日本語",
+        "pronounce_h": "にほんご"
+      },
+      {
+        "korean": "등",
+        "japanese": "など",
+        "pronounce_h": "など"
+      },
+      {
+        "korean": "공부하는 학생",
+        "japanese": "勉強する学生",
+        "pronounce_h": "べんきょうするがくせい"
+      }
+    ]
+  }
+]

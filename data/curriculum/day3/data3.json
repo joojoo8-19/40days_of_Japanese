@@ -1,0 +1,462 @@
+[
+  {
+    "id": 42,
+    "korean": "저의 방은 깨끗합니다.",
+    "english": "My room is clean.",
+    "japanese": "私の部屋は 綺麗です。",
+    "pronounce_r": "Watashi no heya wa kirei desu.",
+    "pronounce_h": "わたし の へや は きれい です。",
+    "words": [
+      {
+        "korean": "방",
+        "japanese": "部屋",
+        "pronounce_h": "へや"
+      },
+      {
+        "korean": "깨끗하다",
+        "japanese": "綺麗",
+        "pronounce_h": "きれい"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "korean": "저 호텔은 편리합니다.",
+    "english": "That hotel is convenient.",
+    "japanese": "あのホテルは 便利です。",
+    "pronounce_r": "Ano hoteru wa benri desu.",
+    "pronounce_h": "あの ホテル は べんり です。",
+    "words": [
+      {
+        "korean": "저",
+        "japanese": "あの",
+        "pronounce_h": "あの"
+      },
+      {
+        "korean": "호텔",
+        "japanese": "ホテル",
+        "pronounce_h": "ホテル"
+      },
+      {
+        "korean": "편리하다",
+        "japanese": "便利",
+        "pronounce_h": "べんり"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "korean": "이 공원은 항상 조용합니다.",
+    "english": "This park is always quiet.",
+    "japanese": "この公園は いつも 静かです。",
+    "pronounce_r": "Kono kōen wa itsumo shizuka desu.",
+    "pronounce_h": "この こうえん は いつも しずか です。",
+    "words": [
+      {
+        "korean": "공원",
+        "japanese": "公園",
+        "pronounce_h": "こうえん"
+      },
+      {
+        "korean": "항상",
+        "japanese": "いつも",
+        "pronounce_h": "いつも"
+      },
+      {
+        "korean": "조용하다",
+        "japanese": "静か",
+        "pronounce_h": "しずか"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "korean": "이 일은 간단하지 않습니다.",
+    "english": "This work is not simple.",
+    "japanese": "この仕事は 簡単じゃないです。",
+    "pronounce_r": "Kono shigoto wa kantan janai desu.",
+    "pronounce_h": "この しごと は かんたん じゃない です。",
+    "words": [
+      {
+        "korean": "일",
+        "japanese": "仕事",
+        "pronounce_h": "しごと"
+      },
+      {
+        "korean": "간단하다",
+        "japanese": "簡単",
+        "pronounce_h": "かんたん"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "korean": "주말은 별로 한가하지 않습니다.",
+    "english": "I am not very free on the weekend.",
+    "japanese": "週末は あまり 暇じゃないです。",
+    "pronounce_r": "Shūmatsu wa amari hima janai desu.",
+    "pronounce_h": "しゅうまつ は あまり ひま じゃない です。",
+    "words": [
+      {
+        "korean": "주말",
+        "japanese": "週末",
+        "pronounce_h": "しゅうまつ"
+      },
+      {
+        "korean": "별로",
+        "japanese": "あまり",
+        "pronounce_h": "あまり"
+      },
+      {
+        "korean": "한가하다",
+        "japanese": "暇",
+        "pronounce_h": "ひま"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "korean": "그녀의 의견은 찬성하지 않습니다.",
+    "english": "I do not agree with her opinion.",
+    "japanese": "彼女の意見は 賛成じゃないです。",
+    "pronounce_r": "Kanojo no iken wa sansei janai desu.",
+    "pronounce_h": "かのじょ の いけん は さんせい じゃない です。",
+    "words": [
+      {
+        "korean": "그녀",
+        "japanese": "彼女",
+        "pronounce_h": "かのじょ"
+      },
+      {
+        "korean": "의견",
+        "japanese": "意見",
+        "pronounce_h": "いけん"
+      },
+      {
+        "korean": "찬성",
+        "japanese": "賛成",
+        "pronounce_h": "さんせい"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "korean": "어제는 정말 힘들었습니다.",
+    "english": "Yesterday was really tough.",
+    "japanese": "昨日は とても 大変でした。",
+    "pronounce_r": "Kinō wa totemo taihen deshita.",
+    "pronounce_h": "きのう は とても たいへん でした。",
+    "words": [
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "힘들다",
+        "japanese": "大変",
+        "pronounce_h": "たいへん"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "korean": "그곳은 정말 멋졌습니다.",
+    "english": "That place was truly wonderful.",
+    "japanese": "そこは 本当に 素敵でした。",
+    "pronounce_r": "Soko wa hontō ni suteki deshita.",
+    "pronounce_h": "そこ は ほんとう に すてき でした。",
+    "words": [
+      {
+        "korean": "그곳",
+        "japanese": "そこ",
+        "pronounce_h": "そこ"
+      },
+      {
+        "korean": "정말",
+        "japanese": "本当に",
+        "pronounce_h": "ほんとう に"
+      },
+      {
+        "korean": "멋지다",
+        "japanese": "素敵",
+        "pronounce_h": "すてき"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "korean": "옛날에는 이 거리가 활기찼습니다.",
+    "english": "In the past, this street was lively.",
+    "japanese": "昔は この街が 賑やかでした。",
+    "pronounce_r": "Mukashi wa kono machi ga nigiyaka deshita.",
+    "pronounce_h": "むかし は この まち が にぎやか でした。",
+    "words": [
+      {
+        "korean": "옛날",
+        "japanese": "昔",
+        "pronounce_h": "むかし"
+      },
+      {
+        "korean": "거리",
+        "japanese": "街",
+        "pronounce_h": "まち"
+      },
+      {
+        "korean": "활기차다",
+        "japanese": "賑やか",
+        "pronounce_h": "にぎやか"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "korean": "그는 친절하지 않았습니다.",
+    "english": "He was not kind.",
+    "japanese": "彼は 親切じゃなかったです。",
+    "pronounce_r": "Kare wa shinsetsu janakatta desu.",
+    "pronounce_h": "かれ は しんせつ じゃなかった です。",
+    "words": [
+      {
+        "korean": "그",
+        "japanese": "彼",
+        "pronounce_h": "かれ"
+      },
+      {
+        "korean": "친절하다",
+        "japanese": "親切",
+        "pronounce_h": "しんせつ"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "korean": "그때는 안전하지 않았습니다.",
+    "english": "It was not safe at that time.",
+    "japanese": "あの時は 安全じゃなかったです。",
+    "pronounce_r": "Ano toki wa anzen janakatta desu.",
+    "pronounce_h": "あの とき は あんぜん じゃなかった です。",
+    "words": [
+      {
+        "korean": "그때",
+        "japanese": "あの時",
+        "pronounce_h": "あのとき"
+      },
+      {
+        "korean": "안전하다",
+        "japanese": "安全",
+        "pronounce_h": "あんぜん"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "korean": "지난주는 전혀 건강하지 않았습니다.",
+    "english": "I was not well at all last week.",
+    "japanese": "先週は 全然 元気じゃなかったです。",
+    "pronounce_r": "Senshū wa zenzen genki janakatta desu.",
+    "pronounce_h": "せんしゅう は ぜんぜん げんき じゃなかった です。",
+    "words": [
+      {
+        "korean": "지난주",
+        "japanese": "先週",
+        "pronounce_h": "せんしゅう"
+      },
+      {
+        "korean": "전혀",
+        "japanese": "全然",
+        "pronounce_h": "ぜんぜん"
+      },
+      {
+        "korean": "건강하다",
+        "japanese": "元気",
+        "pronounce_h": "げんき"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "korean": "저곳은 편리한 역입니다.",
+    "english": "That place is a convenient station.",
+    "japanese": "あそこは 便利**な** 駅です。",
+    "pronounce_r": "Asoko wa benri na eki desu.",
+    "pronounce_h": "あそこ は べんり な えき です。",
+    "words": [
+      {
+        "korean": "저곳",
+        "japanese": "あそこ",
+        "pronounce_h": "あそこ"
+      },
+      {
+        "korean": "역",
+        "japanese": "駅",
+        "pronounce_h": "えき"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "korean": "이것은 간단한 문제입니다.",
+    "english": "This is a simple problem.",
+    "japanese": "これは 簡単**な** 問題です。",
+    "pronounce_r": "Kore wa kantan na mondai desu.",
+    "pronounce_h": "これ は かんたん な もんだい です。",
+    "words": [
+      {
+        "korean": "이것",
+        "japanese": "これ",
+        "pronounce_h": "これ"
+      },
+      {
+        "korean": "문제",
+        "japanese": "問題",
+        "pronounce_h": "もんだい"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "korean": "그 사람은 친절한 선생님이었습니다.",
+    "english": "That person was a kind teacher.",
+    "japanese": "あの人は 親切**な** 先生でした。",
+    "pronounce_r": "Ano hito wa shinsetsu na sensei deshita.",
+    "pronounce_h": "あの ひと は しんせつ な せんせい でした。",
+    "words": [
+      {
+        "korean": "사람",
+        "japanese": "人",
+        "pronounce_h": "ひと"
+      },
+      {
+        "korean": "선생님",
+        "japanese": "先生",
+        "pronounce_h": "せんせい"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "korean": "그녀는 멋진 디자인을 만들었습니다.",
+    "english": "She made a wonderful design.",
+    "japanese": "彼女は 素敵**な** デザインを 作りました。",
+    "pronounce_r": "Kanojo wa suteki na dezain o tsukuri mashita.",
+    "pronounce_h": "かのじょ は すてき な デザイン を つくり ました。",
+    "words": [
+      {
+        "korean": "디자인",
+        "japanese": "デザイン",
+        "pronounce_h": "デザイン"
+      },
+      {
+        "korean": "만들었습니다",
+        "japanese": "作りました",
+        "pronounce_h": "つくり ました"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "korean": "이 레스토랑은 조용하고, 분위기도 좋습니다.",
+    "english": "This restaurant is quiet, and the atmosphere is also good.",
+    "japanese": "このレストランは 静かで、雰囲気も いいです。",
+    "pronounce_r": "Kono resutoran wa shizuka de, fun'iki mo ii desu.",
+    "pronounce_h": "この レストラン は しずか で、 ふんいき も いい です。",
+    "words": [
+      {
+        "korean": "레스토랑",
+        "japanese": "レストラン",
+        "pronounce_h": "レストラン"
+      },
+      {
+        "korean": "분위기",
+        "japanese": "雰囲気",
+        "pronounce_h": "ふんいき"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "korean": "그는 성실하고, 상냥한 사람입니다.",
+    "english": "He is a serious and gentle person.",
+    "japanese": "彼は 真面目で、優しい人です。",
+    "pronounce_r": "Kare wa majime de, yasashii hito desu.",
+    "pronounce_h": "かれ は まじめ で、 やさしい ひと です。",
+    "words": [
+      {
+        "korean": "성실하다",
+        "japanese": "真面目",
+        "pronounce_h": "まじめ"
+      },
+      {
+        "korean": "상냥하다",
+        "japanese": "優しい",
+        "pronounce_h": "やさしい"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "korean": "이곳은 깨끗하고, 살기 좋은 거리입니다.",
+    "english": "This place is clean and a nice town to live in.",
+    "japanese": "ここは 綺麗で、住みやすい街です.",
+    "pronounce_r": "Koko wa kirei de, sumiyasui machi desu.",
+    "pronounce_h": "ここ は きれい で、 すみやすい まち です。",
+    "words": [
+      {
+        "korean": "이곳",
+        "japanese": "ここ",
+        "pronounce_h": "ここ"
+      },
+      {
+        "korean": "살기 좋다",
+        "japanese": "住みやすい",
+        "pronounce_h": "すみやすい"
+      },
+      {
+        "korean": "거리",
+        "japanese": "街",
+        "pronounce_h": "まち"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "korean": "저는 초밥을 좋아합니다.",
+    "english": "I like sushi.",
+    "japanese": "私は 寿司が 好きです。",
+    "pronounce_r": "Watashi wa sushi ga suki desu.",
+    "pronounce_h": "わたし は すし が すき です。",
+    "words": [
+      {
+        "korean": "초밥",
+        "japanese": "寿司",
+        "pronounce_h": "すし"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "korean": "남동생은 운동을 싫어합니다.",
+    "english": "My younger brother dislikes sports/exercise.",
+    "japanese": "弟は 運動が 嫌いです。",
+    "pronounce_r": "Otōto wa undō ga kirai desu.",
+    "pronounce_h": "おとうと は うんどう が きらい です。",
+    "words": [
+      {
+        "korean": "남동생",
+        "japanese": "弟",
+        "pronounce_h": "おとうと"
+      },
+      {
+        "korean": "운동",
+        "japanese": "運動",
+        "pronounce_h": "うんどう"
+      },
+      {
+        "korean": "싫어하다",
+        "japanese": "嫌い",
+        "pronounce_h": "きらい"
+      }
+    ]
+  }
+]
