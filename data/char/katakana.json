@@ -1,0 +1,324 @@
+[
+  {
+    "char": "ア",
+    "romaji": "a",
+    "hangul": "아",
+    "keyword": "아이스크림",
+    "explanation": "수직선 위에 짧은 획들이 얹힌 모양이 아이스크림 막대 위에 크림이 솟아오른 것을 연상시킵니다."
+  },
+  {
+    "char": "イ",
+    "romaji": "i",
+    "hangul": "이",
+    "keyword": "이쑤시개",
+    "explanation": "두 개의 획이 이쑤시개와 비스듬한 치아를 연상시키는 모습입니다."
+  },
+  {
+    "char": "ウ",
+    "romaji": "u",
+    "hangul": "우",
+    "keyword": "우산",
+    "explanation": "윗부분이 뾰족하고 아래로 내려오는 모양이 우산 손잡이처럼 휘어져 있습니다."
+  },
+  {
+    "char": "エ",
+    "romaji": "e",
+    "hangul": "에",
+    "keyword": "엘리베이터",
+    "explanation": "수직선과 두 개의 꺾인 획이 닫힌 엘리베이터 문의 각진 형태처럼 보입니다."
+  },
+  {
+    "char": "オ",
+    "romaji": "o",
+    "hangul": "오",
+    "keyword": "오리배",
+    "explanation": "넓고 각진 아래 구조가 물 위에 둥둥 떠 있는 오리배의 실루엣을 닮았습니다."
+  },
+  {
+    "char": "カ",
+    "romaji": "ka",
+    "hangul": "카",
+    "keyword": "카메라",
+    "explanation": "각진 외형과 작은 획이 카메라 본체를 단순화한 것처럼 보입니다."
+  },
+  {
+    "char": "キ",
+    "romaji": "ki",
+    "hangul": "키",
+    "keyword": "키(key)",
+    "explanation": "세 개의 평행선과 이를 가로지르는 획이 열쇠(key) 모양을 연상시킵니다."
+  },
+  {
+    "char": "ク",
+    "romaji": "ku",
+    "hangul": "쿠",
+    "keyword": "쿠션",
+    "explanation": "꺾여 있는 하나의 획이 눌린 사각 쿠션의 모서리처럼 보입니다."
+  },
+  {
+    "char": "ケ",
+    "romaji": "ke",
+    "hangul": "케",
+    "keyword": "케이크",
+    "explanation": "케이크 상단 단면 아래로 생크림이 길게 흘러내리는 듯한 모양을 연상하게 합니다."
+  },
+  {
+    "char": "コ",
+    "romaji": "ko",
+    "hangul": "코",
+    "keyword": "코너(corner)",
+    "explanation": "오른쪽이 막힌 'ㄷ'자 형태로, 방의 코너나 상자의 윗부분처럼 보입니다."
+  },
+  {
+    "char": "サ",
+    "romaji": "sa",
+    "hangul": "사",
+    "keyword": "사다리",
+    "explanation": "세 줄의 획이 사다리의 발판(단)과 이를 지지하는 기둥을 연상시킵니다."
+  },
+  {
+    "char": "シ",
+    "romaji": "shi",
+    "hangul": "시",
+    "keyword": "시계바늘",
+    "explanation": "세 개의 짧은 획이 시계바늘처럼 아래에서 위로 방사형으로 뻗어 올라가는 모양입니다."
+  },
+  {
+    "char": "ス",
+    "romaji": "su",
+    "hangul": "스",
+    "keyword": "스탠드",
+    "explanation": "수직 기둥과 이를 가로지르는 획이 세워놓은 스탠드 조명 기둥과 받침 구조를 연상시킵니다."
+  },
+  {
+    "char": "セ",
+    "romaji": "se",
+    "hangul": "세",
+    "keyword": "가늘 세",
+    "explanation": "세 개의 수평선과 수직선이 한글 자음 'ㄱ'과 'ㄴ'이 합쳐진 듯한 형태를 가집니다."
+  },
+  {
+    "char": "ソ",
+    "romaji": "so",
+    "hangul": "소",
+    "keyword": "소나기",
+    "explanation": "두 개의 대각선 획이 비가 사선으로 쏟아지는 소나기의 모습을 연상하게 합니다."
+  },
+  {
+    "char": "タ",
+    "romaji": "ta",
+    "hangul": "타",
+    "keyword": "타워",
+    "explanation": "윗부분의 획과 아래의 수직선이 단순한 타워 건물의 구조를 닮았습니다."
+  },
+  {
+    "char": "チ",
+    "romaji": "chi",
+    "hangul": "치",
+    "keyword": "치즈",
+    "explanation": "각진 모양이 모서리가 잘린 치즈 조각의 단면을 연상시킵니다."
+  },
+  {
+    "char": "ツ",
+    "romaji": "tsu",
+    "hangul": "츠/쯔",
+    "keyword": "츠나미(쓰나미)",
+    "explanation": "세 개의 짧은 획이 물결이 튀는 듯한 방향성을 나타내며 쓰나미를 연상시킵니다."
+  },
+  {
+    "char": "テ",
+    "romaji": "te",
+    "hangul": "테",
+    "keyword": "테이블",
+    "explanation": "수평선과 수직선이 테이블의 상판과 다리를 닮았습니다."
+  },
+  {
+    "char": "ト",
+    "romaji": "to",
+    "hangul": "토",
+    "keyword": "토치(torch)",
+    "explanation": "길쭉한 수직 본체와 오른쪽의 짧은 획이 토치(torch)의 점화 버튼처럼 보입니다."
+  },
+  {
+    "char": "ナ",
+    "romaji": "na",
+    "hangul": "나",
+    "keyword": "나무",
+    "explanation": "세로줄과 가로줄이 나무 가지가 갈라지는 모습과 비슷합니다."
+  },
+  {
+    "char": "ニ",
+    "romaji": "ni",
+    "hangul": "니",
+    "keyword": "니트",
+    "explanation": "두 개의 평행한 수평선이 니트 짜임의 줄무늬를 떠올리게 합니다. 한자 '이(二)'와 같습니다."
+  },
+  {
+    "char": "ヌ",
+    "romaji": "nu",
+    "hangul": "누",
+    "keyword": "누텔라 뚜껑",
+    "explanation": "꺾이는 획이 누텔라 뚜껑 모양에 초콜릿 소스가 묻어 흘러내리는 모습을 연상하게 합니다."
+  },
+  {
+    "char": "ネ",
+    "romaji": "ne",
+    "hangul": "네",
+    "keyword": "네잎클로버",
+    "explanation": "곡선과 짧은 점들이 네잎클로버의 잎맥이나 복잡한 줄기처럼 연결된 모습을 연상시킵니다."
+  },
+  {
+    "char": "ノ",
+    "romaji": "no",
+    "hangul": "노",
+    "keyword": "노즈(nose)",
+    "explanation": "대각선 하나의 획이 사람의 코(nose) 옆모습처럼 길게 뻗어 있습니다."
+  },
+  {
+    "char": "ハ",
+    "romaji": "ha",
+    "hangul": "하",
+    "keyword": "하프",
+    "explanation": "두 개의 사선이 현악기 하프의 옆모습처럼 대칭되는 모양입니다."
+  },
+  {
+    "char": "ヒ",
+    "romaji": "hi",
+    "hangul": "히",
+    "keyword": "히터",
+    "explanation": "세로로 꺾인 두 개의 획이 히터 기둥이나 발열체의 모양과 가깝습니다."
+  },
+  {
+    "char": "フ",
+    "romaji": "fu",
+    "hangul": "후",
+    "keyword": "후드티 주머니",
+    "explanation": "아래가 넓게 벌어진 모양이 후드티의 아래자락이나 주머니 입구를 닮았습니다."
+  },
+  {
+    "char": "ヘ",
+    "romaji": "he",
+    "hangul": "헤",
+    "keyword": "헤드셋",
+    "explanation": "약간 올라간 하나의 획이 머리 위에 쓴 헤드셋 밴드를 단순화한 모습입니다."
+  },
+  {
+    "char": "ホ",
+    "romaji": "ho",
+    "hangul": "호",
+    "keyword": "호수",
+    "explanation": "세로선과 점 두 개가 호수 위에 떠 있는 물방울이나 작은 섬처럼 보입니다."
+  },
+  {
+    "char": "マ",
+    "romaji": "ma",
+    "hangul": "마",
+    "keyword": "마술봉",
+    "explanation": "두 개의 꺾인 획이 마술봉의 머리 부분을 닮은 마름모꼴을 연상시킵니다."
+  },
+  {
+    "char": "ミ",
+    "romaji": "mi",
+    "hangul": "미",
+    "keyword": "미로",
+    "explanation": "세 개의 짧은 선이 복잡한 미로의 길처럼 나란히 이어져 있습니다."
+  },
+  {
+    "char": "ム",
+    "romaji": "mu",
+    "hangul": "무",
+    "keyword": "무등산",
+    "explanation": "오른쪽으로 꺾이는 획이 산의 봉우리를 연상하게 합니다."
+  },
+  {
+    "char": "メ",
+    "romaji": "me",
+    "hangul": "메",
+    "keyword": "메모",
+    "explanation": "두 개의 사선이 교차하는 'X' 모양이 중요 표시나 메모의 구석을 연상시킵니다."
+  },
+  {
+    "char": "モ",
+    "romaji": "mo",
+    "hangul": "모",
+    "keyword": "모자",
+    "explanation": "세 개의 획이 모자의 챙, 몸체, 윗부분 단면을 연상시키는 구조입니다."
+  },
+  {
+    "char": "ヤ",
+    "romaji": "ya",
+    "hangul": "야",
+    "keyword": "야자나무",
+    "explanation": "사선들이 갈라져 올라가는 모습이 야자나무의 잎과 줄기를 닮았습니다."
+  },
+  {
+    "char": "ユ",
+    "romaji": "yu",
+    "hangul": "유",
+    "keyword": "깨진 유리컵",
+    "explanation": "사각 형태에서 한 획이 비어있어 모서리가 깨진 유리컵의 실루엣처럼 보입니다."
+  },
+  {
+    "char": "ヨ",
+    "romaji": "yo",
+    "hangul": "요",
+    "keyword": "요트",
+    "explanation": "세 개의 평행한 수평선이 요트 갑판의 층 구조를 닮았습니다."
+  },
+  {
+    "char": "ラ",
+    "romaji": "ra",
+    "hangul": "라",
+    "keyword": "라디오",
+    "explanation": "두 획이 고전 라디오의 안테나와 몸통을 연상시키는 단순한 모양입니다."
+  },
+  {
+    "char": "リ",
+    "romaji": "ri",
+    "hangul": "리",
+    "keyword": "리본",
+    "explanation": "두 개의 짧은 수직선이 리본의 끝 부분이 나란히 늘어진 것처럼 보입니다."
+  },
+  {
+    "char": "ル",
+    "romaji": "ru",
+    "hangul": "루",
+    "keyword": "루돌프",
+    "explanation": "아래로 길게 꺾이는 획이 열심히 달리는 루돌프 사슴의 두 다리를 연상시킵니다."
+  },
+  {
+    "char": "レ",
+    "romaji": "re",
+    "hangul": "레",
+    "keyword": "레몬",
+    "explanation": "오른쪽 아래로 꺾이는 하나의 획이 레몬을 자른 단면처럼 보입니다."
+  },
+  {
+    "char": "ロ",
+    "romaji": "ro",
+    "hangul": "로",
+    "keyword": "로고",
+    "explanation": "네모난 형태가 단순한 로고 프레임이나 상자를 연상시킵니다."
+  },
+  {
+    "char": "ワ",
+    "romaji": "wa",
+    "hangul": "와",
+    "keyword": "와인잔",
+    "explanation": "윗부분과 아래로 꺾이는 획이 와인잔의 컵 부분을 연상시키는 모양입니다."
+  },
+  {
+    "char": "ヲ",
+    "romaji": "wo",
+    "hangul": "오/워",
+    "keyword": "오뚜기 또는 오키",
+    "explanation": "위는 넓고 아래는 좁은 구조와 가운데 교차하는 획이 오뚜기 인형 실루엣과 닮았습니다. 오(wo) 모양은 자음 ㅋ을 닯았다는 의미에서 오키로 외울 수 있습니다."
+  },
+  {
+    "char": "ン",
+    "romaji": "n",
+    "hangul": "응/ㄴ",
+    "keyword": "응원",
+    "explanation": "오른쪽 아래로 길게 뻗는 한 획이 응원할 때 사용하는 효과나 방향성을 나타내는 듯합니다."
+  }
+]
