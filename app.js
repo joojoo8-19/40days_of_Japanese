@@ -376,6 +376,12 @@
         li.textContent = `${w.korean}: ${w.japanese}(${w.pronounce_h|| ''})`;
         sHints.appendChild(li);
       });
+    
+    if(d.words.length==0){
+      const p = document.createElement('p');
+      p.textContent = `❗️ 제공할 힌트 단어가 없습니다.`
+      sHints.appendChild(p);
+    }
     }
     sHintArea.hidden = true;
     // back
