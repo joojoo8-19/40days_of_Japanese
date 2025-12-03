@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1,
+    "korean": "지금 밥을 먹고 있습니다.",
+    "english": "I am eating rice now.",
+    "japanese": "今、ご飯を 食べています。",
+    "pronounce_r": "Ima, gohan o tabeteimasu.",
+    "pronounce_h": "いま、ごはんを たべています。",
+    "words": [
+      {"korean": "지금", "japanese": "今", "pronounce_h": "いま"},
+      {"korean": "밥", "japanese": "ご飯", "pronounce_h": "ごはん"},
+      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "그녀는 무엇을 읽고 있습니까?",
+    "english": "What is she reading?",
+    "japanese": "彼女は 何を 読んでいますか。",
+    "pronounce_r": "Kanojo wa nani o yondeimasu ka.",
+    "pronounce_h": "かのじょは なにを よんでいますか。",
+    "words": [
+      {"korean": "그녀", "japanese": "彼女", "pronounce_h": "かのじょ"},
+      {"korean": "무엇", "japanese": "何", "pronounce_h": "なに"},
+      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"}
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "그는 안경을 쓰고 있습니다.",
+    "english": "He is wearing glasses.",
+    "japanese": "彼は 眼鏡を かけています。",
+    "pronounce_r": "Kare wa megane o kaketeimasu.",
+    "pronounce_h": "かれは めがねを かけています。",
+    "words": [
+      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"},
+      {"korean": "안경", "japanese": "眼鏡", "pronounce_h": "めがね"},
+      {"korean": "쓰다", "japanese": "かける", "pronounce_h": "かける"}
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "저는 그 사실을 모릅니다.",
+    "english": "I do not know that fact.",
+    "japanese": "私は その事実を 知りません。",
+    "pronounce_r": "Watashi wa sono jijitsu o shirimasen.",
+    "pronounce_h": "わたしは そのじじつを しりません。",
+    "words": [
+      {"korean": "나", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "그", "japanese": "その", "pronounce_h": "その"},
+      {"korean": "사실", "japanese": "事実", "pronounce_h": "じじつ"},
+      {"korean": "알다", "japanese": "知る", "pronounce_h": "しる"}
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "그 영화를 한번 봐 보고 싶습니다.",
+    "english": "I want to try watching that movie once.",
+    "japanese": "その映画を 一度 見てみたいです。",
+    "pronounce_r": "Sono eiga o ichido mite mitaidesu.",
+    "pronounce_h": "そのえいがを いちど みてみたいです。",
+    "words": [
+      {"korean": "그", "japanese": "その", "pronounce_h": "その"},
+      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
+      {"korean": "한번", "japanese": "一度", "pronounce_h": "いちど"},
+      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "이 커피를 마셔 볼까요?",
+    "english": "Shall we try drinking this coffee?",
+    "japanese": "このコーヒーを 飲んでみますか。",
+    "pronounce_r": "Kono kōhī o nonde mimasu ka.",
+    "pronounce_h": "このコーヒーを のんでみますか。",
+    "words": [
+      {"korean": "이", "japanese": "この", "pronounce_h": "この"},
+      {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "コーヒー"},
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "여행 때 입을 옷을 미리 사뒀습니다.",
+    "english": "I bought clothes for the trip in advance.",
+    "japanese": "旅行の服を 前もって 買っておきました。",
+    "pronounce_r": "Ryokō no fuku o maemotte katte okimashita.",
+    "pronounce_h": "りょこう の ふくを まえもって かっておきました。",
+    "words": [
+      {"korean": "여행", "japanese": "旅行", "pronounce_h": "りょこう"},
+      {"korean": "옷", "japanese": "服", "pronounce_h": "ふく"},
+      {"korean": "미리", "japanese": "前もって", "pronounce_h": "まえもって"},
+      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "저녁 식사 전에 방을 청소해 둡시다.",
+    "english": "Let's clean the room before dinner.",
+    "japanese": "晩ご飯の前に 部屋を 掃除しておきましょう。",
+    "pronounce_r": "Bangohan no mae ni heya o sōji shite okimashō.",
+    "pronounce_h": "ばんごはん の まえに へやを そうじしておきましょう。",
+    "words": [
+      {"korean": "저녁밥", "japanese": "晩ご飯", "pronounce_h": "ばんごはん"},
+      {"korean": "전", "japanese": "前", "pronounce_h": "まえ"},
+      {"korean": "방", "japanese": "部屋", "pronounce_h": "へや"},
+      {"korean": "청소하다", "japanese": "掃除する", "pronounce_h": "そうじする"}
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "저는 새로운 일을 하고 싶습니다.",
+    "english": "I want to do new work.",
+    "japanese": "私は 新しい 仕事を したいです。",
+    "pronounce_r": "Watashi wa atarashī shigoto o shitaidesu.",
+    "pronounce_h": "わたし は あたらしい しごとを したいです。",
+    "words": [
+      {"korean": "나", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "새로운", "japanese": "新しい", "pronounce_h": "あたらしい"},
+      {"korean": "일", "japanese": "仕事", "pronounce_h": "しごと"},
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "여름 방학에 바다에 가고 싶습니다.",
+    "english": "I want to go to the sea during summer vacation.",
+    "japanese": "夏休みに 海に 行きたいです。",
+    "pronounce_r": "Natsuyasumi ni umi ni ikitaidesu.",
+    "pronounce_h": "なつやすみ に うみに いきたいです。",
+    "words": [
+      {"korean": "여름 방학", "japanese": "夏休み", "pronounce_h": "なつやすみ"},
+      {"korean": "바다", "japanese": "海", "pronounce_h": "うみ"},
+      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "제가 짐을 들어 주겠습니다.",
+    "english": "I will carry the luggage for you.",
+    "japanese": "私が 荷物を 持ってあげます。",
+    "pronounce_r": "Watashi ga nimotsu o motte agemasu.",
+    "pronounce_h": "わたしが にもつを もってあげます。",
+    "words": [
+      {"korean": "나", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "짐", "japanese": "荷物", "pronounce_h": "にもつ"},
+      {"korean": "들다", "japanese": "持つ", "pronounce_h": "もつ"}
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "친구에게 요리를 만들어 주었습니다.",
+    "english": "I cooked for my friend.",
+    "japanese": "友達に 料理を 作ってあげました。",
+    "pronounce_r": "Tomodachi ni ryōri o tsukutte agemashita.",
+    "pronounce_h": "ともだちに りょうりを つくってあげました。",
+    "words": [
+      {"korean": "친구", "japanese": "友達", "pronounce_h": "ともだち"},
+      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"},
+      {"korean": "만들다", "japanese": "作る", "pronounce_h": "つくる"}
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "잠시만 여기서 기다려 주세요.",
+    "english": "Please wait here for a moment.",
+    "japanese": "少々 ここで 待ってください。",
+    "pronounce_r": "Shōshō koko de matte kudasai.",
+    "pronounce_h": "しょうしょう ここで まってください。",
+    "words": [
+      {"korean": "잠시", "japanese": "少々", "pronounce_h": "しょうしょう"},
+      {"korean": "여기서", "japanese": "ここで", "pronounce_h": "ここで"},
+      {"korean": "기다리다", "japanese": "待つ", "pronounce_h": "まつ"}
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "이 서류를 읽어 주시겠어요?",
+    "english": "Would you please read this document for me?",
+    "japanese": "この書類を 読んでいただけませんか。",
+    "pronounce_r": "Kono shorui o yonde itadakemasen ka.",
+    "pronounce_h": "このしょるいを よんでいただけませんか。",
+    "words": [
+      {"korean": "이", "japanese": "この", "pronounce_h": "この"},
+      {"korean": "서류", "japanese": "書類", "pronounce_h": "しょるい"},
+      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"}
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "숙제를 전부 다 해버렸습니다.",
+    "english": "I finished all the homework.",
+    "japanese": "宿題を 全部 してしまいました。",
+    "pronounce_r": "Shukudai o zenbu shite shimaimashita.",
+    "pronounce_h": "しゅくだいを ぜんぶ してしまいました。",
+    "words": [
+      {"korean": "숙제", "japanese": "宿題", "pronounce_h": "しゅくだい"},
+      {"korean": "전부", "japanese": "全部", "pronounce_h": "ぜんぶ"},
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "겨울이 와 버렸습니다.",
+    "english": "Winter has already come.",
+    "japanese": "冬が 来てしまいました。",
+    "pronounce_r": "Fuyu ga kite shimaimashita.",
+    "pronounce_h": "ふゆが きてしまいました。",
+    "words": [
+      {"korean": "겨울", "japanese": "冬", "pronounce_h": "ふゆ"},
+      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"}
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "저것은 내일 회의에서 사용할 자료입니다.",
+    "english": "That is the material we will use at tomorrow's meeting.",
+    "japanese": "あれは 明日の会議で 使う 資料です。",
+    "pronounce_r": "Are wa ashita no kaigi de tsukau shiryō desu.",
+    "pronounce_h": "あれは あしたの かいぎで つかう しりょうです。",
+    "words": [
+      {"korean": "저것", "japanese": "あれ", "pronounce_h": "あれ"},
+      {"korean": "내일", "japanese": "明日", "pronounce_h": "あした"},
+      {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
+      {"korean": "사용하다", "japanese": "使う", "pronounce_h": "つかう"},
+      {"korean": "자료", "japanese": "資料", "pronounce_h": "しりょう"}
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "당신이 만든 케이크가 제일 맛있습니다.",
+    "english": "The cake you made is the most delicious.",
+    "japanese": "あなたが 作った ケーキが 一番美味しいです。",
+    "pronounce_r": "Anata ga tsukutta kēki ga ichiban oishī desu.",
+    "pronounce_h": "あなたが つくった ケーキが いちばん おいしいです。",
+    "words": [
+      {"korean": "당신", "japanese": "あなた", "pronounce_h": "あなた"},
+      {"korean": "만들다", "japanese": "作る", "pronounce_h": "つくる"},
+      {"korean": "제일 맛있다", "japanese": "一番美味しい", "pronounce_h": "いちばんおいしい"}
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "여기에 앉아 있는 사람은 누구입니까?",
+    "english": "Who is the person sitting here?",
+    "japanese": "ここに 座っている 人は 誰ですか。",
+    "pronounce_r": "Koko ni suwatte iru hito wa dare desu ka.",
+    "pronounce_h": "ここに すわっている ひとは だれですか。",
+    "words": [
+      {"korean": "앉다", "japanese": "座る", "pronounce_h": "すわる"},
+      {"korean": "사람", "japanese": "人", "pronounce_h": "ひと"},
+      {"korean": "누구", "japanese": "誰", "pronounce_h": "だれ"}
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "의사가 되었습니다.",
+    "english": "I became a doctor.",
+    "japanese": "医者に なりました。",
+    "pronounce_r": "Isha ni narimashita.",
+    "pronounce_h": "いしゃに なりました。",
+    "words": [
+      {"korean": "의사", "japanese": "医者", "pronounce_h": "いしゃ"},
+      {"korean": "되다", "japanese": "なる", "pronounce_h": "なる"}
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "깨끗해졌다.",
+    "english": "It became clean.",
+    "japanese": "きれいに なった。",
+    "pronounce_r": "Kirei ni natta.",
+    "pronounce_h": "きれいに なった。",
+    "words": [
+      {"korean": "깨끗하다", "japanese": "きれい", "pronounce_h": "きれい"}
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "더워집니다.",
+    "english": "It will become hot.",
+    "japanese": "暑く なります。",
+    "pronounce_r": "Atsuku narimasu.",
+    "pronounce_h": "あつくなります。",
+    "words": [
+      {"korean": "덥다", "japanese": "暑い", "pronounce_h": "あつい"}
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "커피로 하겠습니다.",
+    "english": "I will have coffee.",
+    "japanese": "コーヒーに します。",
+    "pronounce_r": "Kōhī ni shimasu.",
+    "pronounce_h": "コーヒーに します。",
+    "words": [
+      {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "コーヒー"},
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "조용히 해.",
+    "english": "Be quiet.",
+    "japanese": "静かに して。",
+    "pronounce_r": "Shizuka ni shite.",
+    "pronounce_h": "しずかに して。",
+    "words": [
+      {"korean": "조용하다", "japanese": "静か", "pronounce_h": "しずか"}
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "소리를 작게 하다.",
+    "english": "To make the sound smaller.",
+    "japanese": "音を 小さく する。",
+    "pronounce_r": "Oto o chīsaku suru.",
+    "pronounce_h": "おとを ちいさく する。",
+    "words": [
+      {"korean": "소리", "japanese": "音", "pronounce_h": "おと"},
+      {"korean": "작다", "japanese": "小さい", "pronounce_h": "ちいさい"}
+    ]
+  },
+  {
+    "id": 26,
+    "korean": "저는 영어를 할 수 있습니다.",
+    "english": "I can speak English.",
+    "japanese": "私は 英語が できます。",
+    "pronounce_r": "Watashi wa eigo ga dekimasu.",
+    "pronounce_h": "わたしは えいご が できます。",
+    "words": [
+      {"korean": "나", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "영어", "japanese": "英語", "pronounce_h": "えいご"},
+      {"korean": "할 수 있다", "japanese": "できる", "pronounce_h": "できる"}
+    ]
+  },
+  {
+    "id": 27,
+    "korean": "그 영화의 내용은 이해가 안 됩니다.",
+    "english": "I don't understand the content of that movie.",
+    "japanese": "その映画の 内容が わかりません。",
+    "pronounce_r": "Sono eiga no naiyō ga wakarimasen.",
+    "pronounce_h": "そのえいがの ないよう が わかりません。",
+    "words": [
+      {"korean": "그", "japanese": "その", "pronounce_h": "その"},
+      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
+      {"korean": "내용", "japanese": "内容", "pronounce_h": "ないよう"},
+      {"korean": "알다", "japanese": "わかる", "pronounce_h": "わかる"}
+    ]
+  },
+  {
+    "id": 28,
+    "korean": "수영 할 수 있습니까?",
+    "english": "Can you swim?",
+    "japanese": "水泳が できますか。",
+    "pronounce_r": "Suiei ga dekimasu ka.",
+    "pronounce_h": "すいえい が できますか。",
+    "words": [
+      {"korean": "수영", "japanese": "水泳", "pronounce_h": "すいえい"}
+    ]
+  },
+  {
+    "id": 29,
+    "korean": "편지를 쓰고 있는 중입니다.",
+    "english": "I am writing a letter.",
+    "japanese": "手紙を 書いています。",
+    "pronounce_r": "Tegami o kaiteimasu.",
+    "pronounce_h": "てがみを かいています。",
+    "words": [
+      {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"},
+      {"korean": "편지", "japanese": "手紙", "pronounce_h": "てがみ"}
+    ]
+  },
+  {
+    "id": 30,
+    "korean": "저는 한국어를 할 수 있습니다.",
+    "english": "I can speak Korean.",
+    "japanese": "私は 韓国語が できます。",
+    "pronounce_r": "Watashi wa kankokugo ga dekimasu.",
+    "pronounce_h": "わたしは かんこくごが できます。",
+    "words": [
+      {"korean": "할 수 있다", "japanese": "できる", "pronounce_h": "できる"},
+      {"korean": "한국어", "japanese": "韓国語", "pronounce_h": "かんこくご"}
+    ]
+  },
+  {
+    "id": 31,
+    "korean": "그에게 책을 읽어 주었습니다.",
+    "english": "I read a book for him.",
+    "japanese": "彼に 本を 読んであげました。",
+    "pronounce_r": "Kare ni hon o yonde agemashita.",
+    "pronounce_h": "かれに ほんを よんであげました。",
+    "words": [
+      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"},
+      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"},
+      {"korean": "책", "japanese": "本", "pronounce_h": "ほん"}
+    ]
+  },
+  {
+    "id": 32,
+    "korean": "날씨가 따뜻해졌습니다.",
+    "english": "The weather became warm.",
+    "japanese": "天気が 暖かくなりました。",
+    "pronounce_r": "Tenki ga atatakaku narimashita.",
+    "pronounce_h": "てんきが あたたかく なりました。",
+    "words": [
+      {"korean": "따뜻하다", "japanese": "暖かい", "pronounce_h": "あたたかい"},
+      {"korean": "날씨", "japanese": "天気", "pronounce_h": "てんき"}
+    ]
+  },
+  {
+    "id": 33,
+    "korean": "우산을 잊어버렸습니다. (유감)",
+    "english": "I forgot my umbrella. (Regret/Completed action)",
+    "japanese": "傘を 忘れてしまいました。",
+    "pronounce_r": "Kasa o wasurete shimaimashita.",
+    "pronounce_h": "かさを わすれて しまいました。",
+    "words": [
+      {"korean": "잊다", "japanese": "忘れる", "pronounce_h": "わすれる"},
+      {"korean": "우산", "japanese": "傘", "pronounce_h": "かさ"}
+    ]
+  },
+  {
+    "id": 34,
+    "korean": "창문을 닫아 주세요.",
+    "english": "Please close the window.",
+    "japanese": "窓を 閉めてください。",
+    "pronounce_r": "Mado o shimete kudasai.",
+    "pronounce_h": "まどを しめてください。",
+    "words": [
+      {"korean": "닫다", "japanese": "閉める", "pronounce_h": "しめる"},
+      {"korean": "창문", "japanese": "窓", "pronounce_h": "まど"}
+    ]
+  },
+  {
+    "id": 35,
+    "korean": "회의 자료를 미리 준비해 두었습니다.",
+    "english": "I prepared the meeting materials in advance.",
+    "japanese": "会議の資料を 前もって 準備して おきました。",
+    "pronounce_r": "Kaigi no shiryō o maemotte junbi shite okimashita.",
+    "pronounce_h": "かいぎのしりょうを まえもって じゅんびして おきました。",
+    "words": [
+      {"korean": "준비하다", "japanese": "準備する", "pronounce_h": "じゅんびする"},
+      {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
+      {"korean": "자료", "japanese": "資料", "pronounce_h": "しりょう"},
+      {"korean": "미리", "japanese": "前もって", "pronounce_h": "まえもって"}
+    ]
+  },
+  {
+    "id": 36,
+    "korean": "저는 일본어가 이해가 안 됩니다.",
+    "english": "I don't understand Japanese.",
+    "japanese": "私は 日本語が わかりません。",
+    "pronounce_r": "Watashi wa Nihongo ga wakarimasen.",
+    "pronounce_h": "わたしは にほんごが わかりません。",
+    "words": [
+      {"korean": "알다", "japanese": "わかる", "pronounce_h": "わかる"},
+      {"korean": "일본어", "japanese": "日本語", "pronounce_h": "にほんご"}
+    ]
+  },
+  {
+    "id": 37,
+    "korean": "저 그림을 자세히 봐 봅시다.",
+    "english": "Let's try looking closely at that painting.",
+    "japanese": "あの絵を 詳しく 見てみましょう。",
+    "pronounce_r": "Ano e o kuwashiku mite mimashō.",
+    "pronounce_h": "あのえを くわしく みてみましょう。",
+    "words": [
+      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"},
+      {"korean": "자세히", "japanese": "詳しく", "pronounce_h": "くわしく"},
+      {"korean": "저 그림", "japanese": "あの絵", "pronounce_h": "あのえ"}
+    ]
+  },
+  {
+    "id": 38,
+    "korean": "그는 모자를 쓰고 있습니다. (상태 지속)",
+    "english": "He is wearing a hat.",
+    "japanese": "彼は 帽子を かぶっています。",
+    "pronounce_r": "Kare wa bōshi o kabutteimasu.",
+    "pronounce_h": "かれは ぼうしを かぶっています。",
+    "words": [
+      {"korean": "쓰다", "japanese": "かぶる", "pronounce_h": "かぶる"},
+      {"korean": "모자", "japanese": "帽子", "pronounce_h": "ぼうし"},
+      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"}
+    ]
+  },
+  {
+    "id": 39,
+    "korean": "저는 더 이상 그 사람을 모릅니다. (예외 규칙 적용)",
+    "english": "I don't know him anymore.",
+    "japanese": "私は これ以上 彼を 知りません。",
+    "pronounce_r": "Watashi wa kore ijō kare o shirimasen.",
+    "pronounce_h": "わたしは これいじょう かれを しりません。",
+    "words": [
+      {"korean": "알다", "japanese": "知る", "pronounce_h": "しる"},
+      {"korean": "더 이상", "japanese": "これ以上", "pronounce_h": "これいじょう"},
+      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"}
+    ]
+  },
+  {
+    "id": 40,
+    "korean": "빨리 숙제가 끝나면 좋겠습니다.",
+    "english": "I hope the homework finishes soon.",
+    "japanese": "早く 宿題が 終わってほしいです。",
+    "pronounce_r": "Hayaku shukudai ga owatte hoshiidesu.",
+    "pronounce_h": "はやく しゅくだいが おわってほしいです。",
+    "words": [
+      {"korean": "끝나다", "japanese": "終わる", "pronounce_h": "おわる"},
+      {"korean": "숙제", "japanese": "宿題", "pronounce_h": "しゅくだい"},
+      {"korean": "빨리", "japanese": "早く", "pronounce_h": "はやく"}
+    ]
+  },
+  {
+    "id": 41,
+    "korean": "다음 회의 시간을 10시로 정하겠습니다.",
+    "english": "I will set the time for the next meeting at 10 o'clock.",
+    "japanese": "次の会議の時間を 10時に します。",
+    "pronounce_r": "Tsugi no kaigi no jikan o jūji ni shimasu.",
+    "pronounce_h": "つぎの かいぎのじかんを じゅうじに します。",
+    "words": [
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"},
+      {"korean": "다음", "japanese": "次", "pronounce_h": "つぎ"},
+      {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
+      {"korean": "시간", "japanese": "時間", "pronounce_h": "じかん"},
+      {"korean": "10시", "japanese": "10時", "pronounce_h": "じゅうじ"}
+    ]
+  },
+  {
+    "id": 42,
+    "korean": "저는 차를 운전할 수 있습니다.",
+    "english": "I can drive a car.",
+    "japanese": "私は 車が 運転できます。",
+    "pronounce_r": "Watashi wa kuruma ga unten dekimasu.",
+    "pronounce_h": "わたしは くるま が うんてんできます。",
+    "words": [
+      {"korean": "운전하다", "japanese": "運転する", "pronounce_h": "うんてんする"},
+      {"korean": "차", "japanese": "車", "pronounce_h": "くるま"}
+    ]
+  },
+  {
+    "id": 43,
+    "korean": "소리가 너무 시끄러워서 작게 했습니다.",
+    "english": "The sound was too loud, so I made it quieter.",
+    "japanese": "音が うるさいので 小さく しました。",
+    "pronounce_r": "Oto ga urusai node chīsaku shimashita.",
+    "pronounce_h": "おとが うるさいので ちいさく しました。",
+    "words": [
+      {"korean": "시끄럽다", "japanese": "うるさい", "pronounce_h": "うるさい"},
+      {"korean": "작게", "japanese": "小さく", "pronounce_h": "ちいさく"},
+      {"korean": "소리", "japanese": "音", "pronounce_h": "おと"}
+    ]
+  },
+  {
+    "id": 44,
+    "korean": "저는 지금 너무 피곤합니다. (상태 지속)",
+    "english": "I am very tired now.",
+    "japanese": "私は 今 とても 疲れています。",
+    "pronounce_r": "Watashi wa ima totemo tsukarete imasu.",
+    "pronounce_h": "わたしは いま とても つかれています。",
+    "words": [
+      {"korean": "피곤하다", "japanese": "疲れる", "pronounce_h": "つかれる"},
+      {"korean": "지금", "japanese": "今", "pronounce_h": "いま"},
+      {"korean": "너무", "japanese": "とても", "pronounce_h": "とても"}
+    ]
+  },
+  {
+    "id": 45,
+    "korean": "(나는) 어머니에게 선물을 사드렸습니다.",
+    "english": "I bought a present for my mother.",
+    "japanese": "母に プレゼントを 買ってあげました。",
+    "pronounce_r": "Haha ni purezento o katte agemashita.",
+    "pronounce_h": "ははに プレゼントを かってあげました。",
+    "words": [
+      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"},
+      {"korean": "어머니", "japanese": "母", "pronounce_h": "はは"},
+      {"korean": "선물", "japanese": "プレゼント", "pronounce_h": "プレゼント"}
+    ]
+  },
+  {
+    "id": 46,
+    "korean": "저것은 제가 매일 마시는 커피입니다.",
+    "english": "That is the coffee I drink every day.",
+    "japanese": "あれは 私が 毎日 飲む コーヒーです。",
+    "pronounce_r": "Are wa watashi ga mainichi nomu kōhī desu.",
+    "pronounce_h": "あれは わたしが まいにち のむ コーヒーです。",
+    "words": [
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"},
+      {"korean": "매일", "japanese": "毎日", "pronounce_h": "まいにち"},
+      {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "コーヒー"},
+      {"korean": "저것", "japanese": "あれ", "pronounce_h": "あれ"}
+    ]
+  },
+  {
+    "id": 47,
+    "korean": "그는 작년에 선생님이 되었습니다.",
+    "english": "He became a teacher last year.",
+    "japanese": "彼は 去年 先生に なりました。",
+    "pronounce_r": "Kare wa kyonen sensei ni narimashita.",
+    "pronounce_h": "かれは きょねん せんせいに なりました。",
+    "words": [
+      {"korean": "되다", "japanese": "なる", "pronounce_h": "なる"},
+      {"korean": "선생님", "japanese": "先生", "pronounce_h": "せんせい"},
+      {"korean": "작년", "japanese": "去年", "pronounce_h": "きょねん"},
+      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"}
+    ]
+  },
+  {
+    "id": 48,
+    "korean": "저는 내일 쉬고 싶지 않습니다.",
+    "english": "I don't want to rest tomorrow.",
+    "japanese": "私は 明日 休みたくないです。",
+    "pronounce_r": "Watashi wa ashita yasumitakunai desu.",
+    "pronounce_h": "わたしは あした やすみたくないです。",
+    "words": [
+      {"korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ"},
+      {"korean": "내일", "japanese": "明日", "pronounce_h": "あした"}
+    ]
+  }
+]
