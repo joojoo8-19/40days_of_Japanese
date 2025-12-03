@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "korean": "회사에 가다.",
+    "korean": "회사에 갑니다.",
     "english": "Go to the company.",
     "japanese": "会社に 行きます。",
     "pronounce_r": "Kaisha ni ikimasu.",
@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "korean": "집에 돌아가다.",
+    "korean": "집에 돌아갑니다.",
     "english": "Go back home.",
     "japanese": "家に 帰ります。",
     "pronounce_r": "Ie ni kaerimasu.",
@@ -41,7 +41,7 @@
   },
   {
     "id": 3,
-    "korean": "방에 들어가다.",
+    "korean": "방에 들어갑니다.",
     "english": "Enter the room.",
     "japanese": "部屋に 入ります。",
     "pronounce_r": "Heya ni hairimasu.",
@@ -61,7 +61,7 @@
   },
   {
     "id": 4,
-    "korean": "공원에 오다.",
+    "korean": "공원에 왔습니다.",
     "english": "Came to the park.",
     "japanese": "公園に 来ました。",
     "pronounce_r": "Kōen ni kimashita.",
@@ -290,26 +290,6 @@
     ]
   },
   {
-    "id": 15,
-    "korean": "학교를 나갑니다.",
-    "english": "I leave the school.",
-    "japanese": "学校を 出ます。",
-    "pronounce_r": "Gakkō o demasu.",
-    "pronounce_h": "がっこう を でます。",
-    "words": [
-      {
-        "korean": "학교",
-        "japanese": "学校",
-        "pronounce_h": "がっこう"
-      },
-      {
-        "korean": "나가다",
-        "japanese": "出る",
-        "pronounce_h": "でる"
-      }
-    ]
-  },
-  {
     "id": 16,
     "korean": "화요일에 회의가 있습니다.",
     "english": "There is a meeting on Tuesday.",
@@ -345,7 +325,7 @@
       {
         "korean": "1시 30분",
         "japanese": "1時30分",
-        "pronounce_h": "いちじさんじゅっぷん"
+        "pronounce_h": "いちじ さんじゅっぷん"
       },
       {
         "korean": "역",
@@ -370,7 +350,7 @@
       {
         "korean": "12월 1일",
         "japanese": "12月1日",
-        "pronounce_h": "じゅうにがつついたち"
+        "pronounce_h": "じゅうにがつ ついたち"
       },
       {
         "korean": "선물",
@@ -805,12 +785,12 @@
       {
         "korean": "7월 20일",
         "japanese": "7月20日",
-        "pronounce_h": "しちがつはつか"
+        "pronounce_h": "しちがつ はつか"
       },
       {
         "korean": "8월 31일",
         "japanese": "8月31日",
-        "pronounce_h": "はちがつさんじゅういちにち"
+        "pronounce_h": "はちがつ さんじゅういちにち"
       }
     ]
   },

@@ -61,7 +61,7 @@
   },
   {
     "id": 4,
-    "korean": "밥을 먹으러 가다",
+    "korean": "밥을 먹으러 갑니다",
     "english": "Go to eat a meal.",
     "japanese": "ご飯を 食べに 行きます。",
     "pronounce_r": "Gohan o tabe ni ikimasu.",
@@ -86,7 +86,7 @@
   },
   {
     "id": 5,
-    "korean": "친구를 만나러 오다",
+    "korean": "친구를 만나러 옵니다",
     "english": "Come to meet a friend.",
     "japanese": "友達に 会いに 来ます。",
     "pronounce_r": "Tomodachi ni ai ni kimasu.",
@@ -131,7 +131,7 @@
   },
   {
     "id": 7,
-    "korean": "영화를 보러 가다",
+    "korean": "영화를 보러 갑니다.",
     "english": "Go to watch a movie.",
     "japanese": "映画を 見に 行きます。",
     "pronounce_r": "Eiga o mi ni ikimasu.",
@@ -156,7 +156,7 @@
   },
   {
     "id": 8,
-    "korean": "쇼핑하러 가다",
+    "korean": "쇼핑하러 갑니다.",
     "english": "Go for shopping.",
     "japanese": "買い物に 行きます。",
     "pronounce_r": "Kaimono ni ikimasu.",
@@ -176,7 +176,7 @@
   },
   {
     "id": 9,
-    "korean": "산책하러 오다",
+    "korean": "산책하러 왔습니다",
     "english": "Come for a walk.",
     "japanese": "散歩に 来ました。",
     "pronounce_r": "Sanpo ni kimashita.",
@@ -271,7 +271,7 @@
   },
   {
     "id": 13,
-    "korean": "영화의 공부를 하러 가다",
+    "korean": "영화 공부를 하러 가다",
     "english": "Go for movie study (informal).",
     "japanese": "映画の 勉強に 行く",
     "pronounce_r": "Eiga no benkyō ni iku.",

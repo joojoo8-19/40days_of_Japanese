@@ -31,7 +31,7 @@
   },
   {
     "id": 66,
-    "korean": "문이 닫힙니다.",
+    "korean": "문이 닫힌다.",
     "english": "The door closes (by itself).",
     "japanese": "ドアが 閉まる。",
     "pronounce_r": "Doa ga shimaru.",
@@ -51,7 +51,7 @@
   },
   {
     "id": 67,
-    "korean": "문을 닫습니다.",
+    "korean": "문을 닫는다.",
     "english": "I close the door.",
     "japanese": "ドアを 閉める。",
     "pronounce_r": "Doa o shimeru.",

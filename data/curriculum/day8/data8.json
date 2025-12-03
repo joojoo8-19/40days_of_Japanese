@@ -9,7 +9,7 @@
     "words": [
       {"korean": "역", "japanese": "駅", "pronounce_h": "えき"},
       {"korean": "친구", "japanese": "友達", "pronounce_h": "ともだち"},
-      {"korean": "기다리다", "japanese": "待つ (待って)", "pronounce_h": "まつ (まって)"},
+      {"korean": "기다리다", "japanese": "待つ", "pronounce_h": "まつ"},
       {"korean": "함께", "japanese": "一緒に", "pronounce_h": "いっしょに"},
       {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"}
     ]
@@ -23,9 +23,9 @@
     "pronounce_h": "この ほんを よんで、とても かんどうしました。",
     "words": [
       {"korean": "책", "japanese": "本", "pronounce_h": "ほん"},
-      {"korean": "읽다", "japanese": "読む (読んで)", "pronounce_h": "よむ (よんで)"},
+      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"},
       {"korean": "매우", "japanese": "とても", "pronounce_h": "とても"},
-      {"korean": "감동하다", "japanese": "感動する (感動しました)", "pronounce_h": "かんどうする (かんどうしました)"}
+      {"korean": "감동하다", "japanese": "感動する", "pronounce_h": "かんどうする"}
     ]
   },
   {
@@ -37,7 +37,7 @@
     "pronounce_h": "あめが ふって、そとに いきません。",
     "words": [
       {"korean": "비", "japanese": "雨", "pronounce_h": "あめ"},
-      {"korean": "내리다/오다", "japanese": "降る (降って)", "pronounce_h": "ふる (ふって)"},
+      {"korean": "내리다/오다", "japanese": "降る", "pronounce_h": "ふる"},
       {"korean": "밖", "japanese": "外", "pronounce_h": "そと"},
       {"korean": "가지 않는다", "japanese": "行きません", "pronounce_h": "いきません"}
     ]
@@ -51,9 +51,9 @@
     "pronounce_h": "パソコンを かって、すぐ つかいはじめました。",
     "words": [
       {"korean": "컴퓨터", "japanese": "パソコン", "pronounce_h": "パソコン"},
-      {"korean": "사다", "japanese": "買う (買って)", "pronounce_h": "かう (かって)"},
+      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"},
       {"korean": "바로", "japanese": "すぐ", "pronounce_h": "すぐ"},
-      {"korean": "사용하기 시작하다", "japanese": "使い始めました", "pronounce_h": "つかいはじめました"}
+      {"korean": "사용하기 시작했습니다", "japanese": "使い始めました", "pronounce_h": "つかいはじめました"}
     ]
   },
   {
@@ -65,10 +65,10 @@
     "pronounce_h": "まどを あけて、あたらしい くうきを いれました。",
     "words": [
       {"korean": "창문", "japanese": "窓", "pronounce_h": "まど"},
-      {"korean": "열다", "japanese": "開ける (開けて)", "pronounce_h": "あける (あけて)"},
+      {"korean": "열다", "japanese": "開ける", "pronounce_h": "あける"},
       {"korean": "새로운", "japanese": "新しい", "pronounce_h": "あたらしい"},
       {"korean": "공기", "japanese": "空気", "pronounce_h": "くうき"},
-      {"korean": "넣다", "japanese": "入れました", "pronounce_h": "いれました"}
+      {"korean": "넣다", "japanese": "入れる", "pronounce_h": "いれる"}
     ]
   },
   {
@@ -80,9 +80,9 @@
     "pronounce_h": "ごはんを たべて、すぐに ねました。",
     "words": [
       {"korean": "밥/식사", "japanese": "ご飯", "pronounce_h": "ごはん"},
-      {"korean": "먹다", "japanese": "食べる (食べて)", "pronounce_h": "たべる (たべて)"},
+      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"},
       {"korean": "바로", "japanese": "すぐに", "pronounce_h": "すぐに"},
-      {"korean": "자다", "japanese": "寝る (寝ました)", "pronounce_h": "ねる (ねました)"}
+      {"korean": "자다", "japanese": "寝る", "pronounce_h": "ねる"}
     ]
   },
   {
@@ -94,8 +94,8 @@
     "pronounce_h": "そうじを して、やすみます。",
     "words": [
       {"korean": "청소", "japanese": "掃除", "pronounce_h": "そうじ"},
-      {"korean": "하다", "japanese": "する (して)", "pronounce_h": "する (して)"},
-      {"korean": "쉬다", "japanese": "休みます", "pronounce_h": "やすみます"}
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"},
+      {"korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ"}
     ]
   },
   {
@@ -107,7 +107,7 @@
     "pronounce_h": "ここに きて、まっています。",
     "words": [
       {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
-      {"korean": "오다", "japanese": "来る (来て)", "pronounce_h": "くる (きて)"},
+      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"},
       {"korean": "기다리고 있다", "japanese": "待っています", "pronounce_h": "まっています"}
     ]
   },
@@ -121,7 +121,7 @@
     "words": [
       {"korean": "벌써", "japanese": "もう", "pronounce_h": "もう"},
       {"korean": "식사", "japanese": "ご飯", "pronounce_h": "ごはん"},
-      {"korean": "끝나다", "japanese": "終わった", "pronounce_h": "おわった"}
+      {"korean": "끝나다", "japanese": "終わる", "pronounce_h": "おわる"}
     ]
   },
   {
@@ -134,7 +134,7 @@
     "words": [
       {"korean": "기차/전철", "japanese": "電車", "pronounce_h": "でんしゃ"},
       {"korean": "벌써", "japanese": "もう", "pronounce_h": "もう"},
-      {"korean": "출발하다", "japanese": "出発しました", "pronounce_h": "しゅっぱつしました"}
+      {"korean": "출발하다", "japanese": "出発する", "pronounce_h": "しゅっぱつする"}
     ]
   },
   {
@@ -148,7 +148,7 @@
       {"korean": "그", "japanese": "その", "pronounce_h": "その"},
       {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
       {"korean": "이미", "japanese": "もう", "pronounce_h": "もう"},
-      {"korean": "보다", "japanese": "見ました", "pronounce_h": "みました"}
+      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
     ]
   },
   {
@@ -176,7 +176,7 @@
       {"korean": "책", "japanese": "本", "pronounce_h": "ほん"},
       {"korean": "더", "japanese": "もう", "pronounce_h": "もう"},
       {"korean": "한 권", "japanese": "一冊", "pronounce_h": "いっさつ"},
-      {"korean": "사다", "japanese": "買いました", "pronounce_h": "かいました"}
+      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
     ]
   },
   {
@@ -189,7 +189,7 @@
     "words": [
       {"korean": "더", "japanese": "もう", "pronounce_h": "もう"},
       {"korean": "하나", "japanese": "一つ", "pronounce_h": "ひとつ"},
-      {"korean": "질문하다", "japanese": "質問する (質問しても)", "pronounce_h": "しつもんする (しつもんしても)"},
+      {"korean": "질문하다", "japanese": "質問する", "pronounce_h": "しつもんする"},
       {"korean": "해도 될까요", "japanese": "いいですか", "pronounce_h": "いいですか"}
     ]
   },
@@ -203,7 +203,7 @@
     "words": [
       {"korean": "이제", "japanese": "もう", "pronounce_h": "もう"},
       {"korean": "싸움", "japanese": "喧嘩", "pronounce_h": "けんか"},
-      {"korean": "그만둡시다", "japanese": "やめましょう", "pronounce_h": "やめましょう"}
+      {"korean": "그만둡시다", "japanese": "やめる", "pronounce_h": "やめる"}
     ]
   },
   {
@@ -216,7 +216,7 @@
     "words": [
       {"korean": "더 이상", "japanese": "もう", "pronounce_h": "もう"},
       {"korean": "단 것", "japanese": "甘いもの", "pronounce_h": "あまいもの"},
-      {"korean": "먹지 않다", "japanese": "食べません", "pronounce_h": "たべません"}
+      {"korean": "먹지 않다", "japanese": "食べる", "pronounce_h": "たべる"}
     ]
   },
   {
@@ -229,7 +229,7 @@
     "words": [
       {"korean": "이제", "japanese": "もう", "pronounce_h": "もう"},
       {"korean": "늦다", "japanese": "遅い", "pronounce_h": "おそい"},
-      {"korean": "돌아가자", "japanese": "帰ろう", "pronounce_h": "かえろう"}
+      {"korean": "돌아가자", "japanese": "帰る", "pronounce_h": "かえる"}
     ]
   },
   {
@@ -243,7 +243,7 @@
       {"korean": "자동차", "japanese": "車", "pronounce_h": "くるま"},
       {"korean": "전차", "japanese": "電車", "pronounce_h": "でんしゃ"},
       {"korean": "~나", "japanese": "か", "pronounce_h": "か"},
-      {"korean": "갑시다", "japanese": "行きましょう", "pronounce_h": "いきましょう"}
+      {"korean": "갑시다", "japanese": "行く", "pronounce_h": "いく"}
     ]
   },
   {
@@ -271,7 +271,7 @@
       {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "コーヒー"},
       {"korean": "차", "japanese": "お茶", "pronounce_h": "おちゃ"},
       {"korean": "~나", "japanese": "か", "pronounce_h": "か"},
-      {"korean": "마시다", "japanese": "飲みますか", "pronounce_h": "のみますか"}
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
     ]
   },
   {
@@ -286,7 +286,7 @@
       {"korean": "단어", "japanese": "単語", "pronounce_h": "たんご"},
       {"korean": "10개", "japanese": "10個", "pronounce_h": "じゅっこ"},
       {"korean": "~밖에", "japanese": "しか", "pronounce_h": "しか"},
-      {"korean": "모릅니다", "japanese": "知りません", "pronounce_h": "しりません"}
+      {"korean": "모릅니다", "japanese": "知る", "pronounce_h": "しる"}
     ]
   },
   {
@@ -300,7 +300,7 @@
       {"korean": "지갑", "japanese": "財布", "pronounce_h": "さいふ"},
       {"korean": "500엔", "japanese": "500円", "pronounce_h": "ごひゃくえん"},
       {"korean": "~밖에", "japanese": "しか", "pronounce_h": "しか"},
-      {"korean": "없다", "japanese": "ありません", "pronounce_h": "ありません"}
+      {"korean": "없다", "japanese": "ない", "pronounce_h": "ない"}
     ]
   },
   {
@@ -314,7 +314,7 @@
       {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
       {"korean": "일", "japanese": "仕事", "pronounce_h": "しごと"},
       {"korean": "~밖에", "japanese": "しか", "pronounce_h": "しか"},
-      {"korean": "할 수 없다", "japanese": "できません", "pronounce_h": "できません"}
+      {"korean": "할 수 없다", "japanese": "できる", "pronounce_h": "できる"}
     ]
   },
   {
@@ -329,7 +329,7 @@
       {"korean": "단어", "japanese": "単語", "pronounce_h": "たんご"},
       {"korean": "10개", "japanese": "10個", "pronounce_h": "じゅっこ"},
       {"korean": "~만", "japanese": "だけ", "pronounce_h": "だけ"},
-      {"korean": "알고 있다", "japanese": "知っています", "pronounce_h": "しっています"}
+      {"korean": "알고 있다", "japanese": "知る", "pronounce_h": "しる"}
     ]
   },
   {
@@ -343,7 +343,7 @@
       {"korean": "지갑", "japanese": "財布", "pronounce_h": "さいふ"},
       {"korean": "500엔", "japanese": "500円", "pronounce_h": "ごひゃくえん"},
       {"korean": "~만", "japanese": "だけ", "pronounce_h": "だけ"},
-      {"korean": "있다", "japanese": "あります", "pronounce_h": "あります"}
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
     ]
   },
   {
@@ -357,7 +357,7 @@
       {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
       {"korean": "일", "japanese": "仕事", "pronounce_h": "しごと"},
       {"korean": "~만", "japanese": "だけ", "pronounce_h": "だけ"},
-      {"korean": "할 수 있다", "japanese": "できます", "pronounce_h": "できます"}
+      {"korean": "할 수 있다", "japanese": "できる", "pronounce_h": "できる"}
     ]
   },
   {
@@ -370,7 +370,7 @@
     "words": [
       {"korean": "친구", "japanese": "友達", "pronounce_h": "ともだち"},
       {"korean": "만나러", "japanese": "会いに", "pronounce_h": "あいに"},
-      {"korean": "갑니다", "japanese": "行きます", "pronounce_h": "いきます"}
+      {"korean": "갑니다", "japanese": "行く", "pronounce_h": "いく"}
     ]
   },
   {
@@ -383,7 +383,7 @@
     "words": [
       {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
       {"korean": "선생님", "japanese": "先生", "pronounce_h": "せんせい"},
-      {"korean": "만나다", "japanese": "会いました", "pronounce_h": "あいました"}
+      {"korean": "만나다", "japanese": "会う", "pronounce_h": "あう"}
     ]
   },
   {
@@ -395,7 +395,7 @@
     "pronounce_h": "バス に のりましょう。",
     "words": [
       {"korean": "버스", "japanese": "バス", "pronounce_h": "バス"},
-      {"korean": "타다", "japanese": "乗りましょう", "pronounce_h": "のりましょう"}
+      {"korean": "타다", "japanese": "乗る", "pronounce_h": "のる"}
     ]
   },
   {
@@ -408,8 +408,8 @@
     "words": [
       {"korean": "매일", "japanese": "毎日", "pronounce_h": "まいにち"},
       {"korean": "지하철", "japanese": "地下鉄", "pronounce_h": "ちかてつ"},
-      {"korean": "타다", "japanese": "乗って", "pronounce_h": "のって"},
-      {"korean": "출근하다", "japanese": "出勤します", "pronounce_h": "しゅっきんします"}
+      {"korean": "타다", "japanese": "乗る", "pronounce_h": "のる"},
+      {"korean": "출근하다", "japanese": "出勤する", "pronounce_h": "しゅっきんする"}
     ]
   },
   {
@@ -421,7 +421,7 @@
     "pronounce_h": "てがみを かいて、すぐ ゆうびんきょくに いきました。",
     "words": [
       {"korean": "편지", "japanese": "手紙", "pronounce_h": "てがみ"},
-      {"korean": "쓰다", "japanese": "書く (書いて)", "pronounce_h": "かく (かいて)"},
+      {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"},
       {"korean": "바로", "japanese": "すぐ", "pronounce_h": "すぐ"},
       {"korean": "우체국", "japanese": "郵便局", "pronounce_h": "ゆうびんきょく"}
     ]
@@ -436,7 +436,7 @@
     "words": [
       {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
       {"korean": "벌써", "japanese": "もう", "pronounce_h": "もう"},
-      {"korean": "끝나다", "japanese": "終わりましたか", "pronounce_h": "おわりましたか"}
+      {"korean": "끝나다", "japanese": "終わる", "pronounce_h": "おわる"}
     ]
   },
   {
@@ -450,7 +450,7 @@
       {"korean": "돈", "japanese": "お金", "pronounce_h": "おかね"},
       {"korean": "300엔", "japanese": "300円", "pronounce_h": "さんびゃくえん"},
       {"korean": "~밖에", "japanese": "しか", "pronounce_h": "しか"},
-      {"korean": "없습니다", "japanese": "ありません", "pronounce_h": "ありません"}
+      {"korean": "없습니다", "japanese": "ない", "pronounce_h": "ない"}
     ]
   },
   {
@@ -462,9 +462,9 @@
     "pronounce_h": "てんきが よくて、こうえんで あそびました。",
     "words": [
       {"korean": "날씨", "japanese": "天気", "pronounce_h": "てんき"},
-      {"korean": "좋다", "japanese": "いい (よくて)", "pronounce_h": "いい (よくて)"},
+      {"korean": "좋다", "japanese": "いい", "pronounce_h": "いい"},
       {"korean": "공원", "japanese": "公園", "pronounce_h": "こうえん"},
-      {"korean": "놀다", "japanese": "遊びました", "pronounce_h": "あそびました"}
+      {"korean": "놀다", "japanese": "遊ぶ", "pronounce_h": "あそぶ"}
     ]
   },
   {
@@ -489,7 +489,7 @@
     "pronounce_h": "しょうしょう まって ください。",
     "words": [
       {"korean": "잠시", "japanese": "少々", "pronounce_h": "しょうしょう"},
-      {"korean": "기다리다", "japanese": "待つ (待って)", "pronounce_h": "まつ (まって)"},
+      {"korean": "기다리다", "japanese": "待つ", "pronounce_h": "まつ"},
       {"korean": "주십시오", "japanese": "ください", "pronounce_h": "ください"}
     ]
   },
@@ -502,7 +502,7 @@
     "pronounce_h": "もし おくれたら、でんわを して ください。",
     "words": [
       {"korean": "만약", "japanese": "もし", "pronounce_h": "もし"},
-      {"korean": "늦다", "japanese": "遅れる (遅れたら)", "pronounce_h": "おくれる (おくれたら)"},
+      {"korean": "늦다", "japanese": "遅れる", "pronounce_h": "おくれる"},
       {"korean": "전화하다", "japanese": "電話を してください", "pronounce_h": "でんわを して ください"}
     ]
   },
@@ -529,7 +529,7 @@
     "pronounce_h": "わたしは ともだち に あいたいです。",
     "words": [
       {"korean": "친구", "japanese": "友達", "pronounce_h": "ともだち"},
-      {"korean": "만나고 싶다", "japanese": "会いたいです", "pronounce_h": "あいたいです"}
+      {"korean": "만나고 싶다", "japanese": "会う", "pronounce_h": "あう"}
     ]
   },
   {
@@ -541,9 +541,9 @@
     "pronounce_h": "あさ おきて、コーヒーを のみました。",
     "words": [
       {"korean": "아침", "japanese": "朝", "pronounce_h": "あさ"},
-      {"korean": "일어나다", "japanese": "起きる (起きて)", "pronounce_h": "おきる (おきて)"},
+      {"korean": "일어나다", "japanese": "起きる", "pronounce_h": "おきる"},
       {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "コーヒー"},
-      {"korean": "마시다", "japanese": "飲みました", "pronounce_h": "のみました"}
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
     ]
   },
   {
@@ -555,7 +555,7 @@
     "pronounce_h": "あめが **やんだら**、さんぽに いきませんか。",
     "words": [
       {"korean": "비", "japanese": "雨", "pronounce_h": "あめ"},
-      {"korean": "그치다", "japanese": "止む (やんだら)", "pronounce_h": "やむ (やんだら)"},
+      {"korean": "그치다", "japanese": "止む", "pronounce_h": "やむ"},
       {"korean": "산책", "japanese": "散歩", "pronounce_h": "さんぽ"}
     ]
   },
@@ -568,7 +568,7 @@
     "pronounce_h": "じかんが **あったら**、いっしょに かいもの しませんか。",
     "words": [
       {"korean": "시간", "japanese": "時間", "pronounce_h": "じかん"},
-      {"korean": "있다", "japanese": "ある (あったら)", "pronounce_h": "ある (あったら)"},
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"},
       {"korean": "함께", "japanese": "一緒に", "pronounce_h": "いっしょに"},
       {"korean": "쇼핑", "japanese": "買い物", "pronounce_h": "かいもの"}
     ]
@@ -583,9 +583,9 @@
     "words": [
       {"korean": "주말", "japanese": "週末", "pronounce_h": "しゅうまつ"},
       {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
-      {"korean": "보다", "japanese": "見る (見たり)", "pronounce_h": "みる (みたり)"},
+      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"},
       {"korean": "음악", "japanese": "音楽", "pronounce_h": "おんがく"},
-      {"korean": "듣다", "japanese": "聞く (聞いたり)", "pronounce_h": "きく (きいたり)"}
+      {"korean": "듣다", "japanese": "聞く", "pronounce_h": "きく"}
     ]
   },
   {
@@ -596,10 +596,10 @@
     "pronounce_r": "Tsukaretara, ocha o nondari, netari shimasu.",
     "pronounce_h": "つかれたら、おちゃを **のんだり**、**ねたり** します。",
     "words": [
-      {"korean": "피곤하다", "japanese": "疲れる (疲れたら)", "pronounce_h": "つかれる (つかれたら)"},
+      {"korean": "피곤하다", "japanese": "疲れる", "pronounce_h": "つかれる"},
       {"korean": "차", "japanese": "お茶", "pronounce_h": "おちゃ"},
-      {"korean": "마시다", "japanese": "飲む (飲んだり)", "pronounce_h": "のむ (のんだり)"},
-      {"korean": "자다", "japanese": "寝る (寝たり)", "pronounce_h": "ねる (ねたり)"}
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"},
+      {"korean": "자다", "japanese": "寝る", "pronounce_h": "ねる"}
     ]
   },
   {
@@ -611,7 +611,7 @@
     "pronounce_h": "ここに **きたら**、わたしに でんわを して ください。",
     "words": [
       {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
-      {"korean": "오다", "japanese": "来る (来たら)", "pronounce_h": "くる (きたら)"},
+      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"},
       {"korean": "전화하다", "japanese": "電話を して ください", "pronounce_h": "でんわを して ください"}
     ]
   }
