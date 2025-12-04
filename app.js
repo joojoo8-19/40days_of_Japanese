@@ -251,7 +251,7 @@
     if(!arr || arr.length===0) return null;
     if(state.currentIndexInBox >= arr.length) state.currentIndexInBox = 0;
     const idx = arr[state.currentIndexInBox];
-    return { itemIdx: idx, data: currentKanaArray()[idx] };
+    return { boxLength: arr.length, itemIdx: idx, data: currentKanaArray()[idx] };
   }
 
   function renderCard(){
@@ -277,8 +277,27 @@
     if(state.currentIndexInBox >= arrFrom.length) state.currentIndexInBox = 0;
     renderCounts();
   }
-  function handleCorrect(){ const card = getCurrentCard(); if(!card) return; const curr = state.progress.selectedBox; const next = Math.min(5, curr+1); moveCard(card.itemIdx, curr, next); renderCard(); }
-  function handleWrong(){ const card = getCurrentCard(); if(!card) return; moveCard(card.itemIdx, state.progress.selectedBox, 1); renderCard(); }
+  function handleCorrect(){ 
+    const card = getCurrentCard(); 
+    if(!card) return; 
+    const curr = state.progress.selectedBox; 
+    const next = Math.min(5, curr+1); 
+    moveCard(card.itemIdx, curr, next); 
+    renderCard(); 
+
+    const isLastCard = card.boxLength == state.currentIndexInBox+1
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
+  
+  }
+  function handleWrong(){ 
+    const card = getCurrentCard(); 
+    if(!card) return; 
+    moveCard(card.itemIdx, state.progress.selectedBox, 1); 
+    renderCard(); 
+
+    const isLastCard = card.boxLength == state.currentIndexInBox+1
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
+  }
 
   /*********************************************************
    * 5. Sentence data loader & progress (per day)
@@ -351,7 +370,7 @@
     if(!arr || arr.length===0) return null;
     if(state.sentenceIndexInBox >= arr.length) state.sentenceIndexInBox = 0;
     const itemIdx = arr[state.sentenceIndexInBox];
-    return { itemIdx, data: state.sentences[itemIdx] };
+    return { boxLength: arr.length, itemIdx, data: state.sentences[itemIdx] };
   }
 
   function renderSentenceCard(){
@@ -361,6 +380,7 @@
       sEmpty.hidden = false;
       return;
     }
+
     sentenceCard.hidden = false;
     sEmpty.hidden = true;
     // show front
@@ -368,6 +388,7 @@
     sBackEl.hidden = true;
     const d = cur.data;
     sFrontKr.textContent = d.korean;
+
     // populate hints list: words
     sHints.innerHTML = '';
     if(Array.isArray(d.words)){
@@ -376,7 +397,7 @@
         li.textContent = `${w.korean}: ${w.japanese}(${w.pronounce_h|| ''})`;
         sHints.appendChild(li);
       });
-    
+
     if(d.words.length==0){
       const p = document.createElement('p');
       p.textContent = `❗️ 제공할 힌트 단어가 없습니다.`
@@ -408,6 +429,9 @@
     const next = Math.min(5, curr+1);
     moveSentence(cur.itemIdx, curr, next);
     renderSentenceCard();
+    
+    const isLastCard = cur.boxLength == state.sentenceIndexInBox+1
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
   }
 
   function handleSentenceWrong(){
@@ -415,6 +439,9 @@
     if(!cur) return;
     moveSentence(cur.itemIdx, state.sentenceProgress.selectedBox, 1);
     renderSentenceCard();
+
+    const isLastCard = cur.boxLength == state.sentenceIndexInBox+1
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
   }
 
   /*********************************************************
@@ -461,7 +488,7 @@
   correctBtn.addEventListener('click', handleCorrect);
   wrongBtn.addEventListener('click', handleWrong);
   resetBtn.addEventListener('click', ()=>{
-    if(!confirm('학습 진행을 초기화하시겠습니까? (모든 카드가 Box1으로 이동)')) return;
+    if(!confirm(`❗️ 글자 학습 진행을 초기화하시겠습니까? \n (모든 카드가 box1으로 이동)`)) return;
     state.progress = defaultProgress();
     saveProgress(state.progress);
     state.currentIndexInBox = 0;
@@ -513,7 +540,7 @@
   sWrongBtn.addEventListener('click', handleSentenceWrong);
 
   resetSentencesBtn.addEventListener('click', ()=>{
-    if(!confirm('이 Day의 문장 학습 진행을 초기화하시겠습니까?')) return;
+    if(!confirm(`❗️ 이 Day의 문장 학습 진행을 초기화하시겠습니까? \n (모든 카드가 box1으로 이동)`)) return;
     state.sentenceProgress = defaultSentenceProgressFor(state.sentences.length);
     saveSentenceProgress();
     state.sentenceIndexInBox = 0;

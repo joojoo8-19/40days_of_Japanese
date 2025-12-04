@@ -32,7 +32,7 @@
   }
 
   .sidebar {
-    width: 100%;
+    min-width: 100%;
     order: 1;
   }
 
@@ -41,7 +41,7 @@
   }
 
   .card {
-    width: 100%;
+    min-width: 100%;
     min-height: 260px;
     padding: 20px;
   }
