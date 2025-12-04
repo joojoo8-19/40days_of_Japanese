@@ -386,9 +386,7 @@
       sEmpty.hidden = false;
       return;
     }
-
-    console.log(state)
-    
+        
     sentenceCard.hidden = false;
     sEmpty.hidden = true;
     // show front
@@ -527,7 +525,6 @@
     }
   }
   daySelect.addEventListener('change', (e)=>{
-    console.log("clicked change day")
     const d = Number(e.target.value);
     setActiveSentenceBoxBtn(1);
     state.sentenceProgress.selectedBox=1;
