@@ -164,7 +164,10 @@
     try{
       const raw = localStorage.getItem(STORAGE_KEY);
       if(!raw) return defaultProgress();
-      return JSON.parse(raw);
+      progress = JSON.parse(raw)
+      // fix selected box value to 1, always 
+      progress.selectedBox = 1
+      return progress
     }catch(e){
       console.warn('progress load fail', e);
       return defaultProgress();
@@ -326,6 +329,9 @@
     } else {
       try {
         const parsed = JSON.parse(raw);
+        // to set selected box to 1 always
+        parsed.selectedBox = 1;
+
         // if mismatch in total count, reset to default
         const totalCount = (parsed.boxes || []).reduce((a,b)=>a+(b?.length||0),0);
         if(totalCount !== state.sentences.length){
@@ -381,6 +387,8 @@
       return;
     }
 
+    console.log(state)
+    
     sentenceCard.hidden = false;
     sEmpty.hidden = true;
     // show front
@@ -519,7 +527,10 @@
     }
   }
   daySelect.addEventListener('change', (e)=>{
+    console.log("clicked change day")
     const d = Number(e.target.value);
+    setActiveSentenceBoxBtn(1);
+    state.sentenceProgress.selectedBox=1;
     state.sentenceDay = d;
     loadSentencesForDay(d);
   });
@@ -586,10 +597,5 @@
 
   normalizeProgress();
   initUI();
-  fetch("data/curriculum/day1/data1.json")
-  .then(r => r.text())
-  .then(t => console.log(t))
-  .catch(e => console.error(e));
-
 
 })();
