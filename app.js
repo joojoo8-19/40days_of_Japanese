@@ -259,8 +259,14 @@
   ; }
 
   function getCurrentCard(){
+    console.log(`get current card state:`)
+    console.log(state.progress.selectedBox)
+
     const arr = getBoxArray(state.progress.selectedBox);
     if(!arr || arr.length===0) return null;
+
+    console.log(arr)
+
     if(state.currentIndexInBox >= arr.length) state.currentIndexInBox = 0;
     const idx = arr[state.currentIndexInBox];
     return { boxLength: arr.length, itemIdx: idx, data: currentKanaArray()[idx] };
@@ -269,6 +275,11 @@
   function renderCard(){
     const card = getCurrentCard();
     if(!card){ flashcard.hidden = true; emptyState.hidden = false; return; }
+
+    console.log(`render card state:`)
+    console.log(state.progress.selectedBox)
+
+  
     flashcard.hidden = false; emptyState.hidden = true;
     frontEl.hidden = false; backEl.hidden = true;
     frontHangul.textContent = card.data.hangul || card.data.romaji;
@@ -395,6 +406,8 @@
       sEmpty.hidden = false;
       return;
     }
+
+    console.log(state)
         
     sentenceCard.hidden = false;
     sEmpty.hidden = true;
@@ -465,6 +478,15 @@
   // top menu
   menuBtns.forEach(btn => {
     btn.addEventListener('click', () => {
+      // first:  set selected box to 1 when navigate menus
+      setActiveBoxBtn(1)
+      state.progress.selectedBox = 1
+      if(state.sentenceProgress) {
+      state.sentenceProgress.selectedBox = 1
+      }
+      saveProgress(state)
+
+      // and then: render cards
       const panel = btn.dataset.menu;
       if(initialStateEl) initialStateEl.classList.add('hidden');
       Object.keys(panels).forEach(key => {
@@ -480,12 +502,6 @@
         populateDaySelect();
         loadSentencesForDay(state.sentenceDay);
       }
-
-      // set selected box to 1 when navigate menus
-      setActiveBoxBtn(1)
-      state.progress.selectedBox = 1
-      if(!state.sentenceProgress) return;
-      state.sentenceProgress.selectedBox = 1
     });
   });
 
