@@ -246,8 +246,17 @@
   function currentKanaArray(){ return state.progress.kanaType === 'hiragana' ? HIRAGANA : KATAKANA; }
   function getBoxArray(n){ return state.progress.boxes[state.progress.kanaType][n-1]; }
   function setBoxArray(n,arr){ state.progress.boxes[state.progress.kanaType][n-1]=arr; saveProgress(state.progress); renderCounts(); }
-  function renderCounts(){ const type = state.progress.kanaType; for(let i=1;i<=5;i++){ const cnt = state.progress.boxes[type][i-1].length; const el = document.querySelector(`[data-count="${i}"]`); if(el) el.textContent = cnt; } }
-  function setActiveBoxBtn(n){ boxBtns.forEach(b => b.classList.toggle('active', Number(b.dataset.box) === n)); }
+  function renderCounts(){ 
+    const type = state.progress.kanaType; 
+    for(let i=1;i<=5;i++){ 
+      const cnt = state.progress.boxes[type][i-1].length; 
+      const el = document.querySelector(`[data-count="${i}"]`); 
+      if(el) el.textContent = cnt; 
+    } 
+  }
+  function setActiveBoxBtn(n){ 
+    boxBtns.forEach(b => b.classList.toggle('active', Number(b.dataset.box) === n));
+  ; }
 
   function getCurrentCard(){
     const arr = getBoxArray(state.progress.selectedBox);
@@ -463,13 +472,20 @@
       });
       menuBtns.forEach(b => b.classList.toggle('active', b === btn));
       if(panel === 'letters'){
-        renderCounts(); renderCard();
+        renderCounts(); 
+        renderCard();
       }
       if(panel === 'sentences'){
         // ensure day select populated then load current day
         populateDaySelect();
         loadSentencesForDay(state.sentenceDay);
       }
+
+      // set selected box to 1 when navigate menus
+      setActiveBoxBtn(1)
+      state.progress.selectedBox = 1
+      if(!state.sentenceProgress) return;
+      state.sentenceProgress.selectedBox = 1
     });
   });
 
