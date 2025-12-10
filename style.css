@@ -112,6 +112,21 @@ body {
   justify-content: center;
 }
 
+a {
+  text-decoration: none;
+  color: var(--text-main);
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--heart);
+}
+
+video {
+    width: 70%;
+    height: auto   !important;
+}
+
 .app-container {
   max-width: 1000px; /* 넓게 조정하여 wide 카드가 잘 보이게 */
   width: 94%;
@@ -148,7 +163,7 @@ body {
   color: var(--menu-color);
 }
 
-.heart-icon {
+.menu-icon {
   font-size: 24px;
   color: var(--heart);
   line-height: 1;

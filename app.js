@@ -4,6 +4,9 @@
    * 0. 설정
    *********************************************************/
   const SENTENCE_JSON_PATH_TEMPLATE = 'data/curriculum/day{N}/data{N}.json'; 
+  const LECTURE_VIDEO_PATH_TEMPLATE = 'data/curriculum/day{N}/day{N}.mp4'; 
+  const LECTURE_PDF_PATH_TEMPLATE = 'data/curriculum/day{N}/study{N}.pdf'; 
+
   // fallback sample sentences (used if fetch fails)
   const SAMPLE_SENTENCES = [
     {
@@ -218,8 +221,14 @@
   const wrongBtn = document.getElementById('wrong-btn');
   const emptyState = document.getElementById('empty-state');
 
+  // lectures UI
+  const lectureVideo = document.getElementById('lecture-video')
+  const lecturePdf = document.getElementById('lecture-pdf')
+  const lectureSource = document.getElementById('lecture-source')
+
   // sentences UI
-  const daySelect = document.getElementById('day-select');
+  const daySelect = document.getElementById('day-select-s');
+  const daySelectG = document.getElementById('day-select-g');
   const sentenceBoxBtns = document.querySelectorAll('.sentence-box-btn');
   const sCountEls = document.querySelectorAll('[data-scount]');
   const resetSentencesBtn = document.getElementById('reset-sentences');
@@ -472,6 +481,31 @@
     if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
   }
 
+    async function loadLectureForDay(day){
+      const pdfPath = LECTURE_PDF_PATH_TEMPLATE.replace(/{N}/g, String(day));
+      const videoPath = LECTURE_VIDEO_PATH_TEMPLATE.replace(/{N}/g, String(day));
+
+    try {
+    // check if pdf is existed
+      const pdfResponse = await fetch(pdfPath, { method: "HEAD" });
+      if (!pdfResponse.ok) {
+      throw new Error("PDF not found");
+    }
+    lecturePdf.href = pdfPath;
+    lecturePdf.innerText = `Day ${day} pdf 강의자료 다운로드`;
+    // check if video is existed
+    const response = await fetch(videoPath, { method: "HEAD" });
+    if (!response.ok) {
+      throw new Error("Video not found");
+    }
+    lectureSource.src = videoPath;
+    lectureVideo.load();
+    } catch (e) {
+    console.log(e);
+    window.alert(`🙇🏻‍♀️ Day ${day} 학습자료는 아직 준비중입니다.`);
+    }
+  }
+
   /*********************************************************
    * 6. Events binding
    *********************************************************/
@@ -499,8 +533,11 @@
       }
       if(panel === 'sentences'){
         // ensure day select populated then load current day
-        populateDaySelect();
+        populateDaySelect(daySelect);
         loadSentencesForDay(state.sentenceDay);
+      }
+      if(panel === 'grammar'){
+        populateDaySelect(daySelectG)
       }
     });
   });
@@ -545,15 +582,15 @@
   });
 
   // sentences controls
-  function populateDaySelect(){
-    if(daySelect.options.length === 0){
+  function populateDaySelect(element){
+    if(element.options.length === 0){
       for(let d=1; d<=40; d++){
         const opt = document.createElement('option');
         opt.value = d;
         opt.textContent = `Day ${d}`;
-        daySelect.appendChild(opt);
+        element.appendChild(opt);
       }
-      daySelect.value = String(state.sentenceDay || 1);
+      element.value = String(state.sentenceDay || 1);
     }
   }
   daySelect.addEventListener('change', (e)=>{
@@ -562,6 +599,11 @@
     state.sentenceProgress.selectedBox=1;
     state.sentenceDay = d;
     loadSentencesForDay(d);
+  });
+
+   daySelectG.addEventListener('change', (e)=>{
+    const d = Number(e.target.value);
+    loadLectureForDay(d);
   });
 
   sentenceBoxBtns.forEach(b => {
@@ -621,7 +663,8 @@
     if(initialStateEl) initialStateEl.classList.remove('hidden');
     radioKana.forEach(r => r.checked = (r.value === state.progress.kanaType));
     setActiveBoxBtn(state.progress.selectedBox);
-    populateDaySelect();
+    populateDaySelect(daySelect);
+    populateDaySelect(daySelectG)
   }
 
   normalizeProgress();

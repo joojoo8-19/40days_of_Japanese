@@ -11,16 +11,16 @@
     <header class="top-menu">
       <nav class="menu">
         <button class="menu-button" data-menu="letters">
-            <span class="heart-icon">♥</span>
-            히라가나/가타카나
+            <span class="menu-icon">ᓚ₍ ^. .^₎</span>
+            char
         </button>
         <button class="menu-button" data-menu="grammar">
-            <span class="heart-icon">♥</span>
-            기초회화 문법
+            <span class="menu-icon">₍^. .^₎Ⳋ</span>
+            lecture
         </button>
         <button class="menu-button" data-menu="sentences">
-            <span class="heart-icon">♥</span>
-            문장복습
+            <span class="menu-icon">₍^. .^₎⟆</span>
+            repeat
         </button>
       </nav>
     </header>
@@ -36,8 +36,8 @@
         
         <div class="window-content" id="window">
             <div id="initial-state" class="initial-message">
-                <span class="hand-icon">👆</span>
-                <p>원하는 하트 버튼을 클릭해 보세요!<br>일본어 학습을 시작할 수 있습니다.</p>
+                <span class="hand-icon">👆🏼</span>
+                <p>원하는 고양이를 클릭해 보세요!<br>일본어 학습을 시작할 수 있습니다.</p>
             </div>
 
             <!-- LETTERS PANEL (기존 히라/카타) -->
@@ -108,7 +108,21 @@
 
             <!-- GRAMMAR PANEL -->
             <div id="grammar-panel" class="panel hidden">
-                <p class="panel-message">문법 학습은 준비 중입니다.</p>
+                <div class="top-controls">
+                    <div class="mode-switch">
+                            <label>Day:
+                            <select id="day-select-g">
+                                <!-- options 1..40 inserted by JS -->
+                            </select>
+                            </label>
+                    </div>
+                </div>
+                <div class="learning-area">
+                    <video id="lecture-video" controls>
+                        <source id="lecture-source" src="data/curriculum/day1/day1.mp4" type="video/mp4" />
+                    </video>
+                    <a id="lecture-pdf" href="data/curriculum/day1/study1.pdf" download>Day 1 pdf 강의자료</a>
+                </div>
             </div>
 
             <!-- SENTENCES PANEL (새로 추가) -->
@@ -116,7 +130,7 @@
                 <div class="top-controls">
                     <div class="mode-switch">
                         <label>Day:
-                          <select id="day-select">
+                          <select id="day-select-s">
                             <!-- options 1..40 inserted by JS -->
                           </select>
                         </label>
