@@ -1,0 +1,1248 @@
+[
+  {
+    "id": 1,
+    "korean": "이 책은 1,200엔입니다.",
+    "english": "This book is 1,200 yen.",
+    "japanese": "この 本(ほん)は 千二百円(えん)です。",
+    "pronounce_r": "Kono hon wa sen nihyaku en desu.",
+    "pronounce_h": "この ほんは せんにひゃくえんです。",
+    "words": [
+      {"korean": "이", "japanese": "この", "pronounce_h": "この"},
+      {"korean": "책", "japanese": "本", "pronounce_h": "ほん"},
+      {"korean": "1,200엔", "japanese": "千二百円", "pronounce_h": "せんにひゃくえん"}
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "우리 집은 34층에 있습니다.",
+    "english": "My house is on the 34th floor.",
+    "japanese": "私(わたし)の 家(いえ)は 三十四階(かい)に あります。",
+    "pronounce_r": "Watashi no ie wa sanjūyon kai ni arimasu.",
+    "pronounce_h": "わたしの いえは さんじゅうよんかいに あります。",
+    "words": [
+      {"korean": "나/저", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "집", "japanese": "家", "pronounce_h": "いえ"},
+      {"korean": "34층", "japanese": "三十四階", "pronounce_h": "さんじゅうよんかい"},
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "편의점에서 850엔짜리 물건을 샀습니다.",
+    "english": "I bought an 850 yen item at the convenience store.",
+    "japanese": "コンビニで 八百五十円(えん)の 物(もの)を 買(か)いました。",
+    "pronounce_r": "Konbini de happyaku gojū en no mono o kaimashita.",
+    "pronounce_h": "コンビニで はっぴゃくごじゅうえんの ものを かいました。",
+    "words": [
+      {"korean": "편의점", "japanese": "コンビニ", "pronounce_h": "コンビニ"},
+      {"korean": "850엔", "japanese": "八百五十円", "pronounce_h": "はっぴゃくごじゅうえん"},
+      {"korean": "물건", "japanese": "物", "pronounce_h": "もの"},
+      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "이 책은 1권만 필요합니다.",
+    "english": "Only 1 copy of this book is needed.",
+    "japanese": "この 本(ほん)は 一冊(さつ)だけ 必要(ひつよう)です。",
+    "pronounce_r": "Kono hon wa issatsu dake hitsuyō desu.",
+    "pronounce_h": "この ほんは いっさつだけ ひつようです。",
+    "words": [
+      {"korean": "이", "japanese": "この", "pronounce_h": "この"},
+      {"korean": "책", "japanese": "本", "pronounce_h": "ほん"},
+      {"korean": "1권", "japanese": "一冊", "pronounce_h": "いっさつ"},
+      {"korean": "필요하다", "japanese": "必要", "pronounce_h": "ひつよう"}
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "물을 8잔 마셨습니다.",
+    "english": "I drank 8 glasses of water.",
+    "japanese": "水(みず)を 八杯(はい) 飲(の)みました。",
+    "pronounce_r": "Mizu o happai nomimashita.",
+    "pronounce_h": "みずを はっぱい のみました。",
+    "words": [
+      {"korean": "물", "japanese": "水", "pronounce_h": "みず"},
+      {"korean": "8잔", "japanese": "八杯", "pronounce_h": "はっぱい"},
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "이 다리는 6년 전에 건설되었습니다.",
+    "english": "This bridge was built 6 years ago.",
+    "japanese": "この 橋(はし)は 六年(ねん)前(まえ)に 建(た)てられました。",
+    "pronounce_r": "Kono hashi wa roku nen mae ni tateraremashita.",
+    "pronounce_h": "この はしは ろくねんまえに たてられました。",
+    "words": [
+      {"korean": "이", "japanese": "この", "pronounce_h": "この"},
+      {"korean": "다리", "japanese": "橋", "pronounce_h": "はし"},
+      {"korean": "6년 전", "japanese": "六年前", "pronounce_h": "ろくねんまえ"},
+      {"korean": "건설되다", "japanese": "建てる", "pronounce_h": "たてる"}
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "몇 초 입니까?",
+    "english": "How many seconds is it?",
+    "japanese": "何秒(なんびょう)ですか?",
+    "pronounce_r": "Nan byō desu ka?",
+    "pronounce_h": "なんびょうですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "초", "japanese": "秒", "pronounce_h": "びょう"}
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "1초입니다.",
+    "english": "It is 1 second.",
+    "japanese": "いちびょうです.",
+    "pronounce_r": "Ichi byō desu.",
+    "pronounce_h": "いちびょうです.",
+    "words": [
+      {"korean": "1초", "japanese": "一秒", "pronounce_h": "いちびょう"}
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "5초입니다.",
+    "english": "It is 5 seconds.",
+    "japanese": "ごびょうです.",
+    "pronounce_r": "Go byō desu.",
+    "pronounce_h": "ごびょうです.",
+    "words": [
+      {"korean": "5초", "japanese": "五秒", "pronounce_h": "ごびょう"}
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "10초입니다.",
+    "english": "It is 10 seconds.",
+    "japanese": "じゅうびょうです.",
+    "pronounce_r": "Jū byō desu.",
+    "pronounce_h": "じゅうびょうです.",
+    "words": [
+      {"korean": "10초", "japanese": "十秒", "pronounce_h": "じゅうびょう"}
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "몇 분 입니까?",
+    "english": "How many minutes is it?",
+    "japanese": "何分(なんぷん)ですか?",
+    "pronounce_r": "Nan pun desu ka?",
+    "pronounce_h": "なんぷんですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "분", "japanese": "分", "pronounce_h": "ふん"}
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "1분입니다.",
+    "english": "It is 1 minute.",
+    "japanese": "いっぷんです.",
+    "pronounce_r": "Ippun desu.",
+    "pronounce_h": "いっぷんです.",
+    "words": [
+      {"korean": "1분", "japanese": "一分", "pronounce_h": "いっぷん"}
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "2분입니다.",
+    "english": "It is 2 minutes.",
+    "japanese": "にふんです.",
+    "pronounce_r": "Nifun desu.",
+    "pronounce_h": "にふんです.",
+    "words": [
+      {"korean": "2분", "japanese": "二分", "pronounce_h": "にふん"}
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "3분입니다.",
+    "english": "It is 3 minutes.",
+    "japanese": "さんぷんです.",
+    "pronounce_r": "Sanpun desu.",
+    "pronounce_h": "さんぷんです.",
+    "words": [
+      {"korean": "3분", "japanese": "三分", "pronounce_h": "さんぷん"}
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "10분입니다.",
+    "english": "It is 10 minutes.",
+    "japanese": "じゅっぷんです.",
+    "pronounce_r": "Juppun desu.",
+    "pronounce_h": "じゅっぷんです.",
+    "words": [
+      {"korean": "10분", "japanese": "十分", "pronounce_h": "じゅっぷん"}
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "몇 시 입니까?",
+    "english": "What time is it?",
+    "japanese": "何時(なんじ)ですか?",
+    "pronounce_r": "Nanji desu ka?",
+    "pronounce_h": "なんじですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "시", "japanese": "時", "pronounce_h": "じ"}
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "4시입니다.",
+    "english": "It is 4 o'clock.",
+    "japanese": "よじです.",
+    "pronounce_r": "Yoji desu.",
+    "pronounce_h": "よじです.",
+    "words": [
+      {"korean": "4시", "japanese": "四時", "pronounce_h": "よじ"}
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "5시입니다.",
+    "english": "It is 5 o'clock.",
+    "japanese": "ごじです.",
+    "pronounce_r": "Goji desu.",
+    "pronounce_h": "ごじです.",
+    "words": [
+      {"korean": "5시", "japanese": "五時", "pronounce_h": "ごじ"}
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "7시입니다.",
+    "english": "It is 7 o'clock.",
+    "japanese": "しちじです.",
+    "pronounce_r": "Shichiji desu.",
+    "pronounce_h": "しちじです.",
+    "words": [
+      {"korean": "7시", "japanese": "七時", "pronounce_h": "しちじ"}
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "9시입니다.",
+    "english": "It is 9 o'clock.",
+    "japanese": "くじです.",
+    "pronounce_r": "Kuji desu.",
+    "pronounce_h": "くじです.",
+    "words": [
+      {"korean": "9시", "japanese": "九時", "pronounce_h": "くじ"}
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "몇 월 입니까?",
+    "english": "What month is it?",
+    "japanese": "何月(なんがつ)ですか?",
+    "pronounce_r": "Nan gatsu desu ka?",
+    "pronounce_h": "なんがつですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "월", "japanese": "月", "pronounce_h": "がつ"}
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "1월입니다.",
+    "english": "It is January.",
+    "japanese": "いちがつです.",
+    "pronounce_r": "Ichi gatsu desu.",
+    "pronounce_h": "いちがつです.",
+    "words": [
+      {"korean": "1월", "japanese": "一月", "pronounce_h": "いちがつ"}
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "4월입니다.",
+    "english": "It is April.",
+    "japanese": "しがつです.",
+    "pronounce_r": "Shi gatsu desu.",
+    "pronounce_h": "しがつです.",
+    "words": [
+      {"korean": "4월", "japanese": "四月", "pronounce_h": "しがつ"}
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "7월입니다.",
+    "english": "It is July.",
+    "japanese": "しちがつです.",
+    "pronounce_r": "Shichi gatsu desu.",
+    "pronounce_h": "しちがつです.",
+    "words": [
+      {"korean": "7월", "japanese": "七月", "pronounce_h": "しちがつ"}
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "9월입니다.",
+    "english": "It is September.",
+    "japanese": "くがつです.",
+    "pronounce_r": "Ku gatsu desu.",
+    "pronounce_h": "くがつです.",
+    "words": [
+      {"korean": "9월", "japanese": "九月", "pronounce_h": "くがつ"}
+    ]
+  },
+  {
+    "id": 26,
+    "korean": "몇 년 입니까?",
+    "english": "How many years is it?",
+    "japanese": "何年(なんねん)ですか?",
+    "pronounce_r": "Nan nen desu ka?",
+    "pronounce_h": "なんねんですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "년", "japanese": "年", "pronounce_h": "ねん"}
+    ]
+  },
+  {
+    "id": 27,
+    "korean": "1년입니다.",
+    "english": "It is 1 year.",
+    "japanese": "いちねんです.",
+    "pronounce_r": "Ichi nen desu.",
+    "pronounce_h": "いちねんです.",
+    "words": [
+      {"korean": "1년", "japanese": "一年", "pronounce_h": "いちねん"}
+    ]
+  },
+  {
+    "id": 28,
+    "korean": "4년입니다.",
+    "english": "It is 4 years.",
+    "japanese": "よねんです.",
+    "pronounce_r": "Yon nen desu.",
+    "pronounce_h": "よねんです.",
+    "words": [
+      {"korean": "4년", "japanese": "四年", "pronounce_h": "よねん"}
+    ]
+  },
+  {
+    "id": 29,
+    "korean": "8년입니다.",
+    "english": "It is 8 years.",
+    "japanese": "はちねんです.",
+    "pronounce_r": "Hachi nen desu.",
+    "pronounce_h": "はちねんです.",
+    "words": [
+      {"korean": "8년", "japanese": "八年", "pronounce_h": "はちねん"}
+    ]
+  },
+  {
+    "id": 30,
+    "korean": "10년입니다.",
+    "english": "It is 10 years.",
+    "japanese": "じゅうねんです.",
+    "pronounce_r": "Jū nen desu.",
+    "pronounce_h": "じゅうねんです.",
+    "words": [
+      {"korean": "10년", "japanese": "十年", "pronounce_h": "じゅうねん"}
+    ]
+  },
+  {
+    "id": 31,
+    "korean": "몇 살 입니까?",
+    "english": "How old are you?",
+    "japanese": "何歳(なんさい)ですか?",
+    "pronounce_r": "Nan sai desu ka?",
+    "pronounce_h": "なんさいですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "살", "japanese": "歳", "pronounce_h": "さい"}
+    ]
+  },
+  {
+    "id": 32,
+    "korean": "1살입니다.",
+    "english": "I am 1 year old.",
+    "japanese": "いっさいです.",
+    "pronounce_r": "Issai desu.",
+    "pronounce_h": "いっさいです.",
+    "words": [
+      {"korean": "1살", "japanese": "一歳", "pronounce_h": "いっさい"}
+    ]
+  },
+  {
+    "id": 33,
+    "korean": "3살입니다.",
+    "english": "I am 3 years old.",
+    "japanese": "さんさいです.",
+    "pronounce_r": "San sai desu.",
+    "pronounce_h": "さんさいです.",
+    "words": [
+      {"korean": "3살", "japanese": "三歳", "pronounce_h": "さんさい"}
+    ]
+  },
+  {
+    "id": 34,
+    "korean": "6살입니다.",
+    "english": "I am 6 years old.",
+    "japanese": "ろくさいです.",
+    "pronounce_r": "Roku sai desu.",
+    "pronounce_h": "ろくさいです.",
+    "words": [
+      {"korean": "6살", "japanese": "六歳", "pronounce_h": "ろくさい"}
+    ]
+  },
+  {
+    "id": 35,
+    "korean": "10살입니다.",
+    "english": "I am 10 years old.",
+    "japanese": "じゅっさいです.",
+    "pronounce_r": "Jussai desu.",
+    "pronounce_h": "じゅっさいです.",
+    "words": [
+      {"korean": "10살", "japanese": "十歳", "pronounce_h": "じゅっさい"}
+    ]
+  },
+  {
+    "id": 36,
+    "korean": "몇 권 입니까?",
+    "english": "How many copies is it?",
+    "japanese": "何冊(なんさつ)ですか?",
+    "pronounce_r": "Nan satsu desu ka?",
+    "pronounce_h": "なんさつですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "권", "japanese": "冊", "pronounce_h": "さつ"}
+    ]
+  },
+  {
+    "id": 37,
+    "korean": "1권입니다.",
+    "english": "It is 1 copy.",
+    "japanese": "いっさつです.",
+    "pronounce_r": "Issatsu desu.",
+    "pronounce_h": "いっさつです.",
+    "words": [
+      {"korean": "1권", "japanese": "一冊", "pronounce_h": "いっさつ"}
+    ]
+  },
+  {
+    "id": 38,
+    "korean": "4권입니다.",
+    "english": "It is 4 copies.",
+    "japanese": "よんさつです.",
+    "pronounce_r": "Yon satsu desu.",
+    "pronounce_h": "よんさつです.",
+    "words": [
+      {"korean": "4권", "japanese": "四冊", "pronounce_h": "よんさつ"}
+    ]
+  },
+  {
+    "id": 39,
+    "korean": "6권입니다.",
+    "english": "It is 6 copies.",
+    "japanese": "ろくさつです.",
+    "pronounce_r": "Roku satsu desu.",
+    "pronounce_h": "ろくさつです.",
+    "words": [
+      {"korean": "6권", "japanese": "六冊", "pronounce_h": "ろくさつ"}
+    ]
+  },
+  {
+    "id": 40,
+    "korean": "8권입니다.",
+    "english": "It is 8 copies.",
+    "japanese": "はっさつです.",
+    "pronounce_r": "Hassatsu desu.",
+    "pronounce_h": "はっさつです.",
+    "words": [
+      {"korean": "8권", "japanese": "八冊", "pronounce_h": "はっさつ"}
+    ]
+  },
+  {
+    "id": 41,
+    "korean": "몇 등 입니까?",
+    "english": "What rank is it?",
+    "japanese": "何等(なんとう)ですか?",
+    "pronounce_r": "Nan tō desu ka?",
+    "pronounce_h": "なんとうですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "등", "japanese": "等", "pronounce_h": "とう"}
+    ]
+  },
+  {
+    "id": 42,
+    "korean": "몇 등/번 입니까?",
+    "english": "What rank/number is it?",
+    "japanese": "何番(なんばん)ですか?",
+    "pronounce_r": "Nan ban desu ka?",
+    "pronounce_h": "なんばんですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "등/차례", "japanese": "番", "pronounce_h": "ばん"}
+    ]
+  },
+  {
+    "id": 43,
+    "korean": "1등입니다.",
+    "english": "It is the 1st rank.",
+    "japanese": "いちとうです.",
+    "pronounce_r": "Ichi tō desu.",
+    "pronounce_h": "いちとうです.",
+    "words": [
+      {"korean": "1등", "japanese": "一等", "pronounce_h": "いちとう"}
+    ]
+  },
+  {
+    "id": 44,
+    "korean": "3등입니다.",
+    "english": "It is the 3rd rank.",
+    "japanese": "さんとうです.",
+    "pronounce_r": "San tō desu.",
+    "pronounce_h": "さんとうです.",
+    "words": [
+      {"korean": "3등", "japanese": "三等", "pronounce_h": "さんとう"}
+    ]
+  },
+  {
+    "id": 45,
+    "korean": "8등입니다.",
+    "english": "It is the 8th rank.",
+    "japanese": "はちとうです.",
+    "pronounce_r": "Hachi tō desu.",
+    "pronounce_h": "はちとうです.",
+    "words": [
+      {"korean": "8등", "japanese": "八等", "pronounce_h": "はちとう"}
+    ]
+  },
+  {
+    "id": 46,
+    "korean": "10등입니다.",
+    "english": "It is the 10th rank.",
+    "japanese": "じゅうとうです.",
+    "pronounce_r": "Jū tō desu.",
+    "pronounce_h": "じゅうとうです.",
+    "words": [
+      {"korean": "10등", "japanese": "十等", "pronounce_h": "じゅうとう"}
+    ]
+  },
+  {
+    "id": 47,
+    "korean": "몇 층 입니까?",
+    "english": "What floor is it?",
+    "japanese": "何階(なんがい)ですか?",
+    "pronounce_r": "Nan gai desu ka?",
+    "pronounce_h": "なんがいですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "층", "japanese": "階", "pronounce_h": "かい"}
+    ]
+  },
+  {
+    "id": 48,
+    "korean": "1층입니다.",
+    "english": "It is the 1st floor.",
+    "japanese": "いっかいです.",
+    "pronounce_r": "Ikkai desu.",
+    "pronounce_h": "いっかいです.",
+    "words": [
+      {"korean": "1층", "japanese": "一階", "pronounce_h": "いっかい"}
+    ]
+  },
+  {
+    "id": 49,
+    "korean": "3층입니다.",
+    "english": "It is the 3rd floor.",
+    "japanese": "さんがいです.",
+    "pronounce_r": "San gai desu.",
+    "pronounce_h": "さんがいです.",
+    "words": [
+      {"korean": "3층", "japanese": "三階", "pronounce_h": "さんがい"}
+    ]
+  },
+  {
+    "id": 50,
+    "korean": "7층입니다.",
+    "english": "It is the 7th floor.",
+    "japanese": "ななかいです.",
+    "pronounce_r": "Nana kai desu.",
+    "pronounce_h": "ななかいです.",
+    "words": [
+      {"korean": "7층", "japanese": "七階", "pronounce_h": "ななかい"}
+    ]
+  },
+  {
+    "id": 51,
+    "korean": "10층입니다.",
+    "english": "It is the 10th floor.",
+    "japanese": "じゅっかいです.",
+    "pronounce_r": "Jukkai desu.",
+    "pronounce_h": "じゅっかいです.",
+    "words": [
+      {"korean": "10층", "japanese": "十階", "pronounce_h": "じゅっかい"}
+    ]
+  },
+  {
+    "id": 52,
+    "korean": "몇 회 입니까?",
+    "english": "How many times is it?",
+    "japanese": "何回(なんかい)ですか?",
+    "pronounce_r": "Nan kai desu ka?",
+    "pronounce_h": "なんかいですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "회", "japanese": "回", "pronounce_h": "かい"}
+    ]
+  },
+  {
+    "id": 53,
+    "korean": "1회입니다.",
+    "english": "It is 1 time.",
+    "japanese": "いっかいです.",
+    "pronounce_r": "Ikkai desu.",
+    "pronounce_h": "いっかいです.",
+    "words": [
+      {"korean": "1회", "japanese": "一回", "pronounce_h": "いっかい"}
+    ]
+  },
+  {
+    "id": 54,
+    "korean": "3회입니다.",
+    "english": "It is 3 times.",
+    "japanese": "さんかいです.",
+    "pronounce_r": "San kai desu.",
+    "pronounce_h": "さんかいです.",
+    "words": [
+      {"korean": "3회", "japanese": "三回", "pronounce_h": "さんかい"}
+    ]
+  },
+  {
+    "id": 55,
+    "korean": "6회입니다.",
+    "english": "It is 6 times.",
+    "japanese": "ろっかいです.",
+    "pronounce_r": "Rokkain desu.",
+    "pronounce_h": "ろっかいです.",
+    "words": [
+      {"korean": "6회", "japanese": "六回", "pronounce_h": "ろっかい"}
+    ]
+  },
+  {
+    "id": 56,
+    "korean": "10회입니다.",
+    "english": "It is 10 times.",
+    "japanese": "じゅっかいです.",
+    "pronounce_r": "Jukkai desu.",
+    "pronounce_h": "じゅっかいです.",
+    "words": [
+      {"korean": "10회", "japanese": "十回", "pronounce_h": "じゅっかい"}
+    ]
+  },
+  {
+    "id": 57,
+    "korean": "몇 마리 입니까? (작은 동물)",
+    "english": "How many (small) animals are there?",
+    "japanese": "何匹(なんびき)ですか?",
+    "pronounce_r": "Nan biki desu ka?",
+    "pronounce_h": "なんびきですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "마리(작은 동물)", "japanese": "匹", "pronounce_h": "ひき"}
+    ]
+  },
+  {
+    "id": 58,
+    "korean": "1마리입니다.",
+    "english": "It is 1 animal.",
+    "japanese": "いっぴきです.",
+    "pronounce_r": "Ippiki desu.",
+    "pronounce_h": "いっぴきです.",
+    "words": [
+      {"korean": "1마리", "japanese": "一匹", "pronounce_h": "いっぴき"}
+    ]
+  },
+  {
+    "id": 59,
+    "korean": "3마리입니다.",
+    "english": "It is 3 animals.",
+    "japanese": "さんびきです.",
+    "pronounce_r": "San biki desu.",
+    "pronounce_h": "さんびきです.",
+    "words": [
+      {"korean": "3마리", "japanese": "三匹", "pronounce_h": "さんびき"}
+    ]
+  },
+  {
+    "id": 60,
+    "korean": "7마리입니다.",
+    "english": "It is 7 animals.",
+    "japanese": "ななひきです.",
+    "pronounce_r": "Nana hiki desu.",
+    "pronounce_h": "ななひきです.",
+    "words": [
+      {"korean": "7마리", "japanese": "七匹", "pronounce_h": "ななひき"}
+    ]
+  },
+  {
+    "id": 61,
+    "korean": "8마리입니다.",
+    "english": "It is 8 animals.",
+    "japanese": "はっぴきです.",
+    "pronounce_r": "Happiki desu.",
+    "pronounce_h": "はっぴきです.",
+    "words": [
+      {"korean": "8마리", "japanese": "八匹", "pronounce_h": "はっぴき"}
+    ]
+  },
+  {
+    "id": 62,
+    "korean": "몇 마리 입니까? (큰 동물)",
+    "english": "How many (large) animals are there?",
+    "japanese": "何頭(なんとう)ですか?",
+    "pronounce_r": "Nan tō desu ka?",
+    "pronounce_h": "なんとうですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "마리(큰 동물)", "japanese": "頭", "pronounce_h": "とう"}
+    ]
+  },
+  {
+    "id": 63,
+    "korean": "2마리입니다.",
+    "english": "It is 2 animals.",
+    "japanese": "にとうです.",
+    "pronounce_r": "Nitō desu.",
+    "pronounce_h": "にとうです.",
+    "words": [
+      {"korean": "2마리", "japanese": "二頭", "pronounce_h": "にとう"}
+    ]
+  },
+  {
+    "id": 64,
+    "korean": "6마리입니다.",
+    "english": "It is 6 animals.",
+    "japanese": "ろくとうです.",
+    "pronounce_r": "Roku tō desu.",
+    "pronounce_h": "ろくとうです.",
+    "words": [
+      {"korean": "6마리", "japanese": "六頭", "pronounce_h": "ろくとう"}
+    ]
+  },
+  {
+    "id": 65,
+    "korean": "9마리입니다.",
+    "english": "It is 9 animals.",
+    "japanese": "きゅうとうです.",
+    "pronounce_r": "Kyū tō desu.",
+    "pronounce_h": "きゅうとうです.",
+    "words": [
+      {"korean": "9마리", "japanese": "九頭", "pronounce_h": "きゅうとう"}
+    ]
+  },
+  {
+    "id": 66,
+    "korean": "10마리입니다.",
+    "english": "It is 10 animals.",
+    "japanese": "じゅうとうです.",
+    "pronounce_r": "Jū tō desu.",
+    "pronounce_h": "じゅうとうです.",
+    "words": [
+      {"korean": "10마리", "japanese": "十頭", "pronounce_h": "じゅうとう"}
+    ]
+  },
+  {
+    "id": 67,
+    "korean": "몇 장 입니까?",
+    "english": "How many sheets is it?",
+    "japanese": "何枚(なんまい)ですか?",
+    "pronounce_r": "Nan mai desu ka?",
+    "pronounce_h": "なんまいですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "장", "japanese": "枚", "pronounce_h": "まい"}
+    ]
+  },
+  {
+    "id": 68,
+    "korean": "1장입니다.",
+    "english": "It is 1 sheet.",
+    "japanese": "いちまいです.",
+    "pronounce_r": "Ichi mai desu.",
+    "pronounce_h": "いちまいです.",
+    "words": [
+      {"korean": "1장", "japanese": "一枚", "pronounce_h": "いちまい"}
+    ]
+  },
+  {
+    "id": 69,
+    "korean": "4장입니다.",
+    "english": "It is 4 sheets.",
+    "japanese": "よんまいです.",
+    "pronounce_r": "Yon mai desu.",
+    "pronounce_h": "よんまいです.",
+    "words": [
+      {"korean": "4장", "japanese": "四枚", "pronounce_h": "よんまい"}
+    ]
+  },
+  {
+    "id": 70,
+    "korean": "6장입니다.",
+    "english": "It is 6 sheets.",
+    "japanese": "ろくまいです.",
+    "pronounce_r": "Roku mai desu.",
+    "pronounce_h": "ろくまいです.",
+    "words": [
+      {"korean": "6장", "japanese": "六枚", "pronounce_h": "ろくまい"}
+    ]
+  },
+  {
+    "id": 71,
+    "korean": "8장입니다.",
+    "english": "It is 8 sheets.",
+    "japanese": "はちまいです.",
+    "pronounce_r": "Hachi mai desu.",
+    "pronounce_h": "はちまいです.",
+    "words": [
+      {"korean": "8장", "japanese": "八枚", "pronounce_h": "はちまい"}
+    ]
+  },
+  {
+    "id": 72,
+    "korean": "몇 잔 입니까?",
+    "english": "How many cups is it?",
+    "japanese": "何杯(なんばい)ですか?",
+    "pronounce_r": "Nan bai desu ka?",
+    "pronounce_h": "なんばいですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "잔", "japanese": "杯", "pronounce_h": "はい"}
+    ]
+  },
+  {
+    "id": 73,
+    "korean": "1잔입니다.",
+    "english": "It is 1 cup.",
+    "japanese": "いっぱいです.",
+    "pronounce_r": "Ippai desu.",
+    "pronounce_h": "いっぱいです.",
+    "words": [
+      {"korean": "1잔", "japanese": "一杯", "pronounce_h": "いっぱいです"}
+    ]
+  },
+  {
+    "id": 74,
+    "korean": "3잔입니다.",
+    "english": "It is 3 cups.",
+    "japanese": "さんばいです.",
+    "pronounce_r": "San bai desu.",
+    "pronounce_h": "さんばいです.",
+    "words": [
+      {"korean": "3잔", "japanese": "三杯", "pronounce_h": "さんばい"}
+    ]
+  },
+  {
+    "id": 75,
+    "korean": "6잔입니다.",
+    "english": "It is 6 cups.",
+    "japanese": "ろくはいです.",
+    "pronounce_r": "Roku hai desu.",
+    "pronounce_h": "ろくはいです.",
+    "words": [
+      {"korean": "6잔", "japanese": "六杯", "pronounce_h": "ろくはい"}
+    ]
+  },
+  {
+    "id": 76,
+    "korean": "8잔입니다.",
+    "english": "It is 8 cups.",
+    "japanese": "はっぱいす.",
+    "pronounce_r": "Happai desu.",
+    "pronounce_h": "はっぱいす.",
+    "words": [
+      {"korean": "8잔", "japanese": "八杯", "pronounce_h": "はっぱい"}
+    ]
+  },
+  {
+    "id": 77,
+    "korean": "몇 박 입니까?",
+    "english": "How many nights is it?",
+    "japanese": "何泊(なんぱく)ですか?",
+    "pronounce_r": "Nan paku desu ka?",
+    "pronounce_h": "なんぱくですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "박", "japanese": "泊", "pronounce_h": "はく"}
+    ]
+  },
+  {
+    "id": 78,
+    "korean": "1박입니다.",
+    "english": "It is 1 night.",
+    "japanese": "いっぱくです.",
+    "pronounce_r": "Ippaku desu.",
+    "pronounce_h": "いっぱくです.",
+    "words": [
+      {"korean": "1박", "japanese": "一泊", "pronounce_h": "いっぱく"}
+    ]
+  },
+  {
+    "id": 79,
+    "korean": "3박입니다.",
+    "english": "It is 3 nights.",
+    "japanese": "さんぱくです.",
+    "pronounce_r": "San paku desu.",
+    "pronounce_h": "さんぱくです.",
+    "words": [
+      {"korean": "3박", "japanese": "三泊", "pronounce_h": "さんぱく"}
+    ]
+  },
+  {
+    "id": 80,
+    "korean": "6박입니다.",
+    "english": "It is 6 nights.",
+    "japanese": "ろっぱくです.",
+    "pronounce_r": "Roppaku desu.",
+    "pronounce_h": "ろっぱくです.",
+    "words": [
+      {"korean": "6박", "japanese": "六泊", "pronounce_h": "ろっぱく"}
+    ]
+  },
+  {
+    "id": 81,
+    "korean": "7박입니다.",
+    "english": "It is 7 nights.",
+    "japanese": "ななはくです.",
+    "pronounce_r": "Nana haku desu.",
+    "pronounce_h": "ななはくです.",
+    "words": [
+      {"korean": "7박", "japanese": "七泊", "pronounce_h": "ななはく"}
+    ]
+  },
+  {
+    "id": 82,
+    "korean": "몇 자루 입니까?",
+    "english": "How many (long, cylindrical) items are there?",
+    "japanese": "何本(なんぼん)ですか?",
+    "pronounce_r": "Nan bon desu ka?",
+    "pronounce_h": "なんぼんですか?",
+    "words": [
+      {"korean": "몇", "japanese": "何", "pronounce_h": "なん"},
+      {"korean": "자루/병", "japanese": "本", "pronounce_h": "ほん"}
+    ]
+  },
+  {
+    "id": 83,
+    "korean": "1자루입니다.",
+    "english": "It is 1 item.",
+    "japanese": "いっぽんです.",
+    "pronounce_r": "Ippon desu.",
+    "pronounce_h": "いっぽんです.",
+    "words": [
+      {"korean": "1자루", "japanese": "一本", "pronounce_h": "いっぽん"}
+    ]
+  },
+  {
+    "id": 84,
+    "korean": "2자루입니다.",
+    "english": "It is 2 items.",
+    "japanese": "にほんです.",
+    "pronounce_r": "Nihon desu.",
+    "pronounce_h": "にほんです.",
+    "words": [
+      {"korean": "2자루", "japanese": "二本", "pronounce_h": "にほんです"}
+    ]
+  },
+  {
+    "id": 85,
+    "korean": "3자루입니다.",
+    "english": "It is 3 items.",
+    "japanese": "さんぼんです.",
+    "pronounce_r": "San bon desu.",
+    "pronounce_h": "さんぼんです.",
+    "words": [
+      {"korean": "3자루", "japanese": "三本", "pronounce_h": "さんぼん"}
+    ]
+  },
+  {
+    "id": 86,
+    "korean": "10자루입니다.",
+    "english": "It is 10 items.",
+    "japanese": "じゅっぽんです.",
+    "pronounce_r": "Juppon desu.",
+    "pronounce_h": "じゅっぽんです.",
+    "words": [
+      {"korean": "10자루", "japanese": "十本", "pronounce_h": "じゅっぽん"}
+    ]
+  },
+  {
+    "id": 87,
+    "korean": "이 필통에는 연필이 5자루 있습니다.",
+    "english": "There are 5 pencils in this pencil case.",
+    "japanese": "この 筆箱(ふでばこ)に 鉛筆(えんぴつ)が 五本(ほん)あります。",
+    "pronounce_r": "Kono fudebako ni enpitsu ga gohon arimasu.",
+    "pronounce_h": "この ふでばこに えんぴつが ごほんあります。",
+    "words": [
+      {"korean": "필통", "japanese": "筆箱", "pronounce_h": "ふでばこ"},
+      {"korean": "연필", "japanese": "鉛筆", "pronounce_h": "えんぴつ"},
+      {"korean": "5자루", "japanese": "五本", "pronounce_h": "ごほん"},
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
+    ]
+  },
+  {
+    "id": 88,
+    "korean": "저는 2005년에 태어났습니다.",
+    "english": "I was born in 2005.",
+    "japanese": "私(わたし)は 二千五(にせんご)年(ねん)に 生(う)まれました。",
+    "pronounce_r": "Watashi wa nisen go nen ni umaremashita.",
+    "pronounce_h": "わたしは にせんごねんに うまれました。",
+    "words": [
+      {"korean": "나/저", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "2005년", "japanese": "二千五年", "pronounce_h": "にせんごねん"},
+      {"korean": "태어나다", "japanese": "生まれる", "pronounce_h": "うまれる"}
+    ]
+  },
+  {
+    "id": 89,
+    "korean": "저는 스무 살입니다. (정중한 표현)",
+    "english": "I am twenty years old. (polite)",
+    "japanese": "私(わたし)は 二十歳(はたち)です。",
+    "pronounce_r": "Watashi wa hatachi desu.",
+    "pronounce_h": "わたしは はたちです。",
+    "words": [
+      {"korean": "나/저", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "스무 살", "japanese": "二十歳", "pronounce_h": "はたち"}
+    ]
+  },
+  {
+    "id": 90,
+    "korean": "이 건물은 10층까지 있습니다.",
+    "english": "This building has up to 10 floors.",
+    "japanese": "この 建物(たてもの)は 十階(かい)まで あります。",
+    "pronounce_r": "Kono tatemono wa jukkai made arimasu.",
+    "pronounce_h": "この たてものは じゅっかいまで あります。",
+    "words": [
+      {"korean": "건물", "japanese": "建物", "pronounce_h": "たてもの"},
+      {"korean": "10층", "japanese": "十階", "pronounce_h": "じゅっかい"},
+      {"korean": "~까지", "japanese": "まで", "pronounce_h": "まで"},
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
+    ]
+  },
+  {
+    "id": 91,
+    "korean": "콜라를 3잔 주문해도 될까요?",
+    "english": "May I order 3 glasses of cola?",
+    "japanese": "コーラを 三杯(はい) 注文(ちゅうもん)してもいいですか。",
+    "pronounce_r": "Kōra o sanbai chūmon shite mo ii desu ka.",
+    "pronounce_h": "コーラを さんばい ちゅうもんしてもいいですか。",
+    "words": [
+      {"korean": "콜라", "japanese": "コーラ", "pronounce_h": "コーラ"},
+      {"korean": "3잔", "japanese": "三杯", "pronounce_h": "さんばい"},
+      {"korean": "주문하다", "japanese": "注文する", "pronounce_h": "ちゅうもんする"}
+    ]
+  },
+  {
+    "id": 92,
+    "korean": "회의는 8시에 시작합니다.",
+    "english": "The meeting starts at 8 o'clock.",
+    "japanese": "会議(かいぎ)は 八時(じ)に 始(はじ)まります。",
+    "pronounce_r": "Kaigi wa hachiji ni hajimarimasu.",
+    "pronounce_h": "かいぎは はちじに はじまります。",
+    "words": [
+      {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
+      {"korean": "8시", "japanese": "八時", "pronounce_h": "はちじ"},
+      {"korean": "시작하다", "japanese": "始まる", "pronounce_h": "はじまる"}
+    ]
+  },
+  {
+    "id": 93,
+    "korean": "이 서점에는 만화책이 6권 있습니다.",
+    "english": "This bookstore has 6 comic books.",
+    "japanese": "この 本屋(ほんや)に 漫画(まんが)が 六冊(さつ)あります。",
+    "pronounce_r": "Kono honya ni manga ga roku satsu arimasu.",
+    "pronounce_h": "この ほんやに まんがが ろくさつあります。",
+    "words": [
+      {"korean": "서점", "japanese": "本屋", "pronounce_h": "ほんや"},
+      {"korean": "만화", "japanese": "漫画", "pronounce_h": "まんが"},
+      {"korean": "6권", "japanese": "六冊", "pronounce_h": "ろくさつ"},
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
+    ]
+  },
+  {
+    "id": 94,
+    "korean": "이곳에서 1분만 기다려주세요.",
+    "english": "Please wait here for just 1 minute.",
+    "japanese": "ここで 一分(ふん)だけ 待(ま)ってください。",
+    "pronounce_r": "Koko de ippun dake matte kudasai.",
+    "pronounce_h": "ここで いっぷんだけ まってください。",
+    "words": [
+      {"korean": "이곳", "japanese": "ここ", "pronounce_h": "ここ"},
+      {"korean": "1분", "japanese": "一分", "pronounce_h": "いっぷん"},
+      {"korean": "~만", "japanese": "だけ", "pronounce_h": "だけ"},
+      {"korean": "기다리다", "japanese": "待つ", "pronounce_h": "まつ"}
+    ]
+  },
+  {
+    "id": 95,
+    "korean": "여행은 4박 5일 일정입니다.",
+    "english": "The trip is a 4-night, 5-day itinerary.",
+    "japanese": "旅行(りょこう)は 四泊(はく)五日(いつか)の 日程(にってい)です。",
+    "pronounce_r": "Ryokō wa yonpaku itsuka no nittei desu.",
+    "pronounce_h": "りょこうは よんぱくいつかの にっていです。",
+    "words": [
+      {"korean": "여행", "japanese": "旅行", "pronounce_h": "りょこう"},
+      {"korean": "4박", "japanese": "四泊", "pronounce_h": "よんぱく"},
+      {"korean": "5일", "japanese": "五日", "pronounce_h": "いつか"},
+      {"korean": "일정", "japanese": "日程", "pronounce_h": "にってい"}
+    ]
+  },
+  {
+    "id": 96,
+    "korean": "이 방에는 고양이가 7마리 있습니다.",
+    "english": "There are 7 cats in this room.",
+    "japanese": "この 部屋(へや)に 猫(ねこ)が 七匹(ひき)います。",
+    "pronounce_r": "Kono heya ni neko ga nana hiki imasu.",
+    "pronounce_h": "この へやに ねこが ななひきいます。",
+    "words": [
+      {"korean": "방", "japanese": "部屋", "pronounce_h": "へや"},
+      {"korean": "고양이", "japanese": "猫", "pronounce_h": "ねこ"},
+      {"korean": "7마리", "japanese": "七匹", "pronounce_h": "ななひき"},
+      {"korean": "있다", "japanese": "いる", "pronounce_h": "いる"}
+    ]
+  },
+  {
+    "id": 97,
+    "korean": "이 CD는 990엔입니다.",
+    "english": "This CD is 990 yen.",
+    "japanese": "この CDは 九百九十円(えん)です。",
+    "pronounce_r": "Kono shī dī wa kyūhyaku kyūjū en desu.",
+    "pronounce_h": "この シーディーは きゅうひゃくきゅうじゅうえんです。",
+    "words": [
+      {"korean": "CD", "japanese": "CD", "pronounce_h": "シーディー"},
+      {"korean": "990엔", "japanese": "九百九十円", "pronounce_h": "きゅうひゃくきゅうじゅうえん"}
+    ]
+  },
+  {
+    "id": 98,
+    "korean": "오늘 커피를 4잔 마셨습니다.",
+    "english": "I drank 4 cups of coffee today.",
+    "japanese": "今日(きょう) コーヒーを 四杯(はい) 飲(の)みました。",
+    "pronounce_r": "Kyō kōhī o yon hai nomimashita.",
+    "pronounce_h": "きょう コーヒーを よんはい のみました。",
+    "words": [
+      {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
+      {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "コーヒー"},
+      {"korean": "4잔", "japanese": "四杯", "pronounce_h": "よんはい"},
+      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+    ]
+  },
+  {
+    "id": 99,
+    "korean": "어제 게임을 10회 플레이했습니다.",
+    "english": "I played the game 10 times yesterday.",
+    "japanese": "昨日(きのう) ゲームを 十回(かい) プレイしました。",
+    "pronounce_r": "Kinō gēmu o jukkai purei shimashita.",
+    "pronounce_h": "きのう ゲームを じゅっかい プレイしました。",
+    "words": [
+      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
+      {"korean": "게임", "japanese": "ゲーム", "pronounce_h": "ゲーム"},
+      {"korean": "10회", "japanese": "十回", "pronounce_h": "じゅっかい"},
+      {"korean": "플레이하다", "japanese": "プレイする", "pronounce_h": "プレイする"}
+    ]
+  },
+  {
+    "id": 100,
+    "korean": "8권짜리 책을 샀습니다.",
+    "english": "I bought an 8-volume book.",
+    "japanese": "八冊(さつ)の 本(ほん)を 買(か)いました。",
+    "pronounce_r": "Hassatsu no hon o kaimashita.",
+    "pronounce_h": "はっさつの ほんを かいました。",
+    "words": [
+      {"korean": "8권", "japanese": "八冊", "pronounce_h": "はっさつ"},
+      {"korean": "책", "japanese": "本", "pronounce_h": "ほん"},
+      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+    ]
+  },
+  {
+    "id": 101,
+    "korean": "이 도서관은 2층에 있습니다.",
+    "english": "This library is on the 2nd floor.",
+    "japanese": "この 図書館(としょかん)は 二階(かい)に あります。",
+    "pronounce_r": "Kono toshokan wa nikai ni arimasu.",
+    "pronounce_h": "この としょかんは にかいに あります。",
+    "words": [
+      {"korean": "도서관", "japanese": "図書館", "pronounce_h": "としょかん"},
+      {"korean": "2층", "japanese": "二階", "pronounce_h": "にかい"},
+      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
+    ]
+  },
+  {
+    "id": 102,
+    "korean": "오늘은 12월 25일입니다.",
+    "english": "Today is December 25th.",
+    "japanese": "今日(きょう)は 十二月(がつ)二十五日(にち)です。",
+    "pronounce_r": "Kyō wa jūni gatsu nijūgo nichi desu.",
+    "pronounce_h": "きょうは じゅうにがつ にじゅうごにちです。",
+    "words": [
+      {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
+      {"korean": "12월", "japanese": "十二月", "pronounce_h": "じゅうにがつ"},
+      {"korean": "25일", "japanese": "二十五日", "pronounce_h": "にじゅうごにち"}
+    ]
+  },
+  {
+    "id": 103,
+    "korean": "이 종이를 1장 잘라주세요.",
+    "english": "Please cut 1 sheet of this paper.",
+    "japanese": "この 紙(かみ)を 一枚(まい) 切(き)ってください。",
+    "pronounce_r": "Kono kami o ichi mai kitte kudasai.",
+    "pronounce_h": "この かみを いちまい きってください。",
+    "words": [
+      {"korean": "종이", "japanese": "紙", "pronounce_h": "かみ"},
+      {"korean": "1장", "japanese": "一枚", "pronounce_h": "いちまい"},
+      {"korean": "자르다", "japanese": "切る", "pronounce_h": "きる"}
+    ]
+  },
+  {
+    "id": 104,
+    "korean": "저에게 100엔을 주세요.",
+    "english": "Please give me 100 yen.",
+    "japanese": "私(わたし)に 百円(えん)を ください。",
+    "pronounce_r": "Watashi ni hyaku en o kudasai.",
+    "pronounce_h": "わたしに ひゃくえんを ください。",
+    "words": [
+      {"korean": "나/저", "japanese": "私", "pronounce_h": "わたし"},
+      {"korean": "100엔", "japanese": "百円", "pronounce_h": "ひゃくえん"},
+      {"korean": "주세요", "japanese": "ください", "pronounce_h": "ください"}
+    ]
+  },
+  {
+    "id": 105,
+    "korean": "이 다리를 건너는 데 8초 걸립니다.",
+    "english": "It takes 8 seconds to cross this bridge.",
+    "japanese": "この 橋(はし)を 渡(わた)るのに 八秒(びょう) 掛(か)かります。",
+    "pronounce_r": "Kono hashi o wataru no ni hachi byō kakarimasu.",
+    "pronounce_h": "この はしを わたるのに はちびょう かかります。",
+    "words": [
+      {"korean": "다리", "japanese": "橋", "pronounce_h": "はし"},
+      {"korean": "건너다", "japanese": "渡る", "pronounce_h": "わたる"},
+      {"korean": "8초", "japanese": "八秒", "pronounce_h": "はちびょう"},
+      {"korean": "걸리다", "japanese": "掛かる", "pronounce_h": "かかる"}
+    ]
+  },
+  {
+    "id": 106,
+    "korean": "3분 후에 전화하겠습니다.",
+    "english": "I will call in 3 minutes.",
+    "japanese": "三分(ふん)後(ご)に 電話(でんわ)します。",
+    "pronounce_r": "Sanpun go ni denwa shimasu.",
+    "pronounce_h": "さんぷんごに でんわします。",
+    "words": [
+      {"korean": "3분", "japanese": "三分", "pronounce_h": "さんぷん"},
+      {"korean": "후", "japanese": "後", "pronounce_h": "ご"},
+      {"korean": "전화하다", "japanese": "電話する", "pronounce_h": "でんわする"}
+    ]
+  }
+]
