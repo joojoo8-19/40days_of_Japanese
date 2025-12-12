@@ -4,7 +4,7 @@
    * 0. 설정
    *********************************************************/
   const SENTENCE_JSON_PATH_TEMPLATE = 'data/curriculum/day{N}/data{N}.json'; 
-  const LECTURE_VIDEO_PATH_TEMPLATE = 'data/curriculum/day{N}/day{N}.mp4'; 
+  const LECTURE_VIDEO_PATH_TEMPLATE = 'data/curriculum/day{N}/lecture{N}.mp4'; 
   const LECTURE_PDF_PATH_TEMPLATE = 'data/curriculum/day{N}/study{N}.pdf'; 
 
   // fallback sample sentences (used if fetch fails)
