@@ -538,6 +538,7 @@
       }
       if(panel === 'grammar'){
         populateDaySelect(daySelectG)
+        loadLectureForDay(1)
       }
     });
   });
