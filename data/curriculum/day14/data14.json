@@ -1,0 +1,1137 @@
+[
+  {
+    "id": 1,
+    "korean": "편지를 읽는다면, 바로 답장을 쓰겠습니다.",
+    "english": "If I read the letter, I will write a reply immediately.",
+    "japanese": "手紙を 読んだら、すぐに 返事を 書きます。",
+    "pronounce_r": "Tegami o yondara, sugu ni henji o kakimasu.",
+    "pronounce_h": "てがみを よんだら、すぐに へんじを かきます。",
+    "words": [
+      {
+        "korean": "편지",
+        "japanese": "手紙",
+        "pronounce_h": "てがみ"
+      },
+      {
+        "korean": "읽다",
+        "japanese": "読む",
+        "pronounce_h": "よむ"
+      },
+      {
+        "korean": "바로/즉시",
+        "japanese": "すぐに",
+        "pronounce_h": "すぐに"
+      },
+      {
+        "korean": "답장",
+        "japanese": "返事",
+        "pronounce_h": "へんじ"
+      },
+      {
+        "korean": "쓰다",
+        "japanese": "書く",
+        "pronounce_h": "かく"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "그가 도착했다면, 나에게 전화해 주세요.",
+    "english": "If he arrives, please call me.",
+    "japanese": "彼が 着いた ら、私に 電話して ください。",
+    "pronounce_r": "Kare ga tsuitara, watashi ni denwa shite kudasai.",
+    "pronounce_h": "かれが ついたら、わたしに でんわして ください。",
+    "words": [
+      {
+        "korean": "그",
+        "japanese": "彼",
+        "pronounce_h": "かれ"
+      },
+      {
+        "korean": "도착하다",
+        "japanese": "着く",
+        "pronounce_h": "つく"
+      },
+      {
+        "korean": "나",
+        "japanese": "私",
+        "pronounce_h": "わたし"
+      },
+      {
+        "korean": "전화하다",
+        "japanese": "電話する",
+        "pronounce_h": "でんわする"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "아무것도 먹지 않는다면, 힘이 나지 않을 거예요.",
+    "english": "If you don't eat anything, you won't feel energized.",
+    "japanese": "何も 食べなかったら、元気が出ないでしょう。",
+    "pronounce_r": "Nani mo tabenakattara, genki ga denai deshō.",
+    "pronounce_h": "なにも たべなかったら、げんきが でないでしょう。",
+    "words": [
+      {
+        "korean": "아무것도",
+        "japanese": "何も",
+        "pronounce_h": "なにも"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      },
+      {
+        "korean": "힘/활기",
+        "japanese": "元気",
+        "pronounce_h": "げんき"
+      },
+      {
+        "korean": "나오다/나다",
+        "japanese": "出る",
+        "pronounce_h": "でる"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "내일이 쉬는 날이라면, 여행을 갈 수 있습니다.",
+    "english": "If tomorrow is a holiday, I can go on a trip.",
+    "japanese": "明日が 休み だったら、旅行に 行けます。",
+    "pronounce_r": "Ashita ga yasumi dattara, ryokō ni ikemasu.",
+    "pronounce_h": "あしたが やすみ だったら、りょこうに いけます。",
+    "words": [
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "휴일/쉬는 날",
+        "japanese": "休み",
+        "pronounce_h": "やすみ"
+      },
+      {
+        "korean": "여행",
+        "japanese": "旅行",
+        "pronounce_h": "りょこう"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "방이 깨끗하다면, 바로 이사할 거예요.",
+    "english": "If the room is clean, I will move immediately.",
+    "japanese": "部屋が きれい だったら、すぐに 引っ越します。",
+    "pronounce_r": "Heya ga kirei dattara, sugu ni hikkoshimasu.",
+    "pronounce_h": "へやが きれい だったら、すぐに ひっこします。",
+    "words": [
+      {
+        "korean": "방",
+        "japanese": "部屋",
+        "pronounce_h": "へや"
+      },
+      {
+        "korean": "깨끗하다",
+        "japanese": "きれい",
+        "pronounce_h": "きれい"
+      },
+      {
+        "korean": "바로/즉시",
+        "japanese": "すぐに",
+        "pronounce_h": "すぐに"
+      },
+      {
+        "korean": "이사하다",
+        "japanese": "引っ越す",
+        "pronounce_h": "ひっこす"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "비가 오지 않는다면, 산책하러 나갑시다.",
+    "english": "If it's not raining, let's go for a walk.",
+    "japanese": "雨では なかったら、散歩に 行きましょう。",
+    "pronounce_r": "Ame de wa nakattara, sanpo ni ikimashō.",
+    "pronounce_h": "あめでは なかったら、さんぽに いきましょう。",
+    "words": [
+      {
+        "korean": "비",
+        "japanese": "雨",
+        "pronounce_h": "あめ"
+      },
+      {
+        "korean": "산책",
+        "japanese": "散歩",
+        "pronounce_h": "さんぽ"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "날씨가 좋다면, 공원에서 만나요.",
+    "english": "If the weather is good, let's meet at the park.",
+    "japanese": "天気が 良かったら、公園で 会いましょう。",
+    "pronounce_r": "Tenki ga yokattara, kōen de aimashō.",
+    "pronounce_h": "てんきが よかったら、こうえんで あいましょう。",
+    "words": [
+      {
+        "korean": "날씨",
+        "japanese": "天気",
+        "pronounce_h": "てんき"
+      },
+      {
+        "korean": "좋다",
+        "japanese": "良い",
+        "pronounce_h": "よい"
+      },
+      {
+        "korean": "공원",
+        "japanese": "公園",
+        "pronounce_h": "こうえん"
+      },
+      {
+        "korean": "만나다",
+        "japanese": "会う",
+        "pronounce_h": "あう"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "너무 추웠다면, 에어컨을 끄면 좋았을 텐데.",
+    "english": "If it was too cold, you should have turned off the air conditioner.",
+    "japanese": "あまり 寒かったら、エアコンを 消せば よかったのに。",
+    "pronounce_r": "Amari samukattara, eakon o keseba yokatta noni.",
+    "pronounce_h": "あまり さむかったら、エアコンを けせば よかったのに。",
+    "words": [
+      {
+        "korean": "너무",
+        "japanese": "あまり",
+        "pronounce_h": "あまり"
+      },
+      {
+        "korean": "춥다",
+        "japanese": "寒い",
+        "pronounce_h": "さむい"
+      },
+      {
+        "korean": "에어컨",
+        "japanese": "エアコン",
+        "pronounce_h": "エアコン"
+      },
+      {
+        "korean": "끄다",
+        "japanese": "消す",
+        "pronounce_h": "けす"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "이 펜이 좋지 않다면, 다른 것을 사세요.",
+    "english": "If this pen is not good, please buy another one.",
+    "japanese": "このペンが 良くなかったら、別のものを 買って ください。",
+    "pronounce_r": "Kono pen ga yoku nakattara, betsu no mono o katte kudasai.",
+    "pronounce_h": "このペンが よくなかったら、べつのものを かって ください。",
+    "words": [
+      {
+        "korean": "이 펜",
+        "japanese": "このペン",
+        "pronounce_h": "このペン"
+      },
+      {
+        "korean": "좋다",
+        "japanese": "良い",
+        "pronounce_h": "よい"
+      },
+      {
+        "korean": "다른",
+        "japanese": "別",
+        "pronounce_h": "べつ"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "시간이 있다면, 영화를 보러 가고 싶습니다.",
+    "english": "If I have time, I want to go see a movie.",
+    "japanese": "時間が あれば、映画を 見に行きたいです。",
+    "pronounce_r": "Jikan ga areba, eiga o mi ni ikitai desu.",
+    "pronounce_h": "じかんが あれば、えいがを みにいきたいです。",
+    "words": [
+      {
+        "korean": "시간",
+        "japanese": "時間",
+        "pronounce_h": "じかん"
+      },
+      {
+        "korean": "있다",
+        "japanese": "ある",
+        "pronounce_h": "ある"
+      },
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "보러 가다",
+        "japanese": "見に行く",
+        "pronounce_h": "みにいく"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "약속을 어기지 않는다면, 그를 용서할 수 있습니다.",
+    "english": "If he doesn't break his promise, I can forgive him.",
+    "japanese": "約束を 破らなければ、彼を 許せます。",
+    "pronounce_r": "Yakusoku o yaburanakereba, kare o yurusumasu.",
+    "pronounce_h": "やくそくを やぶらなければ、かれを ゆるせます。",
+    "words": [
+      {
+        "korean": "약속",
+        "japanese": "約束",
+        "pronounce_h": "やくそく"
+      },
+      {
+        "korean": "어기다/깨다",
+        "japanese": "破る",
+        "pronounce_h": "やぶる"
+      },
+      {
+        "korean": "그",
+        "japanese": "彼",
+        "pronounce_h": "かれ"
+      },
+      {
+        "korean": "용서하다",
+        "japanese": "許す",
+        "pronounce_h": "ゆるす"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "가격이 저렴하다면, 바로 구입할게요.",
+    "english": "If the price is cheap, I will purchase it immediately.",
+    "japanese": "値段が 安ければ、すぐに 購入します。",
+    "pronounce_r": "Nedan ga yasukereba, sugu ni kōnyū shimasu.",
+    "pronounce_h": "ねだんが やすければ、すぐに こうにゅうします。",
+    "words": [
+      {
+        "korean": "가격",
+        "japanese": "値段",
+        "pronounce_h": "ねだん"
+      },
+      {
+        "korean": "싸다/저렴하다",
+        "japanese": "安い",
+        "pronounce_h": "やすい"
+      },
+      {
+        "korean": "바로/즉시",
+        "japanese": "すぐに",
+        "pronounce_h": "すぐに"
+      },
+      {
+        "korean": "구입하다",
+        "japanese": "購入する",
+        "pronounce_h": "こうにゅうする"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "짐이 무겁지 않다면, 제가 들겠습니다.",
+    "english": "If the luggage is not heavy, I will carry it.",
+    "japanese": "荷物が 重く なければ、私が 持ちます。",
+    "pronounce_r": "Nimotsu ga omoku nakereba, watashi ga mochimasu.",
+    "pronounce_h": "にもつが おもく なければ、わたしが もちます。",
+    "words": [
+      {
+        "korean": "짐",
+        "japanese": "荷物",
+        "pronounce_h": "にもつ"
+      },
+      {
+        "korean": "무겁다",
+        "japanese": "重い",
+        "pronounce_h": "おもい"
+      },
+      {
+        "korean": "나",
+        "japanese": "私",
+        "pronounce_h": "わたし"
+      },
+      {
+        "korean": "들다/가지다",
+        "japanese": "持つ",
+        "pronounce_h": "もつ"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "바쁘지 않다면, 조금 이야기하고 싶습니다.",
+    "english": "If you're not busy, I'd like to talk a little.",
+    "japanese": "忙しく なければ、少し 話したいです。",
+    "pronounce_r": "Isogashiku nakereba, sukoshi hanashitai desu.",
+    "pronounce_h": "いそがしく なければ、すこし はなしたいです。",
+    "words": [
+      {
+        "korean": "바쁘다",
+        "japanese": "忙しい",
+        "pronounce_h": "いそがしい"
+      },
+      {
+        "korean": "조금",
+        "japanese": "少し",
+        "pronounce_h": "すこし"
+      },
+      {
+        "korean": "이야기하다",
+        "japanese": "話す",
+        "pronounce_h": "はなす"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "지금 바로 답장을 기다려야 합니다.",
+    "english": "You must wait for the reply right now.",
+    "japanese": "今 すぐに 返事を 待たなければ なりません。",
+    "pronounce_r": "Ima sugu ni henji o matanakereba narimasen.",
+    "pronounce_h": "いま すぐに へんじを またなければ なりません。",
+    "words": [
+      {
+        "korean": "지금",
+        "japanese": "今",
+        "pronounce_h": "いま"
+      },
+      {
+        "korean": "바로/즉시",
+        "japanese": "すぐに",
+        "pronounce_h": "すぐに"
+      },
+      {
+        "korean": "답장",
+        "japanese": "返事",
+        "pronounce_h": "へんじ"
+      },
+      {
+        "korean": "기다리다",
+        "japanese": "待つ",
+        "pronounce_h": "まつ"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "잊어버리지 않도록 메모를 해야 합니다.",
+    "english": "I must take a memo so I don't forget.",
+    "japanese": "忘れないように、メモを しなければ なりません。",
+    "pronounce_r": "Wasurenai yō ni, memo o shinakereba narimasen.",
+    "pronounce_h": "わすれないように、メモを しなければ なりません。",
+    "words": [
+      {
+        "korean": "잊다",
+        "japanese": "忘れる",
+        "pronounce_h": "わすれる"
+      },
+      {
+        "korean": "메모",
+        "japanese": "メモ",
+        "pronounce_h": "メモ"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "회의에 늦었기 때문에, 사과해야 했습니다.",
+    "english": "Because I was late for the meeting, I had to apologize.",
+    "japanese": "会議に 遅れたから、謝らなければ なりませんでした。",
+    "pronounce_r": "Kaigi ni okureta kara, ayamaranakereba narimasen deshita.",
+    "pronounce_h": "かいぎに おくれたから、あやまらなければ なりませんでした。",
+    "words": [
+      {
+        "korean": "회의",
+        "japanese": "会議",
+        "pronounce_h": "かいぎ"
+      },
+      {
+        "korean": "늦다",
+        "japanese": "遅れる",
+        "pronounce_h": "おくれる"
+      },
+      {
+        "korean": "사과하다",
+        "japanese": "謝る",
+        "pronounce_h": "あやまる"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "점심시간까지는 계속 회의를 합니다.",
+    "english": "We will continue the meeting until lunchtime.",
+    "japanese": "昼休み まで は ずっと 会議を します。",
+    "pronounce_r": "Hiru yasumi made wa zutto kaigi o shimasu.",
+    "pronounce_h": "ひるやすみ まで は ずっと かいぎを します。",
+    "words": [
+      {
+        "korean": "점심시간",
+        "japanese": "昼休み",
+        "pronounce_h": "ひるやすみ"
+      },
+      {
+        "korean": "계속",
+        "japanese": "ずっと",
+        "pronounce_h": "ずっと"
+      },
+      {
+        "korean": "회의",
+        "japanese": "会議",
+        "pronounce_h": "かいぎ"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "이 버스는 서울역까지 갑니다.",
+    "english": "This bus goes as far as Seoul Station.",
+    "japanese": "このバスは ソウル駅 まで 行きます。",
+    "pronounce_r": "Kono basu wa Souru eki made ikimasu.",
+    "pronounce_h": "このバスは ソウルえき まで いきます。",
+    "words": [
+      {
+        "korean": "이 버스",
+        "japanese": "このバス",
+        "pronounce_h": "このバス"
+      },
+      {
+        "korean": "서울역",
+        "japanese": "ソウル駅",
+        "pronounce_h": "ソウルえき"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "밤이 될 때까지 계속 공부했어요.",
+    "english": "I kept studying until it became night.",
+    "japanese": "夜になる まで 勉強し続けました。",
+    "pronounce_r": "Yoru ni naru made benkyō shitsuzukemashita.",
+    "pronounce_h": "よるになる まで べんきょうしつづけました。",
+    "words": [
+      {
+        "korean": "밤",
+        "japanese": "夜",
+        "pronounce_h": "よる"
+      },
+      {
+        "korean": "되다",
+        "japanese": "なる",
+        "pronounce_h": "なる"
+      },
+      {
+        "korean": "공부하다",
+        "japanese": "勉強する",
+        "pronounce_h": "べんきょうする"
+      },
+      {
+        "korean": "계속하다",
+        "japanese": "続ける",
+        "pronounce_h": "つづける"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "내일 아침 9시까지 과제를 제출해야 합니다.",
+    "english": "You must submit the assignment by 9 AM tomorrow.",
+    "japanese": "明日の 朝九時 までに 課題を 提出しなければ なりません。",
+    "pronounce_r": "Ashita no asa kuji made ni kadai o teishutsu shinakereba narimasen.",
+    "pronounce_h": "あしたの あさ くじ までに かだいを ていしゅつしなければ なりません。",
+    "words": [
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "아침",
+        "japanese": "朝",
+        "pronounce_h": "あさ"
+      },
+      {
+        "korean": "아홉 시",
+        "japanese": "九時",
+        "pronounce_h": "くじ"
+      },
+      {
+        "korean": "과제",
+        "japanese": "課題",
+        "pronounce_h": "かだい"
+      },
+      {
+        "korean": "제출하다",
+        "japanese": "提出する",
+        "pronounce_h": "ていしゅつする"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "회의 시작 시간까지는 도착할게요.",
+    "english": "I will arrive by the meeting start time.",
+    "japanese": "会議の 開始時間 までに は 着きます。",
+    "pronounce_r": "Kaigi no kaishi jikan made ni wa tsukimasu.",
+    "pronounce_h": "かいぎの かいしじかん までに は つきます。",
+    "words": [
+      {
+        "korean": "회의",
+        "japanese": "会議",
+        "pronounce_h": "かいぎ"
+      },
+      {
+        "korean": "시작 시간",
+        "japanese": "開始時間",
+        "pronounce_h": "かいしじかん"
+      },
+      {
+        "korean": "도착하다",
+        "japanese": "着く",
+        "pronounce_h": "つく"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "이달 말까지 이 책을 전부 읽을 예정입니다.",
+    "english": "I plan to read this entire book by the end of this month.",
+    "japanese": "今月末 までに、この本を 全部 読む 予定です。",
+    "pronounce_r": "Kongetsumatsu made ni, kono hon o zenbu yomu yotei desu.",
+    "pronounce_h": "こんげつまつ までに、このほんを ぜんぶ よむ よていです。",
+    "words": [
+      {
+        "korean": "이달 말",
+        "japanese": "今月末",
+        "pronounce_h": "こんげつまつ"
+      },
+      {
+        "korean": "이 책",
+        "japanese": "この本",
+        "pronounce_h": "このほん"
+      },
+      {
+        "korean": "전부",
+        "japanese": "全部",
+        "pronounce_h": "ぜんぶ"
+      },
+      {
+        "korean": "읽다",
+        "japanese": "読む",
+        "pronounce_h": "よむ"
+      },
+      {
+        "korean": "예정",
+        "japanese": "予定",
+        "pronounce_h": "よてい"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "아프다면, 학교에 가지 않아도 됩니다.",
+    "english": "If you are sick/in pain, you don't have to go to school.",
+    "japanese": "痛かったら、学校に 行かなくても いいです。",
+    "pronounce_r": "Itakattara, gakkō ni ikanakutemo ii desu.",
+    "pronounce_h": "いたかったら、がっこうに いかなくても いいです。",
+    "words": [
+      {
+        "korean": "아프다",
+        "japanese": "痛い",
+        "pronounce_h": "いたい"
+      },
+      {
+        "korean": "학교",
+        "japanese": "学校",
+        "pronounce_h": "がっこう"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "방이 춥다면, 창문을 닫으세요.",
+    "english": "If the room is cold, please close the window.",
+    "japanese": "部屋が 寒ければ、窓を 閉めて ください。",
+    "pronounce_r": "Heya ga samukereba, mado o shimete kudasai.",
+    "pronounce_h": "へやが さむければ、まどを しめて ください。",
+    "words": [
+      {
+        "korean": "춥다",
+        "japanese": "寒い",
+        "pronounce_h": "さむい"
+      },
+      {
+        "korean": "창문",
+        "japanese": "窓",
+        "pronounce_h": "まど"
+      },
+      {
+        "korean": "닫다",
+        "japanese": "閉める",
+        "pronounce_h": "しめる"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "korean": "그가 거짓말쟁이라면, 믿어서는 안 됩니다.",
+    "english": "If he is a liar, you must not believe him.",
+    "japanese": "彼が 嘘つき だったら、信じては いけません。",
+    "pronounce_r": "Kare ga usotsuki dattara, shinjite wa ikemasen.",
+    "pronounce_h": "かれが うそつき だったら、しんじては いけません。",
+    "words": [
+      {
+        "korean": "거짓말쟁이",
+        "japanese": "嘘つき",
+        "pronounce_h": "うそつき"
+      },
+      {
+        "korean": "믿다",
+        "japanese": "信じる",
+        "pronounce_h": "しんじる"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "korean": "내일 비가 온다면, 영화를 보러 갑시다.",
+    "english": "If it rains tomorrow, let's go see a movie.",
+    "japanese": "明日 雨 だったら、映画を 見に行きましょう。",
+    "pronounce_r": "Ashita ame dattara, eiga o mi ni ikimashō.",
+    "pronounce_h": "あした あめ だったら、えいがを みにいましょう。",
+    "words": [
+      {
+        "korean": "비",
+        "japanese": "雨",
+        "pronounce_h": "あめ"
+      },
+      {
+        "korean": "보러 가다",
+        "japanese": "見に行く",
+        "pronounce_h": "みにいく"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "korean": "만약 그곳에 도착했더라면, 전화했을 거예요.",
+    "english": "If I had arrived there, I would have called you.",
+    "japanese": "そこに 着いた ら、電話しましたよ。",
+    "pronounce_r": "Soko ni tsuitara, denwa shimashita yo.",
+    "pronounce_h": "そこに ついたら、でんわしましたよ。",
+    "words": [
+      {
+        "korean": "도착하다",
+        "japanese": "着く",
+        "pronounce_h": "つく"
+      },
+      {
+        "korean": "전화하다",
+        "japanese": "電話する",
+        "pronounce_h": "でんわする"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "korean": "돈이 있다면, 새 차를 살 수 있습니다.",
+    "english": "If I have money, I can buy a new car.",
+    "japanese": "お金が あれば、新しい 車を 買えます。",
+    "pronounce_r": "Okane ga areba, atarashii kuruma o kaemasu.",
+    "pronounce_h": "おかねが あれば、あたらしい くるまを かえます。",
+    "words": [
+      {
+        "korean": "돈",
+        "japanese": "お金",
+        "pronounce_h": "おかね"
+      },
+      {
+        "korean": "있다",
+        "japanese": "ある",
+        "pronounce_h": "ある"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "korean": "이 일이 어렵다면, 나에게 말해 주세요.",
+    "english": "If this work is difficult, please tell me.",
+    "japanese": "この仕事が 難しければ、私に 言って ください。",
+    "pronounce_r": "Kono shigoto ga muzukashikereba, watashi ni itte kudasai.",
+    "pronounce_h": "この しごとが むずかしければ、わたしに いって ください。",
+    "words": [
+      {
+        "korean": "어렵다",
+        "japanese": "難しい",
+        "pronounce_h": "むずかしい"
+      },
+      {
+        "korean": "말하다",
+        "japanese": "言う",
+        "pronounce_h": "いう"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "korean": "100을 넘는다면, 100보다 큰 수입니다.",
+    "english": "If it exceeds 100, it is a number larger than 100.",
+    "japanese": "百を 超えたら、百より 大きい 数です。",
+    "pronounce_r": "Hyaku o koetara, hyaku yori ōkii kazu desu.",
+    "pronounce_h": "ひゃくを こえたら、ひゃくより おおきい かずです。",
+    "words": [
+      {
+        "korean": "넘다",
+        "japanese": "超える",
+        "pronounce_h": "こえる"
+      },
+      {
+        "korean": "크다",
+        "japanese": "大きい",
+        "pronounce_h": "おおきい"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "korean": "돈을 쓰지 않는다면, 저축할 수 있어요.",
+    "english": "If you don't spend money, you can save.",
+    "japanese": "お金を 使わなければ、貯金できます。",
+    "pronounce_r": "Okane o tsawanakereba, chokin dekimasu.",
+    "pronounce_h": "おかねを つかわなければ、ちょきんできます。",
+    "words": [
+      {
+        "korean": "쓰다",
+        "japanese": "使う",
+        "pronounce_h": "つかう"
+      },
+      {
+        "korean": "저축하다",
+        "japanese": "貯金する",
+        "pronounce_h": "ちょきんする"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "korean": "내일까지 그에게 연락해야 합니다.",
+    "english": "You must contact him by tomorrow.",
+    "japanese": "明日 までに 彼に 連絡しなければ なりません。",
+    "pronounce_r": "Ashita made ni kare ni renraku shinakereba narimasen.",
+    "pronounce_h": "あした までに かれに れんらくしなければ なりません。",
+    "words": [
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "연락하다",
+        "japanese": "連絡する",
+        "pronounce_h": "れんらくする"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "korean": "건강을 위해 야채를 먹어야 합니다.",
+    "english": "For your health, you must eat vegetables.",
+    "japanese": "健康のために、野菜を 食べなければ なりません。",
+    "pronounce_r": "Kenkō no tame ni, yasai o tabenakereba narimasen.",
+    "pronounce_h": "けんこうのために、やさいを たべなければ なりません。",
+    "words": [
+      {
+        "korean": "건강",
+        "japanese": "健康",
+        "pronounce_h": "けんこう"
+      },
+      {
+        "korean": "야채",
+        "japanese": "野菜",
+        "pronounce_h": "やさい"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "korean": "규칙을 지키지 않으면 안 됩니다.",
+    "english": "You must observe the rules.",
+    "japanese": "規則を 守らなければ なりません。",
+    "pronounce_r": "Kisoku o mamoranakereba narimasen.",
+    "pronounce_h": "きそくを まもらなければ なりません。",
+    "words": [
+      {
+        "korean": "규칙",
+        "japanese": "規則",
+        "pronounce_h": "きそく"
+      },
+      {
+        "korean": "지키다",
+        "japanese": "守る",
+        "pronounce_h": "まもる"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "korean": "시험에 합격하려면, 열심히 공부해야 합니다.",
+    "english": "To pass the exam, you must study hard.",
+    "japanese": "試験に 合格したら、一生懸命 勉強しなければ なりません。",
+    "pronounce_r": "Shiken ni gōkaku shitara, isshōkenmei benkyō shinakereba narimasen.",
+    "pronounce_h": "しけんに ごうかくしたら、いっしょうけんめい べんきょうしなければ なりません。",
+    "words": [
+      {
+        "korean": "시험",
+        "japanese": "試験",
+        "pronounce_h": "しけん"
+      },
+      {
+        "korean": "합격하다",
+        "japanese": "合格する",
+        "pronounce_h": "ごうかくする"
+      },
+      {
+        "korean": "공부하다",
+        "japanese": "勉強する",
+        "pronounce_h": "べんきょうする"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "korean": "다음 주 월요일까지 숙제를 제출하세요.",
+    "english": "Please submit your homework by next Monday.",
+    "japanese": "来週の 月曜日 までに 宿題を 出して ください。",
+    "pronounce_r": "Raishū no getsuyōbi made ni shukudai o dashite kudasai.",
+    "pronounce_h": "らいしゅうの げつようび までに しゅくだいを だして ください。",
+    "words": [
+      {
+        "korean": "다음 주",
+        "japanese": "来週",
+        "pronounce_h": "らいしゅう"
+      },
+      {
+        "korean": "월요일",
+        "japanese": "月曜日",
+        "pronounce_h": "げつようび"
+      },
+      {
+        "korean": "숙제",
+        "japanese": "宿題",
+        "pronounce_h": "しゅくだい"
+      },
+      {
+        "korean": "제출하다/내다",
+        "japanese": "出す",
+        "pronounce_h": "だす"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "korean": "밤 11시까지 일했습니다.",
+    "english": "I worked until 11 PM.",
+    "japanese": "夜の十一時 まで 働きました。",
+    "pronounce_r": "Yoru no jūichiji made hatarakimashita.",
+    "pronounce_h": "よるの じゅういちじ まで はたらきました。",
+    "words": [
+      {
+        "korean": "밤",
+        "japanese": "夜",
+        "pronounce_h": "よる"
+      },
+      {
+        "korean": "일하다",
+        "japanese": "働く",
+        "pronounce_h": "はたらく"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "korean": "회의 시작 전에 자료를 준비해야 합니다.",
+    "english": "I must prepare the materials before the meeting starts.",
+    "japanese": "会議の 前 までに 資料を 準備しなければ なりません。",
+    "pronounce_r": "Kaigi no mae made ni shiryō o junbi shinakereba narimasen.",
+    "pronounce_h": "かいぎの まえ までに しりょうを じゅんびしなければ なりません。",
+    "words": [
+      {
+        "korean": "회의",
+        "japanese": "会議",
+        "pronounce_h": "かいぎ"
+      },
+      {
+        "korean": "전",
+        "japanese": "前",
+        "pronounce_h": "まえ"
+      },
+      {
+        "korean": "자료",
+        "japanese": "資料",
+        "pronounce_h": "しりょう"
+      },
+      {
+        "korean": "준비하다",
+        "japanese": "準備する",
+        "pronounce_h": "じゅんびする"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "korean": "비가 그칠 때까지 이 카페에 있을 거예요.",
+    "english": "I will stay in this cafe until the rain stops.",
+    "japanese": "雨が 止む まで この喫茶店に いる つもりです。",
+    "pronounce_r": "Ame ga yamu made kono kissaten ni iru tsumori desu.",
+    "pronounce_h": "あめが やむ まで この きっさてんに いる つもりです。",
+    "words": [
+      {
+        "korean": "그치다",
+        "japanese": "止む",
+        "pronounce_h": "やむ"
+      },
+      {
+        "korean": "카페",
+        "japanese": "喫茶店",
+        "pronounce_h": "きっさてん"
+      },
+      {
+        "korean": "있다",
+        "japanese": "いる",
+        "pronounce_h": "いる"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "korean": "만약 그 영화가 명작이라면, 또 보고 싶어요.",
+    "english": "If that movie is a masterpiece, I want to see it again.",
+    "japanese": "もし その映画が 名作 だったら、また 見たいです。",
+    "pronounce_r": "Moshi sono eiga ga meisaku dattara, mata mitai desu.",
+    "pronounce_h": "もし その えいがが めいさく だったら、また みたいです。",
+    "words": [
+      {
+        "korean": "명작",
+        "japanese": "名作",
+        "pronounce_h": "めいさく"
+      },
+      {
+        "korean": "다시",
+        "japanese": "また",
+        "pronounce_h": "また"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "korean": "여기가 편리하다면, 여기에 살고 싶습니다.",
+    "english": "If this place is convenient, I want to live here.",
+    "japanese": "ここが 便利 だったら、ここに 住みたいです。",
+    "pronounce_r": "Koko ga benri dattara, koko ni sumitai desu.",
+    "pronounce_h": "ここが べんり だったら、ここに すみたいです。",
+    "words": [
+      {
+        "korean": "편리하다",
+        "japanese": "便利",
+        "pronounce_h": "べんり"
+      },
+      {
+        "korean": "살다",
+        "japanese": "住む",
+        "pronounce_h": "すむ"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "korean": "이 옷이 싸다면, 세 벌을 사겠습니다.",
+    "english": "If this clothing is cheap, I will buy three pieces.",
+    "japanese": "この服が 安かったら、三着 買います。",
+    "pronounce_r": "Kono fuku ga yasukattara, sanchaku kaimasu.",
+    "pronounce_h": "この ふくが やすかったら、さんちゃく かいます。",
+    "words": [
+      {
+        "korean": "싸다",
+        "japanese": "安い",
+        "pronounce_h": "やすい"
+      },
+      {
+        "korean": "세 벌",
+        "japanese": "三着",
+        "pronounce_h": "さんちゃく"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
+    ]
+  }
+]
