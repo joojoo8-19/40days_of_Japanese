@@ -81,7 +81,7 @@
     "pronounce_h": "おいしい ものが たべたい。",
     "words": [
       {"korean": "맛있다", "japanese": "美味しい", "pronounce_h": "おいしい"},
-      {"korean": "먹다", "japanese": "食べる (食べたい)", "pronounce_h": "たべる (たべたい)"}
+      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
     ]
   },
   {
@@ -118,7 +118,7 @@
     "pronounce_h": "おんせんに いきたいです。",
     "words": [
       {"korean": "온천", "japanese": "温泉", "pronounce_h": "おんせん"},
-      {"korean": "가다", "japanese": "行く (行きたい)", "pronounce_h": "いく (いきたい)"}
+      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
     ]
   },
   {
@@ -143,7 +143,7 @@
     "pronounce_h": "すりむに なりたい。",
     "words": [
       {"korean": "슬림(날씬)", "japanese": "スリム", "pronounce_h": "すりむ"},
-      {"korean": "되다", "japanese": "なる (なりたい)", "pronounce_h": "なる (なりたい)"}
+      {"korean": "되다", "japanese": "なる", "pronounce_h": "なる"}
     ]
   },
   {
@@ -338,8 +338,8 @@
     "pronounce_r": "Tabete iru no o mita.",
     "pronounce_h": "たべているのを みた。",
     "words": [
-      {"korean": "먹다", "japanese": "食べる (食べている)", "pronounce_h": "たべる (たべている)"},
-      {"korean": "보다", "japanese": "見る (見た)", "pronounce_h": "みる (みた)"}
+      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"},
+      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
     ]
   },
   {
@@ -441,7 +441,7 @@
     "pronounce_r": "Tabetai desu ga, okane ga nai desu.",
     "pronounce_h": "たべたいですが、おかねが ないです。",
     "words": [
-      {"korean": "먹다", "japanese": "食べる (食べたい)", "pronounce_h": "たべる (たべたい)"},
+      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"},
       {"korean": "돈", "japanese": "お金", "pronounce_h": "おかね"},
       {"korean": "없다", "japanese": "ない", "pronounce_h": "ない"}
     ]
@@ -454,7 +454,7 @@
     "pronounce_r": "Isogashii keredo, daijoubu.",
     "pronounce_h": "いそがしいけれど、だいじょうぶ。",
     "words": [
-      {"korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "이そがしい"},
+      {"korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそがしい"},
       {"korean": "괜찮다", "japanese": "大丈夫だ", "pronounce_h": "だいじょうぶだ"}
     ]
   },
@@ -529,7 +529,7 @@
     "words": [
       {"korean": "병", "japanese": "病気", "pronounce_h": "びょうき"},
       {"korean": "학교", "japanese": "学校", "pronounce_h": "がっこう"},
-      {"korean": "쉬다", "japanese": "休む (休みました)", "pronounce_h": "やすむ (やすみました)"}
+      {"korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ"}
     ]
   },
   {
@@ -553,8 +553,8 @@
     "pronounce_h": "さいふを わすれて こまりました。",
     "words": [
       {"korean": "지갑", "japanese": "財布", "pronounce_h": "さいふ"},
-      {"korean": "잊어버리다", "japanese": "忘れる (忘れて)", "pronounce_h": "わすれる (わすれて)"},
-      {"korean": "곤란하다", "japanese": "困る (困りました)", "pronounce_h": "こまる (こまりました)"}
+      {"korean": "잊어버리다", "japanese": "忘れる", "pronounce_h": "わすれる"},
+      {"korean": "곤란하다", "japanese": "困る", "pronounce_h": "こまる"}
     ]
   }
 ]

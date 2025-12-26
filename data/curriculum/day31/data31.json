@@ -84,7 +84,7 @@
     "id": 8,
     "korean": "급한 일이 생겼어.",
     "english": "Something urgent came up.",
-    "japanese": "急用가できたの。",
+    "japanese": "急用ができたの。",
     "pronounce_r": "Kyuuyou ga dekita no.",
     "pronounce_h": "きゅうようが できたの。",
     "words": [
@@ -145,7 +145,7 @@
     "pronounce_h": "ここは わたしの へやだ",
     "words": [
       {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
-      {"korean": "방", "japanese": "部屋", "pronounce_h": "へ야"}
+      {"korean": "방", "japanese": "部屋", "pronounce_h": "へや"}
     ]
   },
   {
@@ -252,7 +252,7 @@
     "pronounce_h": "はは[は] こうむいんだった",
     "words": [
       {"korean": "어머니", "japanese": "母", "pronounce_h": "はは"},
-      {"korean": "공무원", "japanese": "公무원", "pronounce_h": "こうむいん"}
+      {"korean": "공무원", "japanese": "公務員", "pronounce_h": "こうむいん"}
     ]
   },
   {
@@ -341,7 +341,7 @@
     "id": 30,
     "korean": "내일이 아니야. 모레야.",
     "english": "It's not tomorrow. It's the day after tomorrow.",
-    "japanese": "明日じゃないよ。明後일だよ。",
+    "japanese": "明日じゃないよ。明後日だよ。",
     "pronounce_r": "Ashita janai yo. Asatte dayo.",
     "pronounce_h": "あしたじゃないよ。あさってだよ。",
     "words": [
@@ -378,7 +378,7 @@
     "english": "The culprit was not him.",
     "japanese": "犯人は彼じゃなかった",
     "pronounce_r": "Hannin wa kare janakatta",
-    "pronounce_h": "はんにん[은] かれじゃなかった",
+    "pronounce_h": "はんにん[は] かれじゃなかった",
     "words": [
       {"korean": "범인", "japanese": "犯人", "pronounce_h": "はんにん"}
     ]
@@ -411,7 +411,7 @@
     "english": "Was yesterday a day off?",
     "japanese": "昨日、休みだったの？",
     "pronounce_r": "Kinou, yasumi datta no?",
-    "pronounce_h": "きのう、やすみだった의？",
+    "pronounce_h": "きのう、やすみだったの？",
     "words": [
       {"korean": "쉬는 날/휴일", "japanese": "休み", "pronounce_h": "やすみ"}
     ]
@@ -484,7 +484,7 @@
     "pronounce_r": "Ketsuekigata wa nanigata desu ka?",
     "pronounce_h": "けつえきがたは なにがたですか？",
     "words": [
-      {"korean": "혈액형", "japanese": "血液型", "pronounce_h": "けつえき가た"}
+      {"korean": "혈액형", "japanese": "血液型", "pronounce_h": "けつえきがた"}
     ]
   },
   {
@@ -495,7 +495,7 @@
     "pronounce_r": "Watashi wa ee-gata desu",
     "pronounce_h": "わたし[は] Aがたです",
     "words": [
-      {"korean": "형", "japanese": "型", "pronounce_h": "가타"}
+      {"korean": "형", "japanese": "型", "pronounce_h": "がた"}
     ]
   },
   {
@@ -645,7 +645,7 @@
     "english": "I didn't have part-time work today.",
     "japanese": "今日はバイトじゃなかったです",
     "pronounce_r": "Kyou wa baito janakatta desu",
-    "pronounce_h": "きょう[は] ばいとじゃなかった입니다",
+    "pronounce_h": "きょう[は] ばいとじゃなかったです",
     "words": [
       {"korean": "아르바이트", "japanese": "バイト", "pronounce_h": "ばいと"}
     ]
