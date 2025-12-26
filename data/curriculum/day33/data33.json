@@ -218,7 +218,6 @@
     "english": "The park in front of the station was lively.",
     "japanese": "駅前の 公園は 賑やかでした。",
     "pronounce_r": "Ekimae no kōen wa nigiyaka deshita.",
-    "pronounce_h": "えきまえ의 こうえんわ にぎやかでした",
     "pronounce_h": "えきまえの こうえんわ にぎやかでした",
     "words": [
       {"korean": "역 앞", "japanese": "駅前", "pronounce_h": "えきまえ"},
@@ -288,7 +287,6 @@
     "english": "She is not foolish.",
     "japanese": "彼女は 馬鹿じゃないです。",
     "pronounce_r": "Kanojo wa baka janai desu.",
-    "pronounce_h": "かのじょわ ばかじゃない입니다",
     "pronounce_h": "かのじょわ ばかじゃないです",
     "words": [
       {"korean": "어리석다/바보", "japanese": "馬鹿だ", "pronounce_h": "ばかだ"}
