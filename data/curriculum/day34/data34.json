@@ -1,0 +1,754 @@
+[
+  {
+    "id": 1,
+    "korean": "택시를 불렀어요",
+    "english": "I called a taxi.",
+    "japanese": "タクシーを 呼びました。",
+    "pronounce_r": "Takushī o yobimashita.",
+    "pronounce_h": "たくしーを よびました",
+    "words": [
+      {"korean": "택시", "japanese": "タクシー", "pronounce_h": "たくしー"},
+      {"korean": "부르다", "japanese": "呼ぶ", "pronounce_h": "よぶ"}
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "열쇠를 잃어버렸어요",
+    "english": "I lost my key.",
+    "japanese": "鍵を なくしました。",
+    "pronounce_r": "Kagi o nakushimashita.",
+    "pronounce_h": "かぎ를 なくしました",
+    "words": [
+      {"korean": "열쇠", "japanese": "鍵", "pronounce_h": "かぎ"},
+      {"korean": "잃어버리다", "japanese": "なくす", "pronounce_h": "なくす"}
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "그녀는 요리 콘테스트에 나가서 우승 했어요",
+    "english": "She entered a cooking contest and won.",
+    "japanese": "彼女は 料理コンテストに 出て 優勝しました。",
+    "pronounce_r": "Kanojo wa ryōri kontesuto ni dete yūshō shimashita.",
+    "pronounce_h": "かのじょわ りょうりこんてすと に でて ゆうしょうしました",
+    "words": [
+      {"korean": "그녀", "japanese": "彼女", "pronounce_h": "かのじょ"},
+      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"},
+      {"korean": "나가다", "japanese": "出る", "pronounce_h": "でる"},
+      {"korean": "우승하다", "japanese": "優勝する", "pronounce_h": "ゆうしょうする"}
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "전화 받았습니다(바꿨습니다)",
+    "english": "I've taken over the call.",
+    "japanese": "お電話 かわりました。",
+    "pronounce_r": "Odenwa kawarimashita.",
+    "pronounce_h": "おでんわ かわりました",
+    "words": [
+      {"korean": "전화", "japanese": "電話", "pronounce_h": "でんわ"},
+      {"korean": "바뀌다", "japanese": "かわる", "pronounce_h": "かわる"}
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "신세졌습니다",
+    "english": "Thank you for your kindness.",
+    "japanese": "お世話に なりました。",
+    "pronounce_r": "Osewa ni narimashita.",
+    "pronounce_h": "おせわに なりました",
+    "words": [
+      {"korean": "신세/보살핌", "japanese": "お世話", "pronounce_h": "おせわ"}
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "골프 시합은 이겼어요?",
+    "english": "Did you win the golf match?",
+    "japanese": "ゴルフの 試合は 勝ちましたか？",
+    "pronounce_r": "Gorufu no shiai wa kachimashita ka?",
+    "pronounce_h": "ごるふの しあいわ かちましたか",
+    "words": [
+      {"korean": "시합", "japanese": "試合", "pronounce_h": "しあい"},
+      {"korean": "이기다", "japanese": "勝つ", "pronounce_h": "かつ"}
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "아니요. 졌어요.",
+    "english": "No, I lost.",
+    "japanese": "いいえ、負けました。",
+    "pronounce_r": "Iie, makemashita.",
+    "pronounce_h": "いいえ、まけました",
+    "words": [
+      {"korean": "지다", "japanese": "負ける", "pronounce_h": "まける"}
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "그 사람 몰라요",
+    "english": "I don't know that person.",
+    "japanese": "その人を 知りません。",
+    "pronounce_r": "Sono hito o shirimasen.",
+    "pronounce_h": "そのひとを しりません",
+    "words": [
+      {"korean": "그 사람", "japanese": "その人", "pronounce_h": "そのひと"},
+      {"korean": "알다", "japanese": "知る", "pronounce_h": "しる"}
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "회사 안 그만둬요",
+    "english": "I'm not quitting the company.",
+    "japanese": "会社を 辞めません。",
+    "pronounce_r": "Kaisha o yamemasen.",
+    "pronounce_h": "かいしゃを やめません",
+    "words": [
+      {"korean": "회사", "japanese": "会社", "pronounce_h": "かいしゃ"},
+      {"korean": "그만두다", "japanese": "辞める", "pronounce_h": "やめる"}
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "오늘 오후에는 회의를 안 해요",
+    "english": "I don't have a meeting this afternoon.",
+    "japanese": "今日 午後は 会議を しません。",
+    "pronounce_r": "Kyō gogo wa kaigi o shimasen.",
+    "pronounce_h": "きょう ごごわ かいぎを しません",
+    "words": [
+      {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
+      {"korean": "오후", "japanese": "午後", "pronounce_h": "ごご"},
+      {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "친구를 괴롭히지 않아요",
+    "english": "I don't bully my friends.",
+    "japanese": "友達を いじめません。",
+    "pronounce_r": "Tomodachi o ijimemasen.",
+    "pronounce_h": "ともだちを いじめません",
+    "words": [
+      {"korean": "친구", "japanese": "友達", "pronounce_h": "ともだち"},
+      {"korean": "괴롭히다", "japanese": "いじめる", "pronounce_h": "いじめる"}
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "인도에서는 돼지고기를 안 먹어요",
+    "english": "In India, they don't eat pork.",
+    "japanese": "インドでは 豚肉を 食べません。",
+    "pronounce_r": "Indo dewa butaniku o tabemasen.",
+    "pronounce_h": "いんどでわ ぶたにくを たべません",
+    "words": [
+      {"korean": "돼지고기", "japanese": "豚肉", "pronounce_h": "ぶたにく"},
+      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "일본어를 알아요?",
+    "english": "Do you understand Japanese?",
+    "japanese": "日本語が わかりますか？",
+    "pronounce_r": "Nihongo ga wakarimasu ka?",
+    "pronounce_h": "にほんごが わかりますか",
+    "words": [
+      {"korean": "일본어", "japanese": "日本語", "pronounce_h": "にほんご"},
+      {"korean": "알다/이해하다", "japanese": "わかる", "pronounce_h": "わかる"}
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "아니요. 전혀 몰라요",
+    "english": "No, I don't understand at all.",
+    "japanese": "いいえ、全然 わかりません。",
+    "pronounce_r": "Iie, zenzen wakarimasen.",
+    "pronounce_h": "いいえ、ぜんぜん わかりません",
+    "words": [
+      {"korean": "전혀", "japanese": "全然", "pronounce_h": "ぜんぜん"}
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "사진을 안 찍었어요",
+    "english": "I didn't take a photo.",
+    "japanese": "写真を 撮りませんでした。",
+    "pronounce_r": "Shashin o torimasendeshita.",
+    "pronounce_h": "しゃしん을 とりませんでした",
+    "words": [
+      {"korean": "사진", "japanese": "写真", "pronounce_h": "しゃしん"},
+      {"korean": "찍다", "japanese": "撮る", "pronounce_h": "とる"}
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "자기소개 안 했어요",
+    "english": "I didn't introduce myself.",
+    "japanese": "自己紹介を しませんでした。",
+    "pronounce_r": "Jikoshōkai o shimasendeshita.",
+    "pronounce_h": "じこしょうかいを しませんでした",
+    "words": [
+      {"korean": "자기소개", "japanese": "自己紹介", "pronounce_h": "じこしょうかい"}
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "선물 안 받았어요",
+    "english": "I didn't receive a present.",
+    "japanese": "プレゼントを もらいませんでした。",
+    "pronounce_r": "Purezento o moraimasendeshita.",
+    "pronounce_h": "ぷれぜんとを もらいませんでした",
+    "words": [
+      {"korean": "받다", "japanese": "もらう", "pronounce_h": "もらう"}
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "시험을 안 봤어요",
+    "english": "I didn't take the exam.",
+    "japanese": "試験を 受けませんでした。",
+    "pronounce_r": "Shiken o ukemasendeshita.",
+    "pronounce_h": "しけんを うけませんでした",
+    "words": [
+      {"korean": "시험", "japanese": "試験", "pronounce_h": "しけん"},
+      {"korean": "시험을 보다/받다", "japanese": "受ける", "pronounce_h": "うける"}
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "관심을 안 가졌어요",
+    "english": "I wasn't interested.",
+    "japanese": "興味を 持ちませんでした。",
+    "pronounce_r": "Kyōmi o mochimasendeshita.",
+    "pronounce_h": "きょうみを もちませんでした",
+    "words": [
+      {"korean": "관심", "japanese": "興味", "pronounce_h": "きょうみ"},
+      {"korean": "가지다", "japanese": "持つ", "pronounce_h": "もつ"}
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "주말에 어딘가에 갔어요?",
+    "english": "Did you go somewhere on the weekend?",
+    "japanese": "週末 どこかに 行きましたか？",
+    "pronounce_r": "Shūmatsu dokoka ni ikimashita ka?",
+    "pronounce_h": "しゅうまつ どこかに いきましたか",
+    "words": [
+      {"korean": "주말", "japanese": "週末", "pronounce_h": "しゅうまつ"},
+      {"korean": "어딘가", "japanese": "どこか", "pronounce_h": "どこか"},
+      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "아니요. 어디에도 안 갔어요",
+    "english": "No, I didn't go anywhere.",
+    "japanese": "いいえ、どこにも 行きませんでした。",
+    "pronounce_r": "Iie, dokonimo ikimasendeshita.",
+    "pronounce_h": "いいえ、どこにも いきませんでした",
+    "words": [
+      {"korean": "어디에도", "japanese": "どこにも", "pronounce_h": "どこにも"}
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "걱정하지 마세요",
+    "english": "Please don't worry.",
+    "japanese": "心配しないで ください。",
+    "pronounce_r": "Shinpai shinaide kudasai.",
+    "pronounce_h": "しんぱいしないで ください",
+    "words": [
+      {"korean": "걱정하다", "japanese": "心配する", "pronounce_h": "しんぱいする"}
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "만지지 마세요",
+    "english": "Please don't touch.",
+    "japanese": "触らないで ください。",
+    "pronounce_r": "Sawara naide kudasai.",
+    "pronounce_h": "さわらないで ください",
+    "words": [
+      {"korean": "만지다", "japanese": "触る", "pronounce_h": "さわる"}
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "여기에 쓰레기를 버리지 마세요",
+    "english": "Please don't throw away trash here.",
+    "japanese": "ここに ゴミを 捨てないで ください。",
+    "pronounce_r": "Koko ni gomi o sutenaide kudasai.",
+    "pronounce_h": "ここに ごみを すてないで ください",
+    "words": [
+      {"korean": "여기에", "japanese": "ここに", "pronounce_h": "ここに"},
+      {"korean": "쓰레기", "japanese": "ゴミ", "pronounce_h": "ごみ"},
+      {"korean": "버리다", "japanese": "捨てる", "pronounce_h": "すてる"}
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "영화관 안에서 사진을 찍지 마세요",
+    "english": "Please don't take photos inside the movie theater.",
+    "japanese": "映画館の 中で 写真を 撮らないで ください。",
+    "pronounce_r": "Eigakan no naka de shashin o toranaide kudasai.",
+    "pronounce_h": "えいがかんの なかで しゃしんを とらないで ください",
+    "words": [
+      {"korean": "영화관", "japanese": "映画館", "pronounce_h": "えいがかん"}
+    ]
+  },
+  {
+    "id": 26,
+    "korean": "컴퓨터 전원을 끄지 마세요",
+    "english": "Please don't turn off the computer power.",
+    "japanese": "パソコンの 電源を 切らないで ください。",
+    "pronounce_r": "Pasokon no dengen o kiranaide kudasai.",
+    "pronounce_h": "ぱそこんの でんげんを きらないで ください",
+    "words": [
+      {"korean": "전원", "japanese": "電源", "pronounce_h": "でんげん"},
+      {"korean": "끄다/끊다", "japanese": "切る", "pronounce_h": "きる"}
+    ]
+  },
+  {
+    "id": 27,
+    "korean": "다나카 씨, 너무 무리하지 마세요",
+    "english": "Tanaka-san, please don't push yourself too hard.",
+    "japanese": "田中さん、あまり 無理しないで ください。",
+    "pronounce_r": "Tanaka-san, amari muri shinaide kudasai.",
+    "pronounce_h": "たなかさん、あまり むりしないで ください",
+    "words": [
+      {"korean": "무리하다", "japanese": "無理する", "pronounce_h": "むりする"}
+    ]
+  },
+  {
+    "id": 28,
+    "korean": "항상 따뜻한 말 감사해요",
+    "english": "Thank you for always having kind words.",
+    "japanese": "いつも 優しい 言葉、ありがとう。",
+    "pronounce_r": "Itsumo yasashii kotoba, arigatō.",
+    "pronounce_h": "いつも やさしい ことば、ありがとう",
+    "words": [
+      {"korean": "다정하다", "japanese": "優しい", "pronounce_h": "やさしい"},
+      {"korean": "말/언어", "japanese": "言葉", "pronounce_h": "ことば"}
+    ]
+  },
+  {
+    "id": 29,
+    "korean": "절대 잊지 않도록 해",
+    "english": "Make sure you never forget.",
+    "japanese": "絶対 忘れないようにね。",
+    "pronounce_r": "Zettai wasurenai yō ni ne.",
+    "pronounce_h": "ぜったい わすれないようにね",
+    "words": [
+      {"korean": "절대", "japanese": "絶対", "pronounce_h": "ぜったい"},
+      {"korean": "잊다", "japanese": "忘れる", "pronounce_h": "わすれる"}
+    ]
+  },
+  {
+    "id": 30,
+    "korean": "회식에서는 과음하지 않도록 해",
+    "english": "Try not to drink too much at the company dinner.",
+    "japanese": "飲み会では 飲みすぎないように。",
+    "pronounce_r": "Nomikai dewa nomisuginai yō ni.",
+    "pronounce_h": "のみかいでわ のみすぎないように",
+    "words": [
+      {"korean": "회식", "japanese": "飲み会", "pronounce_h": "のみかい"},
+      {"korean": "과음하다", "japanese": "飲みすぎる", "pronounce_h": "のみすぎる"}
+    ]
+  },
+  {
+    "id": 31,
+    "korean": "내일 수업에 늦지 않도록 해 주세요",
+    "english": "Please try not to be late for tomorrow's class.",
+    "japanese": "明日の 授業に 遅れないように して ください。",
+    "pronounce_r": "Ashita no jugyō ni okurenai yō ni shite kudasai.",
+    "pronounce_h": "あしたの じゅぎょうに おくれないように して ください",
+    "words": [
+      {"korean": "수업", "japanese": "授業", "pronounce_h": "じゅぎょう"},
+      {"korean": "늦다", "japanese": "遅れる", "pronounce_h": "おくれる"}
+    ]
+  },
+  {
+    "id": 32,
+    "korean": "실패는 해도 후회는 하지 않도록 하고 있어",
+    "english": "Even if I fail, I try not to regret it.",
+    "japanese": "失敗は しても 後悔は しないように している。",
+    "pronounce_r": "Shippai wa shitemo kōkai wa shinai yō ni shite iru.",
+    "pronounce_h": "しっぱいわ しても こうかいわ しないように している",
+    "words": [
+      {"korean": "후회", "japanese": "後悔", "pronounce_h": "こうかい"}
+    ]
+  },
+  {
+    "id": 33,
+    "korean": "이제 더 이상은 살 찌지 않도록 운동을 시작 했어요",
+    "english": "I started exercising so I won't gain any more weight.",
+    "japanese": "もう これ以上 太らないように 運動を 始めました。",
+    "pronounce_r": "Mō kore ijō futoranai yō ni undō o hajimemashita.",
+    "pronounce_h": "もう これいじょう ふとらないように うんどうを はじめました",
+    "words": [
+      {"korean": "살찌다", "japanese": "太る", "pronounce_h": "ふとる"},
+      {"korean": "운동", "japanese": "運動", "pronounce_h": "うんどう"},
+      {"korean": "시작하다", "japanese": "始める", "pronounce_h": "はじめる"}
+    ]
+  },
+  {
+    "id": 34,
+    "korean": "갑자기 추워졌네",
+    "english": "It suddenly got cold.",
+    "japanese": "急に 寒くなったね。",
+    "pronounce_r": "Kyū ni samuku natta ne.",
+    "pronounce_h": "きゅうに さむくなったね",
+    "words": [
+      {"korean": "갑자기", "japanese": "急に", "pronounce_h": "きゅうに"},
+      {"korean": "춥다", "japanese": "寒い", "pronounce_h": "さむい"}
+    ]
+  },
+  {
+    "id": 35,
+    "korean": "감기 걸리지 않도록 조심해",
+    "english": "Be careful not to catch a cold.",
+    "japanese": "風邪を 引かないように 気をつけて。",
+    "pronounce_r": "Kaze o hikanai yō ni ki o tsukete.",
+    "pronounce_h": "かぜを ひかないように きをつけて",
+    "words": [
+      {"korean": "감기에 걸리다", "japanese": "風邪を引く", "pronounce_h": "かぜをひく"},
+      {"korean": "조심하다", "japanese": "気をつける", "pronounce_h": "きをつける"}
+    ]
+  },
+  {
+    "id": 36,
+    "korean": "그것은 안 만지는 게 좋아",
+    "english": "It's better not to touch that.",
+    "japanese": "それは 触らない方が いい。",
+    "pronounce_r": "Sore wa sawaranai hō ga ii.",
+    "pronounce_h": "それわ さわらないほうが いい",
+    "words": []
+  },
+  {
+    "id": 37,
+    "korean": "저기는 위험하니까 안 가는 게 좋아",
+    "english": "Since it's dangerous over there, it's better not to go.",
+    "japanese": "あそこは 危ないから 行かない方が いい。",
+    "pronounce_r": "Asoko wa abunai kara ikanai hō ga ii.",
+    "pronounce_h": "あそこわ あぶないから いかないほうが いい",
+    "words": [
+      {"korean": "위험하다", "japanese": "危ない", "pronounce_h": "あぶない"}
+    ]
+  },
+  {
+    "id": 38,
+    "korean": "벌레가 들어오니까 창문을 열지 않는 게 좋아",
+    "english": "Since bugs might come in, it's better not to open the window.",
+    "japanese": "虫が 入るから 窓を 開けない方が いい。",
+    "pronounce_r": "Mushi ga hairu kara mado o akenai hō ga ii.",
+    "pronounce_h": "むしが はいるから まどを あけないほうが いい",
+    "words": [
+      {"korean": "벌레", "japanese": "虫", "pronounce_h": "むし"},
+      {"korean": "열다", "japanese": "開ける", "pronounce_h": "あける"}
+    ]
+  },
+  {
+    "id": 39,
+    "korean": "다른 사람 험담을 하지 않는 게 좋아",
+    "english": "It's better not to speak ill of others.",
+    "japanese": "他人の 悪口は 言わない方が いい。",
+    "pronounce_r": "Tanin no waruguchi wa iwanai hō ga ii.",
+    "pronounce_h": "たにんの わるぐちわ いわないほうが いい",
+    "words": [
+      {"korean": "험담", "japanese": "悪口", "pronounce_h": "わるぐち"},
+      {"korean": "말하다", "japanese": "言う", "pronounce_h": "いう"}
+    ]
+  },
+  {
+    "id": 40,
+    "korean": "남자친구에게 화장을 하지 않는 게 낫다고 들었어요",
+    "english": "I was told by my boyfriend that it's better not to wear makeup.",
+    "japanese": "彼氏に 化粧を しない方が いいと言われました。",
+    "pronounce_r": "Kareshini keshō o shinai hō ga ii to iwaremashita.",
+    "pronounce_h": "かれしに けしょうを しないほうが いいといわれました",
+    "words": [
+      {"korean": "화장", "japanese": "化粧", "pronounce_h": "けしょう"}
+    ]
+  },
+  {
+    "id": 41,
+    "korean": "나 몸이 안 좋아",
+    "english": "I'm not feeling well.",
+    "japanese": "僕、調子が 悪いんだ。",
+    "pronounce_r": "Boku, chōshi ga waruin da.",
+    "pronounce_h": "ぼく、ちょうしが わるいんだ",
+    "words": [
+      {"korean": "몸 상태/컨디션", "japanese": "調子", "pronounce_h": "ちょうし"},
+      {"korean": "나쁘다", "japanese": "悪い", "pronounce_h": "わるい"}
+    ]
+  },
+  {
+    "id": 42,
+    "korean": "밥을 먹지 않고 학교에 갔어",
+    "english": "I went to school without eating.",
+    "japanese": "ご飯を 食べないで 学校に 行った。",
+    "pronounce_r": "Gohan o tabenaide gakkō ni itta.",
+    "pronounce_h": "ごはんを たべないで がっこうに いった",
+    "words": []
+  },
+  {
+    "id": 43,
+    "korean": "밥을 먹지 않아서 배가 고파",
+    "english": "Since I didn't eat, I'm hungry.",
+    "japanese": "ご飯を 食べなくて お腹が 空いた。",
+    "pronounce_r": "Gohan o tabenakute onaka ga suita.",
+    "pronounce_h": "ごはん를 たべなくて おなかが すいた",
+    "words": [
+      {"korean": "배가 고프다", "japanese": "お腹が空く", "pronounce_h": "おなかがすく"}
+    ]
+  },
+  {
+    "id": 44,
+    "korean": "커피에 설탕을 넣지 않고 마셔요",
+    "english": "I drink coffee without putting sugar in it.",
+    "japanese": "コーヒーに 砂糖を 入れないで 飲めます。",
+    "pronounce_r": "Kōhī ni satō o irenaide nomimasu.",
+    "pronounce_h": "こーひーに さとうを いれないで のみます",
+    "words": [
+      {"korean": "설탕", "japanese": "砂糖", "pronounce_h": "さとう"},
+      {"korean": "넣다", "japanese": "入れる", "pronounce_h": "いれる"}
+    ]
+  },
+  {
+    "id": 45,
+    "korean": "한자를 못 읽어서 시험에 떨어졌어",
+    "english": "Because I couldn't read the kanji, I failed the exam.",
+    "japanese": "漢字が 読めなくて 試験に 落ちた。",
+    "pronounce_r": "Kanji ga yomenakute shiken ni ochita.",
+    "pronounce_h": "かんじ가 よめなくて しけんに おちた",
+    "words": [
+      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"},
+      {"korean": "떨어지다/낙제하다", "japanese": "落ちる", "pronounce_h": "おちる"}
+    ]
+  },
+  {
+    "id": 46,
+    "korean": "어제 목욕하지 않고 자버렸어",
+    "english": "Yesterday I fell asleep without taking a bath.",
+    "japanese": "昨日 お風呂に 入らないで 寝ちゃった。",
+    "pronounce_r": "Kinō ofuro ni hairanaide nechatta.",
+    "pronounce_h": "きのう おふろに はいらないで ねちゃった",
+    "words": [
+      {"korean": "목욕하다", "japanese": "お風呂に入る", "pronounce_h": "おふろにはいる"},
+      {"korean": "자다", "japanese": "寝る", "pronounce_h": "ねる"}
+    ]
+  },
+  {
+    "id": 47,
+    "korean": "일본 여행 어땠어?",
+    "english": "How was your trip to Japan?",
+    "japanese": "日本旅行、どうだった？",
+    "pronounce_r": "Nihon ryokō, dō datta?",
+    "pronounce_h": "にほんりょこう、どうだった",
+    "words": []
+  },
+  {
+    "id": 48,
+    "korean": "그게 말야, 일본어가 통하지 않아서 고생했어",
+    "english": "Well, you see, I had a hard time because my Japanese didn't get through.",
+    "japanese": "それがね、日本語が 通じなくて 苦労したよ。",
+    "pronounce_r": "Sore ga ne, nihongo ga tsujinakute kurō shita yo.",
+    "pronounce_h": "それがね、にほんごが つうじなくて くろうしたよ",
+    "words": [
+      {"korean": "통하다", "japanese": "通じる", "pronounce_h": "つうじる"},
+      {"korean": "고생/수고", "japanese": "苦労", "pronounce_h": "くろう"}
+    ]
+  },
+  {
+    "id": 49,
+    "korean": "말하고 싶지 않으면 안 해도 돼",
+    "english": "If you don't want to say it, you don't have to.",
+    "japanese": "言いたくなければ しなくても いいよ。",
+    "pronounce_r": "Iitaku nakereba shinakutemo ii yo.",
+    "pronounce_h": "いいたくなければ しなくても いいよ",
+    "words": []
+  },
+  {
+    "id": 50,
+    "korean": "내일은 휴일이니까 학교에 가지 않아도 돼",
+    "english": "Since tomorrow is a holiday, you don't have to go to school.",
+    "japanese": "明日は 休みだから 学校に 行かなくても いい。",
+    "pronounce_r": "Ashita wa yasumi dakara gakkō ni ikanakutemo ii.",
+    "pronounce_h": "あしたわ やすみだから がっこうに いかなくても いい",
+    "words": [
+      {"korean": "휴일", "japanese": "休み", "pronounce_h": "やすみ"}
+    ]
+  },
+  {
+    "id": 51,
+    "korean": "초등학생 이하는 돈 내지 않아도 돼요",
+    "english": "Elementary school students and below don't have to pay.",
+    "japanese": "小学生 以下は お金を 払わなくても いいです。",
+    "pronounce_r": "Shōgakusei ika wa okane o harawanakutemo ii desu.",
+    "pronounce_h": "しょうがくせい いかわ おかねを はらわなくても いいです",
+    "words": [
+      {"korean": "내다/지불하다", "japanese": "払う", "pronounce_h": "はらう"}
+    ]
+  },
+  {
+    "id": 52,
+    "korean": "아침밥은 제대로 먹지 않으면 안 돼",
+    "english": "You must eat breakfast properly.",
+    "japanese": "朝ご飯は ちゃんと 食べないと だめだよ。",
+    "pronounce_r": "Asagohan wa chanto tabenaito dame dayo.",
+    "pronounce_h": "あさごはんわ ちゃんと たべないと だめだよ",
+    "words": []
+  },
+  {
+    "id": 53,
+    "korean": "거기는 현금을 가지고 가지 않으면 안 돼요",
+    "english": "You must take cash there.",
+    "japanese": "あそこは 現金を 持って 行かないと だめです。",
+    "pronounce_r": "Asoko wa genkin o motte ikanaito dame desu.",
+    "pronounce_h": "あそこわ げんきんを もって いかないと だめです",
+    "words": [
+      {"korean": "현금", "japanese": "現金", "pronounce_h": "げんきん"},
+      {"korean": "가지고 가다", "japanese": "持って行く", "pronounce_h": "もっていく"}
+    ]
+  },
+  {
+    "id": 54,
+    "korean": "음악을 들으면서 숙제를 해요",
+    "english": "I do homework while listening to music.",
+    "japanese": "音楽を 聞きながら 宿題を します。",
+    "pronounce_r": "Ongaku o kikinagara shukudai o shimasu.",
+    "pronounce_h": "おんがくを ききながら しゅくだいを します",
+    "words": [
+      {"korean": "듣다", "japanese": "聞く", "pronounce_h": "きく"},
+      {"korean": "숙제", "japanese": "宿題", "pronounce_h": "しゅくだい"}
+    ]
+  },
+  {
+    "id": 55,
+    "korean": "커피를 마시면서 일정을 체크했어",
+    "english": "I checked my schedule while drinking coffee.",
+    "japanese": "コーヒーを 飲みながら 予定を チェックした。",
+    "pronounce_r": "Kōhī o nominagara yotei o chekku shita.",
+    "pronounce_h": "こーひーを のみながら よていを ちぇっくした",
+    "words": [
+      {"korean": "일정", "japanese": "予定", "pronounce_h": "よてい"}
+    ]
+  },
+  {
+    "id": 56,
+    "korean": "차라도 마시면서 이야기 합시다",
+    "english": "Let's talk over some tea.",
+    "japanese": "お茶でも 飲みながら 話しましょう。",
+    "pronounce_r": "Ocha demo nominagara hanashimashō.",
+    "pronounce_h": "おちゃでも の미ながら はなしましょう",
+    "words": []
+  },
+  {
+    "id": 57,
+    "korean": "팝콘을 먹으면서 영화를 봐요",
+    "english": "I watch movies while eating popcorn.",
+    "japanese": "ポップコーンを 食べながら 映画を 見ます。",
+    "pronounce_r": "Poppukōn o tabenagara eiga o mimasu.",
+    "pronounce_h": "ぽっぷこーんを たべながら えいがを みます",
+    "words": []
+  },
+  {
+    "id": 58,
+    "korean": "피아노를 치면서 노래해요",
+    "english": "I sing while playing the piano.",
+    "japanese": "ピアノを 弾きながら 歌います。",
+    "pronounce_r": "Piano o hikinagara utaimasu.",
+    "pronounce_h": "ぴあのを ひきながら うたいます",
+    "words": [
+      {"korean": "연주하다(현악기)", "japanese": "弾く", "pronounce_h": "ひく"},
+      {"korean": "노래하다", "japanese": "歌う", "pronounce_h": "うたう"}
+    ]
+  },
+  {
+    "id": 59,
+    "korean": "메모를 하면서 듣고 있었거든요",
+    "english": "I was listening while taking notes.",
+    "japanese": "メモを しながら 聞いて いたんです。",
+    "pronounce_r": "Memo o shinagara kiite itan desu.",
+    "pronounce_h": "めもを しながら きいて いたんです",
+    "words": []
+  },
+  {
+    "id": 60,
+    "korean": "여기에 이름을 쓰시오",
+    "english": "Write your name here.",
+    "japanese": "ここに 名前를 書きなさい。",
+    "pronounce_r": "Koko ni namae o kakinasai.",
+    "pronounce_h": "ここに なまえ를 かきなさい",
+    "words": [
+      {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"}
+    ]
+  },
+  {
+    "id": 61,
+    "korean": "운동장에 모이거라",
+    "english": "Gather at the playground.",
+    "japanese": "運動場に 集まりなさい。",
+    "pronounce_r": "Undōjō ni atsumarinasai.",
+    "pronounce_h": "うんどうじょうに あつまりなさい",
+    "words": [
+      {"korean": "운동장", "japanese": "運動場", "pronounce_h": "うんどうじょう"},
+      {"korean": "모이다", "japanese": "集まる", "pronounce_h": "あつまる"}
+    ]
+  },
+  {
+    "id": 62,
+    "korean": "손을 깨끗이 씻어라",
+    "english": "Wash your hands clean.",
+    "japanese": "手を きれいに 洗いなさい。",
+    "pronounce_r": "Te o kirei ni arainasai.",
+    "pronounce_h": "てを きれいに あらいなさい",
+    "words": [
+      {"korean": "씻다", "japanese": "洗う", "pronounce_h": "あらう"}
+    ]
+  },
+  {
+    "id": 63,
+    "korean": "인간인 이상 자기 방은 스스로 치워라",
+    "english": "As a human being, clean your room yourself.",
+    "japanese": "人間で ある 以上、自分の 部屋は 自分で 片付けなさい。",
+    "pronounce_r": "Ningen de aru ijō, jibun no heya wa jibun de katadzukenasai.",
+    "pronounce_h": "にんげんである いじょう、じぶんの へ야와 じぶんで かたづけなさい",
+    "words": [
+      {"korean": "방", "japanese": "部屋", "pronounce_h": "へ야"},
+      {"korean": "치우다", "japanese": "片付ける", "pronounce_h": "かたづける"}
+    ]
+  },
+  {
+    "id": 64,
+    "korean": "자기 자신을 가장 중요시 하거라",
+    "english": "Value yourself the most.",
+    "japanese": "自分自身を 一番 大切に しなさい。",
+    "pronounce_r": "Jibunjishin o ichiban taisetsu ni shinasai.",
+    "pronounce_h": "じぶんじしんを いちばん たいせつにし나さい",
+    "words": [
+      {"korean": "자기 자신", "japanese": "自分自身", "pronounce_h": "じぶんじ신"},
+      {"korean": "소중히 하다", "japanese": "大切にする", "pronounce_h": "たいせつにする"}
+    ]
+  },
+  {
+    "id": 65,
+    "korean": "내일 조금 늦을 것 같아요",
+    "english": "I think I'll be a little late tomorrow.",
+    "japanese": "明日 少し 遅れそうです。",
+    "pronounce_r": "Ashita sukoshi okuresō desu.",
+    "pronounce_h": "あした すこし おくれそうです",
+    "words": []
+  },
+  {
+    "id": 66,
+    "korean": "되도록 빨리 오너라",
+    "english": "Come as fast as you can.",
+    "japanese": "なるべく 早く 来なさい。",
+    "pronounce_r": "Narubeku hayaku kinasai.",
+    "pronounce_h": "なるべく はやく きなさい",
+    "words": [
+      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"}
+    ]
+  }
+]
