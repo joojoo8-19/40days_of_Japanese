@@ -225,6 +225,8 @@
   const lectureVideo = document.getElementById('lecture-video')
   const lecturePdf = document.getElementById('lecture-pdf')
   const lectureSource = document.getElementById('lecture-source')
+  const canvas = document.getElementById("canvas");
+  const ctx = canvas.getContext("2d");
 
   // sentences UI
   const daySelect = document.getElementById('day-select-s');
@@ -585,7 +587,7 @@
   // sentences controls
   function populateDaySelect(element){
     if(element.options.length === 0){
-      for(let d=1; d<=40; d++){
+      for(let d=1; d<=28; d++){
         const opt = document.createElement('option');
         opt.value = d;
         opt.textContent = `Day ${d}`;
@@ -642,6 +644,18 @@
     if(e.key === 'ArrowRight'){ const arr = getSentenceBoxArray(state.sentenceProgress.selectedBox); if(arr && arr.length>0){ state.sentenceIndexInBox = (state.sentenceIndexInBox + 1) % arr.length; renderSentenceCard(); } }
     if(e.key === 'ArrowLeft'){ const arr = getSentenceBoxArray(state.sentenceProgress.selectedBox); if(arr && arr.length>0){ state.sentenceIndexInBox = (state.sentenceIndexInBox - 1 + arr.length) % arr.length; renderSentenceCard(); } }
   });
+
+  // set thumbnails
+
+  lectureVideo.addEventListener("loadeddata", () => {
+    canvas.width = video.videoWidth;
+    canvas.height = video.videoHeight;
+
+    ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+    const thumbnail = canvas.toDataURL("image/png");
+
+    lectureVideo.setAttribute("poster", thumbnail);
+});
 
   /*********************************************************
    * 7. Initialization
