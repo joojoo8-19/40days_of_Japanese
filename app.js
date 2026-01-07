@@ -316,21 +316,23 @@
     if(!card) return; 
     const curr = state.progress.selectedBox; 
     const next = Math.min(5, curr+1); 
+
+    const isLastCard = card.boxLength -1  == state.currentIndexInBox
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
+
     moveCard(card.itemIdx, curr, next); 
     renderCard(); 
-
-    const isLastCard = card.boxLength == state.currentIndexInBox+1
-    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
-  
   }
+
   function handleWrong(){ 
     const card = getCurrentCard(); 
     if(!card) return; 
+
+    const isLastCard = card.boxLength -1 == state.currentIndexInBox
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
+
     moveCard(card.itemIdx, state.progress.selectedBox, 1); 
     renderCard(); 
-
-    const isLastCard = card.boxLength == state.currentIndexInBox+1
-    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
   }
 
   /*********************************************************
@@ -466,21 +468,23 @@
     if(!cur) return;
     const curr = state.sentenceProgress.selectedBox;
     const next = Math.min(5, curr+1);
+
+    const isLastCard = cur.boxLength -1  == state.sentenceIndexInBox
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
+
     moveSentence(cur.itemIdx, curr, next);
     renderSentenceCard();
-    
-    const isLastCard = cur.boxLength == state.sentenceIndexInBox+1
-    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
   }
 
   function handleSentenceWrong(){
     const cur = getCurrentSentence();
     if(!cur) return;
+
+    const isLastCard = cur.boxLength -1 == state.sentenceIndexInBox
+    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
+
     moveSentence(cur.itemIdx, state.sentenceProgress.selectedBox, 1);
     renderSentenceCard();
-
-    const isLastCard = cur.boxLength == state.sentenceIndexInBox+1
-    if(isLastCard) alert("🎉 해당 박스의 모든 카드를 학습했습니다.")
   }
 
     async function loadLectureForDay(day){
@@ -648,10 +652,10 @@
   // set thumbnails
 
   lectureVideo.addEventListener("loadeddata", () => {
-    canvas.width = video.videoWidth;
-    canvas.height = video.videoHeight;
+    canvas.width = lectureVideo.videoWidth;
+    canvas.height = lectureVideo.videoHeight;
 
-    ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+    ctx.drawImage(lectureVideo, 0, 0, canvas.width, canvas.height);
     const thumbnail = canvas.toDataURL("image/png");
 
     lectureVideo.setAttribute("poster", thumbnail);
