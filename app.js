@@ -86,6 +86,7 @@
     {"char":"を","romaji":"wo","hangul":"오/워","keyword":"오리발","explanation":"퍼진 형태가 물갈퀴 달린 오리발 모양을 연상시킵니다."},
     {"char":"ん","romaji":"n","hangul":"응/ㄴ","keyword":"응~","explanation":"글자의 곡선이 '응~' 하고 대답할 때의 물결치는 듯한 느낌을 표현합니다."}
   ];
+
   const KATAKANA = [
     {"char":"ア","romaji":"a","hangul":"아","keyword":"아이스크림","explanation":"수직선 위에 짧은 획들이 얹힌 모양이 아이스크림 막대 위에 크림이 솟아오른 것을 연상시킵니다."},
     {"char":"イ","romaji":"i","hangul":"이","keyword":"이쑤시개","explanation":"두 개의 획이 이쑤시개와 비스듬한 치아를 연상시키는 모습입니다."},
@@ -243,10 +244,14 @@
   const sHintExplain = document.getElementById('s-hint-explain');
   const sBackKr = document.getElementById('s-back-kr');
   const sBackJp = document.getElementById('s-back-jp');
+  const sBackSoundBtn = document.getElementById('s-back-sound');
   const sBackPron = document.getElementById('s-back-pron');
   const sCorrectBtn = document.getElementById('s-correct-btn');
   const sWrongBtn = document.getElementById('s-wrong-btn');
   const sEmpty = document.getElementById('sentence-empty');
+
+  const jpAudio = new Audio();
+  jpAudio.preload = "auto";
 
   /*********************************************************
    * 4. Helper functions (letters)
@@ -620,6 +625,28 @@
     });
   });
 
+  // japanese sentence sounds
+  function playJapaneseTTS(sentenceId, day) {
+
+  jpAudio.pause();
+  jpAudio.currentTime = 0;
+
+  jpAudio.src = `data/curriculum/day${day}/tts_jp/jp_${sentenceId}.wav`;
+  jpAudio.play().catch(err => {
+    console.error("Audio play failed:", err);
+  });
+}
+
+ sBackSoundBtn.addEventListener('click', ()=>{
+    const cur = getCurrentSentence()
+    if(!cur) return;
+    
+    const curDay = state.sentenceDay
+    const curId = cur.data.id
+    playJapaneseTTS(curId, curDay)
+  })
+
+
   sHintBtn.addEventListener('click', ()=> sHintArea.hidden = !sHintArea.hidden);
   sFlipBtn.addEventListener('click', ()=>{ const front = sentenceCard.querySelector('.card-front'); const back = sentenceCard.querySelector('.card-back'); back.hidden = !back.hidden; front.hidden = !front.hidden; });
   sCorrectBtn.addEventListener('click', handleSentenceCorrect);
@@ -647,7 +674,6 @@
   });
 
   // set thumbnails
-
   lectureVideo.addEventListener("loadeddata", () => {
     canvas.width = lectureVideo.videoWidth;
     canvas.height = lectureVideo.videoHeight;
