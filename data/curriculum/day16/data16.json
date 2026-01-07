@@ -43,7 +43,7 @@
     "pronounce_r": "Kinou wa ryouri ga dekimasen deshita.",
     "pronounce_h": "きのうは りょうり が できませんでした。",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きの우"},
+      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
       {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"}
     ]
   },
@@ -75,7 +75,7 @@
     "id": 7,
     "korean": "술은 마실 수 없습니다.",
     "english": "I cannot drink alcohol.",
-    "japanese": "お酒は 飲む こと 가 できません。",
+    "japanese": "お酒は 飲む こと が できません。",
     "pronounce_r": "Osake wa nomu koto ga dekimasen.",
     "pronounce_h": "おさけは のむ こと が できません。",
     "words": [
@@ -87,7 +87,7 @@
     "id": 8,
     "korean": "한자를 읽을 수 없었습니다.",
     "english": "I couldn't read Kanji.",
-    "japanese": "漢字を 読む こと 가 できませんでした。",
+    "japanese": "漢字を 読む こと が できませんでした。",
     "pronounce_r": "Kanji o yumu koto ga dekimasen deshita.",
     "pronounce_h": "かんじを よむ こと 가 できませんでした。",
     "words": [
@@ -111,7 +111,7 @@
     "id": 10,
     "korean": "낫토를 먹을 수 있습니다.",
     "english": "I can eat Natto.",
-    "japanese": "納豆가 食べられます。",
+    "japanese": "納豆が 食べられます。",
     "pronounce_r": "Nattou ga taberaremasu.",
     "pronounce_h": "なっとうが たべられます。",
     "words": [
@@ -151,7 +151,7 @@
     "english": "The dish is ready.",
     "japanese": "料理が できました。",
     "pronounce_r": "Ryouri ga dekimashita.",
-    "pronounce_h": "りょう리가 できました。",
+    "pronounce_h": "りょうりが できました。",
     "words": [
       {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"}
     ]
@@ -197,9 +197,9 @@
     "id": 17,
     "korean": "테니스를 할 수 없습니다.",
     "english": "I cannot play tennis.",
-    "japanese": "テニス 가 できません。",
+    "japanese": "テニス が できません。",
     "pronounce_r": "Tenisu ga dekimasen.",
-    "pronounce_h": "てにす 가 できません。",
+    "pronounce_h": "てにす が できません。",
     "words": [
       {"korean": "테니스", "japanese": "テニス", "pronounce_h": "てにす"},
       {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
@@ -209,9 +209,9 @@
     "id": 18,
     "korean": "요리를 할 수 없었습니다.",
     "english": "I couldn't cook.",
-    "japanese": "料理 가 できませんでした。",
+    "japanese": "料理 が できませんでした。",
     "pronounce_r": "Ryouri ga dekimasen deshita.",
-    "pronounce_h": "りょう리 가 できませんでした。",
+    "pronounce_h": "りょうり が できませんでした。",
     "words": [
       {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"},
       {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
@@ -257,9 +257,9 @@
     "id": 22,
     "korean": "어제는 공부할 수 없었습니다.",
     "english": "I couldn't study yesterday.",
-    "japanese": "昨日は 勉強する こと 가 できませんでした。",
+    "japanese": "昨日は 勉強する こと が できませんでした。",
     "pronounce_r": "Kinou wa benkyou suru koto ga dekimasen deshita.",
-    "pronounce_h": "きのうは べんきょうする  소と 가 できませんでした。",
+    "pronounce_h": "きのうは べんきょうする  そと が できませんでした。",
     "words": [
       {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
       {"korean": "공부", "japanese": "勉強", "pronounce_h": "べんきょう"}
@@ -285,7 +285,7 @@
     "pronounce_r": "Namae ga kakemashita.",
     "pronounce_h": "なまえが かけました。",
     "words": [
-      {"korean": "이름", "japanese": "名前", "pronounce_h": "나まえ"},
+      {"korean": "이름", "japanese": "名前", "pronounce_h": "なまえ"},
       {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"}
     ]
   },
@@ -293,7 +293,7 @@
     "id": 25,
     "korean": "버스를 기다릴 수 없습니다.",
     "english": "I cannot wait for the bus.",
-    "japanese": "バス가 待てません。",
+    "japanese": "バスが 待てません。",
     "pronounce_r": "Basu ga matemasen.",
     "pronounce_h": "ばすが まてません。",
     "words": [
@@ -370,7 +370,7 @@
     "pronounce_h": "ひとりでも できます。",
     "words": [
       {"korean": "혼자서도", "japanese": "一人でも", "pronounce_h": "ひとりでも"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "하는"}
+      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
     ]
   },
   {

@@ -119,7 +119,7 @@
         "words": [
             {
                 "korean": "공부하다",
-                "japanese": "勉強하는",
+                "japanese": "勉強する",
                 "pronounce_h": "べんきょうする"
             },
             {
@@ -175,7 +175,7 @@
         "english": "If you dislike it, you don't have to force yourself.",
         "japanese": "嫌 なら、無理に しなくても いいです.",
         "pronounce_r": "Iya nara, muri ni shinakute mo ii desu.",
-        "pronounce_h": "いや なら, む리에 しなくても いいです。",
+        "pronounce_h": "いや なら, むりに しなくても いいです。",
         "words": [
             {
                 "korean": "싫다",
@@ -220,7 +220,7 @@
             {
                 "korean": "약",
                 "japanese": "薬",
-                "pronounce_h": "く스り"
+                "pronounce_h": "くすり"
             },
             {
                 "korean": "먹다",
@@ -263,7 +263,7 @@
         "id": 14,
         "korean": "시간이 있다면, 도와주세요.",
         "english": "If you have time, please help me.",
-        "japanese": " 시간이 あ れば、助けて ください。",
+        "japanese": " 時間が あれば、助けて ください。",
         "pronounce_r": "Jikan ga areba, tasukete kudasai.",
         "pronounce_h": "じかんが あれば, たすけて ください。",
         "words": [
@@ -405,7 +405,7 @@
             {
                 "korean": "깨끗하다",
                 "japanese": "綺麗だ",
-                "pronounce_h": "きれい다"
+                "pronounce_h": "きれいだ"
             },
             {
                 "korean": "나쁘다",
@@ -808,9 +808,9 @@
         "id": 43,
         "korean": "이 버튼을 누르면, 물이 나옵니다.",
         "english": "If you press this button, water comes out.",
-        "japanese": "이 ボタンを 押す と、水が 出ます。",
+        "japanese": "この ボタンを 押す と、水が 出ます。",
         "pronounce_r": "Kono botan o osu to, mizu ga demasu.",
-        "pronounce_h": "이 ぼたんを おす と, みず가 でます。",
+        "pronounce_h": "この ぼたんを おす と, みずが でます。",
         "words": [
             {
                 "korean": "버튼",
@@ -920,7 +920,7 @@
         "english": "When winter comes, it will probably snow.",
         "japanese": "冬になると、雪が降るでしょう。",
         "pronounce_r": "Fuyu ni naru to, yuki ga furu deshou.",
-        "pronounce_h": "ふ유に なると, ゆきが ふるでしょう。",
+        "pronounce_h": "ふゆに なると, ゆきが ふるでしょう。",
         "words": [
             {
                 "korean": "겨울",

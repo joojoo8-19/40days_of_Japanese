@@ -19,8 +19,8 @@
     "pronounce_r": "Kinō wa atsukatta.",
     "pronounce_h": "きのうわ あつくあった",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きの우"},
-      {"korean": "덥다", "japanese": "暑이", "pronounce_h": "あつい"}
+      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
+      {"korean": "덥다", "japanese": "暑い", "pronounce_h": "あつい"}
     ]
   },
   {
@@ -113,7 +113,6 @@
     "id": 10,
     "korean": "이 노트는 안 얇아",
     "english": "This notebook is not thin.",
-    "japanese": "이 노트는 안 얇아",
     "japanese": "この ノートは 薄くない。",
     "pronounce_r": "Kono nōto wa usukunai.",
     "pronounce_h": "この のーとわ うすくない",
@@ -151,7 +150,6 @@
     "id": 13,
     "korean": "학교에서 집은 가까워?",
     "english": "Is your house close from school?",
-    "japanese": "学校から 家は 近이？",
     "japanese": "学校から 家は 近い？",
     "pronounce_r": "Gakkō kara ie wa chikai?",
     "pronounce_h": "がっこうから いえわ ちかい",
@@ -223,10 +221,8 @@
     "id": 19,
     "korean": "어제는 몸 상태가 안 좋았어",
     "english": "I was not feeling well yesterday.",
-    "japanese": "昨日は 具合가 良くなかった。",
     "japanese": "昨日は 具合が 良くなかった。",
     "pronounce_r": "Kinō wa guai ga yokunakatta.",
-    "pronounce_h": "きのうわ ぐあ이가 よくなかった",
     "pronounce_h": "きのうわ ぐあいが よくなかった",
     "words": [
       {"korean": "상태/컨디션", "japanese": "具合", "pronounce_h": "ぐあい"}
@@ -271,13 +267,10 @@
     "english": "Japanese is interesting.",
     "japanese": "日本語は 面白いです。",
     "pronounce_r": "Nihongo wa omoshiroi desu.",
-    "pronounce_h": "에일본어는 재미있어요",
-    "pronounce_h": "にほんごわ おもし로いです",
-    "pronounce_h": "에일본어는 재미있어요",
     "pronounce_h": "にほんごわ おもしろいです",
     "words": [
-      {"korean": "일본어", "japanese": "日本語", "pronounce_h": "에일본어는 재미있어요", "pronounce_h": "にほんご"},
-      {"korean": "재미있다", "japanese": "面白い", "pronounce_h": "에일본어는 재미있어요", "pronounce_h": "おもしろ이"}
+      {"korean": "일본어", "japanese": "日本語", "pronounce_h": "にほんご"},
+      {"korean": "재미있다", "japanese": "面白い", "pronounce_h": "おもしろい"}
     ]
   },
   {
@@ -359,7 +352,7 @@
     "pronounce_r": "Kaigai ryokō wa tanoshikatta desu.",
     "pronounce_h": "かいがいりょこうわ たのしくあったです",
     "words": [
-      {"korean": "해외여행", "japanese": "海外旅行", "pronounce_h": "かいがい리ょこう"},
+      {"korean": "해외여행", "japanese": "海外旅行", "pronounce_h": "かいがいりょこう"},
       {"korean": "즐겁다", "japanese": "楽しい", "pronounce_h": "たのしい"}
     ]
   },
@@ -393,7 +386,7 @@
     "pronounce_r": "Hai. Demo sukoshi takakatta desu.",
     "pronounce_h": "はい。でも すこし たかかったです",
     "words": [
-      {"korean": "하지만", "japanese": "데모", "pronounce_h": "でも"},
+      {"korean": "하지만", "japanese": "でも", "pronounce_h": "でも"},
       {"korean": "조금", "japanese": "少し", "pronounce_h": "すこし"}
     ]
   },
@@ -473,8 +466,6 @@
     "english": "The next room was not noisy.",
     "japanese": "隣の 部屋は うるさくなかったです。",
     "pronounce_r": "Tonari no heya wa urusakunakatta desu.",
-    "pronounce_h": "とな리의 へやわ うるさくなかったです",
-    "pronounce_h": "となりの へやわ うる사くなかったです",
     "pronounce_h": "となりの へやわ うるさくなかったです",
     "words": [
       {"korean": "옆", "japanese": "隣", "pronounce_h": "となり"},
@@ -538,7 +529,7 @@
     "pronounce_h": "わたしわ きのこが だいきらいだ",
     "words": [
       {"korean": "버섯", "japanese": "きのこ", "pronounce_h": "きのこ"},
-      {"korean": "정말 싫어하다", "japanese": "大嫌いだ", "pronounce_h": "다이키라이다", "pronounce_h": "だいきらいだ"}
+      {"korean": "정말 싫어하다", "japanese": "大嫌いだ", "pronounce_h": "だいきらいだ"}
     ]
   },
   {
@@ -547,7 +538,6 @@
     "english": "Transportation is convenient here.",
     "japanese": "ここは 交通が 便利だ。",
     "pronounce_r": "Koko wa kōtsū ga benri da.",
-    "pronounce_h": "ここわ こうつう가 べんりだ",
     "pronounce_h": "ここわ こうつうが べんりだ",
     "words": [
       {"korean": "교통", "japanese": "交通", "pronounce_h": "こうつう"},
@@ -631,7 +621,7 @@
     "pronounce_r": "Hisashiburi. Genki datta?",
     "pronounce_h": "ひさしぶり. げんきだった",
     "words": [
-      {"korean": "오랜만", "japanese": "久しぶり", "pronounce_h": "ひ사しぶり", "pronounce_h": "ひさしぶり"},
+      {"korean": "오랜만", "japanese": "久しぶり", "pronounce_h": "ひさしぶり"},
       {"korean": "건강하다/잘지내다", "japanese": "元気だ", "pronounce_h": "げんきだ"}
     ]
   },

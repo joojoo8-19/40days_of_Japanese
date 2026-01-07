@@ -16,7 +16,7 @@
     "id": 2,
     "korean": "그의 달리기는 빠르지 않습니다.",
     "english": "His running is not fast.",
-    "japanese": "彼の 走り)は 速くありません。",
+    "japanese": "彼の 走りは 速くありません。",
     "pronounce_r": "Kare no hashiri wa hayaku arimasen.",
     "pronounce_h": "かれの はしりは はやくありません。",
     "words": [
@@ -29,7 +29,7 @@
     "id": 3,
     "korean": "이 산의 높이는 얼마입니까?",
     "english": "How much is the height of this mountain?",
-    "japanese": "この 山の 高さ)は いくらですか。",
+    "japanese": "この 山の 高さは いくらですか。",
     "pronounce_r": "Kono yama no takasa wa ikura desu ka.",
     "pronounce_h": "この やまの たかさは いくらですか。",
     "words": [
@@ -173,7 +173,7 @@
     "pronounce_h": "としょかんの しずかさが よいです。",
     "words": [
       {"korean": "도서관", "japanese": "図書館", "pronounce_h": "としょかん"},
-      {"korean": "조용함", "japanese": "静かさ", "pronounce_h": "시ずかさ"}
+      {"korean": "조용함", "japanese": "静かさ", "pronounce_h": "しずかさ"}
     ]
   },
   {
@@ -216,7 +216,7 @@
     "id": 18,
     "korean": "물건의 무게를 모릅니다.",
     "english": "I don't know the weight of the item.",
-    "japanese": "物の 重さを 知리ません。",
+    "japanese": "物の 重さを 知りません。",
     "pronounce_r": "Mono no omosa o shirimasen.",
     "pronounce_h": "もの노 おもさを しりません。",
     "words": [
@@ -266,7 +266,7 @@
     "id": 22,
     "korean": "달리기는 힘들지 않았습니다.",
     "english": "Running was not hard.",
-    "japanese": "走り)は 大変ではありませんでした。",
+    "japanese": "走りは 大変ではありませんでした。",
     "pronounce_r": "Hashiri wa taihen dewa arimasen deshita.",
     "pronounce_h": "はしりは たいへんではありませんでした。",
     "words": [

@@ -28,9 +28,9 @@
     "id": 3,
     "korean": "그 음식은 맛있지 않다고 합니다.",
     "english": "I heard that food is not delicious.",
-    "japanese": "그 料理は 美味しくない そうです。",
+    "japanese": "その 料理は 美味しくない そうです。",
     "pronounce_r": "Sono ryouri wa oishikunai sou desu.",
-    "pronounce_h": "その りょうりは おいしくない そう입니다。",
+    "pronounce_h": "その りょうりは おいしくない そうです。",
     "words": [
       {"korean": "요리/음식", "japanese": "料理", "pronounce_h": "りょうり"},
       {"korean": "맛있다", "japanese": "美味しい", "pronounce_h": "おいしい"}
@@ -40,7 +40,7 @@
     "id": 4,
     "korean": "비가 곧 내릴 것 같습니다.",
     "english": "It looks like it's going to rain soon.",
-    "japanese": "雨가 降り そうです。",
+    "japanese": "雨が 降り そうです。",
     "pronounce_r": "Ame ga furi sou desu.",
     "pronounce_h": "あめが ふり そうです。",
     "words": [
@@ -185,7 +185,7 @@
     "id": 16,
     "korean": "리사는 학생이었다고 합니다. (전문)",
     "english": "I heard Lisa was a student.",
-    "japanese": "リ사さんは 学生だった そうです。",
+    "japanese": "リサさんは 学生だった そうです。",
     "pronounce_r": "Risa-san wa gakusei datta sou desu.",
     "pronounce_h": "りささんは がくせいだった そうです。",
     "words": [
@@ -363,7 +363,7 @@
     "id": 31,
     "korean": "돈이 없을 것 같습니다. (양태)",
     "english": "It looks like there's no money.",
-    "japanese": "お金가 なさそうです。",
+    "japanese": "お金が なさそうです。",
     "pronounce_r": "Okane ga nasasou desu.",
     "pronounce_h": "おかねが なさそうです。",
     "words": [

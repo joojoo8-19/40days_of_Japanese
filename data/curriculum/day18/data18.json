@@ -29,7 +29,7 @@
     "english": "I intend not to drink alcohol.",
     "japanese": "お酒は 飲まない つもりです。",
     "pronounce_r": "Osake wa nomanai tsumori desu.",
-    "pronounce_h": "おさけは のまない つもり입니다.",
+    "pronounce_h": "おさけは のまない つもりです.",
     "words": [
       {"korean": "술", "japanese": "お酒", "pronounce_h": "おさけ"},
       {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
@@ -256,7 +256,7 @@
     "id": 22,
     "korean": "오늘은 나가지 않을 작정입니다.",
     "english": "I intend not to go out today.",
-    "japanese": "오늘은 出かけない つもりです。",
+    "japanese": "今日は 出かけない つもりです。",
     "pronounce_r": "Kyou wa dekakenai tsumori desu.",
     "pronounce_h": "きょうは でかけない つもりです。",
     "words": [
@@ -357,7 +357,7 @@
     "pronounce_r": "Konya wa eiga o miyou to omoimasu.",
     "pronounce_h": "こんやは えいが를 みよう と おもいます。",
     "words": [
-      {"korean": "오늘 밤", "japanese": "今夜", "pronounce_h": "こん야"},
+      {"korean": "오늘 밤", "japanese": "今夜", "pronounce_h": "こんや"},
       {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
       {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
     ]

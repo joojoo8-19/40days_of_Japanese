@@ -19,7 +19,7 @@
     "pronounce_r": "Denki ga kiete imasu.",
     "pronounce_h": "でんきが きえています。",
     "words": [
-      {"korean": "전기/불", "japanese": "電気", "pronounce_h": "denki"},
+      {"korean": "전기/불", "japanese": "電気", "pronounce_h": "でんき"},
       {"korean": "꺼지다", "japanese": "消える", "pronounce_h": "きえる"}
     ]
   },
@@ -149,7 +149,7 @@
     "pronounce_r": "Reizoko no naka ni irete oita yo.",
     "pronounce_h": "れいぞうこの なかに いれて おいたよ。",
     "words": [
-      {"korean": "냉장고", "japanese": "冷蔵庫", "pronounce_h": "れいぞ우こ"},
+      {"korean": "냉장고", "japanese": "冷蔵庫", "pronounce_h": "れいぞうこ"},
       {"korean": "넣다", "japanese": "入れる", "pronounce_h": "いれる"}
     ]
   },
@@ -196,7 +196,7 @@
     "id": 16,
     "korean": "직접 전화로 문의 해 보는 게 어때요?",
     "english": "How about inquiring directly by phone?",
-    "japanese": "直接(ちょくせつ)電話で問(도)い合(あ)わせてみたらどうですか？",
+    "japanese": "直接(ちょくせつ)電話で問(ど)い合(あ)わせてみたらどうですか？",
     "pronounce_r": "Chokusetsu denwa de toiawasete mitara dō desu ka?",
     "pronounce_h": "ちょくせつ でんわで といあわせて みたら どうですか？",
     "words": [
@@ -416,7 +416,7 @@
     "id": 34,
     "korean": "여기에 차를 세워도 돼요?",
     "english": "Can I park the car here?",
-    "japanese": "ここに車(くるま)を止(と)めて도いいですか？",
+    "japanese": "ここに車(くるま)を止(と)めてどいいですか？",
     "pronounce_r": "Koko ni kuruma o tomete mo ii desu ka?",
     "pronounce_h": "ここに くるまを とめて も いいですか？",
     "words": [
@@ -495,7 +495,7 @@
     "pronounce_h": "しごとが おわった あとで ぴあのを ならいに いきます。",
     "words": [
       {"korean": "끝나다", "japanese": "終わる", "pronounce_h": "おわる"},
-      {"korean": "배우다", "japanese": "習う", "pronounce_h": "나라우"}
+      {"korean": "배우다", "japanese": "習う", "pronounce_h": "ならう"}
     ]
   },
   {
@@ -600,7 +600,7 @@
     "pronounce_r": "Sakuya mado o aketa mama nete shimatta.",
     "pronounce_h": "さくや まどを あけた まま ねて しまった。",
     "words": [
-      {"korean": "어젯밤", "japanese": "昨夜", "pronounce_h": "さく야"},
+      {"korean": "어젯밤", "japanese": "昨夜", "pronounce_h": "さくや"},
       {"korean": "창문", "japanese": "窓", "pronounce_h": "まど"},
       {"korean": "열다", "japanese": "開ける", "pronounce_h": "あける"}
     ]
@@ -632,7 +632,7 @@
     "id": 52,
     "korean": "조금 전 막 만들었기 때문에 요리가 아직 따뜻해",
     "english": "The food is still warm because I just made it a little while ago.",
-    "japanese": "さっき作(つく)ったばかりだから料理(りょうり)가 아직 따뜻해.",
+    "japanese": "さっき作(つく)ったばかりだから料理(りょうり)が まだ　暖かい.",
     "pronounce_r": "Sakki tsukutta bakari dakara ryori ga mada atatakai.",
     "pronounce_h": "さっき つくった ばかり だから りょうりが まだ あたたかい。",
     "words": [

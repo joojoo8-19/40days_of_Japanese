@@ -124,7 +124,7 @@
     "id": 10,
     "korean": "저는 생각을 너무 많이 하는 성격이에요",
     "english": "I have a personality that overthinks too much.",
-    "japanese": "私は 考えすぎる 性격です。",
+    "japanese": "私は 考えすぎる 性格です。",
     "pronounce_r": "Watashi wa kangaesugiru seikaku desu.",
     "pronounce_h": "わたしは かんがえすぎる せいかくです。",
     "words": [
@@ -433,7 +433,7 @@
     "english": "It started raining.",
     "japanese": "雨が 降り始めた。",
     "pronounce_r": "Ame ga furihajimeta.",
-    "pronounce_h": "あめ가 ふりはじめた。",
+    "pronounce_h": "あめが ふりはじめた。",
     "words": [
       {"korean": "비", "japanese": "雨", "pronounce_h": "あめ"},
       {"korean": "내리다", "japanese": "降る", "pronounce_h": "ふる"}
@@ -445,7 +445,7 @@
     "english": "Hair started falling out.",
     "japanese": "髪の毛が 抜け始めた。",
     "pronounce_r": "Kaminoke ga nukehaimeta.",
-    "pronounce_h": "かみのけ가 ぬけはじめた。",
+    "pronounce_h": "かみのけが ぬけはじめた。",
     "words": [
       {"korean": "머리카락", "japanese": "髪の毛", "pronounce_h": "かみのけ"},
       {"korean": "빠지다", "japanese": "抜ける", "pronounce_h": "ぬける"}
@@ -514,7 +514,7 @@
     "pronounce_h": "らいしゅうから ならいはじめるよ。",
     "words": [
       {"korean": "다음 주", "japanese": "来週", "pronounce_h": "らいしゅう"},
-      {"korean": "배우다", "japanese": "習う", "pronounce_h": "나라우"}
+      {"korean": "배우다", "japanese": "習う", "pronounce_h": "ならう"}
     ]
   },
   {
@@ -826,7 +826,7 @@
     "pronounce_r": "Michi ga sugoku konde iru ne.",
     "pronounce_h": "みちが すごく こんでいるね。",
     "words": [
-      {"korean": "길", "japanese": "道", "pronounce_h": "미치"},
+      {"korean": "길", "japanese": "道", "pronounce_h": "みち"},
       {"korean": "붐비다", "japanese": "込む", "pronounce_h": "こむ"}
     ]
   },

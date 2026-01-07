@@ -35,7 +35,7 @@
     "words": [
       {"korean": "단어", "japanese": "単語", "pronounce_h": "たんご"},
       {"korean": "많이", "japanese": "たくさん", "pronounce_h": "たくさん"},
-      {"korean": "외우다", "japanese": "覚える", "pronounce_h": "오보에루"}
+      {"korean": "외우다", "japanese": "覚える", "pronounce_h": "おぼえる"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "pronounce_r": "Kaado o nakushita mitai.",
     "pronounce_h": "かーどを なくした みたい。",
     "words": [
-      {"korean": "카드", "japanese": "カード", "pronounce_h": "かー도"},
-      {"korean": "잃어버리다", "japanese": "なくす", "pronounce_h": "나쿠스"}
+      {"korean": "카드", "japanese": "カード", "pronounce_h": "かーど"},
+      {"korean": "잃어버리다", "japanese": "なくす", "pronounce_h": "なくす"}
     ]
   },
   {
@@ -230,7 +230,7 @@
     "id": 20,
     "korean": "젊은 사람에게는 따라 갈 수가 없네요",
     "english": "I can't keep up with young people.",
-    "japanese": "若い人にはついていけません네.",
+    "japanese": "若い人にはついていけませんね.",
     "pronounce_r": "Wakai hito ni wa tsuite ikemasen ne.",
     "pronounce_h": "わかい ひとには ついて いけませんね。",
     "words": [
@@ -246,7 +246,7 @@
     "pronounce_h": "おいしそう / まずそう",
     "words": [
       {"korean": "맛있다", "japanese": "美味しい", "pronounce_h": "おいしい"},
-      {"korean": "맛없다", "japanese": "まずい", "pronounce_h": "먼저"}
+      {"korean": "맛없다", "japanese": "まずい", "pronounce_h": "まずい"}
     ]
   },
   {
@@ -297,7 +297,7 @@
     "id": 26,
     "korean": "진짜 다이아몬드 같아요",
     "english": "It looks like a real diamond.",
-    "japanese": "本物の ダイヤモンド의ようです.",
+    "japanese": "本物の ダイヤモンドのようです.",
     "pronounce_r": "Honmono no daiyamondo no you desu.",
     "pronounce_h": "ほんものの だいやもんどのようです。",
     "words": [
@@ -312,7 +312,7 @@
     "pronounce_r": "Marude yume no you na hanashi desu ne.",
     "pronounce_h": "まるで ゆめのような はなしですね。",
     "words": [
-      {"korean": "이야기하다", "japanese": "話す", "pronounce_h": "하스"}
+      {"korean": "이야기하다", "japanese": "話す", "pronounce_h": "はなす"}
     ]
   },
   {
@@ -407,7 +407,7 @@
     "id": 36,
     "korean": "12시에는 끝나겠죠",
     "english": "It will probably end by 12 o'clock.",
-    "japanese": "12時)에는 終わるでしょう。",
+    "japanese": "12時には 終わるでしょう。",
     "pronounce_r": "Juuniji ni wa owaru deshou.",
     "pronounce_h": "じゅうにじには おわるでしょう。",
     "words": [
@@ -444,7 +444,7 @@
     "pronounce_r": "Denwa ni demasen. Ima, shigoto de isogashii kamoshirenai desu.",
     "pronounce_h": "でんわに でません。いま、しごとで いそがしいかもしれないです。",
     "words": [
-      {"korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそ가시이"}
+      {"korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそがしい"}
     ]
   },
   {
@@ -610,11 +610,11 @@
     "id": 54,
     "korean": "가격이 싸면 사 올게요",
     "english": "If the price is cheap, I'll buy it and come back.",
-    "japanese": "値段가 安かったら買ってきます。",
+    "japanese": "値段が 安かったら買ってきます。",
     "pronounce_r": "Nedan ga yasukattara katte kimasu.",
     "pronounce_h": "ねだんが やすかったら かってきます。",
     "words": [
-      {"korean": "사 오다", "japanese": "買ってくる", "pronounce_h": "가테 쿠루"}
+      {"korean": "사 오다", "japanese": "買ってくる", "pronounce_h": "かってくる"}
     ]
   },
   {

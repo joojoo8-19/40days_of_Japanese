@@ -93,7 +93,7 @@
     "pronounce_r": "Sakana ga shinsen desu.",
     "pronounce_h": "さかなが しんせんです",
     "words": [
-      {"korean": "생선", "japanese": "魚", "pronounce_h": "사카나"},
+      {"korean": "생선", "japanese": "魚", "pronounce_h": "さかな"},
       {"korean": "신선하다", "japanese": "新鮮だ", "pronounce_h": "しんせんだ"}
     ]
   },

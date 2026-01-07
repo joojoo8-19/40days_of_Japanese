@@ -715,7 +715,7 @@
     "pronounce_r": "Ningen de aru ijō, jibun no heya wa jibun de katadzukenasai.",
     "pronounce_h": "にんげんである いじょう、じぶんの へ야와 じぶんで かたづけなさい",
     "words": [
-      {"korean": "방", "japanese": "部屋", "pronounce_h": "へ야"},
+      {"korean": "방", "japanese": "部屋", "pronounce_h": "へや"},
       {"korean": "치우다", "japanese": "片付ける", "pronounce_h": "かたづける"}
     ]
   },

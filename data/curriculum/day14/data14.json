@@ -248,11 +248,6 @@
     "pronounce_h": "このペンが よくなかったら、べつのものを かって ください。",
     "words": [
       {
-        "korean": "이 펜",
-        "japanese": "このペン",
-        "pronounce_h": "このペン"
-      },
-      {
         "korean": "좋다",
         "japanese": "良い",
         "pronounce_h": "よい"
@@ -533,11 +528,6 @@
     "pronounce_h": "このバスは ソウルえき まで いきます。",
     "words": [
       {
-        "korean": "이 버스",
-        "japanese": "このバス",
-        "pronounce_h": "このバス"
-      },
-      {
         "korean": "서울역",
         "japanese": "ソウル駅",
         "pronounce_h": "ソウルえき"
@@ -653,9 +643,9 @@
         "pronounce_h": "こんげつまつ"
       },
       {
-        "korean": "이 책",
-        "japanese": "この本",
-        "pronounce_h": "このほん"
+        "korean": "책",
+        "japanese": "本",
+        "pronounce_h": "ほん"
       },
       {
         "korean": "전부",
@@ -1099,8 +1089,8 @@
     "words": [
       {
         "korean": "편리하다",
-        "japanese": "便利",
-        "pronounce_h": "べんり"
+        "japanese": "便利だ",
+        "pronounce_h": "べんりだ"
       },
       {
         "korean": "살다",
