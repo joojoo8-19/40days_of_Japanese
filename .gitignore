@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.pyc
+generate_tts_jp.py
 
 # Virtual env
 venv/
