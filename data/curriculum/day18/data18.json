@@ -3,387 +3,655 @@
     "id": 1,
     "korean": "일본에 갈 작정입니다.",
     "english": "I intend to go to Japan.",
-    "japanese": "日本に 行く つもりです。",
+    "japanese": "日本に行くつもりです。",
     "pronounce_r": "Nihon ni iku tsumori desu.",
     "pronounce_h": "にほんに いく つもりです。",
     "words": [
-      {"korean": "일본", "japanese": "日本", "pronounce_h": "にほん"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "일본",
+        "japanese": "日本",
+        "pronounce_h": "にほん"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 2,
     "korean": "유학을 갈 작정이었습니다.",
     "english": "I intended to go study abroad.",
-    "japanese": "留学に 行く つもりでした。",
+    "japanese": "留学に行くつもりでした。",
     "pronounce_r": "Ryuugaku ni iku tsumori deshita.",
     "pronounce_h": "りゅう가くに いく つもりでした。",
     "words": [
-      {"korean": "유학", "japanese": "留学", "pronounce_h": "りゅうがく"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "유학",
+        "japanese": "留学",
+        "pronounce_h": "りゅうがく"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 3,
     "korean": "술은 마시지 않을 작정입니다.",
     "english": "I intend not to drink alcohol.",
-    "japanese": "お酒は 飲まない つもりです。",
+    "japanese": "お酒は飲まないつもりです。",
     "pronounce_r": "Osake wa nomanai tsumori desu.",
     "pronounce_h": "おさけは のまない つもりです.",
     "words": [
-      {"korean": "술", "japanese": "お酒", "pronounce_h": "おさけ"},
-      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+      {
+        "korean": "술",
+        "japanese": "お酒",
+        "pronounce_h": "おさけ"
+      },
+      {
+        "korean": "마시다",
+        "japanese": "飲む",
+        "pronounce_h": "のむ"
+      }
     ]
   },
   {
     "id": 4,
     "korean": "내일은 일찍 일어나려고 생각합니다.",
     "english": "I think I'll wake up early tomorrow.",
-    "japanese": "明日は 早く 起きよう と 思います。",
+    "japanese": "明日は早く起きようと思います。",
     "pronounce_r": "Ashita wa hayaku okiyou to omoimasu.",
     "pronounce_h": "あしたは はやく おきよう と おもいます。",
     "words": [
-      {"korean": "내일", "japanese": "明日", "pronounce_h": "あした"},
-      {"korean": "빨리", "japanese": "早く", "pronounce_h": "はやく"},
-      {"korean": "일어나다", "japanese": "起きる", "pronounce_h": "おきる"},
-      {"korean": "생각하다", "japanese": "思う", "pronounce_h": "おもう"}
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "빨리",
+        "japanese": "早く",
+        "pronounce_h": "はやく"
+      },
+      {
+        "korean": "일어나다",
+        "japanese": "起きる",
+        "pronounce_h": "おきる"
+      },
+      {
+        "korean": "생각하다",
+        "japanese": "思う",
+        "pronounce_h": "おもう"
+      }
     ]
   },
   {
     "id": 5,
     "korean": "편지를 쓰려고 생각했습니다.",
     "english": "I thought I would write a letter.",
-    "japanese": "手紙を 書こう と 思いました。",
+    "japanese": "手紙を書こうと思いました。",
     "pronounce_r": "Tegami o kakou to omoimashita.",
     "pronounce_h": "てがみを かこう と おもいました。",
     "words": [
-      {"korean": "편지", "japanese": "手紙", "pronounce_h": "てがみ"},
-      {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"}
+      {
+        "korean": "편지",
+        "japanese": "手紙",
+        "pronounce_h": "てがみ"
+      },
+      {
+        "korean": "쓰다",
+        "japanese": "書く",
+        "pronounce_h": "かく"
+      }
     ]
   },
   {
     "id": 6,
     "korean": "사지 않으려고 생각합니다.",
     "english": "I'm thinking of not buying it.",
-    "japanese": "買わない と 思います。",
+    "japanese": "買わないと思います。",
     "pronounce_r": "Kawanai to omoimasu.",
     "pronounce_h": "かわない と おもいます。",
     "words": [
-      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
     ]
   },
   {
     "id": 7,
     "korean": "언젠가 일본에서 살고 싶다고 생각합니다.",
     "english": "I think I want to live in Japan someday.",
-    "japanese": "いつか 日本で 住みたい と 思います。",
+    "japanese": "いつか日本で住みたいと思います。",
     "pronounce_r": "Itsuka Nihon de sumitai to omoimasu.",
     "pronounce_h": "いつか にほんで すみたい と お도います。",
     "words": [
-      {"korean": "언젠가", "japanese": "いつか", "pronounce_h": "いつか"},
-      {"korean": "살다", "japanese": "住む", "pronounce_h": "すむ"}
+      {
+        "korean": "언젠가",
+        "japanese": "いつか",
+        "pronounce_h": "いつか"
+      },
+      {
+        "korean": "살다",
+        "japanese": "住む",
+        "pronounce_h": "すむ"
+      }
     ]
   },
   {
     "id": 8,
     "korean": "어제는 쉬고 싶다고 생각했습니다.",
     "english": "I thought I wanted to rest yesterday.",
-    "japanese": "昨日は 休みたい と 思いました。",
+    "japanese": "昨日は休みたいと思いました。",
     "pronounce_r": "Kinou wa yasumitai to omoimashita.",
     "pronounce_h": "きのうは やすみたい と おもいました。",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
-      {"korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ"}
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "쉬다",
+        "japanese": "休む",
+        "pronounce_h": "やすむ"
+      }
     ]
   },
   {
     "id": 9,
     "korean": "아직은 가고 싶지 않다고 생각합니다.",
     "english": "I think I don't want to go yet.",
-    "japanese": "まだ 行きたくない と 思います。",
+    "japanese": "まだ行きたくないと思います。",
     "pronounce_r": "Mada ikitakunai to omoimasu.",
     "pronounce_h": "まだ いきたくない と おもいます。",
     "words": [
-      {"korean": "아직", "japanese": "まだ", "pronounce_h": "まだ"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "아직",
+        "japanese": "まだ",
+        "pronounce_h": "まだ"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 10,
     "korean": "영화를 볼 작정입니다.",
     "english": "I intend to watch a movie.",
-    "japanese": "映画を 見る つもりです。",
+    "japanese": "映画を見るつもりです。",
     "pronounce_r": "Eiga o miru tsumori desu.",
     "pronounce_h": "えいがを みる つもりです。",
     "words": [
-      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
-      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
     ]
   },
   {
     "id": 11,
     "korean": "숙제를 할 작정이었습니다.",
     "english": "I intended to do my homework.",
-    "japanese": "宿題を する つもりでした。",
+    "japanese": "宿題をするつもりでした。",
     "pronounce_r": "Shukudai o suru tsumori deshita.",
     "pronounce_h": "しゅくだいを する つもりでした。",
     "words": [
-      {"korean": "숙제", "japanese": "宿題", "pronounce_h": "しゅくだい"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "숙제",
+        "japanese": "宿題",
+        "pronounce_h": "しゅくだい"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 12,
     "korean": "담배를 피우지 않을 작정입니다.",
     "english": "I intend not to smoke.",
-    "japanese": "タバコを 吸わない つもりです。",
+    "japanese": "タバコを吸わないつもりです。",
     "pronounce_r": "Tabako o suwanai tsumori desu.",
     "pronounce_h": "たばこを すわない つもりです。",
     "words": [
-      {"korean": "담배", "japanese": "タバコ", "pronounce_h": "たばこ"},
-      {"korean": "피우다", "japanese": "吸う", "pronounce_h": "すう"}
+      {
+        "korean": "담배",
+        "japanese": "タバコ",
+        "pronounce_h": "たばこ"
+      },
+      {
+        "korean": "피우다",
+        "japanese": "吸う",
+        "pronounce_h": "すう"
+      }
     ]
   },
   {
     "id": 13,
     "korean": "공부를 하지 않을 작정이었습니다.",
     "english": "I intended not to study.",
-    "japanese": "勉強を しない つもりでした。",
+    "japanese": "勉強をしないつもりでした。",
     "pronounce_r": "Benkyou o shinai tsumori deshita.",
     "pronounce_h": "べんきょうを しない つもりでした。",
     "words": [
-      {"korean": "공부", "japanese": "勉強", "pronounce_h": "べんきょう"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "공부",
+        "japanese": "勉強",
+        "pronounce_h": "べんきょう"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 14,
     "korean": "이제 자려고 생각합니다.",
     "english": "I think I'll go to sleep now.",
-    "japanese": "もう 寝よう と 思います。",
+    "japanese": "もう寝ようと思います。",
     "pronounce_r": "Mou neyou to omoimasu.",
     "pronounce_h": "もう ねよう と おもいます。",
     "words": [
-      {"korean": "이제", "japanese": "もう", "pronounce_h": "もう"},
-      {"korean": "자다", "japanese": "寝る", "pronounce_h": "ねる"}
+      {
+        "korean": "이제",
+        "japanese": "もう",
+        "pronounce_h": "もう"
+      },
+      {
+        "korean": "자다",
+        "japanese": "寝る",
+        "pronounce_h": "ねる"
+      }
     ]
   },
   {
     "id": 15,
     "korean": "전화를 하려고 생각했습니다.",
     "english": "I thought I would make a phone call.",
-    "japanese": "電話を しよう と 思いました。",
+    "japanese": "電話をしようと思いました。",
     "pronounce_r": "Denwa o shiyou to omoimashita.",
     "pronounce_h": "でんわを しよう と おもいました。",
     "words": [
-      {"korean": "전화", "japanese": "電話", "pronounce_h": "でんわ"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "전화",
+        "japanese": "電話",
+        "pronounce_h": "でんわ"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 16,
     "korean": "고기를 먹으려고 생각합니다.",
     "english": "I think I'll eat meat.",
-    "japanese": "肉を 食べよう と 思います。",
+    "japanese": "肉を食べようと思います。",
     "pronounce_r": "Niku o tabeyou to omoimasu.",
     "pronounce_h": "にくを たべよう と おもいます。",
     "words": [
-      {"korean": "고기", "japanese": "肉", "pronounce_h": "にく"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "고기",
+        "japanese": "肉",
+        "pronounce_h": "にく"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 17,
     "korean": "학교에 가려고 생각했습니다.",
     "english": "I thought I would go to school.",
-    "japanese": "学校に 行こう と 思いました。",
+    "japanese": "学校に行こうと思いました。",
     "pronounce_r": "Gakkou ni ikou to omoimashita.",
     "pronounce_h": "がっこうに いこう と おもいました。",
     "words": [
-      {"korean": "학교", "japanese": "学校", "pronounce_h": "がっこう"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "학교",
+        "japanese": "学校",
+        "pronounce_h": "がっこう"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 18,
     "korean": "여행을 가고 싶다고 생각합니다.",
     "english": "I think I want to go on a trip.",
-    "japanese": "旅行に 行きたい と 思います。",
+    "japanese": "旅行に行きたいと思います。",
     "pronounce_r": "Ryokou ni ikitai to omoimasu.",
     "pronounce_h": "りょこうに いきたい と おもいます。",
     "words": [
-      {"korean": "여행", "japanese": "旅行", "pronounce_h": "りょこう"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "여행",
+        "japanese": "旅行",
+        "pronounce_h": "りょこう"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 19,
     "korean": "쉬고 싶다고 생각했습니다.",
     "english": "I thought I wanted to rest.",
-    "japanese": "休みたい と 思いました。",
+    "japanese": "休みたいと思いました。",
     "pronounce_r": "Yasumitai to omoimashita.",
     "pronounce_h": "やすみたい と おもいました。",
     "words": [
-      {"korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ"}
+      {
+        "korean": "쉬다",
+        "japanese": "休む",
+        "pronounce_h": "やすむ"
+      }
     ]
   },
   {
     "id": 20,
     "korean": "한국 요리를 만들 작정입니다.",
     "english": "I intend to make Korean food.",
-    "japanese": "韓国料理を 作る つもりです。",
+    "japanese": "韓国料理を作るつもりです。",
     "pronounce_r": "Kankokuryouri o tsukuru tsumori desu.",
     "pronounce_h": "かんこくりょうりを つくる つもりです。",
     "words": [
-      {"korean": "한국 요리", "japanese": "韓国料理", "pronounce_h": "かんこくりょうり"},
-      {"korean": "만들다", "japanese": "作る", "pronounce_h": "つくる"}
+      {
+        "korean": "한국 요리",
+        "japanese": "韓国料理",
+        "pronounce_h": "かんこくりょうり"
+      },
+      {
+        "korean": "만들다",
+        "japanese": "作る",
+        "pronounce_h": "つくる"
+      }
     ]
   },
   {
     "id": 21,
     "korean": "새 옷을 살 작정이었습니다.",
     "english": "I intended to buy new clothes.",
-    "japanese": "新しい 服を 買う つもりでした。",
+    "japanese": "新しい服を買うつもりでした。",
     "pronounce_r": "Atarashii fuku o kau tsumori deshita.",
     "pronounce_h": "あたらしい ふくを かう つもりでした。",
     "words": [
-      {"korean": "새롭다", "japanese": "新しい", "pronounce_h": "あたらしい"},
-      {"korean": "옷", "japanese": "服", "pronounce_h": "ふく"},
-      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+      {
+        "korean": "새롭다",
+        "japanese": "新しい",
+        "pronounce_h": "あたらしい"
+      },
+      {
+        "korean": "옷",
+        "japanese": "服",
+        "pronounce_h": "ふく"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
     ]
   },
   {
     "id": 22,
     "korean": "오늘은 나가지 않을 작정입니다.",
     "english": "I intend not to go out today.",
-    "japanese": "今日は 出かけない つもりです。",
+    "japanese": "今日は出かけないつもりです。",
     "pronounce_r": "Kyou wa dekakenai tsumori desu.",
     "pronounce_h": "きょうは でかけない つもりです。",
     "words": [
-      {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
-      {"korean": "외출하다", "japanese": "出かける", "pronounce_h": "でかける"}
+      {
+        "korean": "오늘",
+        "japanese": "今日",
+        "pronounce_h": "きょう"
+      },
+      {
+        "korean": "외출하다",
+        "japanese": "出かける",
+        "pronounce_h": "でかける"
+      }
     ]
   },
   {
     "id": 23,
     "korean": "친구를 기다리려고 생각합니다.",
     "english": "I think I'll wait for my friend.",
-    "japanese": "友達を 待とう と 思います。",
+    "japanese": "友達を待とうと思います。",
     "pronounce_r": "Tomodachi o matou to omoimasu.",
     "pronounce_h": "ともだちを まとう と おもいます。",
     "words": [
-      {"korean": "친구", "japanese": "友達", "pronounce_h": "ともだち"},
-      {"korean": "기다리다", "japanese": "待つ", "pronounce_h": "まつ"}
+      {
+        "korean": "친구",
+        "japanese": "友達",
+        "pronounce_h": "ともだち"
+      },
+      {
+        "korean": "기다리다",
+        "japanese": "待つ",
+        "pronounce_h": "まつ"
+      }
     ]
   },
   {
     "id": 24,
     "korean": "커피를 마시려고 생각했습니다.",
     "english": "I thought I would drink coffee.",
-    "japanese": "コーヒーを 飲もう と 思いました。",
+    "japanese": "コーヒーを飲もうと思いました。",
     "pronounce_r": "Koohii o nomou to omoimashita.",
     "pronounce_h": "こーひーを のもう と おもいました。",
     "words": [
-      {"korean": "커피", "japanese": "コーヒー", "pronounce_h": "こーひー"},
-      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+      {
+        "korean": "커피",
+        "japanese": "コーヒー",
+        "pronounce_h": "こーひー"
+      },
+      {
+        "korean": "마시다",
+        "japanese": "飲む",
+        "pronounce_h": "のむ"
+      }
     ]
   },
   {
     "id": 25,
     "korean": "수영을 배우고 싶다고 생각합니다.",
     "english": "I think I want to learn swimming.",
-    "japanese": "水泳를 習いたい と 思います。",
+    "japanese": "水泳를習いたいと思います。",
     "pronounce_r": "Suiei o naraitai to omoimasu.",
     "pronounce_h": "すいえいを ならいたい と おもいます。",
     "words": [
-      {"korean": "수영", "japanese": "水泳", "pronounce_h": "すいえい"},
-      {"korean": "배우다", "japanese": "習う", "pronounce_h": "ならう"}
+      {
+        "korean": "수영",
+        "japanese": "水泳",
+        "pronounce_h": "すいえい"
+      },
+      {
+        "korean": "배우다",
+        "japanese": "習う",
+        "pronounce_h": "ならう"
+      }
     ]
   },
   {
     "id": 26,
     "korean": "게임을 하지 않으려고 생각합니다.",
     "english": "I'm thinking of not playing games.",
-    "japanese": "ゲームを しない と 思います。",
+    "japanese": "ゲームをしないと思います。",
     "pronounce_r": "Geemu o shinai to omoimasu.",
     "pronounce_h": "げーむを しない と おもいます。",
     "words": [
-      {"korean": "게임", "japanese": "ゲーム", "pronounce_h": "げーむ"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "게임",
+        "japanese": "ゲーム",
+        "pronounce_h": "げーむ"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 27,
     "korean": "질문하고 싶다고 생각했습니다.",
     "english": "I thought I wanted to ask a question.",
-    "japanese": "質問したい と 思いました。",
+    "japanese": "質問したいと思いました。",
     "pronounce_r": "Shitsumon shitai to omoimashita.",
     "pronounce_h": "しつもんしたい と おもいました。",
     "words": [
-      {"korean": "질문", "japanese": "質問", "pronounce_h": "しつもん"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "질문",
+        "japanese": "質問",
+        "pronounce_h": "しつもん"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 28,
     "korean": "도쿄에 올 작정입니까?",
     "english": "Do you intend to come to Tokyo?",
-    "japanese": "東京に 来る つもりですか。",
+    "japanese": "東京に来るつもりですか。",
     "pronounce_r": "Toukyou ni kuru tsumori desu ka.",
     "pronounce_h": "とうきょうに くる つもりですか。",
     "words": [
-      {"korean": "도쿄", "japanese": "東京", "pronounce_h": "とうきょう"},
-      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"}
+      {
+        "korean": "도쿄",
+        "japanese": "東京",
+        "pronounce_h": "とうきょう"
+      },
+      {
+        "korean": "오다",
+        "japanese": "来る",
+        "pronounce_h": "くる"
+      }
     ]
   },
   {
     "id": 29,
     "korean": "한자를 공부하려고 생각합니다.",
     "english": "I think I'll study Kanji.",
-    "japanese": "漢字を 勉強しよう と 思います。",
+    "japanese": "漢字を勉強しようと思います。",
     "pronounce_r": "Kanji o benkyou shiyou to omoimasu.",
     "pronounce_h": "かんじを べんきょうしよう と おもいます。",
     "words": [
-      {"korean": "한자", "japanese": "漢字", "pronounce_h": "かんじ"},
-      {"korean": "공부", "japanese": "勉強", "pronounce_h": "べんきょう"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "한자",
+        "japanese": "漢字",
+        "pronounce_h": "かんじ"
+      },
+      {
+        "korean": "공부",
+        "japanese": "勉強",
+        "pronounce_h": "べんきょう"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 30,
     "korean": "오늘 밤은 영화를 보려고 합니다.",
     "english": "I'm thinking of watching a movie tonight.",
-    "japanese": "今夜は 映画を 見よう と 思います。",
+    "japanese": "今夜は映画を見ようと思います。",
     "pronounce_r": "Konya wa eiga o miyou to omoimasu.",
     "pronounce_h": "こんやは えいが를 みよう と おもいます。",
     "words": [
-      {"korean": "오늘 밤", "japanese": "今夜", "pronounce_h": "こんや"},
-      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
-      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
+      {
+        "korean": "오늘 밤",
+        "japanese": "今夜",
+        "pronounce_h": "こんや"
+      },
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
     ]
   },
   {
     "id": 31,
     "korean": "무엇을 먹으려고 생각하나요?",
     "english": "What are you thinking of eating?",
-    "japanese": "何を 食べよう と 思いますか。",
+    "japanese": "何を食べようと思いますか。",
     "pronounce_r": "Nani o tabeyou to omoimasu ka.",
     "pronounce_h": "なにを たべよう と おもいますか。",
     "words": [
-      {"korean": "무엇", "japanese": "何", "pronounce_h": "なに"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "무엇",
+        "japanese": "何",
+        "pronounce_h": "なに"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 32,
     "korean": "함께 가고 싶다고 생각했습니다.",
     "english": "I thought I wanted to go together.",
-    "japanese": "一緒に 行きたい と 思いました。",
+    "japanese": "一緒に行きたいと思いました。",
     "pronounce_r": "Issho ni ikitai to omoimashita.",
     "pronounce_h": "いっしょに いきたい と おもいました。",
     "words": [
-      {"korean": "함께", "japanese": "一緒に", "pronounce_h": "いっしょに"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "함께",
+        "japanese": "一緒に",
+        "pronounce_h": "いっしょに"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   }
 ]

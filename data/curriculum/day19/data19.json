@@ -3,312 +3,560 @@
     "id": 1,
     "korean": "산책은 즐거운 놀이였습니다.",
     "english": "Walking was a fun play.",
-    "japanese": "散歩は 楽しい 遊びでした。",
+    "japanese": "散歩は楽しい遊びでした。",
     "pronounce_r": "Sanpo wa tanoshii asobi deshita.",
     "pronounce_h": "さんぽ는 たのしい あそびでした。",
     "words": [
-      {"korean": "산책", "japanese": "散歩", "pronounce_h": "さんぽ"},
-      {"korean": "즐겁다", "japanese": "楽しい", "pronounce_h": "たのしい"},
-      {"korean": "놀다/놀이", "japanese": "遊ぶ", "pronounce_h": "あそぶ"}
+      {
+        "korean": "산책",
+        "japanese": "散歩",
+        "pronounce_h": "さんぽ"
+      },
+      {
+        "korean": "즐겁다",
+        "japanese": "楽しい",
+        "pronounce_h": "たのしい"
+      },
+      {
+        "korean": "놀다/놀이",
+        "japanese": "遊ぶ",
+        "pronounce_h": "あそぶ"
+      }
     ]
   },
   {
     "id": 2,
     "korean": "그의 달리기는 빠르지 않습니다.",
     "english": "His running is not fast.",
-    "japanese": "彼の 走りは 速くありません。",
+    "japanese": "彼の走りは速くありません。",
     "pronounce_r": "Kare no hashiri wa hayaku arimasen.",
     "pronounce_h": "かれの はしりは はやくありません。",
     "words": [
-      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"},
-      {"korean": "달리다/달리기", "japanese": "走る", "pronounce_h": "はしる"},
-      {"korean": "빠르다", "japanese": "速い", "pronounce_h": "はやい"}
+      {
+        "korean": "그",
+        "japanese": "彼",
+        "pronounce_h": "かれ"
+      },
+      {
+        "korean": "달리다/달리기",
+        "japanese": "走る",
+        "pronounce_h": "はしる"
+      },
+      {
+        "korean": "빠르다",
+        "japanese": "速い",
+        "pronounce_h": "はやい"
+      }
     ]
   },
   {
     "id": 3,
     "korean": "이 산의 높이는 얼마입니까?",
     "english": "How much is the height of this mountain?",
-    "japanese": "この 山の 高さは いくらですか。",
+    "japanese": "この山の高さはいくらですか。",
     "pronounce_r": "Kono yama no takasa wa ikura desu ka.",
     "pronounce_h": "この やまの たかさは いくらですか。",
     "words": [
-      {"korean": "이", "japanese": "この", "pronounce_h": "この"},
-      {"korean": "산", "japanese": "山", "pronounce_h": "やま"},
-      {"korean": "높다/높이", "japanese": "高い", "pronounce_h": "たかい"}
+      {
+        "korean": "이",
+        "japanese": "この",
+        "pronounce_h": "この"
+      },
+      {
+        "korean": "산",
+        "japanese": "山",
+        "pronounce_h": "やま"
+      },
+      {
+        "korean": "높다/높이",
+        "japanese": "高い",
+        "pronounce_h": "たかい"
+      }
     ]
   },
   {
     "id": 4,
     "korean": "어제의 슬픔은 컸습니다.",
     "english": "Yesterday's sadness was great.",
-    "japanese": "昨日の 悲しみは 大きかったです。",
+    "japanese": "昨日の悲しみは大きかったです。",
     "pronounce_r": "Kinou no kanashimi wa ookikatta desu.",
     "pronounce_h": "きのうの かなしみ는 おおきかったです。",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
-      {"korean": "슬프다/슬픔", "japanese": "悲しい", "pronounce_h": "かなしい"},
-      {"korean": "크다", "japanese": "大きい", "pronounce_h": "おおきい"}
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "슬프다/슬픔",
+        "japanese": "悲しい",
+        "pronounce_h": "かなしい"
+      },
+      {
+        "korean": "크다",
+        "japanese": "大きい",
+        "pronounce_h": "おおきい"
+      }
     ]
   },
   {
     "id": 5,
     "korean": "이곳은 조용함이 부족합니다.",
     "english": "This place lacks quietness.",
-    "japanese": "ここは 静かさが 足りません。",
+    "japanese": "ここは静かさが足りません。",
     "pronounce_r": "Koko wa shizukasa ga tarimasen.",
     "pronounce_h": "ここは しずかさが たりません。",
     "words": [
-      {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
-      {"korean": "조용하다/조용함", "japanese": "静かだ", "pronounce_h": "しずかだ"},
-      {"korean": "부족하다", "japanese": "足りる", "pronounce_h": "たりる"}
+      {
+        "korean": "여기",
+        "japanese": "ここ",
+        "pronounce_h": "ここ"
+      },
+      {
+        "korean": "조용하다/조용함",
+        "japanese": "静かだ",
+        "pronounce_h": "しずかだ"
+      },
+      {
+        "korean": "부족하다",
+        "japanese": "足りる",
+        "pronounce_h": "たりる"
+      }
     ]
   },
   {
     "id": 6,
     "korean": "이 강은 깊이가 깊습니다.",
     "english": "This river is very deep.",
-    "japanese": "この 川は 深さが 深いです。",
+    "japanese": "この川は深さが深いです。",
     "pronounce_r": "Kono kawa wa fukasa ga fukai desu.",
     "pronounce_h": "この かわは ふかさが ふかいです。",
     "words": [
-      {"korean": "강", "japanese": "川", "pronounce_h": "かわ"},
-      {"korean": "깊다/깊이", "japanese": "深い", "pronounce_h": "ふかい"}
+      {
+        "korean": "강",
+        "japanese": "川",
+        "pronounce_h": "かわ"
+      },
+      {
+        "korean": "깊다/깊이",
+        "japanese": "深い",
+        "pronounce_h": "ふかい"
+      }
     ]
   },
   {
     "id": 7,
     "korean": "오늘은 등산을 하러 갑니다.",
     "english": "I am going hiking today.",
-    "japanese": "今日は 山登りに 行きます。",
+    "japanese": "今日は山登りに行きます。",
     "pronounce_r": "Kyou wa yamanobori ni ikimasu.",
     "pronounce_h": "きょうは やまのぼりに いきます。",
     "words": [
-      {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
-      {"korean": "등산", "japanese": "山登り", "pronounce_h": "やまのぼり"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "오늘",
+        "japanese": "今日",
+        "pronounce_h": "きょう"
+      },
+      {
+        "korean": "등산",
+        "japanese": "山登り",
+        "pronounce_h": "やまのぼり"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 8,
     "korean": "일본의 산은 높습니까?",
     "english": "Are the mountains in Japan high?",
-    "japanese": "日本の 山は 高いですか。",
+    "japanese": "日本の山は高いですか。",
     "pronounce_r": "Nihon no yama wa takai desu ka.",
     "pronounce_h": "にほんの やまは たかいですか。",
     "words": [
-      {"korean": "일본", "japanese": "日本", "pronounce_h": "にほん"},
-      {"korean": "산", "japanese": "山", "pronounce_h": "やま"},
-      {"korean": "높다", "japanese": "高い", "pronounce_h": "たかい"}
+      {
+        "korean": "일본",
+        "japanese": "日本",
+        "pronounce_h": "にほん"
+      },
+      {
+        "korean": "산",
+        "japanese": "山",
+        "pronounce_h": "やま"
+      },
+      {
+        "korean": "높다",
+        "japanese": "高い",
+        "pronounce_h": "たかい"
+      }
     ]
   },
   {
     "id": 9,
     "korean": "그 영화는 재미가 없었습니다.",
     "english": "That movie was not interesting.",
-    "japanese": "その 映画는 面白さが なかったです。",
+    "japanese": "その映画는面白さがなかったです。",
     "pronounce_r": "Sono eiga wa omoshirosa ga nakatta desu.",
     "pronounce_h": "その えいがは おもしろさが なかったです。",
     "words": [
-      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
-      {"korean": "재밌다/재미", "japanese": "面白い", "pronounce_h": "おもしろい"}
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "재밌다/재미",
+        "japanese": "面白い",
+        "pronounce_h": "おもしろい"
+      }
     ]
   },
   {
     "id": 10,
     "korean": "알람시계를 샀습니다.",
     "english": "I bought an alarm clock.",
-    "japanese": "目覚まし時計を 買いました。",
+    "japanese": "目覚まし時計を買いました。",
     "pronounce_r": "Mezamashidokei o kaimashita.",
     "pronounce_h": "めざましどけいを かいました。",
     "words": [
-      {"korean": "알람시계", "japanese": "目覚まし時計", "pronounce_h": "めざましどけい"},
-      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+      {
+        "korean": "알람시계",
+        "japanese": "目覚まし時計",
+        "pronounce_h": "めざましどけい"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
     ]
   },
   {
     "id": 11,
     "korean": "불꽃놀이는 아주 예뻤습니다.",
     "english": "The fireworks were very beautiful.",
-    "japanese": "花火は とても 綺麗でした。",
+    "japanese": "花火はとても綺麗でした。",
     "pronounce_r": "Hanabi wa totemo kirei deshita.",
     "pronounce_h": "はなびは とても きれいでした。",
     "words": [
-      {"korean": "불꽃놀이", "japanese": "花火", "pronounce_h": "はなび"},
-      {"korean": "예쁘다", "japanese": "綺麗だ", "pronounce_h": "きれいだ"}
+      {
+        "korean": "불꽃놀이",
+        "japanese": "花火",
+        "pronounce_h": "はなび"
+      },
+      {
+        "korean": "예쁘다",
+        "japanese": "綺麗だ",
+        "pronounce_h": "きれいだ"
+      }
     ]
   },
   {
     "id": 12,
     "korean": "당신의 슬픔을 이해합니다.",
     "english": "I understand your sadness.",
-    "japanese": "あなたの 悲しみを 理解します。",
+    "japanese": "あなたの悲しみを理解します。",
     "pronounce_r": "Anata no kanashimi o rikai shimasu.",
     "pronounce_h": "あなたの かなしみを りかいします。",
     "words": [
-      {"korean": "당신", "japanese": "あなた", "pronounce_h": "あなた"},
-      {"korean": "슬픔", "japanese": "悲しみ", "pronounce_h": "かなしみ"},
-      {"korean": "이해하다", "japanese": "理解する", "pronounce_h": "りかいする"}
+      {
+        "korean": "당신",
+        "japanese": "あなた",
+        "pronounce_h": "あなた"
+      },
+      {
+        "korean": "슬픔",
+        "japanese": "悲しみ",
+        "pronounce_h": "かなしみ"
+      },
+      {
+        "korean": "이해하다",
+        "japanese": "理解する",
+        "pronounce_h": "りかいする"
+      }
     ]
   },
   {
     "id": 13,
     "korean": "방의 넓이를 잽니다.",
     "english": "I measure the width of the room.",
-    "japanese": "部屋の 広さを 測ります。",
+    "japanese": "部屋の広さを測ります。",
     "pronounce_r": "Heya no hirosa o hakarimasu.",
     "pronounce_h": "へやの ひろさを はかります。",
     "words": [
-      {"korean": "방", "japanese": "部屋", "pronounce_h": "へや"},
-      {"korean": "넓다/넓이", "japanese": "広い", "pronounce_h": "ひろい"},
-      {"korean": "재다", "japanese": "測る", "pronounce_h": "はかる"}
+      {
+        "korean": "방",
+        "japanese": "部屋",
+        "pronounce_h": "へや"
+      },
+      {
+        "korean": "넓다/넓이",
+        "japanese": "広い",
+        "pronounce_h": "ひろい"
+      },
+      {
+        "korean": "재다",
+        "japanese": "測る",
+        "pronounce_h": "はかる"
+      }
     ]
   },
   {
     "id": 14,
     "korean": "도서관의 조용함이 좋습니다.",
     "english": "I like the quietness of the library.",
-    "japanese": "図書館の 静かさが 良いです。",
+    "japanese": "図書館の静かさが良いです。",
     "pronounce_r": "Toshokan no shizukasa ga yoi desu.",
     "pronounce_h": "としょかんの しずかさが よいです。",
     "words": [
-      {"korean": "도서관", "japanese": "図書館", "pronounce_h": "としょかん"},
-      {"korean": "조용함", "japanese": "静かさ", "pronounce_h": "しずかさ"}
+      {
+        "korean": "도서관",
+        "japanese": "図書館",
+        "pronounce_h": "としょかん"
+      },
+      {
+        "korean": "조용함",
+        "japanese": "静かさ",
+        "pronounce_h": "しずかさ"
+      }
     ]
   },
   {
     "id": 15,
     "korean": "선크림을 바르지 않았습니다.",
     "english": "I didn't apply sunscreen.",
-    "japanese": "日焼け止めを 塗りませんでした。",
+    "japanese": "日焼け止めを塗りませんでした。",
     "pronounce_r": "Hiyakedome o nurimasen deshita.",
     "pronounce_h": "ひやけどめを ぬりませんでした。",
     "words": [
-      {"korean": "선크림", "japanese": "日焼け止め", "pronounce_h": "ひやけどめ"},
-      {"korean": "바르다", "japanese": "塗る", "pronounce_h": "ぬる"}
+      {
+        "korean": "선크림",
+        "japanese": "日焼け止め",
+        "pronounce_h": "ひやけどめ"
+      },
+      {
+        "korean": "바르다",
+        "japanese": "塗る",
+        "pronounce_h": "ぬる"
+      }
     ]
   },
   {
     "id": 16,
     "korean": "부자가 되고 싶습니다.",
     "english": "I want to be rich.",
-    "japanese": "お金持ちに なりたいです。",
+    "japanese": "お金持ちになりたいです。",
     "pronounce_r": "Okanemochi ni naritai desu.",
     "pronounce_h": "おかねもちに なりたいです。",
     "words": [
-      {"korean": "부자", "japanese": "お金持ち", "pronounce_h": "おかねもち"},
-      {"korean": "되다", "japanese": "なる", "pronounce_h": "なる"}
+      {
+        "korean": "부자",
+        "japanese": "お金持ち",
+        "pronounce_h": "おかねもち"
+      },
+      {
+        "korean": "되다",
+        "japanese": "なる",
+        "pronounce_h": "なる"
+      }
     ]
   },
   {
     "id": 17,
     "korean": "오늘의 놀이는 끝입니다.",
     "english": "Today's play is over.",
-    "japanese": "今日の 遊びは 終わりです。",
+    "japanese": "今日の遊びは終わりです。",
     "pronounce_r": "Kyou no asobi wa owari desu.",
     "pronounce_h": "きょうの あそびは おわりです。",
     "words": [
-      {"korean": "놀이", "japanese": "遊び", "pronounce_h": "あそび"},
-      {"korean": "끝", "japanese": "終わり", "pronounce_h": "おわり"}
+      {
+        "korean": "놀이",
+        "japanese": "遊び",
+        "pronounce_h": "あそび"
+      },
+      {
+        "korean": "끝",
+        "japanese": "終わり",
+        "pronounce_h": "おわり"
+      }
     ]
   },
   {
     "id": 18,
     "korean": "물건의 무게를 모릅니다.",
     "english": "I don't know the weight of the item.",
-    "japanese": "物の 重さを 知りません。",
+    "japanese": "物の重さを知りません。",
     "pronounce_r": "Mono no omosa o shirimasen.",
     "pronounce_h": "もの노 おもさを しりません。",
     "words": [
-      {"korean": "물건", "japanese": "物", "pronounce_h": "もの"},
-      {"korean": "무게", "japanese": "重さ", "pronounce_h": "おもさ"},
-      {"korean": "알다", "japanese": "知る", "pronounce_h": "しる"}
+      {
+        "korean": "물건",
+        "japanese": "物",
+        "pronounce_h": "もの"
+      },
+      {
+        "korean": "무게",
+        "japanese": "重さ",
+        "pronounce_h": "おもさ"
+      },
+      {
+        "korean": "알다",
+        "japanese": "知る",
+        "pronounce_h": "しる"
+      }
     ]
   },
   {
     "id": 19,
     "korean": "과일의 단맛이 강합니다.",
     "english": "The sweetness of the fruit is strong.",
-    "japanese": "果物の 甘みが 強いです。",
+    "japanese": "果物の甘みが強いです。",
     "pronounce_r": "Kudamono no amami wa tsuyoi desu.",
     "pronounce_h": "くだものの あまみが つよいです。",
     "words": [
-      {"korean": "과일", "japanese": "果物", "pronounce_h": "くだもの"},
-      {"korean": "단맛", "japanese": "甘み", "pronounce_h": "あまみ"},
-      {"korean": "강하다", "japanese": "強い", "pronounce_h": "つよい"}
+      {
+        "korean": "과일",
+        "japanese": "果物",
+        "pronounce_h": "くだもの"
+      },
+      {
+        "korean": "단맛",
+        "japanese": "甘み",
+        "pronounce_h": "あまみ"
+      },
+      {
+        "korean": "강하다",
+        "japanese": "強い",
+        "pronounce_h": "つよい"
+      }
     ]
   },
   {
     "id": 20,
     "korean": "어제는 반품을 했습니다.",
     "english": "I returned the item yesterday.",
-    "japanese": "昨日は 返品を しました。",
+    "japanese": "昨日は返品をしました。",
     "pronounce_r": "Kinou wa henpin o shimashita.",
     "pronounce_h": "きのうは へんぴんを しました。",
     "words": [
-      {"korean": "반품", "japanese": "返品", "pronounce_h": "へんぴん"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "반품",
+        "japanese": "返品",
+        "pronounce_h": "へんぴん"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 21,
     "korean": "공부는 매일 합니다.",
     "english": "I study every day.",
-    "japanese": "勉強は 毎日 します。",
+    "japanese": "勉強は毎日します。",
     "pronounce_r": "Benkyou wa mainichi shimasu.",
     "pronounce_h": "べんきょうは まいにち します。",
     "words": [
-      {"korean": "공부", "japanese": "勉強", "pronounce_h": "べんきょう"},
-      {"korean": "매일", "japanese": "毎日", "pronounce_h": "まいにち"}
+      {
+        "korean": "공부",
+        "japanese": "勉強",
+        "pronounce_h": "べんきょう"
+      },
+      {
+        "korean": "매일",
+        "japanese": "毎日",
+        "pronounce_h": "まいにち"
+      }
     ]
   },
   {
     "id": 22,
     "korean": "달리기는 힘들지 않았습니다.",
     "english": "Running was not hard.",
-    "japanese": "走りは 大変ではありませんでした。",
+    "japanese": "走りは大変ではありませんでした。",
     "pronounce_r": "Hashiri wa taihen dewa arimasen deshita.",
     "pronounce_h": "はしりは たいへんではありませんでした。",
     "words": [
-      {"korean": "달리기", "japanese": "走り", "pronounce_h": "はしり"},
-      {"korean": "힘들다/힘듦", "japanese": "大変だ", "pronounce_h": "たいへんだ"}
+      {
+        "korean": "달리기",
+        "japanese": "走り",
+        "pronounce_h": "はしり"
+      },
+      {
+        "korean": "힘들다/힘듦",
+        "japanese": "大変だ",
+        "pronounce_h": "たいへんだ"
+      }
     ]
   },
   {
     "id": 23,
     "korean": "후지산은 일본의 산입니다.",
     "english": "Mt. Fuji is a mountain in Japan.",
-    "japanese": "富士山は 日本の 山です。",
+    "japanese": "富士山は日本の山です。",
     "pronounce_r": "Fujisan wa Nihon no yama desu.",
     "pronounce_h": "ふじさんは にほんの やまです。",
     "words": [
-      {"korean": "후지산", "japanese": "富士山", "pronounce_h": "ふじさん"},
-      {"korean": "산", "japanese": "山", "pronounce_h": "やま"}
+      {
+        "korean": "후지산",
+        "japanese": "富士山",
+        "pronounce_h": "ふじさん"
+      },
+      {
+        "korean": "산",
+        "japanese": "山",
+        "pronounce_h": "やま"
+      }
     ]
   },
   {
     "id": 24,
     "korean": "이 요리는 신선함이 중요합니다.",
     "english": "Freshness is important for this dish.",
-    "japanese": "この 料理は 新鮮さが 大事です。",
+    "japanese": "この料理は新鮮さが大事です。",
     "pronounce_r": "Kono ryouri wa shinzensa ga daiji desu.",
     "pronounce_h": "この りょうりは しんぜんさが だいじです。",
     "words": [
-      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"},
-      {"korean": "신선함", "japanese": "新鮮さ", "pronounce_h": "しんぜんさ"},
-      {"korean": "중요하다", "japanese": "大事だ", "pronounce_h": "だいじだ"}
+      {
+        "korean": "요리",
+        "japanese": "料理",
+        "pronounce_h": "りょうり"
+      },
+      {
+        "korean": "신선함",
+        "japanese": "新鮮さ",
+        "pronounce_h": "しんぜんさ"
+      },
+      {
+        "korean": "중요하다",
+        "japanese": "大事だ",
+        "pronounce_h": "だいじだ"
+      }
     ]
   },
   {
     "id": 25,
     "korean": "이야기는 짧지 않았습니다.",
     "english": "The story was not short.",
-    "japanese": "話は 短くなかったです。",
+    "japanese": "話は短くなかったです。",
     "pronounce_r": "Hanashi wa mijikaku nakatta desu.",
     "pronounce_h": "はなし는 みじかくなかったです。",
     "words": [
-      {"korean": "이야기", "japanese": "話", "pronounce_h": "はなし"},
-      {"korean": "짧다", "japanese": "短い", "pronounce_h": "みじかい"}
+      {
+        "korean": "이야기",
+        "japanese": "話",
+        "pronounce_h": "はなし"
+      },
+      {
+        "korean": "짧다",
+        "japanese": "短い",
+        "pronounce_h": "みじかい"
+      }
     ]
   }
 ]

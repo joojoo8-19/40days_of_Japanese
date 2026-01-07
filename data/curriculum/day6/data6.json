@@ -3,7 +3,7 @@
     "id": 1,
     "korean": "회사에 갑니다.",
     "english": "Go to the company.",
-    "japanese": "会社に 行きます。",
+    "japanese": "会社に行きます。",
     "pronounce_r": "Kaisha ni ikimasu.",
     "pronounce_h": "かいしゃ に いきます。",
     "words": [
@@ -23,7 +23,7 @@
     "id": 2,
     "korean": "집에 돌아갑니다.",
     "english": "Go back home.",
-    "japanese": "家に 帰ります。",
+    "japanese": "家に帰ります。",
     "pronounce_r": "Ie ni kaerimasu.",
     "pronounce_h": "いえ に かえります。",
     "words": [
@@ -43,7 +43,7 @@
     "id": 3,
     "korean": "방에 들어갑니다.",
     "english": "Enter the room.",
-    "japanese": "部屋に 入ります。",
+    "japanese": "部屋に入ります。",
     "pronounce_r": "Heya ni hairimasu.",
     "pronounce_h": "へや に はいります。",
     "words": [
@@ -63,7 +63,7 @@
     "id": 4,
     "korean": "공원에 왔습니다.",
     "english": "Came to the park.",
-    "japanese": "公園に 来ました。",
+    "japanese": "公園に来ました。",
     "pronounce_r": "Kōen ni kimashita.",
     "pronounce_h": "こうえん に きました。",
     "words": [
@@ -83,7 +83,7 @@
     "id": 5,
     "korean": "학교를 나갑니다.",
     "english": "Leave the school (as a starting point).",
-    "japanese": "学校を 出ます。",
+    "japanese": "学校を出ます。",
     "pronounce_r": "Gakkō o demasu.",
     "pronounce_h": "がっこう を でます。",
     "words": [
@@ -103,7 +103,7 @@
     "id": 6,
     "korean": "은행에 갑니다.",
     "english": "I go to the bank.",
-    "japanese": "銀行に 行きます。",
+    "japanese": "銀行に行きます。",
     "pronounce_r": "Ginkō ni ikimasu.",
     "pronounce_h": "ぎんこう に いきます。",
     "words": [
@@ -123,7 +123,7 @@
     "id": 7,
     "korean": "슈퍼에 갔습니다.",
     "english": "I went to the supermarket.",
-    "japanese": "スーパーに 行きました。",
+    "japanese": "スーパーに行きました。",
     "pronounce_r": "Sūpā ni ikimashita.",
     "pronounce_h": "スーパー に いきました。",
     "words": [
@@ -143,7 +143,7 @@
     "id": 8,
     "korean": "집에 돌아갑니다.",
     "english": "I will go back home.",
-    "japanese": "家に 帰ります。",
+    "japanese": "家に帰ります。",
     "pronounce_r": "Ie ni kaerimasu.",
     "pronounce_h": "いえ に かえります。",
     "words": [
@@ -163,7 +163,7 @@
     "id": 9,
     "korean": "나라에 돌아왔습니다.",
     "english": "I came back to my country.",
-    "japanese": "国に 帰りました。",
+    "japanese": "国に帰りました。",
     "pronounce_r": "Kuni ni kaerimashita.",
     "pronounce_h": "くに に かえりました。",
     "words": [
@@ -183,7 +183,7 @@
     "id": 10,
     "korean": "사무실에 들어갔습니다.",
     "english": "I entered the office.",
-    "japanese": "事務所に 入りました。",
+    "japanese": "事務所に入りました。",
     "pronounce_r": "Jimusho ni hairimashita.",
     "pronounce_h": "じむしょ に はいりました。",
     "words": [
@@ -203,7 +203,7 @@
     "id": 11,
     "korean": "카페에 들어가지 않습니다.",
     "english": "I do not enter the cafe.",
-    "japanese": "カフェに 入りません。",
+    "japanese": "カフェに入りません。",
     "pronounce_r": "Kafe ni hairimasen.",
     "pronounce_h": "カフェ に はいりません。",
     "words": [
@@ -223,7 +223,7 @@
     "id": 12,
     "korean": "친구가 여기에 옵니다.",
     "english": "My friend comes here.",
-    "japanese": "友達が ここに 来ます。",
+    "japanese": "友達がここに来ます。",
     "pronounce_r": "Tomodachi ga koko ni kimasu.",
     "pronounce_h": "ともだち が ここ に きます。",
     "words": [
@@ -248,7 +248,7 @@
     "id": 13,
     "korean": "선생님은 일본에 오셨습니다.",
     "english": "The teacher came to Japan.",
-    "japanese": "先生は 日本に 来ました。",
+    "japanese": "先生は日本に来ました。",
     "pronounce_r": "Sensei wa Nihon ni kimashita.",
     "pronounce_h": "せんせい は にほん に きました。",
     "words": [
@@ -273,7 +273,7 @@
     "id": 14,
     "korean": "방을 나가지 않았습니다.",
     "english": "I did not leave the room.",
-    "japanese": "部屋を 出ませんでした。",
+    "japanese": "部屋を出ませんでした。",
     "pronounce_r": "Heya o demasen deshita.",
     "pronounce_h": "へや を でませんでした。",
     "words": [
@@ -293,7 +293,7 @@
     "id": 16,
     "korean": "화요일에 회의가 있습니다.",
     "english": "There is a meeting on Tuesday.",
-    "japanese": "火曜日に 会議が あります。",
+    "japanese": "火曜日に会議があります。",
     "pronounce_r": "Kayōbi ni kaigi ga arimasu.",
     "pronounce_h": "かようび に かいぎ が あります。",
     "words": [
@@ -318,7 +318,7 @@
     "id": 17,
     "korean": "1시 30분에 역에서 기다립니다.",
     "english": "I wait at the station at 1:30.",
-    "japanese": "1時30分に 駅で 待ちます。",
+    "japanese": "1時30分に駅で待ちます。",
     "pronounce_r": "Ichiji sanjuppun ni eki de machimasu.",
     "pronounce_h": "いちじ さんじゅっぷん に えき で まちます。",
     "words": [
@@ -343,7 +343,7 @@
     "id": 18,
     "korean": "12월 1일에 선물을 샀습니다.",
     "english": "I bought a present on December 1st.",
-    "japanese": "12月1日に プレゼントを 買いました。",
+    "japanese": "12月1日にプレゼントを買いました。",
     "pronounce_r": "Jūnigatsu tsuitachi ni purezento o kaimashita.",
     "pronounce_h": "じゅうにがつ ついたち に プレゼント を かいました。",
     "words": [
@@ -368,7 +368,7 @@
     "id": 19,
     "korean": "전철로 회사에 갑니다.",
     "english": "I go to the company by train.",
-    "japanese": "電車で 会社に 行きます。",
+    "japanese": "電車で会社に行きます。",
     "pronounce_r": "Densha de kaisha ni ikimasu.",
     "pronounce_h": "でんしゃ で かいしゃ に いきます。",
     "words": [
@@ -393,7 +393,7 @@
     "id": 20,
     "korean": "일본어로 메일을 썼습니다.",
     "english": "I wrote an email in Japanese.",
-    "japanese": "日本語で メールを 書きました。",
+    "japanese": "日本語でメールを書きました。",
     "pronounce_r": "Nihongo de mēru o kakimashita.",
     "pronounce_h": "にほんご で メール を かきました。",
     "words": [
@@ -418,7 +418,7 @@
     "id": 21,
     "korean": "휴대폰으로 사진을 찍습니다.",
     "english": "I take a photo with a mobile phone.",
-    "japanese": "携帯電話で 写真を 撮ります。",
+    "japanese": "携帯電話で写真を撮ります。",
     "pronounce_r": "Keitaidenwa de shashin o torimasu.",
     "pronounce_h": "けいたいでんわ で しゃしん を とります。",
     "words": [
@@ -443,7 +443,7 @@
     "id": 22,
     "korean": "볼펜으로 이름을 써주세요.",
     "english": "Please write your name with a ballpoint pen.",
-    "japanese": "ボールペンで 名前を 書いてください。",
+    "japanese": "ボールペンで名前を書いてください。",
     "pronounce_r": "Bōrupen de namae o kaite kudasai.",
     "pronounce_h": "ボールペン で なまえ を かいて ください。",
     "words": [
@@ -468,7 +468,7 @@
     "id": 23,
     "korean": "도서관에서 공부했습니다.",
     "english": "I studied at the library.",
-    "japanese": "図書館で 勉強しました。",
+    "japanese": "図書館で勉強しました。",
     "pronounce_r": "Toshokan de benkyō shimashita.",
     "pronounce_h": "としょかん で べんきょう しました。",
     "words": [
@@ -488,7 +488,7 @@
     "id": 24,
     "korean": "레스토랑에서 친구와 만납니다.",
     "english": "I meet a friend at the restaurant.",
-    "japanese": "レストランで 友達と 会います。",
+    "japanese": "レストランで友達と会います。",
     "pronounce_r": "Resutoran de tomodachi to aimasu.",
     "pronounce_h": "レストラン で ともだち と あいます。",
     "words": [
@@ -513,7 +513,7 @@
     "id": 25,
     "korean": "편의점에서 주스를 샀습니다.",
     "english": "I bought juice at the convenience store.",
-    "japanese": "コンビニで ジュースを 買いました。",
+    "japanese": "コンビニでジュースを買いました。",
     "pronounce_r": "Konbini de jūsu o kaimashita.",
     "pronounce_h": "コンビニ で ジュース を かいました。",
     "words": [
@@ -538,7 +538,7 @@
     "id": 26,
     "korean": "우리는 공원에서 느긋하게 놀았습니다.",
     "english": "We played leisurely in the park.",
-    "japanese": "私たちは 公園で ゆっくり 遊びました。",
+    "japanese": "私たちは公園でゆっくり遊びました。",
     "pronounce_r": "Watashitachi wa kōen de yukkuri asobimashita.",
     "pronounce_h": "わたしたち は こうえん で ゆっくり あそびました。",
     "words": [
@@ -568,7 +568,7 @@
     "id": 27,
     "korean": "도쿄에서 오사카까지 대략 3시간 정도 걸립니다.",
     "english": "It takes about 3 hours from Tokyo to Osaka.",
-    "japanese": "東京から 大阪まで 3時間ぐらい かかります。",
+    "japanese": "東京から大阪まで3時間ぐらいかかります。",
     "pronounce_r": "Tōkyō kara Ōsaka made sanjikan gurai kakarimasu.",
     "pronounce_h": "とうきょう から おおさか まで さんじかん ぐらい かかります。",
     "words": [
@@ -598,7 +598,7 @@
     "id": 28,
     "korean": "사과를 4개 정도 삽니다.",
     "english": "I buy about 4 apples.",
-    "japanese": "りんごを 4つぐらい 買います。",
+    "japanese": "りんごを4つぐらい買います。",
     "pronounce_r": "Ringo o yottsu gurai kaimasu.",
     "pronounce_h": "りんご を よっつ ぐらい かいます。",
     "words": [
@@ -623,7 +623,7 @@
     "id": 29,
     "korean": "매일 1시간 정도 공부합니다.",
     "english": "I study about 1 hour every day.",
-    "japanese": "毎日、1時間ぐらい 勉強します。",
+    "japanese": "毎日、1時間ぐらい勉強します。",
     "pronounce_r": "Mainichi, ichijikan gurai benkyō shimasu.",
     "pronounce_h": "まいにち、いちじかん ぐらい べんきょう します。",
     "words": [
@@ -648,7 +648,7 @@
     "id": 30,
     "korean": "저 정도의 레벨인 사람은 많이 있습니다.",
     "english": "There are many people at my level.",
-    "japanese": "私ぐらいの レベルの 人は たくさんいます。",
+    "japanese": "私ぐらいのレベルの人はたくさんいます。",
     "pronounce_r": "Watashi gurai no reberu no hito wa takusan imasu.",
     "pronounce_h": "わたし ぐらいの レベルの ひとは たくさん います。",
     "words": [
@@ -683,7 +683,7 @@
     "id": 31,
     "korean": "아침 9시부터 저녁 5시까지 일합니다.",
     "english": "I work from 9 AM to 5 PM.",
-    "japanese": "朝9時から 夜5時まで 働きます。",
+    "japanese": "朝9時から夜5時まで働きます。",
     "pronounce_r": "Asa kuji kara yoru goji made hatarakimasu.",
     "pronounce_h": "あさ くじ から よる ごじ まで はたらきます。",
     "words": [
@@ -718,7 +718,7 @@
     "id": 32,
     "korean": "이 길은 역부터 공원까지 이어집니다.",
     "english": "This road continues from the station to the park.",
-    "japanese": "この道は 駅から 公園まで 続きます。",
+    "japanese": "この道は駅から公園まで続きます。",
     "pronounce_r": "Kono michi wa eki kara kōen made tsuzukimasu.",
     "pronounce_h": "この みち は えき から こうえん まで つづきます。",
     "words": [
@@ -748,7 +748,7 @@
     "id": 33,
     "korean": "수업은 월요일부터 금요일까지입니다.",
     "english": "Class is from Monday to Friday.",
-    "japanese": "授業は 月曜日から 金曜日まで です。",
+    "japanese": "授業は月曜日から金曜日までです。",
     "pronounce_r": "Jugyō wa getsuyōbi kara kin'yōbi made desu.",
     "pronounce_h": "じゅぎょう は げつようび から きんようび まで です。",
     "words": [
@@ -773,7 +773,7 @@
     "id": 34,
     "korean": "여름방학은 7월 20일부터 8월 31일까지였습니다.",
     "english": "Summer vacation was from July 20th to August 31st.",
-    "japanese": "夏休みは 7月20日から 8月31日まで でした。",
+    "japanese": "夏休みは7月20日から8月31日まででした。",
     "pronounce_r": "Natsuyasumi wa shichigatsu hatsuka kara hachigatsu sanjūichinichi made deshita.",
     "pronounce_h": "なつやすみ は しちがつ はつか から はちがつ さんじゅういちにち まで でした。",
     "words": [
@@ -798,7 +798,7 @@
     "id": 35,
     "korean": "저는 비행기로 한국에 돌아갈 것입니다.",
     "english": "I will return to Korea by plane.",
-    "japanese": "私は 飛行機で 韓国に 帰ります。",
+    "japanese": "私は飛行機で韓国に帰ります。",
     "pronounce_r": "Watashi wa hikōki de Kankoku ni kaerimasu.",
     "pronounce_h": "わたし は ひこうき で かんこく に かえります。",
     "words": [
@@ -828,7 +828,7 @@
     "id": 36,
     "korean": "화요일에 시험이 있습니다.",
     "english": "There is an exam on Tuesday.",
-    "japanese": "火曜日に 試験が あります。",
+    "japanese": "火曜日に試験があります。",
     "pronounce_r": "Kayōbi ni shiken ga arimasu.",
     "pronounce_h": "かようび に しけん が あります。",
     "words": [
@@ -853,7 +853,7 @@
     "id": 37,
     "korean": "서점에서 친구를 만났습니다.",
     "english": "I met a friend at the bookstore.",
-    "japanese": "本屋で 友達に 会いました。",
+    "japanese": "本屋で友達に会いました。",
     "pronounce_r": "Hon'ya de tomodachi ni aimashita.",
     "pronounce_h": "ほんや で ともだち に あいました。",
     "words": [
@@ -878,7 +878,7 @@
     "id": 38,
     "korean": "도쿄부터 삿포로까지 비행기로 몇 시간 정도 걸립니까?",
     "english": "How many hours does it take by plane from Tokyo to Sapporo?",
-    "japanese": "東京から 札幌まで 飛行機で 何時間ぐらい かかりますか。",
+    "japanese": "東京から札幌まで飛行機で何時間ぐらいかかりますか。",
     "pronounce_r": "Tōkyō kara Sapporo made hikōki de nanjikan gurai kakarimasu ka.",
     "pronounce_h": "とうきょう から さっぽろ まで ひこうき で なんじかん ぐらい かかります か。",
     "words": [
@@ -913,7 +913,7 @@
     "id": 39,
     "korean": "매일 아침 7시에 일어납니다.",
     "english": "I wake up at 7 AM every day.",
-    "japanese": "毎日 朝 7時に 起きます。",
+    "japanese": "毎日朝7時に起きます。",
     "pronounce_r": "Mainichi asa shichiji ni okimasu.",
     "pronounce_h": "まいにち あさ しちじ に おきます。",
     "words": [
@@ -943,7 +943,7 @@
     "id": 40,
     "korean": "이 케이크는 얼마 정도입니까?",
     "english": "About how much is this cake?",
-    "japanese": "このケーキは いくらぐらい ですか。",
+    "japanese": "このケーキはいくらぐらいですか。",
     "pronounce_r": "Kono kēki wa ikura gurai desu ka.",
     "pronounce_h": "このケーキ は いくら ぐらい です か。",
     "words": [
@@ -968,7 +968,7 @@
     "id": 41,
     "korean": "저는 일본어로 편지를 썼습니다.",
     "english": "I wrote a letter in Japanese.",
-    "japanese": "私は 日本語で 手紙を 書きました。",
+    "japanese": "私は日本語で手紙を書きました。",
     "pronounce_r": "Watashi wa Nihongo de tegami o kakimashita.",
     "pronounce_h": "わたし は にほんご で てがみ を かきました。",
     "words": [
@@ -998,7 +998,7 @@
     "id": 42,
     "korean": "수업은 9시부터 12시까지입니다.",
     "english": "Class is from 9 o'clock until 12 o'clock.",
-    "japanese": "授業は 9時から 12時まで です。",
+    "japanese": "授業は9時から12時までです。",
     "pronounce_r": "Jugyō wa kuji kara jūni ji made desu.",
     "pronounce_h": "じゅぎょう は くじ から じゅうにじ まで です。",
     "words": [
@@ -1028,7 +1028,7 @@
     "id": 43,
     "korean": "버스로 30분 정도 걸렸습니다.",
     "english": "It took about 30 minutes by bus.",
-    "japanese": "バスで 30分ぐらい かかりました。",
+    "japanese": "バスで30分ぐらいかかりました。",
     "pronounce_r": "Basu de sanjuppun gurai kakarimashita.",
     "pronounce_h": "バス で さんじゅっぷん ぐらい かかりました。",
     "words": [
@@ -1053,7 +1053,7 @@
     "id": 44,
     "korean": "(나는) 내일 서점에 가지 않을 것입니다.",
     "english": "I will not go to the bookstore tomorrow.",
-    "japanese": "私は 明日 本屋に 行きません。",
+    "japanese": "私は明日本屋に行きません。",
     "pronounce_r": "Watashi wa ashita hon'ya ni ikimasen.",
     "pronounce_h": "わたし は あした ほんや に いきません。",
     "words": [
@@ -1083,7 +1083,7 @@
     "id": 45,
     "korean": "박물관에서 사진을 찍었습니다.",
     "english": "I took a picture at the museum.",
-    "japanese": "博物館で 写真を 撮りました。",
+    "japanese": "博物館で写真を撮りました。",
     "pronounce_r": "Hakubutsukan de shashin o torimashita.",
     "pronounce_h": "はくぶつかん で しゃしん を とりました。",
     "words": [
@@ -1108,7 +1108,7 @@
     "id": 46,
     "korean": "(그녀는) 5월에 결혼합니다.",
     "english": "She will get married in May.",
-    "japanese": "彼女は 5月に 結婚します。",
+    "japanese": "彼女は5月に結婚します。",
     "pronounce_r": "Kanojo wa gogatsu ni kekkon shimasu.",
     "pronounce_h": "かのじょ は ごがつ に けっこん します。",
     "words": [
@@ -1133,7 +1133,7 @@
     "id": 47,
     "korean": "어제는 아무것도 하지 않았습니다.",
     "english": "I didn't do anything yesterday.",
-    "japanese": "昨日**は** 何も **しませんでした**。",
+    "japanese": "昨日**は**何も**しませんでした**。",
     "pronounce_r": "Kinō wa nani mo shimasen deshita.",
     "pronounce_h": "きのう は なにも しませんでした。",
     "words": [
@@ -1158,7 +1158,7 @@
     "id": 48,
     "korean": "우리는 오후 6시에 거기에서 만날 것입니다.",
     "english": "We will meet there at 6 PM.",
-    "japanese": "私たち**は** 午後6時**に** そこ**で 会います**。",
+    "japanese": "私たち**は**午後6時**に**そこ**で会います**。",
     "pronounce_r": "Watashitachi wa gogo rokuji ni soko de aimasu.",
     "pronounce_h": "わたしたち は ごご ろくじ に そこ で あいます。",
     "words": [
@@ -1193,7 +1193,7 @@
     "id": 49,
     "korean": "이 강은 도시부터 바다까지 이어져 있습니다.",
     "english": "This river continues from the city to the sea.",
-    "japanese": "この川**は** 街**から** 海**まで 続きます**。",
+    "japanese": "この川**は**街**から**海**まで続きます**。",
     "pronounce_r": "Kono kawa wa machi kara umi made tsuzukimasu.",
     "pronounce_h": "この かわ は まち から うみ まで つづきます。",
     "words": [

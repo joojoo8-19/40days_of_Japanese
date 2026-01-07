@@ -7,9 +7,21 @@
     "pronounce_r": "Uirusu chekku o shita hou ga ii yo.",
     "pronounce_h": "ういるすちぇっくを した ほうが いいよ。",
     "words": [
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"},
-      {"korean": "쪽/편", "japanese": "方", "pronounce_h": "ほう"},
-      {"korean": "좋다", "japanese": "良い", "pronounce_h": "いい"}
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      },
+      {
+        "korean": "쪽/편",
+        "japanese": "方",
+        "pronounce_h": "ほう"
+      },
+      {
+        "korean": "좋다",
+        "japanese": "良い",
+        "pronounce_h": "いい"
+      }
     ]
   },
   {
@@ -20,9 +32,21 @@
     "pronounce_r": "Kaze no toki wa masuku o shita hou ga ii desu yo.",
     "pronounce_h": "かぜの ときは ますくを した ほうが いいですよ。",
     "words": [
-      {"korean": "감기", "japanese": "風邪", "pronounce_h": "かぜ"},
-      {"korean": "때", "japanese": "時", "pronounce_h": "とき"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "감기",
+        "japanese": "風邪",
+        "pronounce_h": "かぜ"
+      },
+      {
+        "korean": "때",
+        "japanese": "時",
+        "pronounce_h": "とき"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
@@ -33,9 +57,21 @@
     "pronounce_r": "Tango o takusan oboeta hou ga ii yo.",
     "pronounce_h": "たんご을 たくさん おぼえた ほうが いいよ。",
     "words": [
-      {"korean": "단어", "japanese": "単語", "pronounce_h": "たんご"},
-      {"korean": "많이", "japanese": "たくさん", "pronounce_h": "たくさん"},
-      {"korean": "외우다", "japanese": "覚える", "pronounce_h": "おぼえる"}
+      {
+        "korean": "단어",
+        "japanese": "単語",
+        "pronounce_h": "たんご"
+      },
+      {
+        "korean": "많이",
+        "japanese": "たくさん",
+        "pronounce_h": "たくさん"
+      },
+      {
+        "korean": "외우다",
+        "japanese": "覚える",
+        "pronounce_h": "おぼえる"
+      }
     ]
   },
   {
@@ -46,8 +82,16 @@
     "pronounce_r": "Mou akirameta hou ga ii yo.",
     "pronounce_h": "もう あきらめた ほうが いいよ。",
     "words": [
-      {"korean": "이제/벌써", "japanese": "もう", "pronounce_h": "もう"},
-      {"korean": "포기하다", "japanese": "諦める", "pronounce_h": "あきらめる"}
+      {
+        "korean": "이제/벌써",
+        "japanese": "もう",
+        "pronounce_h": "もう"
+      },
+      {
+        "korean": "포기하다",
+        "japanese": "諦める",
+        "pronounce_h": "あきらめる"
+      }
     ]
   },
   {
@@ -58,8 +102,16 @@
     "pronounce_r": "Sotchi wa abunai kara ikanai hou ga ii yo.",
     "pronounce_h": "そっちは あぶないから いかない ほうが いいよ。",
     "words": [
-      {"korean": "위험하다", "japanese": "危ない", "pronounce_h": "あぶない"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "위험하다",
+        "japanese": "危ない",
+        "pronounce_h": "あぶない"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
@@ -70,8 +122,16 @@
     "pronounce_r": "Kaado o nakushita mitai.",
     "pronounce_h": "かーどを なくした みたい。",
     "words": [
-      {"korean": "카드", "japanese": "カード", "pronounce_h": "かーど"},
-      {"korean": "잃어버리다", "japanese": "なくす", "pronounce_h": "なくす"}
+      {
+        "korean": "카드",
+        "japanese": "カード",
+        "pronounce_h": "かーど"
+      },
+      {
+        "korean": "잃어버리다",
+        "japanese": "なくす",
+        "pronounce_h": "なくす"
+      }
     ]
   },
   {
@@ -82,8 +142,16 @@
     "pronounce_r": "Ginkou ni renraku shita hou ga ii yo.",
     "pronounce_h": "ぎんこうに れんらくした ほうが いいよ。",
     "words": [
-      {"korean": "은행", "japanese": "銀行", "pronounce_h": "ぎんこう"},
-      {"korean": "연락하다", "japanese": "連絡する", "pronounce_h": "れんらくする"}
+      {
+        "korean": "은행",
+        "japanese": "銀行",
+        "pronounce_h": "ぎんこう"
+      },
+      {
+        "korean": "연락하다",
+        "japanese": "連絡する",
+        "pronounce_h": "れんらくする"
+      }
     ]
   },
   {
@@ -94,22 +162,46 @@
     "pronounce_r": "Tomodachi ni atte kaimono o shitari eiga o mitari shimashita.",
     "pronounce_h": "ともだちに あって かいものを したり えいがを みたり しました。",
     "words": [
-      {"korean": "만나다", "japanese": "会う", "pronounce_h": "あう"},
-      {"korean": "쇼핑", "japanese": "買い物", "pronounce_h": "かいもの"},
-      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
-      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
+      {
+        "korean": "만나다",
+        "japanese": "会う",
+        "pronounce_h": "あう"
+      },
+      {
+        "korean": "쇼핑",
+        "japanese": "買い物",
+        "pronounce_h": "かいもの"
+      },
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
     ]
   },
   {
     "id": 9,
     "korean": "어제는 비가 내리기도 하고, 바람이 불기도 했어요",
     "english": "Yesterday, it rained and the wind blew.",
-    "japanese": "昨日は雨가 降ったり、風が吹いたりしました。",
+    "japanese": "昨日は雨가降ったり、風が吹いたりしました。",
     "pronounce_r": "Kinou wa ame ga futtari, kaze ga fuitari shimashita.",
     "pronounce_h": "きのうは あめが ふったり、かぜが ふいたり しました。",
     "words": [
-      {"korean": "내리다", "japanese": "降る", "pronounce_h": "ふる"},
-      {"korean": "불다", "japanese": "吹く", "pronounce_h": "ふく"}
+      {
+        "korean": "내리다",
+        "japanese": "降る",
+        "pronounce_h": "ふる"
+      },
+      {
+        "korean": "불다",
+        "japanese": "吹く",
+        "pronounce_h": "ふく"
+      }
     ]
   },
   {
@@ -120,8 +212,16 @@
     "pronounce_r": "Densha no naka de wa ongaku o kuitari hon o yundari suru yo.",
     "pronounce_h": "でんしゃ의 なか에서는 おんがくを きいたり ほんを よんだり するよ。",
     "words": [
-      {"korean": "듣다", "japanese": "聴く", "pronounce_h": "きく"},
-      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"}
+      {
+        "korean": "듣다",
+        "japanese": "聴く",
+        "pronounce_h": "きく"
+      },
+      {
+        "korean": "읽다",
+        "japanese": "読む",
+        "pronounce_h": "よむ"
+      }
     ]
   },
   {
@@ -132,8 +232,16 @@
     "pronounce_r": "Koukousei wa warattari hanashitari shite imasu.",
     "pronounce_h": "こうこうせいは わらったり はな하거나 して います。",
     "words": [
-      {"korean": "웃다", "japanese": "笑う", "pronounce_h": "わらう"},
-      {"korean": "이야기하다", "japanese": "話す", "pronounce_h": "はなす"}
+      {
+        "korean": "웃다",
+        "japanese": "笑う",
+        "pronounce_h": "わらう"
+      },
+      {
+        "korean": "이야기하다",
+        "japanese": "話す",
+        "pronounce_h": "はなす"
+      }
     ]
   },
   {
@@ -144,7 +252,11 @@
     "pronounce_r": "Yasumi no hi ni wa souji o shitari ryouri o tsukuttari shimasu.",
     "pronounce_h": "やすみの ひには そうじを したり りょうりを つくったり します。",
     "words": [
-      {"korean": "만들다", "japanese": "作る", "pronounce_h": "つくる"}
+      {
+        "korean": "만들다",
+        "japanese": "作る",
+        "pronounce_h": "つくる"
+      }
     ]
   },
   {
@@ -155,8 +267,16 @@
     "pronounce_r": "Donna koto ga dekimasu ka.",
     "pronounce_h": "どんな ことが できますか。",
     "words": [
-      {"korean": "어떤", "japanese": "どんな", "pronounce_h": "どんな"},
-      {"korean": "할 수 있다", "japanese": "できる", "pronounce_h": "できる"}
+      {
+        "korean": "어떤",
+        "japanese": "どんな",
+        "pronounce_h": "どんな"
+      },
+      {
+        "korean": "할 수 있다",
+        "japanese": "できる",
+        "pronounce_h": "できる"
+      }
     ]
   },
   {
@@ -167,8 +287,16 @@
     "pronounce_r": "Shuushoku ga kimatta rashii desu.",
     "pronounce_h": "しゅうしょくが きまった らしいです。",
     "words": [
-      {"korean": "취직", "japanese": "就職", "pronounce_h": "しゅうしょく"},
-      {"korean": "결정되다", "japanese": "決まる", "pronounce_h": "きまる"}
+      {
+        "korean": "취직",
+        "japanese": "就職",
+        "pronounce_h": "しゅうしょく"
+      },
+      {
+        "korean": "결정되다",
+        "japanese": "決まる",
+        "pronounce_h": "きまる"
+      }
     ]
   },
   {
@@ -179,7 +307,11 @@
     "pronounce_r": "Minna mou dekakete shimatta rashii desu.",
     "pronounce_h": "みんな もう でかけて しまった らしい입니다.",
     "words": [
-      {"korean": "외출하다", "japanese": "出かける", "pronounce_h": "でかける"}
+      {
+        "korean": "외출하다",
+        "japanese": "出かける",
+        "pronounce_h": "でかける"
+      }
     ]
   },
   {
@@ -190,7 +322,11 @@
     "pronounce_r": "Denwa ni denai desu ne.",
     "pronounce_h": "でんわに でないですね。",
     "words": [
-      {"korean": "나오다/받다", "japanese": "出る", "pronounce_h": "でる"}
+      {
+        "korean": "나오다/받다",
+        "japanese": "出る",
+        "pronounce_h": "でる"
+      }
     ]
   },
   {
@@ -201,7 +337,11 @@
     "pronounce_r": "Ame ga futta rashii desu. Douro ga nurete imasu ne.",
     "pronounce_h": "あめが ふった らしいです。どうろが ぬれて いますね。",
     "words": [
-      {"korean": "젖다", "japanese": "濡れる", "pronounce_h": "ぬれる"}
+      {
+        "korean": "젖다",
+        "japanese": "濡れる",
+        "pronounce_h": "ぬれる"
+      }
     ]
   },
   {
@@ -212,7 +352,11 @@
     "pronounce_r": "Dareka kita rashii desu. Nokku no oto ga shimasu.",
     "pronounce_h": "だれか きた らしいです。のっくの おとが します。",
     "words": [
-      {"korean": "소리가 나다", "japanese": "音がする", "pronounce_h": "おとがする"}
+      {
+        "korean": "소리가 나다",
+        "japanese": "音がする",
+        "pronounce_h": "おとがする"
+      }
     ]
   },
   {
@@ -223,7 +367,11 @@
     "pronounce_r": "TikTok to iu mono ga hayatte iru rashii desu.",
     "pronounce_h": "TikTokというものが はやって いる らしいです。",
     "words": [
-      {"korean": "유행하다", "japanese": "流行る", "pronounce_h": "はやる"}
+      {
+        "korean": "유행하다",
+        "japanese": "流行る",
+        "pronounce_h": "はやる"
+      }
     ]
   },
   {
@@ -234,30 +382,46 @@
     "pronounce_r": "Wakai hito ni wa tsuite ikemasen ne.",
     "pronounce_h": "わかい ひとには ついて いけませんね。",
     "words": [
-      {"korean": "따라가다", "japanese": "ついていく", "pronounce_h": "ついていく"}
+      {
+        "korean": "따라가다",
+        "japanese": "ついていく",
+        "pronounce_h": "ついていく"
+      }
     ]
   },
   {
     "id": 21,
     "korean": "맛있을 것 같아 / 맛없을 것 같아",
     "english": "Looks delicious / looks unappetizing.",
-    "japanese": "美味しそう / まずそう",
+    "japanese": "美味しそう/まずそう",
     "pronounce_r": "Oishisou / Mazusou",
     "pronounce_h": "おいしそう / まずそう",
     "words": [
-      {"korean": "맛있다", "japanese": "美味しい", "pronounce_h": "おいしい"},
-      {"korean": "맛없다", "japanese": "まずい", "pronounce_h": "まずい"}
+      {
+        "korean": "맛있다",
+        "japanese": "美味しい",
+        "pronounce_h": "おいしい"
+      },
+      {
+        "korean": "맛없다",
+        "japanese": "まずい",
+        "pronounce_h": "まずい"
+      }
     ]
   },
   {
     "id": 22,
     "korean": "지금이라도 비가 내릴 것 같아요",
     "english": "It looks like it will rain any moment.",
-    "japanese": "今にも 雨が降りそうです。",
+    "japanese": "今にも雨が降りそうです。",
     "pronounce_r": "Ima ni mo ame ga furisou desu.",
     "pronounce_h": "いまにも あめが ふりそうです。",
     "words": [
-      {"korean": "내리다", "japanese": "降る", "pronounce_h": "ふる"}
+      {
+        "korean": "내리다",
+        "japanese": "降る",
+        "pronounce_h": "ふる"
+      }
     ]
   },
   {
@@ -268,7 +432,11 @@
     "pronounce_r": "Ii omoide ni narisou desu.",
     "pronounce_h": "いい おもいでに なりそうです。",
     "words": [
-      {"korean": "되다", "japanese": "なる", "pronounce_h": "なる"}
+      {
+        "korean": "되다",
+        "japanese": "なる",
+        "pronounce_h": "なる"
+      }
     ]
   },
   {
@@ -279,7 +447,11 @@
     "pronounce_r": "Kore ga saikin hayatte iru sutairu da sou desu.",
     "pronounce_h": "これが さいきん はやって いる すたいるだそうです。",
     "words": [
-      {"korean": "유행하다", "japanese": "流行る", "pronounce_h": "はやる"}
+      {
+        "korean": "유행하다",
+        "japanese": "流行る",
+        "pronounce_h": "はやる"
+      }
     ]
   },
   {
@@ -290,18 +462,26 @@
     "pronounce_r": "Jiinzu mo niaisou da ne.",
     "pronounce_h": "じーんずも にあいそうだね。",
     "words": [
-      {"korean": "어울리다", "japanese": "似合う", "pronounce_h": "にあう"}
+      {
+        "korean": "어울리다",
+        "japanese": "似合う",
+        "pronounce_h": "にあう"
+      }
     ]
   },
   {
     "id": 26,
     "korean": "진짜 다이아몬드 같아요",
     "english": "It looks like a real diamond.",
-    "japanese": "本物の ダイヤモンドのようです.",
+    "japanese": "本物のダイヤモンドのようです.",
     "pronounce_r": "Honmono no daiyamondo no you desu.",
     "pronounce_h": "ほんものの だいやもんどのようです。",
     "words": [
-      {"korean": "진짜", "japanese": "本物", "pronounce_h": "ほんもの"}
+      {
+        "korean": "진짜",
+        "japanese": "本物",
+        "pronounce_h": "ほんもの"
+      }
     ]
   },
   {
@@ -312,18 +492,26 @@
     "pronounce_r": "Marude yume no you na hanashi desu ne.",
     "pronounce_h": "まるで ゆめのような はなしですね。",
     "words": [
-      {"korean": "이야기하다", "japanese": "話す", "pronounce_h": "はなす"}
+      {
+        "korean": "이야기하다",
+        "japanese": "話す",
+        "pronounce_h": "はなす"
+      }
     ]
   },
   {
     "id": 28,
     "korean": "그녀는 술이 셀 것 같아요",
     "english": "She looks like she can hold her liquor well.",
-    "japanese": "彼女はお酒が 強いみたいです。",
+    "japanese": "彼女はお酒が強いみたいです。",
     "pronounce_r": "Kanojo wa osake ga tsuyoi mitai desu.",
     "pronounce_h": "かのじょは おさけが つよいみたいです。",
     "words": [
-      {"korean": "세다/강하다", "japanese": "強い", "pronounce_h": "つよい"}
+      {
+        "korean": "세다/강하다",
+        "japanese": "強い",
+        "pronounce_h": "つよい"
+      }
     ]
   },
   {
@@ -334,18 +522,26 @@
     "pronounce_r": "Minna ii hito mitai de yokatta.",
     "pronounce_h": "みんな いい ひとみたいで よかった。",
     "words": [
-      {"korean": "좋다", "japanese": "良い", "pronounce_h": "いい"}
+      {
+        "korean": "좋다",
+        "japanese": "良い",
+        "pronounce_h": "いい"
+      }
     ]
   },
   {
     "id": 30,
     "korean": "일본어가 유창하고 낫토도 잘 먹어요",
     "english": "Their Japanese is fluent and they eat natto well.",
-    "japanese": "日本語が ぺらぺらで納豆も よく食べます。",
+    "japanese": "日本語がぺらぺらで納豆もよく食べます。",
     "pronounce_r": "Nihongo ga perapera de nattou mo yoku tabemasu.",
     "pronounce_h": "にほんごが ぺらぺらで なっとうも よく たべます。",
     "words": [
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
@@ -356,18 +552,26 @@
     "pronounce_r": "Marude nihonjin mitai desu ne.",
     "pronounce_h": "まるで にほんじんみたいですね。",
     "words": [
-      {"korean": "마치", "japanese": "まるで", "pronounce_h": "まるで"}
+      {
+        "korean": "마치",
+        "japanese": "まるで",
+        "pronounce_h": "まるで"
+      }
     ]
   },
   {
     "id": 32,
     "korean": "내일은 아마 눈이 내릴 거야",
     "english": "It will probably snow tomorrow.",
-    "japanese": "明日 たぶん 雪が 降るだろう。",
+    "japanese": "明日たぶん雪が降るだろう。",
     "pronounce_r": "Ashita tabun yuki ga furu darou.",
     "pronounce_h": "あした たぶん ゆき가 ふるだろう。",
     "words": [
-      {"korean": "내리다", "japanese": "降る", "pronounce_h": "ふる"}
+      {
+        "korean": "내리다",
+        "japanese": "降る",
+        "pronounce_h": "ふる"
+      }
     ]
   },
   {
@@ -378,7 +582,11 @@
     "pronounce_r": "Sonouchi nantoka naru darou.",
     "pronounce_h": "そのうち なんとかなるだろう。",
     "words": [
-      {"korean": "어떻게든 되다", "japanese": "なんとかなる", "pronounce_h": "なんとかなる"}
+      {
+        "korean": "어떻게든 되다",
+        "japanese": "なんとかなる",
+        "pronounce_h": "なんとかなる"
+      }
     ]
   },
   {
@@ -389,29 +597,41 @@
     "pronounce_r": "Sonna koto daremo shinjinai darou.",
     "pronounce_h": "そんな こと だれも しんじないだろう。",
     "words": [
-      {"korean": "믿다", "japanese": "信じる", "pronounce_h": "しんじる"}
+      {
+        "korean": "믿다",
+        "japanese": "信じる",
+        "pronounce_h": "しんじる"
+      }
     ]
   },
   {
     "id": 35,
     "korean": "그 이상의 도전은 어렵겠죠",
     "english": "Further challenges would be difficult, right?",
-    "japanese": "それ以上の挑戦は 難しいでしょう。",
+    "japanese": "それ以上の挑戦は難しいでしょう。",
     "pronounce_r": "Sore ijou no chousen wa muzukashii deshou.",
     "pronounce_h": "それ いじょうの ちょうせんわ むずかしいでしょう。",
     "words": [
-      {"korean": "어렵다", "japanese": "難しい", "pronounce_h": "むずかしい"}
+      {
+        "korean": "어렵다",
+        "japanese": "難しい",
+        "pronounce_h": "むずかしい"
+      }
     ]
   },
   {
     "id": 36,
     "korean": "12시에는 끝나겠죠",
     "english": "It will probably end by 12 o'clock.",
-    "japanese": "12時には 終わるでしょう。",
+    "japanese": "12時には終わるでしょう。",
     "pronounce_r": "Juuniji ni wa owaru deshou.",
     "pronounce_h": "じゅうにじには おわるでしょう。",
     "words": [
-      {"korean": "끝나다", "japanese": "終わる", "pronounce_h": "おわる"}
+      {
+        "korean": "끝나다",
+        "japanese": "終わる",
+        "pronounce_h": "おわる"
+      }
     ]
   },
   {
@@ -422,7 +642,11 @@
     "pronounce_r": "Nanika atta no kamoshirenai.",
     "pronounce_h": "なにか あったのかもしれない。",
     "words": [
-      {"korean": "있다", "japanese": "ある", "pronounce_h": "ある"}
+      {
+        "korean": "있다",
+        "japanese": "ある",
+        "pronounce_h": "ある"
+      }
     ]
   },
   {
@@ -433,7 +657,11 @@
     "pronounce_r": "Motokare no koto o mada suki kamoshirenai desu.",
     "pronounce_h": "もとかれの ことを まだ すきかもしれないです",
     "words": [
-      {"korean": "좋아하다", "japanese": "好きだ", "pronounce_h": "すきだ"}
+      {
+        "korean": "좋아하다",
+        "japanese": "好きだ",
+        "pronounce_h": "すきだ"
+      }
     ]
   },
   {
@@ -444,18 +672,26 @@
     "pronounce_r": "Denwa ni demasen. Ima, shigoto de isogashii kamoshirenai desu.",
     "pronounce_h": "でんわに でません。いま、しごとで いそがしいかもしれないです。",
     "words": [
-      {"korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそがしい"}
+      {
+        "korean": "바쁘다",
+        "japanese": "忙しい",
+        "pronounce_h": "いそがしい"
+      }
     ]
   },
   {
     "id": 40,
     "korean": "목이 아프니까 감기에 걸렸는지도 몰라요",
     "english": "Since my throat hurts, I might have a cold.",
-    "japanese": "喉が 痛いから 風邪をひいたかもしれないです",
+    "japanese": "喉が痛いから風邪をひいたかもしれないです",
     "pronounce_r": "Nodo ga itai kara kaze o hiita kamoshirenai desu.",
     "pronounce_h": "のどが いたいから かぜを ひいたかもしれないです",
     "words": [
-      {"korean": "감기에 걸리다", "japanese": "風邪をひく", "pronounce_h": "かぜをひく"}
+      {
+        "korean": "감기에 걸리다",
+        "japanese": "風邪をひく",
+        "pronounce_h": "かぜをひく"
+      }
     ]
   },
   {
@@ -466,7 +702,11 @@
     "pronounce_r": "Purinto ga mattaku ugokimasen.",
     "pronounce_h": "ぷりんとが まったく うごきません",
     "words": [
-      {"korean": "작동하다/움직이다", "japanese": "動く", "pronounce_h": "うごく"}
+      {
+        "korean": "작동하다/움직이다",
+        "japanese": "動く",
+        "pronounce_h": "うごく"
+      }
     ]
   },
   {
@@ -477,7 +717,11 @@
     "pronounce_r": "Koshou kamoshirenai.",
     "pronounce_h": "こしょうかもしれない。",
     "words": [
-      {"korean": "고장", "japanese": "故障", "pronounce_h": "こしょう"}
+      {
+        "korean": "고장",
+        "japanese": "故障",
+        "pronounce_h": "こしょう"
+      }
     ]
   },
   {
@@ -488,8 +732,16 @@
     "pronounce_r": "Ichi ni ni o tasu to san ni narimasu.",
     "pronounce_h": "いちに にを たすと さんに なります。",
     "words": [
-      {"korean": "더하다", "japanese": "足す", "pronounce_h": "たす"},
-      {"korean": "되다", "japanese": "なる", "pronounce_h": "なる"}
+      {
+        "korean": "더하다",
+        "japanese": "足す",
+        "pronounce_h": "たす"
+      },
+      {
+        "korean": "되다",
+        "japanese": "なる",
+        "pronounce_h": "なる"
+      }
     ]
   },
   {
@@ -500,7 +752,11 @@
     "pronounce_r": "Haru ni naru to hana ga saku.",
     "pronounce_h": "はるに なると はなが さく。",
     "words": [
-      {"korean": "피다", "japanese": "咲く", "pronounce_h": "さく"}
+      {
+        "korean": "피다",
+        "japanese": "咲く",
+        "pronounce_h": "さく"
+      }
     ]
   },
   {
@@ -511,8 +767,16 @@
     "pronounce_r": "Hyakuen dama o ireru to kippu ga dete kimasu.",
     "pronounce_h": "ひゃくえんだまを いれると きっぷが でてきます。",
     "words": [
-      {"korean": "넣다", "japanese": "入れる", "pronounce_h": "いれる"},
-      {"korean": "나오다", "japanese": "出てくる", "pronounce_h": "でてくる"}
+      {
+        "korean": "넣다",
+        "japanese": "入れる",
+        "pronounce_h": "いれる"
+      },
+      {
+        "korean": "나오다",
+        "japanese": "出てくる",
+        "pronounce_h": "でてくる"
+      }
     ]
   },
   {
@@ -523,7 +787,11 @@
     "pronounce_r": "Kono michi o massugu iku to, yuubinkyoku ga arimasu.",
     "pronounce_h": "この みちを まっすぐ いくと、ゆうびんきょくが あります。",
     "words": [
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
@@ -534,7 +802,11 @@
     "pronounce_r": "Kono michi o migi ni magaru to arimasu.",
     "pronounce_h": "この みちを みぎに まがると あります。",
     "words": [
-      {"korean": "돌다/꺾다", "japanese": "曲がる", "pronounce_h": "まがる"}
+      {
+        "korean": "돌다/꺾다",
+        "japanese": "曲がる",
+        "pronounce_h": "まがる"
+      }
     ]
   },
   {
@@ -545,8 +817,16 @@
     "pronounce_r": "Nedan ga takakereba kaimasen.",
     "pronounce_h": "ねだんが たかければ かいません。",
     "words": [
-      {"korean": "비싸다", "japanese": "高い", "pronounce_h": "たかい"},
-      {"korean": "사다", "japanese": "買う", "pronounce_h": "かう"}
+      {
+        "korean": "비싸다",
+        "japanese": "高い",
+        "pronounce_h": "たかい"
+      },
+      {
+        "korean": "사다",
+        "japanese": "買う",
+        "pronounce_h": "かう"
+      }
     ]
   },
   {
@@ -557,7 +837,11 @@
     "pronounce_r": "Ashita ame naraba undoukai wa chuushi desu.",
     "pronounce_h": "あした あめならば うんどうかいは ちゅうしです。",
     "words": [
-      {"korean": "중지", "japanese": "中止", "pronounce_h": "ちゅうし"}
+      {
+        "korean": "중지",
+        "japanese": "中止",
+        "pronounce_h": "ちゅうし"
+      }
     ]
   },
   {
@@ -568,7 +852,11 @@
     "pronounce_r": "Tenki ga yokereba ikimasu.",
     "pronounce_h": "てんきが よければ いきます。",
     "words": [
-      {"korean": "좋다", "japanese": "良い", "pronounce_h": "よい"}
+      {
+        "korean": "좋다",
+        "japanese": "良い",
+        "pronounce_h": "よい"
+      }
     ]
   },
   {
@@ -579,8 +867,16 @@
     "pronounce_r": "Nihongo wa benkyou sureba suru hodo muzukashii desu.",
     "pronounce_h": "にほんごは べんきょうすれば するほど むずかしい입니다.",
     "words": [
-      {"korean": "공부하다", "japanese": "勉強する", "pronounce_h": "べんきょうする"},
-      {"korean": "어렵다", "japanese": "難しい", "pronounce_h": "むずかしい"}
+      {
+        "korean": "공부하다",
+        "japanese": "勉強する",
+        "pronounce_h": "べんきょうする"
+      },
+      {
+        "korean": "어렵다",
+        "japanese": "難しい",
+        "pronounce_h": "むずかしい"
+      }
     ]
   },
   {
@@ -591,7 +887,11 @@
     "pronounce_r": "Kikai ga areba ichido itte mitai.",
     "pronounce_h": "きかいが あれば いちど いってみたい。",
     "words": [
-      {"korean": "가 보다", "japanese": "行ってみる", "pronounce_h": "いってみる"}
+      {
+        "korean": "가 보다",
+        "japanese": "行ってみる",
+        "pronounce_h": "いってみる"
+      }
     ]
   },
   {
@@ -602,19 +902,31 @@
     "pronounce_r": "Kuukou ni tsuitara renraku shite.",
     "pronounce_h": "くうこうに ついたら れんらくして。",
     "words": [
-      {"korean": "도착하다", "japanese": "着く", "pronounce_h": "つく"},
-      {"korean": "연락하다", "japanese": "連絡する", "pronounce_h": "れんらくする"}
+      {
+        "korean": "도착하다",
+        "japanese": "着く",
+        "pronounce_h": "つく"
+      },
+      {
+        "korean": "연락하다",
+        "japanese": "連絡する",
+        "pronounce_h": "れんらくする"
+      }
     ]
   },
   {
     "id": 54,
     "korean": "가격이 싸면 사 올게요",
     "english": "If the price is cheap, I'll buy it and come back.",
-    "japanese": "値段が 安かったら買ってきます。",
+    "japanese": "値段が安かったら買ってきます。",
     "pronounce_r": "Nedan ga yasukattara katte kimasu.",
     "pronounce_h": "ねだんが やすかったら かってきます。",
     "words": [
-      {"korean": "사 오다", "japanese": "買ってくる", "pronounce_h": "かってくる"}
+      {
+        "korean": "사 오다",
+        "japanese": "買ってくる",
+        "pronounce_h": "かってくる"
+      }
     ]
   },
   {
@@ -625,7 +937,11 @@
     "pronounce_r": "Takarakuji ni atattara nani ga shitai?",
     "pronounce_h": "たからくじに あたったら なにが したい？",
     "words": [
-      {"korean": "당첨되다", "japanese": "当たる", "pronounce_h": "あたる"}
+      {
+        "korean": "당첨되다",
+        "japanese": "当たる",
+        "pronounce_h": "あたる"
+      }
     ]
   },
   {
@@ -636,7 +952,11 @@
     "pronounce_r": "Ashita hima dattara issho ni dokoka ni ikou.",
     "pronounce_h": "あした ひ마다타라 いっしょに どこかに いこう。",
     "words": [
-      {"korean": "가다/가자", "japanese": "行く", "pronounce_h": "이쿠"}
+      {
+        "korean": "가다/가자",
+        "japanese": "行く",
+        "pronounce_h": "이쿠"
+      }
     ]
   },
   {
@@ -647,7 +967,11 @@
     "pronounce_r": "Eki ni tsuitara renraku shite kudasai.",
     "pronounce_h": "えきに ついたら れんらくして ください。",
     "words": [
-      {"korean": "도착하다", "japanese": "着く", "pronounce_h": "つく"}
+      {
+        "korean": "도착하다",
+        "japanese": "着く",
+        "pronounce_h": "つく"
+      }
     ]
   },
   {
@@ -658,7 +982,11 @@
     "pronounce_r": "Wakatta. Tsuitara denwa suru ne.",
     "pronounce_h": "わかった。ついたら でんわするね。",
     "words": [
-      {"korean": "전화하다", "japanese": "電話する", "pronounce_h": "でんわする"}
+      {
+        "korean": "전화하다",
+        "japanese": "電話する",
+        "pronounce_h": "でんわする"
+      }
     ]
   }
 ]

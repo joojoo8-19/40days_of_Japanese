@@ -3,410 +3,690 @@
     "id": 1,
     "korean": "저는 일본어를 할 수 있습니다.",
     "english": "I can speak Japanese.",
-    "japanese": "私は 日本語 が できます。",
+    "japanese": "私は日本語ができます。",
     "pronounce_r": "Watashi wa nihongo ga dekimasu.",
     "pronounce_h": "わたしは にほんご が できます。",
     "words": [
-      {"korean": "나", "japanese": "私", "pronounce_h": "わたし"},
-      {"korean": "일본어", "japanese": "日本語", "pronounce_h": "にほんご"},
-      {"korean": "할 수 있다", "japanese": "できる", "pronounce_h": "できる"}
+      {
+        "korean": "나",
+        "japanese": "私",
+        "pronounce_h": "わたし"
+      },
+      {
+        "korean": "일본어",
+        "japanese": "日本語",
+        "pronounce_h": "にほんご"
+      },
+      {
+        "korean": "할 수 있다",
+        "japanese": "できる",
+        "pronounce_h": "できる"
+      }
     ]
   },
   {
     "id": 2,
     "korean": "전에는 수영을 할 수 있었습니다.",
     "english": "I was able to swim before.",
-    "japanese": "前は 水泳 が できました。",
+    "japanese": "前は水泳ができました。",
     "pronounce_r": "Mae wa suiei ga dekimashita.",
     "pronounce_h": "まえは すいえい が できました。",
     "words": [
-      {"korean": "전", "japanese": "前", "pronounce_h": "まえ"},
-      {"korean": "수영", "japanese": "水泳", "pronounce_h": "すいえい"}
+      {
+        "korean": "전",
+        "japanese": "前",
+        "pronounce_h": "まえ"
+      },
+      {
+        "korean": "수영",
+        "japanese": "水泳",
+        "pronounce_h": "すいえい"
+      }
     ]
   },
   {
     "id": 3,
     "korean": "저는 운전을 할 수 없습니다.",
     "english": "I cannot drive.",
-    "japanese": "私は 運転 が できません。",
+    "japanese": "私は運転ができません。",
     "pronounce_r": "Watashi wa unten ga dekimasen.",
     "pronounce_h": "わたしは うんてん が できません。",
     "words": [
-      {"korean": "운전", "japanese": "運転", "pronounce_h": "うんてん"}
+      {
+        "korean": "운전",
+        "japanese": "運転",
+        "pronounce_h": "うんてん"
+      }
     ]
   },
   {
     "id": 4,
     "korean": "어제는 요리를 할 수 없었습니다.",
     "english": "I couldn't cook yesterday.",
-    "japanese": "昨日は 料理 が できませんでした。",
+    "japanese": "昨日は料理ができませんでした。",
     "pronounce_r": "Kinou wa ryouri ga dekimasen deshita.",
     "pronounce_h": "きのうは りょうり が できませんでした。",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
-      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"}
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "요리",
+        "japanese": "料理",
+        "pronounce_h": "りょうり"
+      }
     ]
   },
   {
     "id": 5,
     "korean": "여기서 사진을 찍을 수 있습니다.",
     "english": "You can take photos here.",
-    "japanese": "ここで 写真を 撮る こと が できます。",
+    "japanese": "ここで写真を撮ることができます。",
     "pronounce_r": "Koko de shashin o toru koto ga dekimasu.",
     "pronounce_h": "ここで しゃしんを とる こと が できます。",
     "words": [
-      {"korean": "사진", "japanese": "写真", "pronounce_h": "しゃしん"},
-      {"korean": "찍다", "japanese": "撮る", "pronounce_h": "とる"}
+      {
+        "korean": "사진",
+        "japanese": "写真",
+        "pronounce_h": "しゃしん"
+      },
+      {
+        "korean": "찍다",
+        "japanese": "撮る",
+        "pronounce_h": "とる"
+      }
     ]
   },
   {
     "id": 6,
     "korean": "어제는 일찍 잘 수 있었습니다.",
     "english": "I was able to sleep early yesterday.",
-    "japanese": "昨日は 早く 寝る こと が できました。",
+    "japanese": "昨日は早く寝ることができました。",
     "pronounce_r": "Kinou wa hayaku neru koto ga dekimashita.",
     "pronounce_h": "きのうは はやく ねる  こと が できました。",
     "words": [
-      {"korean": "일찍", "japanese": "早く", "pronounce_h": "はやく"},
-      {"korean": "자다", "japanese": "寝る", "pronounce_h": "ねる"}
+      {
+        "korean": "일찍",
+        "japanese": "早く",
+        "pronounce_h": "はやく"
+      },
+      {
+        "korean": "자다",
+        "japanese": "寝る",
+        "pronounce_h": "ねる"
+      }
     ]
   },
   {
     "id": 7,
     "korean": "술은 마실 수 없습니다.",
     "english": "I cannot drink alcohol.",
-    "japanese": "お酒は 飲む こと が できません。",
+    "japanese": "お酒は飲むことができません。",
     "pronounce_r": "Osake wa nomu koto ga dekimasen.",
     "pronounce_h": "おさけは のむ こと が できません。",
     "words": [
-      {"korean": "술", "japanese": "お酒", "pronounce_h": "おさけ"},
-      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+      {
+        "korean": "술",
+        "japanese": "お酒",
+        "pronounce_h": "おさけ"
+      },
+      {
+        "korean": "마시다",
+        "japanese": "飲む",
+        "pronounce_h": "のむ"
+      }
     ]
   },
   {
     "id": 8,
     "korean": "한자를 읽을 수 없었습니다.",
     "english": "I couldn't read Kanji.",
-    "japanese": "漢字を 読む こと が できませんでした。",
+    "japanese": "漢字を読むことができませんでした。",
     "pronounce_r": "Kanji o yumu koto ga dekimasen deshita.",
     "pronounce_h": "かんじを よむ こと 가 できませんでした。",
     "words": [
-      {"korean": "한자", "japanese": "漢字", "pronounce_h": "かんじ"},
-      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"}
+      {
+        "korean": "한자",
+        "japanese": "漢字",
+        "pronounce_h": "かんじ"
+      },
+      {
+        "korean": "읽다",
+        "japanese": "読む",
+        "pronounce_h": "よむ"
+      }
     ]
   },
   {
     "id": 9,
     "korean": "일본 신문을 읽을 수 있습니다.",
     "english": "I can read Japanese newspapers.",
-    "japanese": "日本の 新聞を 読めます。",
+    "japanese": "日本の新聞を読めます。",
     "pronounce_r": "Nihon no shinbun o yomemasu.",
     "pronounce_h": "にほんの しんぶんを よめます。",
     "words": [
-      {"korean": "신문", "japanese": "新聞", "pronounce_h": "しんぶん"},
-      {"korean": "읽다", "japanese": "読む", "pronounce_h": "よむ"}
+      {
+        "korean": "신문",
+        "japanese": "新聞",
+        "pronounce_h": "しんぶん"
+      },
+      {
+        "korean": "읽다",
+        "japanese": "読む",
+        "pronounce_h": "よむ"
+      }
     ]
   },
   {
     "id": 10,
     "korean": "낫토를 먹을 수 있습니다.",
     "english": "I can eat Natto.",
-    "japanese": "納豆が 食べられます。",
+    "japanese": "納豆が食べられます。",
     "pronounce_r": "Nattou ga taberaremasu.",
     "pronounce_h": "なっとうが たべられます。",
     "words": [
-      {"korean": "낫토", "japanese": "納豆", "pronounce_h": "なっとう"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "낫토",
+        "japanese": "納豆",
+        "pronounce_h": "なっとう"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 11,
     "korean": "내일 학교에 올 수 있습니까?",
     "english": "Can you come to school tomorrow?",
-    "japanese": "明日 学校に 来られます か。",
+    "japanese": "明日学校に来られますか。",
     "pronounce_r": "Ashita gakkou ni koraremasu ka.",
     "pronounce_h": "あした がっこうに こられます か。",
     "words": [
-      {"korean": "내일", "japanese": "明日", "pronounce_h": "あした"},
-      {"korean": "학교", "japanese": "学校", "pronounce_h": "がっこう"},
-      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"}
+      {
+        "korean": "내일",
+        "japanese": "明日",
+        "pronounce_h": "あした"
+      },
+      {
+        "korean": "학교",
+        "japanese": "学校",
+        "pronounce_h": "がっこう"
+      },
+      {
+        "korean": "오다",
+        "japanese": "来る",
+        "pronounce_h": "くる"
+      }
     ]
   },
   {
     "id": 12,
     "korean": "그녀는 영어를 아주 잘합니다.",
     "english": "She is very good at English.",
-    "japanese": "彼女は 英語が とても できます。",
+    "japanese": "彼女は英語がとてもできます。",
     "pronounce_r": "Kanojo wa eigo ga totemo dekimasu.",
     "pronounce_h": "かのじょは えいごが とても できます。",
     "words": [
-      {"korean": "그녀", "japanese": "彼女", "pronounce_h": "かのじょ"},
-      {"korean": "영어", "japanese": "英語", "pronounce_h": "えいご"},
-      {"korean": "매우", "japanese": "とても", "pronounce_h": "とても"}
+      {
+        "korean": "그녀",
+        "japanese": "彼女",
+        "pronounce_h": "かのじょ"
+      },
+      {
+        "korean": "영어",
+        "japanese": "英語",
+        "pronounce_h": "えいご"
+      },
+      {
+        "korean": "매우",
+        "japanese": "とても",
+        "pronounce_h": "とても"
+      }
     ]
   },
   {
     "id": 13,
     "korean": "요리가 다 되었습니다.",
     "english": "The dish is ready.",
-    "japanese": "料理が できました。",
+    "japanese": "料理ができました。",
     "pronounce_r": "Ryouri ga dekimashita.",
     "pronounce_h": "りょうりが できました。",
     "words": [
-      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"}
+      {
+        "korean": "요리",
+        "japanese": "料理",
+        "pronounce_h": "りょうり"
+      }
     ]
   },
   {
     "id": 14,
     "korean": "돈이 생기면 무엇을 하고 싶나요?",
     "english": "If you get money, what do you want to do?",
-    "japanese": "お金が できたら 何を したいですか。",
+    "japanese": "お金ができたら何をしたいですか。",
     "pronounce_r": "Okane ga dekitara nani o shitai desu ka.",
     "pronounce_h": "おかねが できたら なにを したいですか。",
     "words": [
-      {"korean": "돈", "japanese": "お金", "pronounce_h": "おかね"},
-      {"korean": "무엇", "japanese": "何", "pronounce_h": "なに"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "돈",
+        "japanese": "お金",
+        "pronounce_h": "おかね"
+      },
+      {
+        "korean": "무엇",
+        "japanese": "何",
+        "pronounce_h": "なに"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 15,
     "korean": "한국어를 할 수 있습니다.",
     "english": "I can speak Korean.",
-    "japanese": "韓国語 が できます。",
+    "japanese": "韓国語ができます。",
     "pronounce_r": "Kankokugo ga dekimasu.",
     "pronounce_h": "かんこくご が できます。",
     "words": [
-      {"korean": "한국어", "japanese": "韓国語", "pronounce_h": "かんこくご"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "한국어",
+        "japanese": "韓国語",
+        "pronounce_h": "かんこくご"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 16,
     "korean": "스키를 할 수 있었습니다.",
     "english": "I was able to ski.",
-    "japanese": "スキー が できました。",
+    "japanese": "スキーができました。",
     "pronounce_r": "Sukii ga dekimashita.",
     "pronounce_h": "すきー が できました。",
     "words": [
-      {"korean": "스키", "japanese": "スキー", "pronounce_h": "すきー"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "스키",
+        "japanese": "スキー",
+        "pronounce_h": "すきー"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 17,
     "korean": "테니스를 할 수 없습니다.",
     "english": "I cannot play tennis.",
-    "japanese": "テニス が できません。",
+    "japanese": "テニスができません。",
     "pronounce_r": "Tenisu ga dekimasen.",
     "pronounce_h": "てにす が できません。",
     "words": [
-      {"korean": "테니스", "japanese": "テニス", "pronounce_h": "てにす"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "테니스",
+        "japanese": "テニス",
+        "pronounce_h": "てにす"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 18,
     "korean": "요리를 할 수 없었습니다.",
     "english": "I couldn't cook.",
-    "japanese": "料理 が できませんでした。",
+    "japanese": "料理ができませんでした。",
     "pronounce_r": "Ryouri ga dekimasen deshita.",
     "pronounce_h": "りょうり が できませんでした。",
     "words": [
-      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "요리",
+        "japanese": "料理",
+        "pronounce_h": "りょうり"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 19,
     "korean": "한자를 쓰는 것이 가능합니다.",
     "english": "It is possible to write Kanji.",
-    "japanese": "漢字を 書く こと が できます。",
+    "japanese": "漢字を書くことができます。",
     "pronounce_r": "Kanji o kaku koto ga dekimasu.",
     "pronounce_h": "かんじを かく  こと が できます。",
     "words": [
-      {"korean": "한자", "japanese": "漢字", "pronounce_h": "かんじ"},
-      {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"}
+      {
+        "korean": "한자",
+        "japanese": "漢字",
+        "pronounce_h": "かんじ"
+      },
+      {
+        "korean": "쓰다",
+        "japanese": "書く",
+        "pronounce_h": "かく"
+      }
     ]
   },
   {
     "id": 20,
     "korean": "회를 먹을 수 있었습니다.",
     "english": "I was able to eat Sashimi.",
-    "japanese": "刺身を 食べる こと が できました。",
+    "japanese": "刺身を食べることができました。",
     "pronounce_r": "Sashimi o taberu koto ga dekimashita.",
     "pronounce_h": "さしみを たべる  こと 가 できました。",
     "words": [
-      {"korean": "회", "japanese": "刺身", "pronounce_h": "さしみ"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "회",
+        "japanese": "刺身",
+        "pronounce_h": "さしみ"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 21,
     "korean": "담배를 피울 수 없습니다.",
     "english": "I cannot smoke.",
-    "japanese": "タバコを 吸う こと が できません。",
+    "japanese": "タバコを吸うことができません。",
     "pronounce_r": "Tabako o suu koto ga dekimasen.",
     "pronounce_h": "たばこを すう  こと 가 できません。",
     "words": [
-      {"korean": "담배", "japanese": "タバコ", "pronounce_h": "たばこ"},
-      {"korean": "피우다", "japanese": "吸う", "pronounce_h": "すう"}
+      {
+        "korean": "담배",
+        "japanese": "タバコ",
+        "pronounce_h": "たばこ"
+      },
+      {
+        "korean": "피우다",
+        "japanese": "吸う",
+        "pronounce_h": "すう"
+      }
     ]
   },
   {
     "id": 22,
     "korean": "어제는 공부할 수 없었습니다.",
     "english": "I couldn't study yesterday.",
-    "japanese": "昨日は 勉強する こと が できませんでした。",
+    "japanese": "昨日は勉強することができませんでした。",
     "pronounce_r": "Kinou wa benkyou suru koto ga dekimasen deshita.",
     "pronounce_h": "きのうは べんきょうする  そと が できませんでした。",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
-      {"korean": "공부", "japanese": "勉強", "pronounce_h": "べんきょう"}
+      {
+        "korean": "어제",
+        "japanese": "昨日",
+        "pronounce_h": "きのう"
+      },
+      {
+        "korean": "공부",
+        "japanese": "勉強",
+        "pronounce_h": "べんきょう"
+      }
     ]
   },
   {
     "id": 23,
     "korean": "여기까지 혼자서 갈 수 있습니다.",
     "english": "I can go here alone.",
-    "japanese": "ここまで 一人で 行けます。",
+    "japanese": "ここまで一人で行けます。",
     "pronounce_r": "Koko made hitori de ikemasu.",
     "pronounce_h": "ここまで ひとりて いけます。",
     "words": [
-      {"korean": "혼자서", "japanese": "一人で", "pronounce_h": "ひとりて"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "혼자서",
+        "japanese": "一人で",
+        "pronounce_h": "ひとりて"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 24,
     "korean": "이름을 쓸 수 있었습니다.",
     "english": "I was able to write the name.",
-    "japanese": "名前が 書けました。",
+    "japanese": "名前が書けました。",
     "pronounce_r": "Namae ga kakemashita.",
     "pronounce_h": "なまえが かけました。",
     "words": [
-      {"korean": "이름", "japanese": "名前", "pronounce_h": "なまえ"},
-      {"korean": "쓰다", "japanese": "書く", "pronounce_h": "かく"}
+      {
+        "korean": "이름",
+        "japanese": "名前",
+        "pronounce_h": "なまえ"
+      },
+      {
+        "korean": "쓰다",
+        "japanese": "書く",
+        "pronounce_h": "かく"
+      }
     ]
   },
   {
     "id": 25,
     "korean": "버스를 기다릴 수 없습니다.",
     "english": "I cannot wait for the bus.",
-    "japanese": "バスが 待てません。",
+    "japanese": "バスが待てません。",
     "pronounce_r": "Basu ga matemasen.",
     "pronounce_h": "ばすが まてません。",
     "words": [
-      {"korean": "버스", "japanese": "バス", "pronounce_h": "ばす"},
-      {"korean": "기다리다", "japanese": "待つ", "pronounce_h": "まつ"}
+      {
+        "korean": "버스",
+        "japanese": "バス",
+        "pronounce_h": "ばす"
+      },
+      {
+        "korean": "기다리다",
+        "japanese": "待つ",
+        "pronounce_h": "まつ"
+      }
     ]
   },
   {
     "id": 26,
     "korean": "술을 마실 수 없었습니다.",
     "english": "I couldn't drink alcohol.",
-    "japanese": "お酒が 飲めませんでした。",
+    "japanese": "お酒が飲めませんでした。",
     "pronounce_r": "Osake ga nomemasen deshita.",
     "pronounce_h": "おさけが のめませんでした。",
     "words": [
-      {"korean": "술", "japanese": "お酒", "pronounce_h": "おさけ"},
-      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"}
+      {
+        "korean": "술",
+        "japanese": "お酒",
+        "pronounce_h": "おさけ"
+      },
+      {
+        "korean": "마시다",
+        "japanese": "飲む",
+        "pronounce_h": "のむ"
+      }
     ]
   },
   {
     "id": 27,
     "korean": "일본 영화를 볼 수 있습니다.",
     "english": "I can watch Japanese movies.",
-    "japanese": "日本の 映画が 見られます。",
+    "japanese": "日本の映画が見られます。",
     "pronounce_r": "Nihon no eiga ga mirareru.",
     "pronounce_h": "にほんの えいがが みられます。",
     "words": [
-      {"korean": "영화", "japanese": "映画", "pronounce_h": "えいが"},
-      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
+      {
+        "korean": "영화",
+        "japanese": "映画",
+        "pronounce_h": "えいが"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
     ]
   },
   {
     "id": 28,
     "korean": "매운 것을 먹을 수 있었습니다.",
     "english": "I was able to eat spicy things.",
-    "japanese": "辛い 物が 食べられました。",
+    "japanese": "辛い物が食べられました。",
     "pronounce_r": "Karai mono ga taberareta.",
     "pronounce_h": "からい ものが たべられました。",
     "words": [
-      {"korean": "맵다", "japanese": "辛い", "pronounce_h": "からい"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "맵다",
+        "japanese": "辛い",
+        "pronounce_h": "からい"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 29,
     "korean": "여기서는 잘 수 없습니다.",
     "english": "I cannot sleep here.",
-    "japanese": "ここでは 寝られません。",
+    "japanese": "ここでは寝られません。",
     "pronounce_r": "Koko dewa nerarenai.",
     "pronounce_h": "ここでは ねられません。",
     "words": [
-      {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
-      {"korean": "자다", "japanese": "寝る", "pronounce_h": "ねる"}
+      {
+        "korean": "여기",
+        "japanese": "ここ",
+        "pronounce_h": "ここ"
+      },
+      {
+        "korean": "자다",
+        "japanese": "寝る",
+        "pronounce_h": "ねる"
+      }
     ]
   },
   {
     "id": 30,
     "korean": "텔레비전을 볼 수 없었습니다.",
     "english": "I couldn't watch TV.",
-    "japanese": "テレビが 見られませんでした。",
+    "japanese": "テレビが見られませんでした。",
     "pronounce_r": "Terebi ga mirarenakatta.",
     "pronounce_h": "てれびが みられませんでした。",
     "words": [
-      {"korean": "텔레비전", "japanese": "テレビ", "pronounce_h": "てれび"},
-      {"korean": "보다", "japanese": "見る", "pronounce_h": "みる"}
+      {
+        "korean": "텔레비전",
+        "japanese": "テレビ",
+        "pronounce_h": "てれび"
+      },
+      {
+        "korean": "보다",
+        "japanese": "見る",
+        "pronounce_h": "みる"
+      }
     ]
   },
   {
     "id": 31,
     "korean": "혼자서도 할 수 있습니다.",
     "english": "I can do it even alone.",
-    "japanese": "一人でも できます。",
+    "japanese": "一人でもできます。",
     "pronounce_r": "Hitori demo dekimasu.",
     "pronounce_h": "ひとりでも できます。",
     "words": [
-      {"korean": "혼자서도", "japanese": "一人でも", "pronounce_h": "ひとりでも"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "혼자서도",
+        "japanese": "一人でも",
+        "pronounce_h": "ひとりでも"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 32,
     "korean": "파티에 올 수 있었습니다.",
     "english": "I was able to come to the party.",
-    "japanese": "パーティーに 来られました。",
+    "japanese": "パーティーに来られました。",
     "pronounce_r": "Paatii ni koraremashita.",
     "pronounce_h": "ぱーてぃーに こられました。",
     "words": [
-      {"korean": "파티", "japanese": "パーティー", "pronounce_h": "ぱーてぃー"},
-      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"}
+      {
+        "korean": "파티",
+        "japanese": "パーティー",
+        "pronounce_h": "ぱーてぃー"
+      },
+      {
+        "korean": "오다",
+        "japanese": "来る",
+        "pronounce_h": "くる"
+      }
     ]
   },
   {
     "id": 33,
     "korean": "저녁 식사가 다 되었습니다.",
     "english": "Dinner is ready.",
-    "japanese": "夕食が できました。",
+    "japanese": "夕食ができました。",
     "pronounce_r": "Yuushoku ga dekimashita.",
     "pronounce_h": "ゆうしょくが できました。",
     "words": [
-      {"korean": "저녁 식사", "japanese": "夕食", "pronounce_h": "ゆうしょく"},
-      {"korean": "되다", "japanese": "できる", "pronounce_h": "できる"}
+      {
+        "korean": "저녁 식사",
+        "japanese": "夕食",
+        "pronounce_h": "ゆうしょく"
+      },
+      {
+        "korean": "되다",
+        "japanese": "できる",
+        "pronounce_h": "できる"
+      }
     ]
   },
   {
     "id": 34,
     "korean": "남자친구가 생겼습니다.",
     "english": "I got a boyfriend.",
-    "japanese": "彼氏が できました。",
+    "japanese": "彼氏ができました。",
     "pronounce_r": "Kareshi ga dekimashita.",
     "pronounce_h": "かれしが できました。",
     "words": [
-      {"korean": "남자친구", "japanese": "彼氏", "pronounce_h": "かれし"},
-      {"korean": "생기다", "japanese": "できる", "pronounce_h": "できる"}
+      {
+        "korean": "남자친구",
+        "japanese": "彼氏",
+        "pronounce_h": "かれし"
+      },
+      {
+        "korean": "생기다",
+        "japanese": "できる",
+        "pronounce_h": "できる"
+      }
     ]
   }
 ]

@@ -3,7 +3,7 @@
     "id": 1,
     "korean": "이야기를 듣다",
     "english": "Listen to a story/talk.",
-    "japanese": "話しを 聞く",
+    "japanese": "話しを聞く",
     "pronounce_r": "Hanashi o kiku.",
     "pronounce_h": "はなしを きく",
     "words": [
@@ -63,7 +63,7 @@
     "id": 4,
     "korean": "밥을 먹으러 갑니다",
     "english": "Go to eat a meal.",
-    "japanese": "ご飯を 食べに 行きます。",
+    "japanese": "ご飯を食べに行きます。",
     "pronounce_r": "Gohan o tabe ni ikimasu.",
     "pronounce_h": "ごはんを たべに いきます。",
     "words": [
@@ -88,7 +88,7 @@
     "id": 5,
     "korean": "친구를 만나러 옵니다",
     "english": "Come to meet a friend.",
-    "japanese": "友達に 会いに 来ます。",
+    "japanese": "友達に会いに来ます。",
     "pronounce_r": "Tomodachi ni ai ni kimasu.",
     "pronounce_h": "ともだちに あいに きます。",
     "words": [
@@ -113,7 +113,7 @@
     "id": 6,
     "korean": "쇼핑하러 나갑시다",
     "english": "Let's go out for shopping.",
-    "japanese": "買い物しに 出かけましょう。",
+    "japanese": "買い物しに出かけましょう。",
     "pronounce_r": "Kaimono shi ni dekakemashō.",
     "pronounce_h": "かいものしに でかけましょう。",
     "words": [
@@ -133,7 +133,7 @@
     "id": 7,
     "korean": "영화를 보러 갑니다.",
     "english": "Go to watch a movie.",
-    "japanese": "映画を 見に 行きます。",
+    "japanese": "映画を見に行きます。",
     "pronounce_r": "Eiga o mi ni ikimasu.",
     "pronounce_h": "えいがを みに いきます。",
     "words": [
@@ -158,7 +158,7 @@
     "id": 8,
     "korean": "쇼핑하러 갑니다.",
     "english": "Go for shopping.",
-    "japanese": "買い物に 行きます。",
+    "japanese": "買い物に行きます。",
     "pronounce_r": "Kaimono ni ikimasu.",
     "pronounce_h": "かいものに いきます。",
     "words": [
@@ -178,7 +178,7 @@
     "id": 9,
     "korean": "산책하러 왔습니다",
     "english": "Come for a walk.",
-    "japanese": "散歩に 来ました。",
+    "japanese": "散歩に来ました。",
     "pronounce_r": "Sanpo ni kimashita.",
     "pronounce_h": "さんぽに きました。",
     "words": [
@@ -198,7 +198,7 @@
     "id": 10,
     "korean": "일본어를 공부하러 갑니다.",
     "english": "I go to study Japanese.",
-    "japanese": "日本語を 勉強しに 行きます。",
+    "japanese": "日本語を勉強しに行きます。",
     "pronounce_r": "Nihongo o benkyō shi ni ikimasu.",
     "pronounce_h": "にほんごを べんきょうしに いきます。",
     "words": [
@@ -223,7 +223,7 @@
     "id": 11,
     "korean": "일본어 공부하러 갑니다.",
     "english": "I go for Japanese study.",
-    "japanese": "日本語の 勉強に 行きます。",
+    "japanese": "日本語の勉強に行きます。",
     "pronounce_r": "Nihongo no benkyō ni ikimasu.",
     "pronounce_h": "にほんごの べんきょうに いきます。",
     "words": [
@@ -248,7 +248,7 @@
     "id": 12,
     "korean": "영화를 보러 가다",
     "english": "Go to watch a movie (informal).",
-    "japanese": "映画を 見に 行く",
+    "japanese": "映画を見に行く",
     "pronounce_r": "Eiga o mi ni iku.",
     "pronounce_h": "えいがを みに いく",
     "words": [
@@ -273,7 +273,7 @@
     "id": 13,
     "korean": "영화 공부를 하러 가다",
     "english": "Go for movie study (informal).",
-    "japanese": "映画の 勉強に 行く",
+    "japanese": "映画の勉強に行く",
     "pronounce_r": "Eiga no benkyō ni iku.",
     "pronounce_h": "えいがの べんきょうに いく",
     "words": [
@@ -298,7 +298,7 @@
     "id": 14,
     "korean": "물을 마시고 싶습니다.",
     "english": "I want to drink water.",
-    "japanese": "水が 飲みた**いです**。",
+    "japanese": "水が飲みた**いです**。",
     "pronounce_r": "Mizu ga nomitai desu.",
     "pronounce_h": "みずが のみたいです。",
     "words": [
@@ -318,7 +318,7 @@
     "id": 15,
     "korean": "아무것도 하고 싶지 않습니다.",
     "english": "I don't want to do anything.",
-    "japanese": "何も し**たくないです**。",
+    "japanese": "何もし**たくないです**。",
     "pronounce_r": "Nani mo shitakunai desu.",
     "pronounce_h": "なにも したくないです。",
     "words": [
@@ -338,7 +338,7 @@
     "id": 16,
     "korean": "어제 친구를 만나고 싶었습니다.",
     "english": "I wanted to meet a friend yesterday.",
-    "japanese": "昨日、友達に 会い**たかったです**。",
+    "japanese": "昨日、友達に会い**たかったです**。",
     "pronounce_r": "Kinō, tomodachi ni aitakatta desu.",
     "pronounce_h": "きのう、ともだちに あいたかったです。",
     "words": [
@@ -363,7 +363,7 @@
     "id": 17,
     "korean": "점심을 먹읍시다.",
     "english": "Let's eat lunch.",
-    "japanese": "お昼ご飯を 食べ**ましょう**。",
+    "japanese": "お昼ご飯を食べ**ましょう**。",
     "pronounce_r": "O-hirugohan o tabemashō.",
     "pronounce_h": "おひるごはんを たべましょう。",
     "words": [
@@ -383,7 +383,7 @@
     "id": 18,
     "korean": "제가 하겠습니다.",
     "english": "I will do it.",
-    "japanese": "私が やり**ましょう**。",
+    "japanese": "私がやり**ましょう**。",
     "pronounce_r": "Watashi ga yarimashō.",
     "pronounce_h": "わたしが やりましょう。",
     "words": [
@@ -403,7 +403,7 @@
     "id": 19,
     "korean": "함께 노래를 부릅시다.",
     "english": "Let's sing a song together.",
-    "japanese": "一緒に 歌い**ましょう**。",
+    "japanese": "一緒に歌い**ましょう**。",
     "pronounce_r": "Issho ni utaimashō.",
     "pronounce_h": "いっしょに うたいましょう。",
     "words": [
@@ -428,7 +428,7 @@
     "id": 20,
     "korean": "커피라도 마시지 않겠습니까?",
     "english": "Won't you drink some coffee or something?",
-    "japanese": "コーヒーでも 飲み**ませんか**。",
+    "japanese": "コーヒーでも飲み**ませんか**。",
     "pronounce_r": "Kōhī demo nomimasen ka.",
     "pronounce_h": "コーヒーでも のみませんか。",
     "words": [
@@ -448,7 +448,7 @@
     "id": 21,
     "korean": "저녁에 같이 영화를 보지 않겠습니까?",
     "english": "Would you like to watch a movie together in the evening?",
-    "japanese": "夜に 一緒に 映画を 見**ませんか**。",
+    "japanese": "夜に一緒に映画を見**ませんか**。",
     "pronounce_r": "Yoru ni issho ni eiga o mimasen ka.",
     "pronounce_h": "よるに いっしょに えいがを みませんか。",
     "words": [
@@ -478,7 +478,7 @@
     "id": 22,
     "korean": "우리 집에 오지 않겠습니까?",
     "english": "Won't you come to my house?",
-    "japanese": "私の家に 来**ませんか**。",
+    "japanese": "私の家に来**ませんか**。",
     "pronounce_r": "Watashi no ie ni kimasen ka.",
     "pronounce_h": "わたし の いえに きませんか。",
     "words": [
@@ -503,7 +503,7 @@
     "id": 23,
     "korean": "저는 케이크를 먹고 싶습니다.",
     "english": "I want to eat cake.",
-    "japanese": "私は ケーキが 食べたいです。",
+    "japanese": "私はケーキが食べたいです。",
     "pronounce_r": "Watashi wa kēki ga tabetai desu.",
     "pronounce_h": "わたしは ケーキが たべたいです。",
     "words": [
@@ -528,7 +528,7 @@
     "id": 24,
     "korean": "함께 공원에서 산책하지 않겠습니까?",
     "english": "Would you like to take a walk together in the park?",
-    "japanese": "一緒に 公園で 散歩しませんか。",
+    "japanese": "一緒に公園で散歩しませんか。",
     "pronounce_r": "Issho ni kōen de sanpo shimasen ka.",
     "pronounce_h": "いっしょに こうえんで さんぽしませんか。",
     "words": [
@@ -553,7 +553,7 @@
     "id": 25,
     "korean": "저는 일본으로 유학을 가고 싶었습니다.",
     "english": "I wanted to go study abroad in Japan.",
-    "japanese": "私は 日本に 留学し**たかったです**。",
+    "japanese": "私は日本に留学し**たかったです**。",
     "pronounce_r": "Watashi wa Nihon ni ryūgaku shitakatta desu.",
     "pronounce_h": "わたしは にほんに りゅうがくしたかったです。",
     "words": [
@@ -583,7 +583,7 @@
     "id": 26,
     "korean": "도서관에 책을 읽으러 갔습니다.",
     "english": "I went to the library to read a book.",
-    "japanese": "図書館に 本を 読み**に** 行きました。",
+    "japanese": "図書館に本を読み**に**行きました。",
     "pronounce_r": "Toshokan ni hon o yomi ni ikimashita.",
     "pronounce_h": "としょかんに ほんを よみ**に** いきました。",
     "words": [
@@ -613,7 +613,7 @@
     "id": 27,
     "korean": "오늘은 아무것도 하고 싶지 않습니다.",
     "english": "I don't want to do anything today.",
-    "japanese": "今日は 何も し**たくないです**。",
+    "japanese": "今日は何もし**たくないです**。",
     "pronounce_r": "Kyō wa nani mo shitakunai desu.",
     "pronounce_h": "きょうは なにも したくないです。",
     "words": [
@@ -638,7 +638,7 @@
     "id": 28,
     "korean": "잠시 여기서 쉽시다.",
     "english": "Let's rest here for a moment.",
-    "japanese": "少し ここで 休み**ましょう**。",
+    "japanese": "少しここで休み**ましょう**。",
     "pronounce_r": "Sukoshi koko de yasumimashō.",
     "pronounce_h": "すこし ここで やすみましょう。",
     "words": [
@@ -663,7 +663,7 @@
     "id": 29,
     "korean": "저는 새 컴퓨터를 사고 싶습니다.",
     "english": "I want to buy a new computer.",
-    "japanese": "私は 新しい コンピューターが 買い**たいです**。",
+    "japanese": "私は新しいコンピューターが買い**たいです**。",
     "pronounce_r": "Watashi wa atarashii konpyūtā ga kaitai desu.",
     "pronounce_h": "わたしは あたらしい コンピューターが かいたいです。",
     "words": [
@@ -693,7 +693,7 @@
     "id": 30,
     "korean": "(나는) 아침밥을 만들러 오지 않았습니다.",
     "english": "I did not come to make breakfast.",
-    "japanese": "朝ご飯を 作り**に** 来**ませんでした**。",
+    "japanese": "朝ご飯を作り**に**来**ませんでした**。",
     "pronounce_r": "Asagohan o tsukuri ni kimasen deshita.",
     "pronounce_h": "あさごはんを つくり**に** きませんでした。",
     "words": [
@@ -718,7 +718,7 @@
     "id": 31,
     "korean": "당신에게 줄 선물을 찾고 싶었습니다.",
     "english": "I wanted to find a present for you.",
-    "japanese": "あなたに プレゼントを 探**したかったです**。",
+    "japanese": "あなたにプレゼントを探**したかったです**。",
     "pronounce_r": "Anata ni purezento o sagashitakatta desu.",
     "pronounce_h": "あなたに プレゼントを さがしたかったです。",
     "words": [
@@ -743,7 +743,7 @@
     "id": 32,
     "korean": "내일 같이 커피를 마시지 않겠습니까?",
     "english": "Would you like to drink coffee together tomorrow?",
-    "japanese": "明日、一緒に コーヒーを 飲み**ませんか**。",
+    "japanese": "明日、一緒にコーヒーを飲み**ませんか**。",
     "pronounce_r": "Ashita, issho ni kōhī o nomimasen ka.",
     "pronounce_h": "あした、いっしょに コーヒーを のみませんか。",
     "words": [
@@ -773,7 +773,7 @@
     "id": 33,
     "korean": "저는 빨리 집에 돌아가고 싶습니다.",
     "english": "I want to go home quickly.",
-    "japanese": "私は 早く 家に 帰り**たいです**。",
+    "japanese": "私は早く家に帰り**たいです**。",
     "pronounce_r": "Watashi wa hayaku ie ni kaeritai desu.",
     "pronounce_h": "わたしは はやく いえに かえりたいです。",
     "words": [
@@ -803,7 +803,7 @@
     "id": 34,
     "korean": "(나는) 역으로 마중 나가러 갔습니다.",
     "english": "I went to the station to meet (someone).",
-    "japanese": "駅に 迎え**に** 行きました。",
+    "japanese": "駅に迎え**に**行きました。",
     "pronounce_r": "Eki ni mukae ni ikimashita.",
     "pronounce_h": "えきに むかえ**に** いきました。",
     "words": [
@@ -823,7 +823,7 @@
     "id": 35,
     "korean": "그 옷은 입고 싶지 않았습니다.",
     "english": "I didn't want to wear that outfit.",
-    "japanese": "その服は 着**たくなかったです**。",
+    "japanese": "その服は着**たくなかったです**。",
     "pronounce_r": "Sono fuku wa kitakunakatta desu.",
     "pronounce_h": "そのふくは きたくなかったです。",
     "words": [
@@ -848,7 +848,7 @@
     "id": 36,
     "korean": "저녁에 함께 식사합시다.",
     "english": "Let's have dinner together.",
-    "japanese": "晩ご飯に 一緒に 食事し**ましょう**。",
+    "japanese": "晩ご飯に一緒に食事し**ましょう**。",
     "pronounce_r": "Bangohan ni issho ni shokuji shimashō.",
     "pronounce_h": "ばんごはんに いっしょに しょくじしましょう。",
     "words": [
@@ -873,7 +873,7 @@
     "id": 37,
     "korean": "편지를 쓰러 오지 않았습니다.",
     "english": "I didn't come to write a letter.",
-    "japanese": "手紙を 書き**に** 来**ませんでした**。",
+    "japanese": "手紙を書き**に**来**ませんでした**。",
     "pronounce_r": "Tegami o kaki ni kimasen deshita.",
     "pronounce_h": "てがみを かき**に** きませんでした。",
     "words": [
@@ -898,7 +898,7 @@
     "id": 38,
     "korean": "더 좋은 호텔에 묵고 싶었습니다.",
     "english": "I wanted to stay at a better hotel.",
-    "japanese": "もっと いい ホテルに 泊まり**たかったです**。",
+    "japanese": "もっといいホテルに泊まり**たかったです**。",
     "pronounce_r": "Motto ī hoteru ni tomari takatta desu.",
     "pronounce_h": "もっと いい ホテルに とまりたかったです。",
     "words": [
@@ -928,7 +928,7 @@
     "id": 39,
     "korean": "(나는) 회의에 참가하고 싶지 않았습니다.",
     "english": "I didn't want to participate in the meeting.",
-    "japanese": "会議に 参加し**たくなかったです**。",
+    "japanese": "会議に参加し**たくなかったです**。",
     "pronounce_r": "Kaigi ni sanka shitakunakatta desu.",
     "pronounce_h": "かいぎに さんかしたくなかったです。",
     "words": [
@@ -948,7 +948,7 @@
     "id": 40,
     "korean": "(나는) 매일 아침 조깅하러 갑니다.",
     "english": "I go jogging every morning.",
-    "japanese": "毎日 朝 ジョギング**に** 行きます。",
+    "japanese": "毎日朝ジョギング**に**行きます。",
     "pronounce_r": "Mainichi asa jogingu ni ikimasu.",
     "pronounce_h": "まいにち あさ ジョギングに いきます。",
     "words": [
@@ -978,7 +978,7 @@
     "id": 41,
     "korean": "저에게 그 사진을 보여주십시오.",
     "english": "Please show me that picture.",
-    "japanese": "私に その写真を 見せ**て ください**。",
+    "japanese": "私にその写真を見せ**てください**。",
     "pronounce_r": "Watashi ni sono shashin o misete kudasai.",
     "pronounce_h": "わたしに そのしゃしんを みせてください。",
     "words": [
@@ -1008,7 +1008,7 @@
     "id": 42,
     "korean": "그럼, 여기서 헤어집시다.",
     "english": "Well then, let's part ways here.",
-    "japanese": "じゃあ、ここで 別れ**ましょう**。",
+    "japanese": "じゃあ、ここで別れ**ましょう**。",
     "pronounce_r": "Jā, koko de wakaremashō.",
     "pronounce_h": "じゃあ、ここで わかれましょう。",
     "words": [

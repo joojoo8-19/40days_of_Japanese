@@ -3,388 +3,660 @@
     "id": 1,
     "korean": "도쿄에 간다면 신주쿠가 좋아요",
     "english": "If you go to Tokyo, Shinjuku is good.",
-    "japanese": "東京(とうきょう)に 行(い)くなら 新宿(しんじゅく)が いいですよ。",
+    "japanese": "東京(とうきょう)に行(い)くなら新宿(しんじゅく)がいいですよ。",
     "pronounce_r": "Tokyo ni iku nara Shinjuku ga ii desu yo.",
     "pronounce_h": "とうきょうに いくなら しんじゅくが いいですよ。",
     "words": [
-      {"korean": "도쿄", "japanese": "東京", "pronounce_h": "とうきょう"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"},
-      {"korean": "신주쿠", "japanese": "新宿", "pronounce_h": "しんじゅく"},
-      {"korean": "좋다", "japanese": "良い", "pronounce_h": "いい"}
+      {
+        "korean": "도쿄",
+        "japanese": "東京",
+        "pronounce_h": "とうきょう"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      },
+      {
+        "korean": "신주쿠",
+        "japanese": "新宿",
+        "pronounce_h": "しんじゅく"
+      },
+      {
+        "korean": "좋다",
+        "japanese": "良い",
+        "pronounce_h": "いい"
+      }
     ]
   },
   {
     "id": 2,
     "korean": "역시 스포츠라면 다나카씨네요",
     "english": "As expected, when it comes to sports, it's Tanaka-san.",
-    "japanese": "やっぱり スポーツなら 田中(たなか)さんですね。",
+    "japanese": "やっぱりスポーツなら田中(たなか)さんですね。",
     "pronounce_r": "Yappari supotsu nara Tanaka-san desu ne.",
     "pronounce_h": "やっぱり すぽーつなら たなかさんですね。",
     "words": [
-      {"korean": "역시", "japanese": "やっぱり", "pronounce_h": "やっぱり"},
-      {"korean": "스포츠", "japanese": "スポーツ", "pronounce_h": "すぽーつ"}
+      {
+        "korean": "역시",
+        "japanese": "やっぱり",
+        "pronounce_h": "やっぱり"
+      },
+      {
+        "korean": "스포츠",
+        "japanese": "スポーツ",
+        "pronounce_h": "すぽーつ"
+      }
     ]
   },
   {
     "id": 3,
     "korean": "귀찮다면 이제 안 해도 돼",
     "english": "If it's a hassle, you don't have to do it anymore.",
-    "japanese": "面倒(めんどう)なら もう しなくても いいよ。",
+    "japanese": "面倒(めんどう)ならもうしなくてもいいよ。",
     "pronounce_r": "Mendo nara mo shinakute mo ii yo.",
     "pronounce_h": "めんどうなら もう しなくても いいよ。",
     "words": [
-      {"korean": "귀찮다", "japanese": "面倒だ", "pronounce_h": "めんどうだ"},
-      {"korean": "하다", "japanese": "する", "pronounce_h": "する"}
+      {
+        "korean": "귀찮다",
+        "japanese": "面倒だ",
+        "pronounce_h": "めんどうだ"
+      },
+      {
+        "korean": "하다",
+        "japanese": "する",
+        "pronounce_h": "する"
+      }
     ]
   },
   {
     "id": 4,
     "korean": "온천이라면 하코네가 좋아요",
     "english": "If it's hot springs, Hakone is good.",
-    "japanese": "温泉(おんせん)なら 箱根(はこね)が いいですよ。",
+    "japanese": "温泉(おんせん)なら箱根(はこね)がいいですよ。",
     "pronounce_r": "Onsen nara Hakone ga ii desu yo.",
     "pronounce_h": "おんせんなら はこね가 いいですよ。",
     "words": [
-      {"korean": "온천", "japanese": "温泉", "pronounce_h": "おんせん"},
-      {"korean": "하코네", "japanese": "箱根", "pronounce_h": "はこね"}
+      {
+        "korean": "온천",
+        "japanese": "温泉",
+        "pronounce_h": "おんせん"
+      },
+      {
+        "korean": "하코네",
+        "japanese": "箱根",
+        "pronounce_h": "はこね"
+      }
     ]
   },
   {
     "id": 5,
     "korean": "3시부터 거래처와 미팅 예정이에요",
     "english": "I have a meeting scheduled with a client from 3 o'clock.",
-    "japanese": "3時(さんじ)から 取引先(とりひきさき)と ミーティングの 予定(よてい)です。",
+    "japanese": "3時(さんじ)から取引先(とりひきさき)とミーティングの予定(よてい)です。",
     "pronounce_r": "San-ji kara torihikisaki to mitingu no yotei desu.",
     "pronounce_h": "さんじから とりひきさきと みーてぃんぐの よていです。",
     "words": [
-      {"korean": "거래처", "japanese": "取引先", "pronounce_h": "とりひきさき"},
-      {"korean": "예정", "japanese": "予定", "pronounce_h": "よてい"}
+      {
+        "korean": "거래처",
+        "japanese": "取引先",
+        "pronounce_h": "とりひきさき"
+      },
+      {
+        "korean": "예정",
+        "japanese": "予定",
+        "pronounce_h": "よてい"
+      }
     ]
   },
   {
     "id": 6,
     "korean": "다음주부터 학교 축제가 행해질 예정이에요",
     "english": "The school festival is scheduled to be held from next week.",
-    "japanese": "来週(らいしゅう)から 文化祭(ぶんかさい)が 行(おこな)われる 予定(よてい)です。",
+    "japanese": "来週(らいしゅう)から文化祭(ぶんかさい)が行(おこな)われる予定(よてい)です。",
     "pronounce_r": "Raishu kara bunkasai ga okonawareru yotei desu.",
     "pronounce_h": "らいしゅうから ぶんかさいが おこなわれる よていです。",
     "words": [
-      {"korean": "다음주", "japanese": "来週", "pronounce_h": "らいしゅう"},
-      {"korean": "학교 축제", "japanese": "文化祭", "pronounce_h": "ぶんかさい"},
-      {"korean": "행하다", "japanese": "行う", "pronounce_h": "おこなう"}
+      {
+        "korean": "다음주",
+        "japanese": "来週",
+        "pronounce_h": "らいしゅう"
+      },
+      {
+        "korean": "학교 축제",
+        "japanese": "文化祭",
+        "pronounce_h": "ぶんかさい"
+      },
+      {
+        "korean": "행하다",
+        "japanese": "行う",
+        "pronounce_h": "おこなう"
+      }
     ]
   },
   {
     "id": 7,
     "korean": "이 회사는 그만 둘 예정이에요",
     "english": "I plan to quit this company.",
-    "japanese": "この 会社(かいしゃ)は 辞(や)める 予定(よてい)です。",
+    "japanese": "この会社(かいしゃ)は辞(や)める予定(よてい)です。",
     "pronounce_r": "Kono kaisha wa yameru yotei desu.",
     "pronounce_h": "この かいしゃは やめる よていです。",
     "words": [
-      {"korean": "회사", "japanese": "会社", "pronounce_h": "かいしゃ"},
-      {"korean": "그만두다", "japanese": "辞める", "pronounce_h": "やめる"}
+      {
+        "korean": "회사",
+        "japanese": "会社",
+        "pronounce_h": "かいしゃ"
+      },
+      {
+        "korean": "그만두다",
+        "japanese": "辞める",
+        "pronounce_h": "やめる"
+      }
     ]
   },
   {
     "id": 8,
     "korean": "중국에 여행 갈 생각이에요",
     "english": "I intend to go on a trip to China.",
-    "japanese": "中国(ちゅうごく)に 旅行(りょこう)に 行(い)く つもりです。",
+    "japanese": "中国(ちゅうごく)に旅行(りょこう)に行(い)くつもりです。",
     "pronounce_r": "Chugoku ni ryoko ni iku tsumori desu.",
     "pronounce_h": "ちゅうごくに りょこうに いく つもりです。",
     "words": [
-      {"korean": "중국", "japanese": "中国", "pronounce_h": "ちゅうごく"},
-      {"korean": "여행", "japanese": "旅行", "pronounce_h": "りょこう"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "중국",
+        "japanese": "中国",
+        "pronounce_h": "ちゅうごく"
+      },
+      {
+        "korean": "여행",
+        "japanese": "旅行",
+        "pronounce_h": "りょこう"
+      },
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 9,
     "korean": "졸업해도 일본어 공부는 계속 할 생각이에요",
     "english": "Even after graduating, I intend to continue studying Japanese.",
-    "japanese": "卒業(そつぎょう)しても 日本語(にほんご)の 勉強(べんきょう)は 続(つづ)ける つもりです。",
+    "japanese": "卒業(そつぎょう)しても日本語(にほんご)の勉強(べんきょう)は続(つづ)けるつもりです。",
     "pronounce_r": "Sotsugyo shite mo Nihongo no benkyo wa tsuzukeru tsumori desu.",
     "pronounce_h": "そつぎょうしても にほんご의 べんきょうは つづける つもりです.",
     "words": [
-      {"korean": "졸업하다", "japanese": "卒業する", "pronounce_h": "そつぎょうする"},
-      {"korean": "공부", "japanese": "勉強", "pronounce_h": "べんきょう"},
-      {"korean": "계속하다", "japanese": "続ける", "pronounce_h": "つづける"}
+      {
+        "korean": "졸업하다",
+        "japanese": "卒業する",
+        "pronounce_h": "そつぎょうする"
+      },
+      {
+        "korean": "공부",
+        "japanese": "勉強",
+        "pronounce_h": "べんきょう"
+      },
+      {
+        "korean": "계속하다",
+        "japanese": "続ける",
+        "pronounce_h": "つづける"
+      }
     ]
   },
   {
     "id": 10,
     "korean": "무언가 계획이 있어요?",
     "english": "Do you have any plans?",
-    "japanese": "何(なに)か 計画(けいかく)が ありますか。",
+    "japanese": "何(なに)か計画(けいかく)がありますか。",
     "pronounce_r": "Nanika keikaku ga arimasu ka.",
     "pronounce_h": "なにか けいかくが ありますか。",
     "words": [
-      {"korean": "무언가", "japanese": "何か", "pronounce_h": "なにか"},
-      {"korean": "계획", "japanese": "計画", "pronounce_h": "けいかく"}
+      {
+        "korean": "무언가",
+        "japanese": "何か",
+        "pronounce_h": "なにか"
+      },
+      {
+        "korean": "계획",
+        "japanese": "計画",
+        "pronounce_h": "けいかく"
+      }
     ]
   },
   {
     "id": 11,
     "korean": "그 날은 동창회에 참석할 예정이에요",
     "english": "I plan to attend the alumni association on that day.",
-    "japanese": "その 日(ひ)は 同窓会(どうそうかい)に 出席(しゅっせき)する 予定(よてい)です。",
+    "japanese": "その日(ひ)は同窓会(どうそうかい)に出席(しゅっせき)する予定(よてい)です。",
     "pronounce_r": "Sono hi wa dosokai ni shusseki suru yotei desu.",
     "pronounce_h": "その ひは どうそうかいに しゅっせきする よていです.",
     "words": [
-      {"korean": "동창회", "japanese": "同窓会", "pronounce_h": "どうそうかい"},
-      {"korean": "참석하다", "japanese": "出席する", "pronounce_h": "しゅっせきする"}
+      {
+        "korean": "동창회",
+        "japanese": "同窓会",
+        "pronounce_h": "どうそうかい"
+      },
+      {
+        "korean": "참석하다",
+        "japanese": "出席する",
+        "pronounce_h": "しゅっせきする"
+      }
     ]
   },
   {
     "id": 12,
     "korean": "매일 꽃에게 물을 줘요",
     "english": "I give water to the flowers every day.",
-    "japanese": "毎日(まいにち) 花(はな)に 水(みず)を やっています。",
+    "japanese": "毎日(まいにち)花(はな)に水(みず)をやっています。",
     "pronounce_r": "Mainichi hana ni mizu o yatte imasu.",
     "pronounce_h": "まいにち はなに みずを やっています。",
     "words": [
-      {"korean": "매일", "japanese": "毎日", "pronounce_h": "まいにち"},
-      {"korean": "꽃", "japanese": "花", "pronounce_h": "はな"},
-      {"korean": "물", "japanese": "水", "pronounce_h": "みず"},
-      {"korean": "주다", "japanese": "やる", "pronounce_h": "やる"}
+      {
+        "korean": "매일",
+        "japanese": "毎日",
+        "pronounce_h": "まいにち"
+      },
+      {
+        "korean": "꽃",
+        "japanese": "花",
+        "pronounce_h": "はな"
+      },
+      {
+        "korean": "물",
+        "japanese": "水",
+        "pronounce_h": "みず"
+      },
+      {
+        "korean": "주다",
+        "japanese": "やる",
+        "pronounce_h": "やる"
+      }
     ]
   },
   {
     "id": 13,
     "korean": "회사 동료에게 의리 초콜릿 줬어",
     "english": "I gave obligation chocolate to my colleague.",
-    "japanese": "会社(かいしゃ)の 同僚(どうりょう)に 義理(ぎり)チョコを あげたよ。",
+    "japanese": "会社(かいしゃ)の同僚(どうりょう)に義理(ぎり)チョコをあげたよ。",
     "pronounce_r": "Kaisha no doryo ni giri-choko o ageta yo.",
     "pronounce_h": "かいしゃの どうりょうに ぎりちょこ를 あげたよ.",
     "words": [
-      {"korean": "동료", "japanese": "同僚", "pronounce_h": "どうりょう"},
-      {"korean": "의리 초콜릿", "japanese": "義理チョコ", "pronounce_h": "ぎりちょこ"},
-      {"korean": "주다", "japanese": "あげる", "pronounce_h": "あげる"}
+      {
+        "korean": "동료",
+        "japanese": "同僚",
+        "pronounce_h": "どうりょう"
+      },
+      {
+        "korean": "의리 초콜릿",
+        "japanese": "義理チョコ",
+        "pronounce_h": "ぎりちょこ"
+      },
+      {
+        "korean": "주다",
+        "japanese": "あげる",
+        "pronounce_h": "あげる"
+      }
     ]
   },
   {
     "id": 14,
     "korean": "친구는 그 사람에게 엽서를 줬어",
     "english": "My friend gave a postcard to that person.",
-    "japanese": "友達(ともだち)は その 人(ひと)に 葉書(はがき)を あげた。",
+    "japanese": "友達(ともだち)はその人(ひと)に葉書(はがき)をあげた。",
     "pronounce_r": "Tomodachi wa sono hito ni hagaki o ageta.",
     "pronounce_h": "ともだちは その ひとに はがき를 あげた.",
     "words": [
-      {"korean": "사람", "japanese": "人", "pronounce_h": "ひと"},
-      {"korean": "엽서", "japanese": "葉書", "pronounce_h": "はがき"}
+      {
+        "korean": "사람",
+        "japanese": "人",
+        "pronounce_h": "ひと"
+      },
+      {
+        "korean": "엽서",
+        "japanese": "葉書",
+        "pronounce_h": "はがき"
+      }
     ]
   },
   {
     "id": 15,
     "korean": "사장님에게 여행 기념품을 드렸어요",
     "english": "I gave a travel souvenir to the president.",
-    "japanese": "社長(しゃちょう)に 旅行(りょこう)の お土産(みやげ)を 差(さ)し上(あ)げました。",
+    "japanese": "社長(しゃちょう)に旅行(りょこう)のお土産(みやげ)を差(さ)し上(あ)げました。",
     "pronounce_r": "Shacho ni ryoko no omiyage o sashiagemashita.",
     "pronounce_h": "しゃちょうに りょこうの おみやげ를 さしあげました.",
     "words": [
-      {"korean": "사장님", "japanese": "社長", "pronounce_h": "しゃちょう"},
-      {"korean": "기념품/선물", "japanese": "お土産", "pronounce_h": "おみやげ"},
-      {"korean": "드리다", "japanese": "差し上げる", "pronounce_h": "さしあげる"}
+      {
+        "korean": "사장님",
+        "japanese": "社長",
+        "pronounce_h": "しゃちょう"
+      },
+      {
+        "korean": "기념품/선물",
+        "japanese": "お土産",
+        "pronounce_h": "おみやげ"
+      },
+      {
+        "korean": "드리다",
+        "japanese": "差し上げる",
+        "pronounce_h": "さしあげる"
+      }
     ]
   },
   {
     "id": 16,
     "korean": "나는 다나카씨를 집까지 데려다줬습니다",
     "english": "I took Tanaka-san home.",
-    "japanese": "私(わたし)は 田中(たなか)さんを 家(いえ)まで 送(おく)ってあげました。",
+    "japanese": "私(わたし)は田中(たなか)さんを家(いえ)まで送(おく)ってあげました。",
     "pronounce_r": "Watashi wa Tanaka-san o ie made okutte agemashita.",
     "pronounce_h": "わたしは たなかさんを いえまで おくってあげました.",
     "words": [
-      {"korean": "집", "japanese": "家", "pronounce_h": "いえ"},
-      {"korean": "데려다주다", "japanese": "送る", "pronounce_h": "おくろ"}
+      {
+        "korean": "집",
+        "japanese": "家",
+        "pronounce_h": "いえ"
+      },
+      {
+        "korean": "데려다주다",
+        "japanese": "送る",
+        "pronounce_h": "おくろ"
+      }
     ]
   },
   {
     "id": 17,
     "korean": "초록색 우산, 친구에게 빌려줬어",
     "english": "I lent the green umbrella to my friend.",
-    "japanese": "緑(みどり)の 傘(かさ)、友達(ともだち)に 貸(か)してあげた。",
+    "japanese": "緑(みどり)の傘(かさ)、友達(ともだち)に貸(か)してあげた。",
     "pronounce_r": "Midori no kasa, tomodachi ni kashite ageta.",
     "pronounce_h": "みどりの かさ, ともだちに かしてあげた.",
     "words": [
-      {"korean": "초록색", "japanese": "緑", "pronounce_h": "みどり"},
-      {"korean": "우산", "japanese": "傘", "pronounce_h": "かさ"},
-      {"korean": "빌려주다", "japanese": "貸す", "pronounce_h": "かす"}
+      {
+        "korean": "초록색",
+        "japanese": "緑",
+        "pronounce_h": "みどり"
+      },
+      {
+        "korean": "우산",
+        "japanese": "傘",
+        "pronounce_h": "かさ"
+      },
+      {
+        "korean": "빌려주다",
+        "japanese": "貸す",
+        "pronounce_h": "かす"
+      }
     ]
   },
   {
     "id": 18,
     "korean": "친구는 나에게 돈을 주었어요",
     "english": "My friend gave me some money.",
-    "japanese": "友達(ともだち)は 私(わたし)に お金(かね)を くれました。",
+    "japanese": "友達(ともだち)は私(わたし)にお金(かね)をくれました。",
     "pronounce_r": "Tomodachi wa watashi ni okane o kuremashita.",
     "pronounce_h": "ともだちは わたしに おかね를 くれました.",
     "words": [
-      {"korean": "돈", "japanese": "お金", "pronounce_h": "おかね"},
-      {"korean": "주다(남이 나에게)", "japanese": "くれる", "pronounce_h": "くれる"}
+      {
+        "korean": "돈",
+        "japanese": "お金",
+        "pronounce_h": "おかね"
+      },
+      {
+        "korean": "주다(남이 나에게)",
+        "japanese": "くれる",
+        "pronounce_h": "くれる"
+      }
     ]
   },
   {
     "id": 19,
     "korean": "선생님은 나에게 사전을 주었어요",
     "english": "The teacher gave me a dictionary.",
-    "japanese": "先生(せんせい)は 私(わたし)に 辞書(じしょ)を くださいました。",
+    "japanese": "先生(せんせい)は私(わたし)に辞書(じしょ)をくださいました。",
     "pronounce_r": "Sensei wa watashi ni jisho o kudasaimashita.",
     "pronounce_h": "せんせいは わたしに じしょ를 くださいました.",
     "words": [
-      {"korean": "선생님", "japanese": "先生", "pronounce_h": "せんせい"},
-      {"korean": "사전", "japanese": "辞書", "pronounce_h": "じしょ"},
-      {"korean": "주시다", "japanese": "くださる", "pronounce_h": "くださる"}
+      {
+        "korean": "선생님",
+        "japanese": "先生",
+        "pronounce_h": "せんせい"
+      },
+      {
+        "korean": "사전",
+        "japanese": "辞書",
+        "pronounce_h": "じしょ"
+      },
+      {
+        "korean": "주시다",
+        "japanese": "くださる",
+        "pronounce_h": "くださる"
+      }
     ]
   },
   {
     "id": 20,
     "korean": "바쁜데도 와 줘서 고마워",
     "english": "Thank you for coming even though you're busy.",
-    "japanese": "忙(いそが)しいのに 来(き)てくれて ありがとう。",
+    "japanese": "忙(いそが)しいのに来(き)てくれてありがとう。",
     "pronounce_r": "Isogashii noni kite kurete arigato.",
     "pronounce_h": "いそがしいのに きてくれて ありがとう.",
     "words": [
-      {"korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそがしい"},
-      {"korean": "오다", "japanese": "来る", "pronounce_h": "くる"}
+      {
+        "korean": "바쁘다",
+        "japanese": "忙しい",
+        "pronounce_h": "いそがしい"
+      },
+      {
+        "korean": "오다",
+        "japanese": "来る",
+        "pronounce_h": "くる"
+      }
     ]
   },
   {
     "id": 21,
     "korean": "여러가지 가르쳐주셔서 감사했어요",
     "english": "Thank you for teaching me many things.",
-    "japanese": "いろいろ 教(おし)えてくださって ありがとうございました。",
+    "japanese": "いろいろ教(おし)えてくださってありがとうございました。",
     "pronounce_r": "Iroiro oshiete kudasatte arigato gozaimashita.",
     "pronounce_h": "いろいろ おしえてくださって ありがとうございました.",
     "words": [
-      {"korean": "여러가지", "japanese": "いろいろ", "pronounce_h": "いろいろ"},
-      {"korean": "가르치다", "japanese": "教える", "pronounce_h": "おしえる"}
+      {
+        "korean": "여러가지",
+        "japanese": "いろいろ",
+        "pronounce_h": "いろいろ"
+      },
+      {
+        "korean": "가르치다",
+        "japanese": "教える",
+        "pronounce_h": "おしえる"
+      }
     ]
   },
   {
     "id": 22,
     "korean": "나에게 우산을 빌려줬어요",
     "english": "He/she lent me an umbrella.",
-    "japanese": "私(わたし)に 傘(かさ)を 貸(か)してくれました。",
+    "japanese": "私(わたし)に傘(かさ)を貸(か)してくれました。",
     "pronounce_r": "Watashi ni kasa o kashite kuremashita.",
     "pronounce_h": "わたしに かさを かしてくれました.",
     "words": [
-      {"korean": "빌려주다", "japanese": "貸す", "pronounce_h": "かす"}
+      {
+        "korean": "빌려주다",
+        "japanese": "貸す",
+        "pronounce_h": "かす"
+      }
     ]
   },
   {
     "id": 23,
     "korean": "잠시 도와줄래?",
     "english": "Can you help me for a moment?",
-    "japanese": "ちょっと 手伝(てつだ)ってくれる？",
+    "japanese": "ちょっと手伝(てつだ)ってくれる？",
     "pronounce_r": "Chotto tetsudatte kureru?",
     "pronounce_h": "ちょっと てつだってくれる?",
     "words": [
-      {"korean": "돕다", "japanese": "手伝う", "pronounce_h": "てつだう"}
+      {
+        "korean": "돕다",
+        "japanese": "手伝う",
+        "pronounce_h": "てつだう"
+      }
     ]
   },
   {
     "id": 24,
     "korean": "미안. 지금 굉장히 바빠서",
     "english": "Sorry. I'm very busy right now.",
-    "japanese": "ごめん。今(いま) すごく 忙(いそが)しくて。",
+    "japanese": "ごめん。今(いま)すごく忙(いそが)しくて。",
     "pronounce_r": "Gomen. Ima sugoku isogashikute.",
     "pronounce_h": "ごめん. いま すごく いそがしくて.",
     "words": [
-      {"korean": "미안", "japanese": "ごめん", "pronounce_h": "ごめん"},
-      {"korean": "굉장히", "japanese": "すごく", "pronounce_h": "すごく"}
+      {
+        "korean": "미안",
+        "japanese": "ごめん",
+        "pronounce_h": "ごめん"
+      },
+      {
+        "korean": "굉장히",
+        "japanese": "すごく",
+        "pronounce_h": "すごく"
+      }
     ]
   },
   {
     "id": 25,
     "korean": "어머니에게 용돈을 받았어요",
     "english": "I received an allowance from my mother.",
-    "japanese": "母(はは)に お小遣(こづか)いを もらいました。",
+    "japanese": "母(はは)にお小遣(こづか)いをもらいました。",
     "pronounce_r": "Haha ni okozukai o moraimashita.",
     "pronounce_h": "ははに おこづかい를 もらいました.",
     "words": [
-      {"korean": "어머니", "japanese": "母", "pronounce_h": "はは"},
-      {"korean": "용돈", "japanese": "お小遣い", "pronounce_h": "おこづかい"},
-      {"korean": "받다", "japanese": "もらう", "pronounce_h": "もらう"}
+      {
+        "korean": "어머니",
+        "japanese": "母",
+        "pronounce_h": "はは"
+      },
+      {
+        "korean": "용돈",
+        "japanese": "お小遣い",
+        "pronounce_h": "おこづかい"
+      },
+      {
+        "korean": "받다",
+        "japanese": "もらう",
+        "pronounce_h": "もらう"
+      }
     ]
   },
   {
     "id": 26,
     "korean": "나는 선생님에게 사전을 받았어요",
     "english": "I received a dictionary from the teacher.",
-    "japanese": "私(わたし)は 先生(せんせい)に 辞書(じしょ)を いただきました。",
+    "japanese": "私(わたし)は先生(せんせい)に辞書(じしょ)をいただきました。",
     "pronounce_r": "Watashi wa sensei ni jisho o itadakimashita.",
     "pronounce_h": "わたしは せんせいに じしょ를 いただきました.",
     "words": [
-      {"korean": "받다(겸양)", "japanese": "いただく", "pronounce_h": "いただく"}
+      {
+        "korean": "받다(겸양)",
+        "japanese": "いただく",
+        "pronounce_h": "いただく"
+      }
     ]
   },
   {
     "id": 27,
     "korean": "나는 선생님에게 일본어를 가르침 받았어요",
     "english": "I had the teacher teach me Japanese.",
-    "japanese": "私(わたし)は 先生(せんせい)に 日本語(にほんご)を 教(おし)えていただきました。",
+    "japanese": "私(わたし)は先生(せんせい)に日本語(にほんご)を教(おし)えていただきました。",
     "pronounce_r": "Watashi wa sensei ni Nihongo o oshiete itadakimashita.",
     "pronounce_h": "わたし는 せんせいに にほんご를 おしえていただきました.",
     "words": [
-      {"korean": "가르치다", "japanese": "教える", "pronounce_h": "おしえる"}
+      {
+        "korean": "가르치다",
+        "japanese": "教える",
+        "pronounce_h": "おしえる"
+      }
     ]
   },
   {
     "id": 28,
     "korean": "우산을 빌려 받았어요",
     "english": "I had someone lend me an umbrella.",
-    "japanese": "傘(かさ)を 貸(か)して もらいました。",
+    "japanese": "傘(かさ)を貸(か)してもらいました。",
     "pronounce_r": "Kasa o kashite moraimashita.",
     "pronounce_h": "かさを かしてもらいました.",
     "words": [
-      {"korean": "빌려주다", "japanese": "貸す", "pronounce_h": "かす"}
+      {
+        "korean": "빌려주다",
+        "japanese": "貸す",
+        "pronounce_h": "かす"
+      }
     ]
   },
   {
     "id": 29,
     "korean": "이런 비싼 것을 받아도 되는 거야?",
     "english": "Is it okay to receive such an expensive thing?",
-    "japanese": "こんなに 高(たか)い ものを もらっても いいの？",
+    "japanese": "こんなに高(たか)いものをもらってもいいの？",
     "pronounce_r": "Konna ni takai mono o moratte mo ii no?",
     "pronounce_h": "こんなに たかい ものを もらっても いいの?",
     "words": [
-      {"korean": "비싸다", "japanese": "高い", "pronounce_h": "たかい"}
+      {
+        "korean": "비싸다",
+        "japanese": "高い",
+        "pronounce_h": "たかい"
+      }
     ]
   },
   {
     "id": 30,
     "korean": "사장님으로부터 뭔가 왔어?",
     "english": "Did something come from the president?",
-    "japanese": "社長(しゃちょう)から 何(なに)か 送(おく)られてきた？",
+    "japanese": "社長(しゃちょう)から何(なに)か送(おく)られてきた？",
     "pronounce_r": "Shacho kara nanika okurarete kita?",
     "pronounce_h": "しゃちょうから なにか おくられてきた?",
     "words": [
-      {"korean": "보내다", "japanese": "送る", "pronounce_h": "おくる"}
+      {
+        "korean": "보내다",
+        "japanese": "送る",
+        "pronounce_h": "おくる"
+      }
     ]
   },
   {
     "id": 31,
     "korean": "네. 응원 메세지를 받았어요",
     "english": "Yes. I received a message of support.",
-    "japanese": "はい。応援(おうえん)メッセージを いただきました。",
+    "japanese": "はい。応援(おうえん)メッセージをいただきました。",
     "pronounce_r": "Hai. Oen messeji o itadakimashita.",
     "pronounce_h": "はい. おうえん めっせーじ를 いただきました.",
     "words": [
-      {"korean": "응원", "japanese": "応援", "pronounce_h": "おうえん"}
+      {
+        "korean": "응원",
+        "japanese": "応援",
+        "pronounce_h": "おうえん"
+      }
     ]
   },
   {
     "id": 32,
     "korean": "좋아하는 사람에게 좋아한다고 말 할 수 있어요?",
     "english": "Can you tell the person you like that you like them?",
-    "japanese": "好(す)きな 人(ひと)に 好(す)きだと 言(い)えますか。",
+    "japanese": "好(す)きな人(ひと)に好(す)きだと言(い)えますか。",
     "pronounce_r": "Sukina hito ni sukida to iemasu ka.",
     "pronounce_h": "すきな ひとに すきだと いえますか.",
     "words": [
-      {"korean": "좋아하다", "japanese": "好きだ", "pronounce_h": "すきだ"},
-      {"korean": "말하다", "japanese": "言う", "pronounce_h": "いう"}
+      {
+        "korean": "좋아하다",
+        "japanese": "好きだ",
+        "pronounce_h": "すきだ"
+      },
+      {
+        "korean": "말하다",
+        "japanese": "言う",
+        "pronounce_h": "いう"
+      }
     ]
   },
   {
@@ -395,215 +667,371 @@
     "pronounce_r": "Un. Ieru yo.",
     "pronounce_h": "うん. いえるよ.",
     "words": [
-      {"korean": "말하다", "japanese": "言う", "pronounce_h": "いう"}
+      {
+        "korean": "말하다",
+        "japanese": "言う",
+        "pronounce_h": "いう"
+      }
     ]
   },
   {
     "id": 34,
     "korean": "택배는 편의점에서도 보낼 수 있어",
     "english": "You can send parcels from a convenience store too.",
-    "japanese": "宅配便(たくはいびん)は コンビニでも 送(おく)れるよ。",
+    "japanese": "宅配便(たくはいびん)はコンビニでも送(おく)れるよ。",
     "pronounce_r": "Takuhaibin wa konbini demo okureru yo.",
     "pronounce_h": "たくはいびんは こんびにでも おくれるよ.",
     "words": [
-      {"korean": "택배", "japanese": "宅配便", "pronounce_h": "たくはいびん"},
-      {"korean": "보내다", "japanese": "送る", "pronounce_h": "おくる"}
+      {
+        "korean": "택배",
+        "japanese": "宅配便",
+        "pronounce_h": "たくはいびん"
+      },
+      {
+        "korean": "보내다",
+        "japanese": "送る",
+        "pronounce_h": "おくる"
+      }
     ]
   },
   {
     "id": 35,
     "korean": "술은 그다지 마실 수 없습니다만, 분위기는 좋아해요",
     "english": "I can't drink much alcohol, but I like the atmosphere.",
-    "japanese": "お酒(さけ)は あまり 飲(の)めませんが、雰囲気(ふんいき)は 好(す)きです。",
+    "japanese": "お酒(さけ)はあまり飲(の)めませんが、雰囲気(ふんいき)は好(す)きです。",
     "pronounce_r": "Osake wa amari nomemasen ga, fun'iki wa suki desu.",
     "pronounce_h": "おさけは あまり のめませんが, ふんいきは すきです.",
     "words": [
-      {"korean": "술", "japanese": "お酒", "pronounce_h": "おさけ"},
-      {"korean": "마시다", "japanese": "飲む", "pronounce_h": "のむ"},
-      {"korean": "분위기", "japanese": "雰囲気", "pronounce_h": "ふんいき"}
+      {
+        "korean": "술",
+        "japanese": "お酒",
+        "pronounce_h": "おさけ"
+      },
+      {
+        "korean": "마시다",
+        "japanese": "飲む",
+        "pronounce_h": "のむ"
+      },
+      {
+        "korean": "분위기",
+        "japanese": "雰囲気",
+        "pronounce_h": "ふんいき"
+      }
     ]
   },
   {
     "id": 36,
     "korean": "나는 매운 요리는 먹을 수 없어요",
     "english": "I can't eat spicy food.",
-    "japanese": "私(わたし)は 辛(から)い 料理(りょうり)は 食(た)べられません。",
+    "japanese": "私(わたし)は辛(から)い料理(りょうり)は食(た)べられません。",
     "pronounce_r": "Watashi wa karai ryori wa taberaremasen.",
     "pronounce_h": "わたし는 からい りょうり는 たべられません.",
     "words": [
-      {"korean": "맵다", "japanese": "辛い", "pronounce_h": "からい"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "맵다",
+        "japanese": "辛い",
+        "pronounce_h": "からい"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 37,
     "korean": "영어는 할 수 있습니다만 일본어는 할 수 없어요",
     "english": "I can speak English, but I can't speak Japanese.",
-    "japanese": "英語(えいご)は できますが 日本語(にほんご)는 できません。",
+    "japanese": "英語(えいご)はできますが日本語(にほんご)는できません。",
     "pronounce_r": "Eigo wa dekimasu ga Nihongo wa dekimasen.",
     "pronounce_h": "えいごは できますが にほんご는 できません.",
     "words": [
-      {"korean": "영어", "japanese": "英語", "pronounce_h": "えいご"},
-      {"korean": "하다(가능형)", "japanese": "できる", "pronounce_h": "できる"}
+      {
+        "korean": "영어",
+        "japanese": "英語",
+        "pronounce_h": "えいご"
+      },
+      {
+        "korean": "하다(가능형)",
+        "japanese": "できる",
+        "pronounce_h": "できる"
+      }
     ]
   },
   {
     "id": 38,
     "korean": "배 불러. 이제 더 이상은 먹을 수 없어",
     "english": "I'm full. I can't eat anymore.",
-    "japanese": "お腹(なか)が いっぱい。もう これ以上(いじょう)は 食(た)べられない。",
+    "japanese": "お腹(なか)がいっぱい。もうこれ以上(いじょう)は食(た)べられない。",
     "pronounce_r": "Onaka ga ippai. Mo kore ijo wa taberarenai.",
     "pronounce_h": "おなかが いっぱい. もう これいじょうは たべられない.",
     "words": [
-      {"korean": "배(신체)", "japanese": "お腹", "pronounce_h": "おなか"},
-      {"korean": "이상", "japanese": "以上", "pronounce_h": "いじょう"}
+      {
+        "korean": "배(신체)",
+        "japanese": "お腹",
+        "pronounce_h": "おなか"
+      },
+      {
+        "korean": "이상",
+        "japanese": "以上",
+        "pronounce_h": "いじょう"
+      }
     ]
   },
   {
     "id": 39,
     "korean": "선생님에게 칭찬 받았어요",
     "english": "I was praised by the teacher.",
-    "japanese": "先生(せんせい)に 褒(ほ)められました。",
+    "japanese": "先生(せんせい)に褒(ほ)められました。",
     "pronounce_r": "Sensei ni homeraremashita.",
     "pronounce_h": "せんせいに ほめられました.",
     "words": [
-      {"korean": "칭찬하다", "japanese": "褒める", "pronounce_h": "ほめる"}
+      {
+        "korean": "칭찬하다",
+        "japanese": "褒める",
+        "pronounce_h": "ほめる"
+      }
     ]
   },
   {
     "id": 40,
     "korean": "시험 성적이 나빠서 엄마에게 야단 맞았어요",
     "english": "My exam results were bad, so I was scolded by my mother.",
-    "japanese": "試験(しけん)の 成績(せいせき)が 悪(わる)くて 母(はは)に 叱(しか)られました。",
+    "japanese": "試験(しけん)の成績(せいせき)が悪(わる)くて母(はは)に叱(しか)られました。",
     "pronounce_r": "Shiken no seiseki ga warukute haha ni shikararemashita.",
     "pronounce_h": "しけんの せいせきが わるくて ははに しかられました.",
     "words": [
-      {"korean": "성적", "japanese": "成績", "pronounce_h": "せいせき"},
-      {"korean": "나쁘다", "japanese": "悪い", "pronounce_h": "わるい"},
-      {"korean": "야단치다", "japanese": "叱る", "pronounce_h": "しかる"}
+      {
+        "korean": "성적",
+        "japanese": "成績",
+        "pronounce_h": "せいせき"
+      },
+      {
+        "korean": "나쁘다",
+        "japanese": "悪い",
+        "pronounce_h": "わるい"
+      },
+      {
+        "korean": "야단치다",
+        "japanese": "叱る",
+        "pronounce_h": "しかる"
+      }
     ]
   },
   {
     "id": 41,
     "korean": "주의 줬더니 반대로(역으로) 주의 받았어요",
     "english": "I gave a warning but was warned in return.",
-    "japanese": "注意(ちゅうい)したら 逆(ぎゃく)に 注意(ちゅうい)されました。",
+    "japanese": "注意(ちゅうい)したら逆(ぎゃく)に注意(ちゅうい)されました。",
     "pronounce_r": "Chui shitara gyaku ni chui saremashita.",
     "pronounce_h": "ちゅういしたら ぎゃくに ちゅういされました.",
     "words": [
-      {"korean": "주의", "japanese": "注意", "pronounce_h": "ちゅうい"},
-      {"korean": "반대로", "japanese": "逆に", "pronounce_h": "ぎゃくに"}
+      {
+        "korean": "주의",
+        "japanese": "注意",
+        "pronounce_h": "ちゅうい"
+      },
+      {
+        "korean": "반대로",
+        "japanese": "逆に",
+        "pronounce_h": "ぎゃくに"
+      }
     ]
   },
   {
     "id": 42,
     "korean": "지하철에서 지갑을 도둑 맞았어요",
     "english": "My wallet was stolen on the subway.",
-    "japanese": "地下鉄(ちかてつ)で 財布(さいふ)を 盗(ぬす)まれました。",
+    "japanese": "地下鉄(ちかてつ)で財布(さいふ)を盗(ぬす)まれました。",
     "pronounce_r": "Chikatetsu de saifu o nusumaremashita.",
     "pronounce_h": "ちかてつで さいふ를 ぬすまれました.",
     "words": [
-      {"korean": "지하철", "japanese": "地下鉄", "pronounce_h": "ちかてつ"},
-      {"korean": "지갑", "japanese": "財布", "pronounce_h": "さいふ"},
-      {"korean": "훔치다", "japanese": "盗む", "pronounce_h": "ぬすむ"}
+      {
+        "korean": "지하철",
+        "japanese": "地下鉄",
+        "pronounce_h": "ちかてつ"
+      },
+      {
+        "korean": "지갑",
+        "japanese": "財布",
+        "pronounce_h": "さいふ"
+      },
+      {
+        "korean": "훔치다",
+        "japanese": "盗む",
+        "pronounce_h": "ぬすむ"
+      }
     ]
   },
   {
     "id": 43,
     "korean": "버스 안에서 옆 사람에 발을 밟혔어요",
     "english": "My foot was stepped on by the person next to me on the bus.",
-    "japanese": "バスの 中(なか)で 隣(となり)の 人(ひと)に 足(あし)を 踏(ふ)まれました。",
+    "japanese": "バスの中(なか)で隣(となり)の人(ひと)に足(あし)を踏(ふ)まれました。",
     "pronounce_r": "Basu no naka de tonari no hito ni ashi o fumaremashita.",
     "pronounce_h": "ばすの なかで となりの ひとに あし를 ふまれました.",
     "words": [
-      {"korean": "옆", "japanese": "隣", "pronounce_h": "となり"},
-      {"korean": "발", "japanese": "足", "pronounce_h": "あし"},
-      {"korean": "밟다", "japanese": "踏む", "pronounce_h": "ふむ"}
+      {
+        "korean": "옆",
+        "japanese": "隣",
+        "pronounce_h": "となり"
+      },
+      {
+        "korean": "발",
+        "japanese": "足",
+        "pronounce_h": "あし"
+      },
+      {
+        "korean": "밟다",
+        "japanese": "踏む",
+        "pronounce_h": "ふむ"
+      }
     ]
   },
   {
     "id": 44,
     "korean": "해외 영업을 맡게 되었어요",
     "english": "I was put in charge of overseas sales.",
-    "japanese": "海外営業(かいがいえいぎょう)を 任(まか)されました。",
+    "japanese": "海外営業(かいがいえいぎょう)を任(まか)されました。",
     "pronounce_r": "Kaigai eigyo o makasaremashita.",
     "pronounce_h": "かいがいえいぎょうを まかされました.",
     "words": [
-      {"korean": "해외 영업", "japanese": "海外営業", "pronounce_h": "かいがいえいぎょう"},
-      {"korean": "맡기다", "japanese": "任す", "pronounce_h": "まかす"}
+      {
+        "korean": "해외 영업",
+        "japanese": "海外営業",
+        "pronounce_h": "かいがいえいぎょう"
+      },
+      {
+        "korean": "맡기다",
+        "japanese": "任す",
+        "pronounce_h": "まかす"
+      }
     ]
   },
   {
     "id": 45,
     "korean": "부장님이 야근을 시켰어요",
     "english": "My manager made me work overtime.",
-    "japanese": "部長(ぶちょう)に 残業(ざんぎょう)を させられました。",
+    "japanese": "部長(ぶちょう)に残業(ざんぎょう)をさせられました。",
     "pronounce_r": "Bucho ni zangyo o saseraremashita.",
     "pronounce_h": "ぶちょうに ざんぎょうを させられました.",
     "words": [
-      {"korean": "부장님", "japanese": "部長", "pronounce_h": "ぶちょう"},
-      {"korean": "야근", "japanese": "残業", "pronounce_h": "ざんぎょう"}
+      {
+        "korean": "부장님",
+        "japanese": "部長",
+        "pronounce_h": "ぶちょう"
+      },
+      {
+        "korean": "야근",
+        "japanese": "残業",
+        "pronounce_h": "ざんぎょう"
+      }
     ]
   },
   {
     "id": 46,
     "korean": "아들에게 시금치를 먹게 했어요",
     "english": "I made my son eat spinach.",
-    "japanese": "息子(むすこ)に ほうれん草(そう)を 食(た)べさせました。",
+    "japanese": "息子(むすこ)にほうれん草(そう)を食(た)べさせました。",
     "pronounce_r": "Musuko ni horenso o tabesasemashita.",
     "pronounce_h": "むすこに ほうれんそう를 たべさせました.",
     "words": [
-      {"korean": "아들", "japanese": "息子", "pronounce_h": "むすこ"},
-      {"korean": "시금치", "japanese": "ほうれん草", "pronounce_h": "ほうれんそう"},
-      {"korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる"}
+      {
+        "korean": "아들",
+        "japanese": "息子",
+        "pronounce_h": "むすこ"
+      },
+      {
+        "korean": "시금치",
+        "japanese": "ほうれん草",
+        "pronounce_h": "ほうれんそう"
+      },
+      {
+        "korean": "먹다",
+        "japanese": "食べる",
+        "pronounce_h": "たべる"
+      }
     ]
   },
   {
     "id": 47,
     "korean": "선생님은 학생들에게 짝을 이뤄 일본어로 이야기하게 했어요",
     "english": "The teacher had the students speak in Japanese in pairs.",
-    "japanese": "先生(せんせい)は 学生(がくせい)に ペアで 日本語(にほんご)を 話(はな)させました。",
+    "japanese": "先生(せんせい)は学生(がくせい)にペアで日本語(にほんご)を話(はな)させました。",
     "pronounce_r": "Sensei wa gakusei ni pea de Nihongo o hanasasemashita.",
     "pronounce_h": "せんせいは がくせいに ぺあで にほんご를 はなさせました.",
     "words": [
-      {"korean": "학생", "japanese": "学生", "pronounce_h": "がくせい"},
-      {"korean": "말하다", "japanese": "話す", "pronounce_h": "はなす"}
+      {
+        "korean": "학생",
+        "japanese": "学生",
+        "pronounce_h": "がくせい"
+      },
+      {
+        "korean": "말하다",
+        "japanese": "話す",
+        "pronounce_h": "はなす"
+      }
     ]
   },
   {
     "id": 48,
     "korean": "내가 가게 해 주세요",
     "english": "Please let me go.",
-    "japanese": "私(わたし)に 行(い)かせてください。",
+    "japanese": "私(わたし)に行(い)かせてください。",
     "pronounce_r": "Watashi ni ikasete kudasai.",
     "pronounce_h": "わたしに いかせてください.",
     "words": [
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      {
+        "korean": "가다",
+        "japanese": "行く",
+        "pronounce_h": "いく"
+      }
     ]
   },
   {
     "id": 49,
     "korean": "한마디 하게 해 주세요",
     "english": "Please let me say a word.",
-    "japanese": "一言(ひとこと) 言(い)わせてください。",
+    "japanese": "一言(ひとこと)言(い)わせてください。",
     "pronounce_r": "Hitokoto iwasete kudasai.",
     "pronounce_h": "ひとこと いわせてください.",
     "words": [
-      {"korean": "한마디", "japanese": "一言", "pronounce_h": "ひとこと"},
-      {"korean": "말하다", "japanese": "言う", "pronounce_h": "いう"}
+      {
+        "korean": "한마디",
+        "japanese": "一言",
+        "pronounce_h": "ひとこと"
+      },
+      {
+        "korean": "말하다",
+        "japanese": "言う",
+        "pronounce_h": "いう"
+      }
     ]
   },
   {
     "id": 50,
     "korean": "남편에게 요리를 만들게 하고 왔어요",
     "english": "I had my husband make dinner and came here.",
-    "japanese": "夫(おっと)に 料理(りょうり)を 作(つく)らせてきました。",
+    "japanese": "夫(おっと)に料理(りょうり)を作(つく)らせてきました。",
     "pronounce_r": "Otto ni ryori o tsukurasete kimashita.",
     "pronounce_h": "おっとに りょうり를 つくらせてきました.",
     "words": [
-      {"korean": "남편", "japanese": "夫", "pronounce_h": "おっと"},
-      {"korean": "요리", "japanese": "料理", "pronounce_h": "りょうり"},
-      {"korean": "만들다", "japanese": "作る", "pronounce_h": "つくる"}
+      {
+        "korean": "남편",
+        "japanese": "夫",
+        "pronounce_h": "おっと"
+      },
+      {
+        "korean": "요리",
+        "japanese": "料理",
+        "pronounce_h": "りょうり"
+      },
+      {
+        "korean": "만들다",
+        "japanese": "作る",
+        "pronounce_h": "つくる"
+      }
     ]
   }
 ]

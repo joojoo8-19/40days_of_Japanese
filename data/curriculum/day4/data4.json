@@ -3,7 +3,7 @@
     "id": 63,
     "korean": "김 선생님은 노래를 잘합니다.",
     "english": "Mr./Ms. Kim is good at singing.",
-    "japanese": "キム先生は 歌が 上手です。",
+    "japanese": "キム先生は歌が上手です。",
     "pronounce_r": "Kimu sensei wa uta ga jōzu desu.",
     "pronounce_h": "キム せんせい は うた が じょうず です。",
     "words": [
@@ -23,7 +23,7 @@
     "id": 64,
     "korean": "저는 운전이 서툽니다.",
     "english": "I am poor at driving.",
-    "japanese": "私は 運転が 下手です。",
+    "japanese": "私は運転が下手です。",
     "pronounce_r": "Watashi wa unten ga heta desu.",
     "pronounce_h": "わたし は うんてん が へた です。",
     "words": [
@@ -43,7 +43,7 @@
     "id": 65,
     "korean": "지금 돈이 필요합니다.",
     "english": "I need money now.",
-    "japanese": "今、お金が 必要です。",
+    "japanese": "今、お金が必要です。",
     "pronounce_r": "Ima, okane ga hitsuyō desu.",
     "pronounce_h": "いま、 おかね が ひつよう です。",
     "words": [
@@ -68,7 +68,7 @@
     "id": 66,
     "korean": "이 책이 제 것입니다.",
     "english": "This book is mine.",
-    "japanese": "この本が 私のものです。",
+    "japanese": "この本が私のものです。",
     "pronounce_r": "Kono hon ga watashi no mono desu.",
     "pronounce_h": "この ほん が わたし の もの です。",
     "words": [
@@ -88,7 +88,7 @@
     "id": 67,
     "korean": "이 커피는 맛있습니다.",
     "english": "This coffee is delicious.",
-    "japanese": "このコーヒーは 美味しいです。",
+    "japanese": "このコーヒーは美味しいです。",
     "pronounce_r": "Kono kōhī wa oishii desu.",
     "pronounce_h": "この コーヒー は おいしい です。",
     "words": [
@@ -108,7 +108,7 @@
     "id": 68,
     "korean": "이 사람은 누구입니까?",
     "english": "Who is this person?",
-    "japanese": "この人は 誰ですか。",
+    "japanese": "この人は誰ですか。",
     "pronounce_r": "Kono hito wa dare desu ka.",
     "pronounce_h": "この ひと は だれ ですか。",
     "words": [
@@ -123,7 +123,7 @@
     "id": 69,
     "korean": "그 가방은 당신의 것입니까?",
     "english": "Is that bag yours?",
-    "japanese": "そのカバンは あなたのですか。",
+    "japanese": "そのカバンはあなたのですか。",
     "pronounce_r": "Sono kaban wa anata no desu ka.",
     "pronounce_h": "その カバン は あなた の ですか。",
     "words": [
@@ -143,7 +143,7 @@
     "id": 70,
     "korean": "그 문제는 간단했습니다.",
     "english": "That problem was simple.",
-    "japanese": "その問題は 簡単でした。",
+    "japanese": "その問題は簡単でした。",
     "pronounce_r": "Sono mondai wa kantan deshita.",
     "pronounce_h": "その もんだい は かんたん でした。",
     "words": []
@@ -152,7 +152,7 @@
     "id": 71,
     "korean": "그 자료를 보여주세요.",
     "english": "Please show me that document/material.",
-    "japanese": "その資料を 見せてください。",
+    "japanese": "その資料を見せてください。",
     "pronounce_r": "Sono shiryō o misete kudasai.",
     "pronounce_h": "その しりょう を みせて ください。",
     "words": [
@@ -172,7 +172,7 @@
     "id": 72,
     "korean": "저 빌딩은 높습니다.",
     "english": "That building over there is tall.",
-    "japanese": "あのビルは 高いです。",
+    "japanese": "あのビルは高いです。",
     "pronounce_r": "Ano biru wa takai desu.",
     "pronounce_h": "あの ビル は たかい です。",
     "words": [
@@ -192,7 +192,7 @@
     "id": 73,
     "korean": "저 호텔은 편리하지 않았습니다.",
     "english": "That hotel over there was not convenient.",
-    "japanese": "あのホテルは 便利じゃなかったです。",
+    "japanese": "あのホテルは便利じゃなかったです。",
     "pronounce_r": "Ano hoteru wa benri janakatta desu.",
     "pronounce_h": "あの ホテル は べんり じゃなかった です。",
     "words": []
@@ -201,7 +201,7 @@
     "id": 74,
     "korean": "저 분은 김 선생님이십니다.",
     "english": "That person over there is Mr./Ms. Kim.",
-    "japanese": "あの方は キム先生です。",
+    "japanese": "あの方はキム先生です。",
     "pronounce_r": "Ano kata wa Kimu sensei desu.",
     "pronounce_h": "あの かた は キム せんせい です。",
     "words": [
@@ -216,7 +216,7 @@
     "id": 75,
     "korean": "어느 펜이 당신의 것입니까?",
     "english": "Which pen is yours?",
-    "japanese": "どのペンが あなたのですか。",
+    "japanese": "どのペンがあなたのですか。",
     "pronounce_r": "Dono pen ga anata no desu ka.",
     "pronounce_h": "どの ペン が あなた の ですか。",
     "words": [
@@ -236,7 +236,7 @@
     "id": 76,
     "korean": "어느 계절을 좋아합니까?",
     "english": "Which season do you like?",
-    "japanese": "どの季節が 好きですか。",
+    "japanese": "どの季節が好きですか。",
     "pronounce_r": "Dono kisetsu ga suki desu ka.",
     "pronounce_h": "どの きせつ が すき ですか。",
     "words": [
@@ -251,7 +251,7 @@
     "id": 77,
     "korean": "어느 신발을 사셨습니까?",
     "english": "Which shoes did you buy?",
-    "japanese": "どの靴を 買いましたか。",
+    "japanese": "どの靴を買いましたか。",
     "pronounce_r": "Dono kutsu o kaimashita ka.",
     "pronounce_h": "どの くつ を かい ましたか。",
     "words": [
@@ -271,7 +271,7 @@
     "id": 78,
     "korean": "이 가방은 멋지지 않았습니다.",
     "english": "This bag was not wonderful/stylish.",
-    "japanese": "このカバンは 素敵じゃなかったです。",
+    "japanese": "このカバンは素敵じゃなかったです。",
     "pronounce_r": "Kono kaban wa suteki janakatta desu.",
     "pronounce_h": "この カバン は すてき じゃなかった です。",
     "words": [
@@ -286,7 +286,7 @@
     "id": 79,
     "korean": "저는 매운 것을 싫어합니다.",
     "english": "I dislike spicy things.",
-    "japanese": "私は 辛いものが 嫌いです。",
+    "japanese": "私は辛いものが嫌いです。",
     "pronounce_r": "Watashi wa karai mono ga kirai desu.",
     "pronounce_h": "わたし は からいもの が きらい です。",
     "words": [
@@ -306,7 +306,7 @@
     "id": 80,
     "korean": "그 사람은 상냥하고, 성실합니다.",
     "english": "That person is gentle and sincere.",
-    "japanese": "あの人は 優しくて、真面目です。",
+    "japanese": "あの人は優しくて、真面目です。",
     "pronounce_r": "Ano hito wa yasashikute, majime desu.",
     "pronounce_h": "あの ひとは やさしくて、 まじめ です。",
     "words": [
@@ -326,7 +326,7 @@
     "id": 81,
     "korean": "도쿄는 활기찼습니다.",
     "english": "Tokyo was lively.",
-    "japanese": "東京は 賑やかでした。",
+    "japanese": "東京は賑やかでした。",
     "pronounce_r": "Tōkyō wa nigiyaka deshita.",
     "pronounce_h": "とうきょう は にぎやか でした。",
     "words": [
@@ -346,7 +346,7 @@
     "id": 82,
     "korean": "저는 아침에는 건강하지 않습니다.",
     "english": "I am not well in the morning.",
-    "japanese": "私は 朝は 元気じゃないです。",
+    "japanese": "私は朝は元気じゃないです。",
     "pronounce_r": "Watashi wa asa wa genki janai desu.",
     "pronounce_h": "わたし は あさ は げんき じゃない です。",
     "words": [
@@ -366,7 +366,7 @@
     "id": 83,
     "korean": "그는 운전을 잘합니다.",
     "english": "He is good at driving.",
-    "japanese": "彼は 運転が 上手です。",
+    "japanese": "彼は運転が上手です。",
     "pronounce_r": "Kare wa unten ga jōzu desu.",
     "pronounce_h": "かれ は うんてん が じょうず です。",
     "words": []
@@ -375,7 +375,7 @@
     "id": 84,
     "korean": "그 문제는 간단하지 않았습니다.",
     "english": "That problem was not simple.",
-    "japanese": "その問題は 簡単じゃなかったです。",
+    "japanese": "その問題は簡単じゃなかったです。",
     "pronounce_r": "Sono mondai wa kantan janakatta desu.",
     "pronounce_h": "その もんだい は かんたん じゃなかった です。",
     "words": []
@@ -384,7 +384,7 @@
     "id": 85,
     "korean": "그녀는 친절했습니다.",
     "english": "She was kind.",
-    "japanese": "彼女は 親切でした。",
+    "japanese": "彼女は親切でした。",
     "pronounce_r": "Kanojo wa shinsetsu deshita.",
     "pronounce_h": "かのじょ は しんせつ でした。",
     "words": []
@@ -393,7 +393,7 @@
     "id": 86,
     "korean": "어제는 한가하지 않았습니다.",
     "english": "Yesterday was not free/slow.",
-    "japanese": "昨日は 暇じゃなかったです。",
+    "japanese": "昨日は暇じゃなかったです。",
     "pronounce_r": "Kinō wa hima janakatta desu.",
     "pronounce_h": "きのう は ひま じゃなかった です。",
     "words": [
@@ -408,7 +408,7 @@
     "id": 87,
     "korean": "이 도시는 안전합니다.",
     "english": "This city is safe.",
-    "japanese": "この都市は 安全です.",
+    "japanese": "この都市は安全です.",
     "pronounce_r": "Kono toshi wa anzen desu.",
     "pronounce_h": "この とし は あんぜん です。",
     "words": [
@@ -428,7 +428,7 @@
     "id": 88,
     "korean": "저는 단 것을 좋아하고, 쓴 것을 싫어합니다.",
     "english": "I like sweet things and dislike bitter things.",
-    "japanese": "私は 甘いものが 好きで、苦いものが 嫌いです。",
+    "japanese": "私は甘いものが好きで、苦いものが嫌いです。",
     "pronounce_r": "Watashi wa amai mono ga suki de, nigai mono ga kirai desu.",
     "pronounce_h": "わたし は あまいもの が すき で、 にがいもの が きらい です。",
     "words": [
@@ -448,7 +448,7 @@
     "id": 89,
     "korean": "이 자료는 중요했습니다.",
     "english": "This document was important.",
-    "japanese": "この資料は 大事でした。",
+    "japanese": "この資料は大事でした。",
     "pronounce_r": "Kono shiryō wa daiji deshita.",
     "pronounce_h": "この しりょう は だいじ でした。",
     "words": [
@@ -468,7 +468,7 @@
     "id": 90,
     "korean": "그곳은 불편하지 않았습니다.",
     "english": "That place was not inconvenient.",
-    "japanese": "そこは 不便じゃなかったです。",
+    "japanese": "そこは不便じゃなかったです。",
     "pronounce_r": "Soko wa fuben janakatta desu.",
     "pronounce_h": "そこ は ふべん じゃなかった です。",
     "words": [
@@ -483,7 +483,7 @@
     "id": 91,
     "korean": "그는 요리가 서툽니다.",
     "english": "He is poor at cooking.",
-    "japanese": "彼は 料理が 下手です。",
+    "japanese": "彼は料理が下手です。",
     "pronounce_r": "Kare wa ryōri ga heta desu.",
     "pronounce_h": "かれ は りょうり が へた です。",
     "words": [
@@ -498,7 +498,7 @@
     "id": 92,
     "korean": "이 기계는 조용하고, 편리했습니다.",
     "english": "This machine was quiet and convenient.",
-    "japanese": "この機械は 静かで、便利でした。",
+    "japanese": "この機械は静かで、便利でした。",
     "pronounce_r": "Kono kikai wa shizuka de, benri deshita.",
     "pronounce_h": "この きかい は しずか で、 べんり でした。",
     "words": [
@@ -513,7 +513,7 @@
     "id": 93,
     "korean": "저는 고양이를 좋아하고, 개를 싫어합니다.",
     "english": "I like cats and dislike dogs.",
-    "japanese": "私は 猫が 好きで、犬が 嫌いです。",
+    "japanese": "私は猫が好きで、犬が嫌いです。",
     "pronounce_r": "Watashi wa neko ga suki de, inu ga kirai desu.",
     "pronounce_h": "わたし は ねこ が すき で、 いぬ が きらい です。",
     "words": [
@@ -533,7 +533,7 @@
     "id": 94,
     "korean": "이 디자인은 멋지고, 단순합니다.",
     "english": "This design is stylish and simple.",
-    "japanese": "このデザインは 素敵で、シンプルです。",
+    "japanese": "このデザインは素敵で、シンプルです。",
     "pronounce_r": "Kono dezain wa suteki de, shinpuru desu.",
     "pronounce_h": "この デザイン は すてき で、 シンプル です。",
     "words": [
@@ -548,7 +548,7 @@
     "id": 95,
     "korean": "그의 태도는 진지했습니다.",
     "english": "His attitude was serious.",
-    "japanese": "彼の態度は 真剣でした。",
+    "japanese": "彼の態度は真剣でした。",
     "pronounce_r": "Kare no taido wa shinken deshita.",
     "pronounce_h": "かれ の たいど は しんけん でした。",
     "words": [
@@ -568,7 +568,7 @@
     "id": 96,
     "korean": "이 방은 깨끗하지 않았습니다.",
     "english": "This room was not clean.",
-    "japanese": "この部屋は 綺麗じゃなかったです。",
+    "japanese": "この部屋は綺麗じゃなかったです。",
     "pronounce_r": "Kono heya wa kirei janakatta desu.",
     "pronounce_h": "この へや は きれい じゃなかった です。",
     "words": []
@@ -577,7 +577,7 @@
     "id": 97,
     "korean": "저는 매일 커피가 필요했습니다.",
     "english": "I needed coffee every day.",
-    "japanese": "私は 毎日 コーヒーが 必要でした。",
+    "japanese": "私は毎日コーヒーが必要でした。",
     "pronounce_r": "Watashi wa mainichi kōhī ga hitsuyō deshita.",
     "pronounce_h": "わたし は まいにち コーヒー が ひつよう でした。",
     "words": [

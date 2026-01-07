@@ -3,7 +3,7 @@
     "id": 1,
     "korean": "가방 안에 지갑이 있습니다.",
     "english": "There is a wallet in the bag.",
-    "japanese": "鞄の中に 財布が あります。",
+    "japanese": "鞄の中に財布があります。",
     "pronounce_r": "Kaban no naka ni saifu ga arimasu.",
     "pronounce_h": "かばん の なか に さいふ が あります。",
     "words": [
@@ -23,7 +23,7 @@
     "id": 2,
     "korean": "교실에 학생이 있습니다.",
     "english": "There is a student in the classroom.",
-    "japanese": "教室に 学生が います。",
+    "japanese": "教室に学生がいます。",
     "pronounce_r": "Kyōshitsu ni gakusei ga imasu.",
     "pronounce_h": "きょうしつ に がくせい が います。",
     "words": [
@@ -43,7 +43,7 @@
     "id": 3,
     "korean": "공원에는 아무도 없습니다.",
     "english": "There is no one in the park.",
-    "japanese": "公園には 誰も いません。",
+    "japanese": "公園には誰もいません。",
     "pronounce_r": "Kōen ni wa dare mo imasen.",
     "pronounce_h": "こうえん に は だれ も いません。",
     "words": [
@@ -63,7 +63,7 @@
     "id": 4,
     "korean": "우체국은 역 앞에 있습니다.",
     "english": "The post office is in front of the station.",
-    "japanese": "郵便局は 駅の前に あります。",
+    "japanese": "郵便局は駅の前にあります。",
     "pronounce_r": "Yūbinkyoku wa eki no mae ni arimasu.",
     "pronounce_h": "ゆうびんきょく は えき の まえ に あります。",
     "words": [
@@ -88,7 +88,7 @@
     "id": 5,
     "korean": "제 가방은 의자 아래에 있습니다.",
     "english": "My bag is under the chair.",
-    "japanese": "私の鞄は 椅子の下に あります。",
+    "japanese": "私の鞄は椅子の下にあります。",
     "pronounce_r": "Watashi no kaban wa isu no shita ni arimasu.",
     "pronounce_h": "わたし の かばん は いす の した に あります。",
     "words": [
@@ -108,7 +108,7 @@
     "id": 6,
     "korean": "책상 옆에 강아지가 있습니다.",
     "english": "There is a dog next to the desk.",
-    "japanese": "机の隣に 犬が います。",
+    "japanese": "机の隣に犬がいます。",
     "pronounce_r": "Tsukue no tonari ni inu ga imasu.",
     "pronounce_h": "つくえ の となり に いぬ が います。",
     "words": [
@@ -133,7 +133,7 @@
     "id": 7,
     "korean": "일본으로 떠나는 것은 언제입니까?",
     "english": "When is the departure for Japan?",
-    "japanese": "日本へ出発するのは いつ ですか。",
+    "japanese": "日本へ出発するのはいつですか。",
     "pronounce_r": "Nihon e shuppatsu suru no wa itsu desu ka.",
     "pronounce_h": "にほん へ しゅっぱつ する の は いつ ですか。",
     "words": [
@@ -158,7 +158,7 @@
     "id": 8,
     "korean": "가장 가까운 편의점은 어디에 있습니까?",
     "english": "Where is the nearest convenience store?",
-    "japanese": "一番近い コンビニは どこに ありますか。",
+    "japanese": "一番近いコンビニはどこにありますか。",
     "pronounce_r": "Ichiban chikai konbini wa doko ni arimasu ka.",
     "pronounce_h": "いちばん ちかい コンビニ は どこ に ありますか。",
     "words": [
@@ -183,7 +183,7 @@
     "id": 9,
     "korean": "이 팀의 리더는 누구입니까?",
     "english": "Who is the leader of this team?",
-    "japanese": "このチームのリーダーは 誰 ですか。",
+    "japanese": "このチームのリーダーは誰ですか。",
     "pronounce_r": "Kono chīmu no rīdā wa dare desu ka.",
     "pronounce_h": "この チーム の リーダー は だれ ですか。",
     "words": [
@@ -208,7 +208,7 @@
     "id": 10,
     "korean": "빨간색, 파란색, 노란색 중 당신 것은 어느 것입니까?",
     "english": "Which one among red, blue, and yellow is yours?",
-    "japanese": "赤、青、黄色の中で あなたのは どれ ですか。",
+    "japanese": "赤、青、黄色の中であなたのはどれですか。",
     "pronounce_r": "Aka, ao, kiiro no naka de anata no wa dore desu ka.",
     "pronounce_h": "あか、あお、きいろ の なか で あなた の は どれ ですか。",
     "words": [
@@ -233,7 +233,7 @@
     "id": 11,
     "korean": "도쿄와 오사카 중 어느 쪽이 좋습니까?",
     "english": "Which one do you prefer, Tokyo or Osaka?",
-    "japanese": "東京と大阪、どちらが 好きですか。",
+    "japanese": "東京と大阪、どちらが好きですか。",
     "pronounce_r": "Tōkyō to Ōsaka, dochira ga suki desu ka.",
     "pronounce_h": "とうきょう と おおさか、どちら が すき ですか。",
     "words": [
@@ -258,7 +258,7 @@
     "id": 12,
     "korean": "'저것'은 저의 컴퓨터입니다.",
     "english": "That over there is my computer.",
-    "japanese": "あれは 私の パソコンです。",
+    "japanese": "あれは私のパソコンです。",
     "pronounce_r": "Are wa watashi no pasokon desu.",
     "pronounce_h": "あれ は わたし の パソコン です。",
     "words": [
@@ -298,7 +298,7 @@
     "id": 14,
     "korean": "저것은 무엇입니까?",
     "english": "What is that over there?",
-    "japanese": "あれは 何ですか。",
+    "japanese": "あれは何ですか。",
     "pronounce_r": "Are wa nan desu ka.",
     "pronounce_h": "あれ は なん ですか。",
     "words": [
@@ -318,7 +318,7 @@
     "id": 15,
     "korean": "당신의 우산은 어느 것입니까? (3개 이상의 우산 중에서)",
     "english": "Which one of the umbrellas is yours? (among 3 or more)",
-    "japanese": "あなたの傘は どれですか。",
+    "japanese": "あなたの傘はどれですか。",
     "pronounce_r": "Anata no kasa wa dore desu ka.",
     "pronounce_h": "あなた の かさ は どれ ですか。",
     "words": [
@@ -338,7 +338,7 @@
     "id": 16,
     "korean": "그것, 잠깐 보여주세요.",
     "english": "That one, please show it to me for a moment.",
-    "japanese": "それ、ちょっと 見せてください。",
+    "japanese": "それ、ちょっと見せてください。",
     "pronounce_r": "Sore, chotto misete kudasai.",
     "pronounce_h": "それ、ちょっと みせて ください。",
     "words": [
@@ -363,7 +363,7 @@
     "id": 17,
     "korean": "어느 쪽이 추천입니까? (두 개 중 선택)",
     "english": "Which one is recommended? (between two)",
-    "japanese": "どちらが おすすめ ですか。",
+    "japanese": "どちらがおすすめですか。",
     "pronounce_r": "Dochira ga osusume desu ka.",
     "pronounce_h": "どちら が おすすめ ですか。",
     "words": [
@@ -383,7 +383,7 @@
     "id": 18,
     "korean": "저 건물들 중에서, 저것이 도서관입니다.",
     "english": "Among those buildings, that one is the library.",
-    "japanese": "あの建物の中で、あれが 図書館です。",
+    "japanese": "あの建物の中で、あれが図書館です。",
     "pronounce_r": "Ano tatemono no naka de, are ga toshokan desu.",
     "pronounce_h": "あの たてもの の なか で、 あれ が としょかん です。",
     "words": [
@@ -428,7 +428,7 @@
     "id": 20,
     "korean": "도쿄와 오사카, 어느 쪽이 재미있습니까? (2개 도시 중)",
     "english": "Which one is more fun, Tokyo or Osaka? (between two cities)",
-    "japanese": "東京と大阪、どちらが 楽しいですか。",
+    "japanese": "東京と大阪、どちらが楽しいですか。",
     "pronounce_r": "Tōkyō to Ōsaka, dochira ga tanoshii desu ka.",
     "pronounce_h": "とうきょう と おおさか、どちら が たのしい ですか。",
     "words": [
@@ -453,7 +453,7 @@
     "id": 21,
     "korean": "이 세 개 중에서, 어느 것이 가장 좋습니까? (3개 이상 중)",
     "english": "Which one is the best among these three? (among 3 or more)",
-    "japanese": "この三つの中で、どれが 一番 いいですか。",
+    "japanese": "この三つの中で、どれが一番いいですか。",
     "pronounce_r": "Kono mittsu no naka de, dore ga ichiban ii desu ka.",
     "pronounce_h": "この みっつ の なか で、 どれ が いちばん いい ですか。",
     "words": [
@@ -478,7 +478,7 @@
     "id": 22,
     "korean": "어느 쪽이든 괜찮습니다. (2개 중 어느 쪽이든)",
     "english": "Either one is fine. (between two)",
-    "japanese": "どちらも 大丈夫です。",
+    "japanese": "どちらも大丈夫です。",
     "pronounce_r": "Dochira mo daijōbu desu.",
     "pronounce_h": "どちら も だいじょうぶ です。",
     "words": [
@@ -498,7 +498,7 @@
     "id": 23,
     "korean": "아무거나 괜찮습니까? (3개 이상 중 아무거나)",
     "english": "Is anything fine? (among 3 or more)",
-    "japanese": "どれでも いい ですか。",
+    "japanese": "どれでもいいですか。",
     "pronounce_r": "Dore demo ii desu ka.",
     "pronounce_h": "どれでも いい ですか。",
     "words": [
@@ -518,7 +518,7 @@
     "id": 24,
     "korean": "이 건물에 편의점이 있습니까?",
     "english": "Is there a convenience store in this building?",
-    "japanese": "この建物に コンビニが ありますか。",
+    "japanese": "この建物にコンビニがありますか。",
     "pronounce_r": "Kono tatemono ni konbini ga arimasu ka.",
     "pronounce_h": "この たてもの に コンビニ が ありますか。",
     "words": [
@@ -538,7 +538,7 @@
     "id": 25,
     "korean": "회의실에는 아무도 없습니다.",
     "english": "There is no one in the meeting room.",
-    "japanese": "会議室には 誰も いません。",
+    "japanese": "会議室には誰もいません。",
     "pronounce_r": "Kaigishitsu ni wa dare mo imasen.",
     "pronounce_h": "かいぎしつ に は だれ も いません。",
     "words": [
@@ -558,7 +558,7 @@
     "id": 26,
     "korean": "저는 차를 가지고 있습니다.",
     "english": "I own a car.",
-    "japanese": "私は 車を 持っています。",
+    "japanese": "私は車を持っています。",
     "pronounce_r": "Watashi wa kuruma o motte imasu.",
     "pronounce_h": "わたし は くるま を もって います。",
     "words": [
@@ -578,7 +578,7 @@
     "id": 27,
     "korean": "내일의 출발은 언제입니까?",
     "english": "When is tomorrow's departure?",
-    "japanese": "明日の 出発は いつ ですか。",
+    "japanese": "明日の出発はいつですか。",
     "pronounce_r": "Ashita no shuppatsu wa itsu desu ka.",
     "pronounce_h": "あした の しゅっぱつ は いつ ですか。",
     "words": [
@@ -603,7 +603,7 @@
     "id": 28,
     "korean": "저의 고양이는 침대 위에 있습니다.",
     "english": "My cat is on the bed.",
-    "japanese": "私の猫は ベッドの 上に います。",
+    "japanese": "私の猫はベッドの上にいます。",
     "pronounce_r": "Watashi no neko wa beddo no ue ni imasu.",
     "pronounce_h": "わたし の ねこ は ベッド の うえ に います。",
     "words": [
@@ -628,7 +628,7 @@
     "id": 29,
     "korean": "우산은 가방 안에 없습니다.",
     "english": "The umbrella is not inside the bag.",
-    "japanese": "傘は 鞄の 中に ありません。",
+    "japanese": "傘は鞄の中にありません。",
     "pronounce_r": "Kasa wa kaban no naka ni arimasen.",
     "pronounce_h": "かさ は かばん の なか に ありません。",
     "words": [
@@ -653,7 +653,7 @@
     "id": 30,
     "korean": "은행은 어디에 있습니까?",
     "english": "Where is the bank?",
-    "japanese": "銀行は どこに ありますか。",
+    "japanese": "銀行はどこにありますか。",
     "pronounce_r": "Ginkō wa doko ni arimasu ka.",
     "pronounce_h": "ぎんこう は どこ に ありますか。",
     "words": [
@@ -673,7 +673,7 @@
     "id": 31,
     "korean": "저의 상사는 지금 사무실에 없습니다.",
     "english": "My boss is not in the office now.",
-    "japanese": "私の 上司は 今 事務所に いません。",
+    "japanese": "私の上司は今事務所にいません。",
     "pronounce_r": "Watashi no jōshi wa ima jimusho ni imasen.",
     "pronounce_h": "わたし の じょうし は いま じむしょ に いません。",
     "words": [
@@ -698,7 +698,7 @@
     "id": 32,
     "korean": "책상 아래에 상자가 있습니다.",
     "english": "There is a box under the desk.",
-    "japanese": "机の 下に 箱が あります。",
+    "japanese": "机の下に箱があります。",
     "pronounce_r": "Tsukue no shita ni hako ga arimasu.",
     "pronounce_h": "つくえ の した に はこ が あります。",
     "words": [
@@ -723,7 +723,7 @@
     "id": 33,
     "korean": "회의는 어디에서 합니까?",
     "english": "Where is the meeting held?",
-    "japanese": "会議は どこで しますか。",
+    "japanese": "会議はどこでしますか。",
     "pronounce_r": "Kaigi wa doko de shimasu ka.",
     "pronounce_h": "かいぎ は どこ で しますか。",
     "words": [
@@ -748,7 +748,7 @@
     "id": 34,
     "korean": "제 휴대폰은 가방 옆에 있습니다.",
     "english": "My cell phone is next to the bag.",
-    "japanese": "私の携帯は 鞄の 隣に あります。",
+    "japanese": "私の携帯は鞄の隣にあります。",
     "pronounce_r": "Watashi no keitai wa kaban no tonari ni arimasu.",
     "pronounce_h": "わたし の けいたい は かばん の となり に あります。",
     "words": [
@@ -768,7 +768,7 @@
     "id": 35,
     "korean": "오늘 점심 식사는 언제입니까?",
     "english": "When is today's lunch?",
-    "japanese": "今日の 昼食は いつ ですか。",
+    "japanese": "今日の昼食はいつですか。",
     "pronounce_r": "Kyō no chūshoku wa itsu desu ka.",
     "pronounce_h": "きょう の ちゅうしょく は いつ ですか。",
     "words": [
@@ -793,7 +793,7 @@
     "id": 36,
     "korean": "이것과 저것 중 어느 쪽이 당신의 것입니까?",
     "english": "Between this and that, which one is yours?",
-    "japanese": "これと あれ、どちらが あなたの ものですか。",
+    "japanese": "これとあれ、どちらがあなたのものですか。",
     "pronounce_r": "Kore to are, dochira ga anata no mono desu ka.",
     "pronounce_h": "これ と あれ、どちら が あなた の もの ですか。",
     "words": [
@@ -823,7 +823,7 @@
     "id": 37,
     "korean": "테이블 위에 리모컨이 없습니다.",
     "english": "There is no remote control on the table.",
-    "japanese": "テーブルの 上に リモコンが ありません。",
+    "japanese": "テーブルの上にリモコンがありません。",
     "pronounce_r": "Tēburu no ue ni rimokon ga arimasen.",
     "pronounce_h": "テーブル の うえ に リモコン が ありません。",
     "words": [
@@ -848,7 +848,7 @@
     "id": 38,
     "korean": "여기는 공원이 아니었습니다.",
     "english": "This place was not a park.",
-    "japanese": "ここは 公園じゃなかったです。",
+    "japanese": "ここは公園じゃなかったです。",
     "pronounce_r": "Koko wa kōen janakatta desu.",
     "pronounce_h": "ここ は こうえん じゃなかった です。",
     "words": [
@@ -868,7 +868,7 @@
     "id": 39,
     "korean": "여러 권의 책 중 어느 것이 가장 좋습니까?",
     "english": "Which book is the best among several volumes?",
-    "japanese": "何冊の 本の中で、どれが 一番 いいですか。",
+    "japanese": "何冊の本の中で、どれが一番いいですか。",
     "pronounce_r": "Nansatsu no hon no naka de, dore ga ichiban ii desu ka.",
     "pronounce_h": "なんさつ の ほん の なか で、 どれ が いちばん いい ですか。",
     "words": [
@@ -893,7 +893,7 @@
     "id": 40,
     "korean": "제 동생은 집에 있습니다.",
     "english": "My younger brother/sister is at home.",
-    "japanese": "私の弟は 家に います。",
+    "japanese": "私の弟は家にいます。",
     "pronounce_r": "Watashi no otōto wa ie ni imasu.",
     "pronounce_h": "わたし の おとうと は いえ に います。",
     "words": [
@@ -913,7 +913,7 @@
     "id": 41,
     "korean": "화장실은 어디입니까?",
     "english": "Where is the restroom?",
-    "japanese": "トイレは どこですか。",
+    "japanese": "トイレはどこですか。",
     "pronounce_r": "Toire wa doko desu ka.",
     "pronounce_h": "トイレ は どこ ですか。",
     "words": [
@@ -933,7 +933,7 @@
     "id": 42,
     "korean": "저는 제 뒤에 있는 사람을 모릅니다.",
     "english": "I don't know the person behind me.",
-    "japanese": "私は 自分の後ろにいる 人を 知りません。",
+    "japanese": "私は自分の後ろにいる人を知りません。",
     "pronounce_r": "Watashi wa jibun no ushiro ni iru hito o shirimasen.",
     "pronounce_h": "わたし は じぶん の うしろ に いる ひと を しりません。",
     "words": [
@@ -958,7 +958,7 @@
     "id": 43,
     "korean": "저 앞에 있는 것은 무엇입니까?",
     "english": "What is that thing in front of me?",
-    "japanese": "あの前に あるのは 何ですか。",
+    "japanese": "あの前にあるのは何ですか。",
     "pronounce_r": "Ano mae ni aru no wa nan desu ka.",
     "pronounce_h": "あの まえ に ある の は なん ですか。",
     "words": [

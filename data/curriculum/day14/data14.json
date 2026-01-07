@@ -3,7 +3,7 @@
     "id": 1,
     "korean": "편지를 읽는다면, 바로 답장을 쓰겠습니다.",
     "english": "If I read the letter, I will write a reply immediately.",
-    "japanese": "手紙を 読んだら、すぐに 返事を 書きます。",
+    "japanese": "手紙を読んだら、すぐに返事を書きます。",
     "pronounce_r": "Tegami o yondara, sugu ni henji o kakimasu.",
     "pronounce_h": "てがみを よんだら、すぐに へんじを かきます。",
     "words": [
@@ -38,7 +38,7 @@
     "id": 2,
     "korean": "그가 도착했다면, 나에게 전화해 주세요.",
     "english": "If he arrives, please call me.",
-    "japanese": "彼が 着いた ら、私に 電話して ください。",
+    "japanese": "彼が着いたら、私に電話してください。",
     "pronounce_r": "Kare ga tsuitara, watashi ni denwa shite kudasai.",
     "pronounce_h": "かれが ついたら、わたしに でんわして ください。",
     "words": [
@@ -68,7 +68,7 @@
     "id": 3,
     "korean": "아무것도 먹지 않는다면, 힘이 나지 않을 거예요.",
     "english": "If you don't eat anything, you won't feel energized.",
-    "japanese": "何も 食べなかったら、元気が出ないでしょう。",
+    "japanese": "何も食べなかったら、元気が出ないでしょう。",
     "pronounce_r": "Nani mo tabenakattara, genki ga denai deshō.",
     "pronounce_h": "なにも たべなかったら、げんきが でないでしょう。",
     "words": [
@@ -98,7 +98,7 @@
     "id": 4,
     "korean": "내일이 쉬는 날이라면, 여행을 갈 수 있습니다.",
     "english": "If tomorrow is a holiday, I can go on a trip.",
-    "japanese": "明日が 休み だったら、旅行に 行けます。",
+    "japanese": "明日が休みだったら、旅行に行けます。",
     "pronounce_r": "Ashita ga yasumi dattara, ryokō ni ikemasu.",
     "pronounce_h": "あしたが やすみ だったら、りょこうに いけます。",
     "words": [
@@ -128,7 +128,7 @@
     "id": 5,
     "korean": "방이 깨끗하다면, 바로 이사할 거예요.",
     "english": "If the room is clean, I will move immediately.",
-    "japanese": "部屋が きれい だったら、すぐに 引っ越します。",
+    "japanese": "部屋がきれいだったら、すぐに引っ越します。",
     "pronounce_r": "Heya ga kirei dattara, sugu ni hikkoshimasu.",
     "pronounce_h": "へやが きれい だったら、すぐに ひっこします。",
     "words": [
@@ -158,7 +158,7 @@
     "id": 6,
     "korean": "비가 오지 않는다면, 산책하러 나갑시다.",
     "english": "If it's not raining, let's go for a walk.",
-    "japanese": "雨では なかったら、散歩に 行きましょう。",
+    "japanese": "雨ではなかったら、散歩に行きましょう。",
     "pronounce_r": "Ame de wa nakattara, sanpo ni ikimashō.",
     "pronounce_h": "あめでは なかったら、さんぽに いきましょう。",
     "words": [
@@ -183,7 +183,7 @@
     "id": 7,
     "korean": "날씨가 좋다면, 공원에서 만나요.",
     "english": "If the weather is good, let's meet at the park.",
-    "japanese": "天気が 良かったら、公園で 会いましょう。",
+    "japanese": "天気が良かったら、公園で会いましょう。",
     "pronounce_r": "Tenki ga yokattara, kōen de aimashō.",
     "pronounce_h": "てんきが よかったら、こうえんで あいましょう。",
     "words": [
@@ -213,7 +213,7 @@
     "id": 8,
     "korean": "너무 추웠다면, 에어컨을 끄면 좋았을 텐데.",
     "english": "If it was too cold, you should have turned off the air conditioner.",
-    "japanese": "あまり 寒かったら、エアコンを 消せば よかったのに。",
+    "japanese": "あまり寒かったら、エアコンを消せばよかったのに。",
     "pronounce_r": "Amari samukattara, eakon o keseba yokatta noni.",
     "pronounce_h": "あまり さむかったら、エアコンを けせば よかったのに。",
     "words": [
@@ -243,7 +243,7 @@
     "id": 9,
     "korean": "이 펜이 좋지 않다면, 다른 것을 사세요.",
     "english": "If this pen is not good, please buy another one.",
-    "japanese": "このペンが 良くなかったら、別のものを 買って ください。",
+    "japanese": "このペンが良くなかったら、別のものを買ってください。",
     "pronounce_r": "Kono pen ga yoku nakattara, betsu no mono o katte kudasai.",
     "pronounce_h": "このペンが よくなかったら、べつのものを かって ください。",
     "words": [
@@ -268,7 +268,7 @@
     "id": 10,
     "korean": "시간이 있다면, 영화를 보러 가고 싶습니다.",
     "english": "If I have time, I want to go see a movie.",
-    "japanese": "時間が あれば、映画を 見に行きたいです。",
+    "japanese": "時間があれば、映画を見に行きたいです。",
     "pronounce_r": "Jikan ga areba, eiga o mi ni ikitai desu.",
     "pronounce_h": "じかんが あれば、えいがを みにいきたいです。",
     "words": [
@@ -298,7 +298,7 @@
     "id": 11,
     "korean": "약속을 어기지 않는다면, 그를 용서할 수 있습니다.",
     "english": "If he doesn't break his promise, I can forgive him.",
-    "japanese": "約束を 破らなければ、彼を 許せます。",
+    "japanese": "約束を破らなければ、彼を許せます。",
     "pronounce_r": "Yakusoku o yaburanakereba, kare o yurusumasu.",
     "pronounce_h": "やくそくを やぶらなければ、かれを ゆるせます。",
     "words": [
@@ -328,7 +328,7 @@
     "id": 12,
     "korean": "가격이 저렴하다면, 바로 구입할게요.",
     "english": "If the price is cheap, I will purchase it immediately.",
-    "japanese": "値段が 安ければ、すぐに 購入します。",
+    "japanese": "値段が安ければ、すぐに購入します。",
     "pronounce_r": "Nedan ga yasukereba, sugu ni kōnyū shimasu.",
     "pronounce_h": "ねだんが やすければ、すぐに こうにゅうします。",
     "words": [
@@ -358,7 +358,7 @@
     "id": 13,
     "korean": "짐이 무겁지 않다면, 제가 들겠습니다.",
     "english": "If the luggage is not heavy, I will carry it.",
-    "japanese": "荷物が 重く なければ、私が 持ちます。",
+    "japanese": "荷物が重くなければ、私が持ちます。",
     "pronounce_r": "Nimotsu ga omoku nakereba, watashi ga mochimasu.",
     "pronounce_h": "にもつが おもく なければ、わたしが もちます。",
     "words": [
@@ -388,7 +388,7 @@
     "id": 14,
     "korean": "바쁘지 않다면, 조금 이야기하고 싶습니다.",
     "english": "If you're not busy, I'd like to talk a little.",
-    "japanese": "忙しく なければ、少し 話したいです。",
+    "japanese": "忙しくなければ、少し話したいです。",
     "pronounce_r": "Isogashiku nakereba, sukoshi hanashitai desu.",
     "pronounce_h": "いそがしく なければ、すこし はなしたいです。",
     "words": [
@@ -413,7 +413,7 @@
     "id": 15,
     "korean": "지금 바로 답장을 기다려야 합니다.",
     "english": "You must wait for the reply right now.",
-    "japanese": "今 すぐに 返事を 待たなければ なりません。",
+    "japanese": "今すぐに返事を待たなければなりません。",
     "pronounce_r": "Ima sugu ni henji o matanakereba narimasen.",
     "pronounce_h": "いま すぐに へんじを またなければ なりません。",
     "words": [
@@ -443,7 +443,7 @@
     "id": 16,
     "korean": "잊어버리지 않도록 메모를 해야 합니다.",
     "english": "I must take a memo so I don't forget.",
-    "japanese": "忘れないように、メモを しなければ なりません。",
+    "japanese": "忘れないように、メモをしなければなりません。",
     "pronounce_r": "Wasurenai yō ni, memo o shinakereba narimasen.",
     "pronounce_h": "わすれないように、メモを しなければ なりません。",
     "words": [
@@ -468,7 +468,7 @@
     "id": 17,
     "korean": "회의에 늦었기 때문에, 사과해야 했습니다.",
     "english": "Because I was late for the meeting, I had to apologize.",
-    "japanese": "会議に 遅れたから、謝らなければ なりませんでした。",
+    "japanese": "会議に遅れたから、謝らなければなりませんでした。",
     "pronounce_r": "Kaigi ni okureta kara, ayamaranakereba narimasen deshita.",
     "pronounce_h": "かいぎに おくれたから、あやまらなければ なりませんでした。",
     "words": [
@@ -493,7 +493,7 @@
     "id": 18,
     "korean": "점심시간까지는 계속 회의를 합니다.",
     "english": "We will continue the meeting until lunchtime.",
-    "japanese": "昼休み まで は ずっと 会議を します。",
+    "japanese": "昼休みまではずっと会議をします。",
     "pronounce_r": "Hiru yasumi made wa zutto kaigi o shimasu.",
     "pronounce_h": "ひるやすみ まで は ずっと かいぎを します。",
     "words": [
@@ -523,7 +523,7 @@
     "id": 19,
     "korean": "이 버스는 서울역까지 갑니다.",
     "english": "This bus goes as far as Seoul Station.",
-    "japanese": "このバスは ソウル駅 まで 行きます。",
+    "japanese": "このバスはソウル駅まで行きます。",
     "pronounce_r": "Kono basu wa Souru eki made ikimasu.",
     "pronounce_h": "このバスは ソウルえき まで いきます。",
     "words": [
@@ -543,7 +543,7 @@
     "id": 20,
     "korean": "밤이 될 때까지 계속 공부했어요.",
     "english": "I kept studying until it became night.",
-    "japanese": "夜になる まで 勉強し続けました。",
+    "japanese": "夜になるまで勉強し続けました。",
     "pronounce_r": "Yoru ni naru made benkyō shitsuzukemashita.",
     "pronounce_h": "よるになる まで べんきょうしつづけました。",
     "words": [
@@ -573,7 +573,7 @@
     "id": 21,
     "korean": "내일 아침 9시까지 과제를 제출해야 합니다.",
     "english": "You must submit the assignment by 9 AM tomorrow.",
-    "japanese": "明日の 朝九時 までに 課題を 提出しなければ なりません。",
+    "japanese": "明日の朝九時までに課題を提出しなければなりません。",
     "pronounce_r": "Ashita no asa kuji made ni kadai o teishutsu shinakereba narimasen.",
     "pronounce_h": "あしたの あさ くじ までに かだいを ていしゅつしなければ なりません。",
     "words": [
@@ -608,7 +608,7 @@
     "id": 22,
     "korean": "회의 시작 시간까지는 도착할게요.",
     "english": "I will arrive by the meeting start time.",
-    "japanese": "会議の 開始時間 までに は 着きます。",
+    "japanese": "会議の開始時間までには着きます。",
     "pronounce_r": "Kaigi no kaishi jikan made ni wa tsukimasu.",
     "pronounce_h": "かいぎの かいしじかん までに は つきます。",
     "words": [
@@ -633,7 +633,7 @@
     "id": 23,
     "korean": "이달 말까지 이 책을 전부 읽을 예정입니다.",
     "english": "I plan to read this entire book by the end of this month.",
-    "japanese": "今月末 までに、この本を 全部 読む 予定です。",
+    "japanese": "今月末までに、この本を全部読む予定です。",
     "pronounce_r": "Kongetsumatsu made ni, kono hon o zenbu yomu yotei desu.",
     "pronounce_h": "こんげつまつ までに、このほんを ぜんぶ よむ よていです。",
     "words": [
@@ -668,7 +668,7 @@
     "id": 24,
     "korean": "아프다면, 학교에 가지 않아도 됩니다.",
     "english": "If you are sick/in pain, you don't have to go to school.",
-    "japanese": "痛かったら、学校に 行かなくても いいです。",
+    "japanese": "痛かったら、学校に行かなくてもいいです。",
     "pronounce_r": "Itakattara, gakkō ni ikanakutemo ii desu.",
     "pronounce_h": "いたかったら、がっこうに いかなくても いいです。",
     "words": [
@@ -693,7 +693,7 @@
     "id": 25,
     "korean": "방이 춥다면, 창문을 닫으세요.",
     "english": "If the room is cold, please close the window.",
-    "japanese": "部屋が 寒ければ、窓を 閉めて ください。",
+    "japanese": "部屋が寒ければ、窓を閉めてください。",
     "pronounce_r": "Heya ga samukereba, mado o shimete kudasai.",
     "pronounce_h": "へやが さむければ、まどを しめて ください。",
     "words": [
@@ -718,7 +718,7 @@
     "id": 26,
     "korean": "그가 거짓말쟁이라면, 믿어서는 안 됩니다.",
     "english": "If he is a liar, you must not believe him.",
-    "japanese": "彼が 嘘つき だったら、信じては いけません。",
+    "japanese": "彼が嘘つきだったら、信じてはいけません。",
     "pronounce_r": "Kare ga usotsuki dattara, shinjite wa ikemasen.",
     "pronounce_h": "かれが うそつき だったら、しんじては いけません。",
     "words": [
@@ -738,7 +738,7 @@
     "id": 27,
     "korean": "내일 비가 온다면, 영화를 보러 갑시다.",
     "english": "If it rains tomorrow, let's go see a movie.",
-    "japanese": "明日 雨 だったら、映画を 見に行きましょう。",
+    "japanese": "明日雨だったら、映画を見に行きましょう。",
     "pronounce_r": "Ashita ame dattara, eiga o mi ni ikimashō.",
     "pronounce_h": "あした あめ だったら、えいがを みにいましょう。",
     "words": [
@@ -758,7 +758,7 @@
     "id": 28,
     "korean": "만약 그곳에 도착했더라면, 전화했을 거예요.",
     "english": "If I had arrived there, I would have called you.",
-    "japanese": "そこに 着いた ら、電話しましたよ。",
+    "japanese": "そこに着いたら、電話しましたよ。",
     "pronounce_r": "Soko ni tsuitara, denwa shimashita yo.",
     "pronounce_h": "そこに ついたら、でんわしましたよ。",
     "words": [
@@ -778,7 +778,7 @@
     "id": 29,
     "korean": "돈이 있다면, 새 차를 살 수 있습니다.",
     "english": "If I have money, I can buy a new car.",
-    "japanese": "お金が あれば、新しい 車を 買えます。",
+    "japanese": "お金があれば、新しい車を買えます。",
     "pronounce_r": "Okane ga areba, atarashii kuruma o kaemasu.",
     "pronounce_h": "おかねが あれば、あたらしい くるまを かえます。",
     "words": [
@@ -803,7 +803,7 @@
     "id": 30,
     "korean": "이 일이 어렵다면, 나에게 말해 주세요.",
     "english": "If this work is difficult, please tell me.",
-    "japanese": "この仕事が 難しければ、私に 言って ください。",
+    "japanese": "この仕事が難しければ、私に言ってください。",
     "pronounce_r": "Kono shigoto ga muzukashikereba, watashi ni itte kudasai.",
     "pronounce_h": "この しごとが むずかしければ、わたしに いって ください。",
     "words": [
@@ -823,7 +823,7 @@
     "id": 31,
     "korean": "100을 넘는다면, 100보다 큰 수입니다.",
     "english": "If it exceeds 100, it is a number larger than 100.",
-    "japanese": "百を 超えたら、百より 大きい 数です。",
+    "japanese": "百を超えたら、百より大きい数です。",
     "pronounce_r": "Hyaku o koetara, hyaku yori ōkii kazu desu.",
     "pronounce_h": "ひゃくを こえたら、ひゃくより おおきい かずです。",
     "words": [
@@ -843,7 +843,7 @@
     "id": 32,
     "korean": "돈을 쓰지 않는다면, 저축할 수 있어요.",
     "english": "If you don't spend money, you can save.",
-    "japanese": "お金を 使わなければ、貯金できます。",
+    "japanese": "お金を使わなければ、貯金できます。",
     "pronounce_r": "Okane o tsawanakereba, chokin dekimasu.",
     "pronounce_h": "おかねを つかわなければ、ちょきんできます。",
     "words": [
@@ -863,7 +863,7 @@
     "id": 33,
     "korean": "내일까지 그에게 연락해야 합니다.",
     "english": "You must contact him by tomorrow.",
-    "japanese": "明日 までに 彼に 連絡しなければ なりません。",
+    "japanese": "明日までに彼に連絡しなければなりません。",
     "pronounce_r": "Ashita made ni kare ni renraku shinakereba narimasen.",
     "pronounce_h": "あした までに かれに れんらくしなければ なりません。",
     "words": [
@@ -883,7 +883,7 @@
     "id": 34,
     "korean": "건강을 위해 야채를 먹어야 합니다.",
     "english": "For your health, you must eat vegetables.",
-    "japanese": "健康のために、野菜を 食べなければ なりません。",
+    "japanese": "健康のために、野菜を食べなければなりません。",
     "pronounce_r": "Kenkō no tame ni, yasai o tabenakereba narimasen.",
     "pronounce_h": "けんこうのために、やさいを たべなければ なりません。",
     "words": [
@@ -908,7 +908,7 @@
     "id": 35,
     "korean": "규칙을 지키지 않으면 안 됩니다.",
     "english": "You must observe the rules.",
-    "japanese": "規則を 守らなければ なりません。",
+    "japanese": "規則を守らなければなりません。",
     "pronounce_r": "Kisoku o mamoranakereba narimasen.",
     "pronounce_h": "きそくを まもらなければ なりません。",
     "words": [
@@ -928,7 +928,7 @@
     "id": 36,
     "korean": "시험에 합격하려면, 열심히 공부해야 합니다.",
     "english": "To pass the exam, you must study hard.",
-    "japanese": "試験に 合格したら、一生懸命 勉強しなければ なりません。",
+    "japanese": "試験に合格したら、一生懸命勉強しなければなりません。",
     "pronounce_r": "Shiken ni gōkaku shitara, isshōkenmei benkyō shinakereba narimasen.",
     "pronounce_h": "しけんに ごうかくしたら、いっしょうけんめい べんきょうしなければ なりません。",
     "words": [
@@ -953,7 +953,7 @@
     "id": 37,
     "korean": "다음 주 월요일까지 숙제를 제출하세요.",
     "english": "Please submit your homework by next Monday.",
-    "japanese": "来週の 月曜日 までに 宿題を 出して ください。",
+    "japanese": "来週の月曜日までに宿題を出してください。",
     "pronounce_r": "Raishū no getsuyōbi made ni shukudai o dashite kudasai.",
     "pronounce_h": "らいしゅうの げつようび までに しゅくだいを だして ください。",
     "words": [
@@ -983,7 +983,7 @@
     "id": 38,
     "korean": "밤 11시까지 일했습니다.",
     "english": "I worked until 11 PM.",
-    "japanese": "夜の十一時 まで 働きました。",
+    "japanese": "夜の十一時まで働きました。",
     "pronounce_r": "Yoru no jūichiji made hatarakimashita.",
     "pronounce_h": "よるの じゅういちじ まで はたらきました。",
     "words": [
@@ -1003,7 +1003,7 @@
     "id": 39,
     "korean": "회의 시작 전에 자료를 준비해야 합니다.",
     "english": "I must prepare the materials before the meeting starts.",
-    "japanese": "会議の 前 までに 資料を 準備しなければ なりません。",
+    "japanese": "会議の前までに資料を準備しなければなりません。",
     "pronounce_r": "Kaigi no mae made ni shiryō o junbi shinakereba narimasen.",
     "pronounce_h": "かいぎの まえ までに しりょうを じゅんびしなければ なりません。",
     "words": [
@@ -1033,7 +1033,7 @@
     "id": 40,
     "korean": "비가 그칠 때까지 이 카페에 있을 거예요.",
     "english": "I will stay in this cafe until the rain stops.",
-    "japanese": "雨が 止む まで この喫茶店に いる つもりです。",
+    "japanese": "雨が止むまでこの喫茶店にいるつもりです。",
     "pronounce_r": "Ame ga yamu made kono kissaten ni iru tsumori desu.",
     "pronounce_h": "あめが やむ まで この きっさてんに いる つもりです。",
     "words": [
@@ -1058,7 +1058,7 @@
     "id": 41,
     "korean": "만약 그 영화가 명작이라면, 또 보고 싶어요.",
     "english": "If that movie is a masterpiece, I want to see it again.",
-    "japanese": "もし その映画が 名作 だったら、また 見たいです。",
+    "japanese": "もしその映画が名作だったら、また見たいです。",
     "pronounce_r": "Moshi sono eiga ga meisaku dattara, mata mitai desu.",
     "pronounce_h": "もし その えいがが めいさく だったら、また みたいです。",
     "words": [
@@ -1083,7 +1083,7 @@
     "id": 42,
     "korean": "여기가 편리하다면, 여기에 살고 싶습니다.",
     "english": "If this place is convenient, I want to live here.",
-    "japanese": "ここが 便利 だったら、ここに 住みたいです。",
+    "japanese": "ここが便利だったら、ここに住みたいです。",
     "pronounce_r": "Koko ga benri dattara, koko ni sumitai desu.",
     "pronounce_h": "ここが べんり だったら、ここに すみたいです。",
     "words": [
@@ -1103,7 +1103,7 @@
     "id": 43,
     "korean": "이 옷이 싸다면, 세 벌을 사겠습니다.",
     "english": "If this clothing is cheap, I will buy three pieces.",
-    "japanese": "この服が 安かったら、三着 買います。",
+    "japanese": "この服が安かったら、三着買います。",
     "pronounce_r": "Kono fuku ga yasukattara, sanchaku kaimasu.",
     "pronounce_h": "この ふくが やすかったら、さんちゃく かいます。",
     "words": [
