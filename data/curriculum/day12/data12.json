@@ -3,7 +3,7 @@
     "id": 1,
     "korean": "이것은 제 가방이 아닙니다.",
     "english": "This is not my bag.",
-    "japanese": "これが私(わたし)のカバンではありません。",
+    "japanese": "これが私のカバンではありません。",
     "pronounce_r": "Kore ga watashi no kaban dewa arimasen.",
     "pronounce_h": "これが わたしのかばんでは ありません。",
     "words": [
@@ -28,7 +28,7 @@
     "id": 2,
     "korean": "어제는 평일이 아니었습니다.",
     "english": "Yesterday was not a weekday.",
-    "japanese": "昨日(きのう)は平日(へいじつ)じゃなかったです。",
+    "japanese": "昨日は平日じゃなかったです。",
     "pronounce_r": "Kinō wa heijitsu janakatta desu.",
     "pronounce_h": "きのうは へいじつじゃなかったです。",
     "words": [
@@ -48,7 +48,7 @@
     "id": 3,
     "korean": "이 문제는 간단하지 않습니다.",
     "english": "This problem is not simple.",
-    "japanese": "この問題(もんだい)は簡単(かんたん)じゃありません。",
+    "japanese": "この問題は簡単じゃありません。",
     "pronounce_r": "Kono mondai wa kantan jaarimasen.",
     "pronounce_h": "この もんだいは かんたんじゃありません。",
     "words": [
@@ -68,7 +68,7 @@
     "id": 4,
     "korean": "그 방은 깨끗하지 않았습니다.",
     "english": "That room was not clean.",
-    "japanese": "その部屋(へや)は綺麗(きれい)ではありませんでした。",
+    "japanese": "その部屋は綺麗ではありませんでした。",
     "pronounce_r": "Sono heya wa kirei dewa arimasen deshita.",
     "pronounce_h": "そのへやは きれいでは ありませんでした。",
     "words": [
@@ -88,7 +88,7 @@
     "id": 5,
     "korean": "오늘은 춥지 않습니다.",
     "english": "It is not cold today.",
-    "japanese": "今日(きょう)は寒(さむ)くありません。",
+    "japanese": "今日は寒くありません。",
     "pronounce_r": "Kyō wa samuku arimasen.",
     "pronounce_h": "きょうは さむくありません。",
     "words": [
@@ -108,7 +108,7 @@
     "id": 6,
     "korean": "이 책은 어렵지 않습니다.",
     "english": "This book is not difficult.",
-    "japanese": "この本(ほん)は難(むずか)しくないです。",
+    "japanese": "この本は難しくないです。",
     "pronounce_r": "Kono hon wa muzukashiku nai desu.",
     "pronounce_h": "この ほんは むずかしくないです。",
     "words": [
@@ -128,7 +128,7 @@
     "id": 7,
     "korean": "그 영화는 재미있지 않았습니다.",
     "english": "That movie was not interesting.",
-    "japanese": "その映画(えいが)は面白(おもしろ)くなかったです。",
+    "japanese": "その映画は面白くなかったです。",
     "pronounce_r": "Sono eiga wa omoshiroku nakatta desu.",
     "pronounce_h": "そのえいがは おもしろくなかったです。",
     "words": [
@@ -148,7 +148,7 @@
     "id": 8,
     "korean": "예전 집은 넓지 않았습니다.",
     "english": "The old house was not spacious.",
-    "japanese": "前(まえ)の家(いえ)は広(ひろ)くありませんでした。",
+    "japanese": "前の家は広くありませんでした。",
     "pronounce_r": "Mae no ie wa hiroku arimasen deshita.",
     "pronounce_h": "まえの いえは ひろくありませんでした。",
     "words": [
@@ -173,7 +173,7 @@
     "id": 9,
     "korean": "내일 학교에 가지 않습니다.",
     "english": "I will not go to school tomorrow.",
-    "japanese": "明日(あした)学校(がっこう)へ行(い)きません。",
+    "japanese": "明日学校へ行きません。",
     "pronounce_r": "Ashita gakkō e ikimasen.",
     "pronounce_h": "あした がっこうへ いきません。",
     "words": [
@@ -198,7 +198,7 @@
     "id": 10,
     "korean": "어제 아무것도 먹지 않았습니다.",
     "english": "I did not eat anything yesterday.",
-    "japanese": "昨日(きのう)何(なに)も食(た)べませんでした。",
+    "japanese": "昨日何も食べませんでした。",
     "pronounce_r": "Kinō nani mo tabemasen deshita.",
     "pronounce_h": "きのう なにも たべませんでした。",
     "words": [
@@ -223,7 +223,7 @@
     "id": 11,
     "korean": "숙제를 하지 않습니다.",
     "english": "I do not do homework.",
-    "japanese": "宿題(しゅくだい)をしないです。",
+    "japanese": "宿題をしないです。",
     "pronounce_r": "Shukudai o shinai desu.",
     "pronounce_h": "しゅくだいを しないです。",
     "words": [
@@ -243,7 +243,7 @@
     "id": 12,
     "korean": "회의에 오지 않았습니다.",
     "english": "He/She did not come to the meeting.",
-    "japanese": "会議(かいぎ)に来(き)ませんでした。",
+    "japanese": "会議に来ませんでした。",
     "pronounce_r": "Kaigi ni kimasen deshita.",
     "pronounce_h": "かいぎに きませんでした。",
     "words": [
@@ -263,7 +263,7 @@
     "id": 13,
     "korean": "버스를 타지 않고 걸어갑니다.",
     "english": "I walk without taking the bus.",
-    "japanese": "バスに乗(の)らないで歩(ある)きます。",
+    "japanese": "バスに乗らないで歩きます。",
     "pronounce_r": "Basu ni noranaide arukimasu.",
     "pronounce_h": "バスに のらないで あるきます。",
     "words": [
@@ -288,7 +288,7 @@
     "id": 14,
     "korean": "지도를 보지 않고 역에 도착했습니다.",
     "english": "I arrived at the station without looking at the map.",
-    "japanese": "地図(ちず)を見(み)ないで駅(えき)に着(つ)きました。",
+    "japanese": "地図を見ないで駅に着きました。",
     "pronounce_r": "Chizu o minaide eki ni tsukimashita.",
     "pronounce_h": "ちずを みないで えきに つきました。",
     "words": [
@@ -318,7 +318,7 @@
     "id": 15,
     "korean": "아무에게도 말하지 않고 조용히 기다리지 않습니다.",
     "english": "I won't wait quietly without telling anyone.",
-    "japanese": "誰(だれ)にも言(い)わないで静(しず)かに待(ま)ちません。",
+    "japanese": "誰にも言わないで静かに待ちません。",
     "pronounce_r": "Dare nimo iwanaide shizuka ni machimasen.",
     "pronounce_h": "だれにも いわないで しずかに まちません。",
     "words": [
@@ -348,7 +348,7 @@
     "id": 16,
     "korean": "돈이 없어서 불안합니다.",
     "english": "I am anxious because I don't have money.",
-    "japanese": "お金(かね)がなくて不安(ふあん)です。",
+    "japanese": "お金がなくて不安です。",
     "pronounce_r": "Okane ga nakute fuan desu.",
     "pronounce_h": "おかねが なくて ふあんです.",
     "words": [
@@ -373,7 +373,7 @@
     "id": 17,
     "korean": "숙제를 하지 않아서 야단맞았습니다.",
     "english": "I was scolded because I didn't do my homework.",
-    "japanese": "宿題(しゅくだい)をしなくて怒(おこ)られました。",
+    "japanese": "宿題をしなくて怒られました。",
     "pronounce_r": "Shukudai o shinakute okoraremashita.",
     "pronounce_h": "しゅくだいを しなくて おこられました。",
     "words": [
@@ -398,7 +398,7 @@
     "id": 18,
     "korean": "걱정할 필요가 없어서, 불안하지 않습니다.",
     "english": "Since there is no need to worry, I am not anxious.",
-    "japanese": "心配(しんぱい)しなくてもいいので、不安(ふあん)じゃありません。",
+    "japanese": "心配しなくてもいいので、不安じゃありません。",
     "pronounce_r": "Shinpai shinakute mo ii node, fuan jaarimasen.",
     "pronounce_h": "しんぱい しなくて もいいので、ふあんじゃありません。",
     "words": [
@@ -418,7 +418,7 @@
     "id": 19,
     "korean": "여기에 들어오지 말아주세요.",
     "english": "Please do not enter here.",
-    "japanese": "ここに入(はい)らないでください。",
+    "japanese": "ここに入らないでください。",
     "pronounce_r": "Koko ni hairanaide kudasai.",
     "pronounce_h": "ここに はいらないでください。",
     "words": [
@@ -438,7 +438,7 @@
     "id": 20,
     "korean": "그 사람에게 말하지 말아달라고 부탁했습니다.",
     "english": "I asked that person not to tell (anyone).",
-    "japanese": "あの人(ひと)に言(い)わないでくださいと頼(たの)みました。",
+    "japanese": "あの人に言わないでくださいと頼みました。",
     "pronounce_r": "Ano hito ni iwanaide kudasai to tanomimashita.",
     "pronounce_h": "あのひとに いわないでくださいと たのみました。",
     "words": [
@@ -463,7 +463,7 @@
     "id": 21,
     "korean": "문을 닫지 말아주세요. (열어두세요)",
     "english": "Please do not close the door. (Please leave it open.)",
-    "japanese": "ドアを閉(し)めないでください。",
+    "japanese": "ドアを閉めないでください。",
     "pronounce_r": "Doa o shimenaide kudasai.",
     "pronounce_h": "ドアを しめないでください。",
     "words": [
@@ -483,7 +483,7 @@
     "id": 22,
     "korean": "이것은 내 우산이 아닙니다. (가장 정중한 형태)",
     "english": "This is not my umbrella.",
-    "japanese": "これが私(わたし)の傘(かさ)ではありません。",
+    "japanese": "これが私の傘ではありません。",
     "pronounce_r": "Kore ga watashi no kasa dewa arimasen.",
     "pronounce_h": "これが わたしのかさでは ありません。",
     "words": [
@@ -503,7 +503,7 @@
     "id": 23,
     "korean": "어제 시험은 간단하지 않았습니다. (가장 일상적인 형태)",
     "english": "The test yesterday was not simple.",
-    "japanese": "昨日(きのう)の試験(しけん)は簡単(かんたん)じゃなかったです。",
+    "japanese": "昨日の試験は簡単じゃなかったです。",
     "pronounce_r": "Kinō no shiken wa kantan janakatta desu.",
     "pronounce_h": "きのうの しけんは かんたんじゃなかったです。",
     "words": [
@@ -528,7 +528,7 @@
     "id": 24,
     "korean": "(나는) 아직 그 영화를 보지 않았습니다. (표준 정중체)",
     "english": "I haven't watched that movie yet.",
-    "japanese": "私(わたし)はまだその映画(えいが)を見(み)ません。",
+    "japanese": "私はまだその映画を見ません。",
     "pronounce_r": "Watashi wa mada sono eiga o mimasen.",
     "pronounce_h": "わたしは まだ そのえいがを みません。",
     "words": [
@@ -553,7 +553,7 @@
     "id": 25,
     "korean": "버스를 타지 않고 걸어갔습니다.",
     "english": "I walked without taking the bus.",
-    "japanese": "バスに乗(の)らないで歩(ある)きました。",
+    "japanese": "バスに乗らないで歩きました。",
     "pronounce_r": "Basu ni noranaide arukimashita.",
     "pronounce_h": "バスに のらないで あるきました。",
     "words": [
@@ -573,7 +573,7 @@
     "id": 26,
     "korean": "오늘은 날씨가 춥지 않습니다. (가장 정중한 형태)",
     "english": "The weather is not cold today.",
-    "japanese": "今日(きょう)は天気(てんき)が寒(さむ)くありません。",
+    "japanese": "今日は天気が寒くありません。",
     "pronounce_r": "Kyō wa tenki ga samuku arimasen.",
     "pronounce_h": "きょうは てんきが さむくありません。",
     "words": [
@@ -593,7 +593,7 @@
     "id": 27,
     "korean": "어제는 쉬는 날이 아니었습니다. (가장 일상적인 형태)",
     "english": "Yesterday was not a day off.",
-    "japanese": "昨日(きのう)は休(やす)みじゃなかったです。",
+    "japanese": "昨日は休みじゃなかったです。",
     "pronounce_r": "Kinō wa yasumi janakatta desu.",
     "pronounce_h": "きのうは やすみじゃなかったです。",
     "words": [
@@ -613,7 +613,7 @@
     "id": 28,
     "korean": "회의에 늦지 않아서 다행입니다.",
     "english": "I'm glad I wasn't late for the meeting.",
-    "japanese": "会議(かいぎ)に遅刻(ちこく)しなくて良(よ)かったです。",
+    "japanese": "会議に遅刻しなくて良かったです。",
     "pronounce_r": "Kaigi ni chikoku shinakute yokatta desu.",
     "pronounce_h": "かいぎに ちこく しなくて よかったです。",
     "words": [
@@ -633,7 +633,7 @@
     "id": 29,
     "korean": "이곳에 쓰레기를 버리지 말아주세요.",
     "english": "Please do not throw away trash here.",
-    "japanese": "ここにゴミを捨(す)てないでください。",
+    "japanese": "ここにゴミを捨てないでください。",
     "pronounce_r": "Koko ni gomi o sutenaide kudasai.",
     "pronounce_h": "ここに ゴミを すてないでください。",
     "words": [
@@ -653,7 +653,7 @@
     "id": 30,
     "korean": "어제는 일이 바쁘지 않았습니다. (가장 정중한 형태)",
     "english": "Work was not busy yesterday.",
-    "japanese": "昨日(きのう)は仕事(しごと)が忙(いそが)しくありませんでした。",
+    "japanese": "昨日は仕事が忙しくありませんでした。",
     "pronounce_r": "Kinō wa shigoto ga isogashiku arimasen deshita.",
     "pronounce_h": "きのうは しごとが いそがしく ありませんでした。",
     "words": [
@@ -678,7 +678,7 @@
     "id": 31,
     "korean": "그는 일본에 오지 않았습니다. (표준 정중체)",
     "english": "He did not come to Japan.",
-    "japanese": "彼(かれ)は日本(にほん)に来(き)ませんでした。",
+    "japanese": "彼は日本に来ませんでした。",
     "pronounce_r": "Kare wa Nihon ni kimasen deshita.",
     "pronounce_h": "かれは にほんに きませんでした。",
     "words": [
@@ -703,7 +703,7 @@
     "id": 32,
     "korean": "그녀는 친절하지 않았습니다. (가장 정중한 형태)",
     "english": "She was not kind.",
-    "japanese": "彼女(かのじょ)は親切(しんせつ)ではありませんでした。",
+    "japanese": "彼女は親切ではありませんでした。",
     "pronounce_r": "Kanojo wa shinsetsu dewa arimasen deshita.",
     "pronounce_h": "かのじょは しんせつでは ありませんでした.",
     "words": [
@@ -723,7 +723,7 @@
     "id": 33,
     "korean": "전화를 받지 않고 잠들었습니다.",
     "english": "I fell asleep without answering the phone.",
-    "japanese": "電話(でんわ)を受(う)けないで寝(ね)ました。",
+    "japanese": "電話を受けないで寝ました。",
     "pronounce_r": "Denwa o ukenaide nemashita.",
     "pronounce_h": "でんわを うけないで ねました。",
     "words": [
@@ -748,7 +748,7 @@
     "id": 34,
     "korean": "어제 친구를 만나지 못했습니다. (가장 일상적인 형태)",
     "english": "I couldn't meet my friend yesterday.",
-    "japanese": "昨日(きのう)友達(ともだち)に会(あ)わなかったです。",
+    "japanese": "昨日友達に会わなかったです。",
     "pronounce_r": "Kinō tomodachi ni awanakatta desu.",
     "pronounce_h": "きのう ともだちに あわなかったです。",
     "words": [
@@ -773,7 +773,7 @@
     "id": 35,
     "korean": "이 물건은 편리하지 않습니다. (가장 일상적인 형태)",
     "english": "This item is not convenient.",
-    "japanese": "この物(もの)は便利(べんり)じゃないです。",
+    "japanese": "この物は便利じゃないです。",
     "pronounce_r": "Kono mono wa benri janai desu.",
     "pronounce_h": "このものは べんりじゃないです。",
     "words": [
@@ -793,7 +793,7 @@
     "id": 36,
     "korean": "시간이 없어서 점심을 먹지 못했습니다.",
     "english": "I couldn't eat lunch because I didn't have time.",
-    "japanese": "時間(じかん)がなくて昼(ひる)ごはんを食べられませんでした。",
+    "japanese": "時間がなくて昼ごはんを食べられませんでした。",
     "pronounce_r": "Jikan ga nakute hirugohan o taberaremasen deshita.",
     "pronounce_h": "じかんが なくて ひるごはんを たべられませんでした。",
     "words": [
@@ -813,7 +813,7 @@
     "id": 37,
     "korean": "(나는) 내일 아무것도 하지 않을 것입니다. (표준 정중체)",
     "english": "I will not do anything tomorrow.",
-    "japanese": "明日(あした)何(なに)もしません。",
+    "japanese": "明日何もしません。",
     "pronounce_r": "Ashita nani mo shimasen.",
     "pronounce_h": "あした なにも しません。",
     "words": [
@@ -833,7 +833,7 @@
     "id": 38,
     "korean": "창문을 열지 말아주세요.",
     "english": "Please do not open the window.",
-    "japanese": "窓(まど)を開(あ)けないでください。",
+    "japanese": "窓を開けないでください。",
     "pronounce_r": "Mado o akenaide kudasai.",
     "pronounce_h": "まどを あけないでください。",
     "words": [
@@ -853,7 +853,7 @@
     "id": 39,
     "korean": "어제는 그렇게 비싸지 않았습니다. (가장 일상적인 형태)",
     "english": "It wasn't that expensive yesterday.",
-    "japanese": "昨日(きのう)はそんなに高(たか)くなかったです。",
+    "japanese": "昨日はそんなに高くなかったです。",
     "pronounce_r": "Kinō wa sonna ni takaku nakatta desu.",
     "pronounce_h": "きのうは そんなに たかくなかったです。",
     "words": [
@@ -878,7 +878,7 @@
     "id": 40,
     "korean": "돈이 많지 않아서 불안합니다.",
     "english": "I'm anxious because I don't have much money.",
-    "japanese": "お金(かね)が多(おお)くなくて不安(ふあん)です。",
+    "japanese": "お金が多くなくて不安です。",
     "pronounce_r": "Okane ga ōku nakute fuan desu.",
     "pronounce_h": "おかねが おおくなくて ふあんです。",
     "words": [
@@ -903,7 +903,7 @@
     "id": 41,
     "korean": "여기에서 담배를 피우지 말아주세요.",
     "english": "Please do not smoke here.",
-    "japanese": "ここでタバコを吸(す)わないでください。",
+    "japanese": "ここでタバコを吸わないでください。",
     "pronounce_r": "Koko de tabako o suwanaide kudasai.",
     "pronounce_h": "ここで タバコを すわないでください。",
     "words": [

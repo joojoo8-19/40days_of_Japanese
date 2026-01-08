@@ -123,7 +123,7 @@
     "id": 5,
     "korean": "영화를 본 후에 저녁을 먹습니다.",
     "english": "I eat dinner after watching a movie.",
-    "japanese": "映画(えいが)を見(み)た後(あと)で晩(ばん)ごはんを食(た)べます。",
+    "japanese": "映画を見た後で晩ごはんを食べます。",
     "pronounce_r": "Eiga o mita ato de bangohan o tabemasu.",
     "pronounce_h": "えいがを みたあとで ばんごはんを たべます。",
     "words": [
@@ -158,7 +158,7 @@
     "id": 6,
     "korean": "퇴근한 후에 친구와 만났습니다.",
     "english": "I met a friend after finishing work.",
-    "japanese": "退勤(たいきん)した後(あと)で友達(ともだち)と会(あ)いました。",
+    "japanese": "退勤した後で友達と会いました。",
     "pronounce_r": "Taikin shita ato de tomodachi to aimashita.",
     "pronounce_h": "たいきんしたあとで ともだちと あいました。",
     "words": [
@@ -188,7 +188,7 @@
     "id": 7,
     "korean": "약을 먹지 않은 후에, 괜찮아졌습니다.",
     "english": "I got better after not taking the medicine.",
-    "japanese": "薬(くすり)を飲(の)まなかった後(あと)で、元気(げんき)になりました。",
+    "japanese": "薬を飲まなかった後で、元気になりました。",
     "pronounce_r": "Kusuri o nomanakatta ato de, genki ni narimashita.",
     "pronounce_h": "くすりを のまなかったあとで、げんきに なりました。",
     "words": [
@@ -218,7 +218,7 @@
     "id": 8,
     "korean": "피곤하지 않은 후에, 공부를 시작했습니다.",
     "english": "I started studying after not being tired.",
-    "japanese": "疲(つか)れなかった後(あと)で勉強(べんきょう)を始(はじ)めました。",
+    "japanese": "疲れなかった後で勉強を始めました。",
     "pronounce_r": "Tsukarenakatta ato de benkyō o hajimemashita.",
     "pronounce_h": "つかれなかったあとで べんきょうを はじめました。",
     "words": [
@@ -248,7 +248,7 @@
     "id": 9,
     "korean": "먼저 손을 씻고 나서 밥을 먹습니다.",
     "english": "First, I wash my hands and then eat the meal.",
-    "japanese": "まず手(て)を洗(あら)ってからご飯(はん)を食(た)べます。",
+    "japanese": "まず手を洗ってからご飯を食べます。",
     "pronounce_r": "Mazu te o aratte kara gohan o tabemasu.",
     "pronounce_h": "まず てをあらってから ごはんを たべます。",
     "words": [
@@ -283,7 +283,7 @@
     "id": 10,
     "korean": "여권을 확인하고 나서 비행기에 탑승했습니다.",
     "english": "I confirmed the passport and then boarded the airplane.",
-    "japanese": "パスポートを確認(かくにん)してから飛行機(ひこうき)に乗(の)りました。",
+    "japanese": "パスポートを確認してから飛行機に乗りました。",
     "pronounce_r": "Pasupōto o kakunin shite kara hikōki ni norimashita.",
     "pronounce_h": "パスポートを かくにんしてから ひこうきに のりました。",
     "words": [
@@ -313,7 +313,7 @@
     "id": 11,
     "korean": "학교에 도착하고 나서야 공부를 시작하겠습니다.",
     "english": "I will start studying after arriving at school.",
-    "japanese": "学校(がっこう)に登校(とうこう)してから勉強(べんきょう)を始(はじ)めます。",
+    "japanese": "学校に登校してから勉強を始めます。",
     "pronounce_r": "Gakkō ni tōkō shite kara benkyō o hajimemasu.",
     "pronounce_h": "がっこうに とうこうしてから べんきょうを はじめます。",
     "words": [
@@ -393,7 +393,7 @@
     "id": 14,
     "korean": "예전에 해외여행을 간 적이 있었습니다.",
     "english": "I had been on an overseas trip before.",
-    "japanese": "以前に海外旅行(かいがいりょこう)に**行ったことがありました**。",
+    "japanese": "以前に海外旅行に**行ったことがありました**。",
     "pronounce_r": "Izen ni kaigairyokō ni itta koto ga arimashita.",
     "pronounce_h": "いぜんに かいがいりょこうに いったことがありました。",
     "words": [
@@ -438,7 +438,7 @@
     "id": 16,
     "korean": "빨리 결정하는 편이 좋습니다.",
     "english": "It is better to decide quickly.",
-    "japanese": "早(はや)く**決(き)めたほうがいいです**。",
+    "japanese": "早く**決めたほうがいいです**。",
     "pronounce_r": "Hayaku kimeta hō ga ii desu.",
     "pronounce_h": "はやく きめたほうがいいです。",
     "words": [
@@ -458,7 +458,7 @@
     "id": 17,
     "korean": "오늘은 무리하지 않는 편이 좋습니다.",
     "english": "It is better not to overdo it today.",
-    "japanese": "今日(きょう)は**無理(むり)をしないほうがいいです**。",
+    "japanese": "今日は**無理をしないほうがいいです**。",
     "pronounce_r": "Kyō wa muri o shinai hō ga ii desu.",
     "pronounce_h": "きょうは むりをしないほうがいいです。",
     "words": [
@@ -478,7 +478,7 @@
     "id": 18,
     "korean": "어제 약을 먹는 편이 좋았습니다.",
     "english": "It would have been better to take the medicine yesterday.",
-    "japanese": "昨日(きのう)**薬(くすり)を飲(の)んだほうがよかった**です。",
+    "japanese": "昨日**薬を飲んだほうがよかった**です。",
     "pronounce_r": "Kinō kusuri o nonda hō ga yokatta desu.",
     "pronounce_h": "きのう くすりをのんだほうがよかったです。",
     "words": [
@@ -503,7 +503,7 @@
     "id": 19,
     "korean": "그렇게 말하지 않는 편이 좋았습니다.",
     "english": "It would have been better not to say that much.",
-    "japanese": "そんなに**言(い)わないほうがよかったです**。",
+    "japanese": "そんなに**言わないほうがよかったです**。",
     "pronounce_r": "Sonna ni iwanai hō ga yokatta desu.",
     "pronounce_h": "そんなに いわないほうがよかったです。",
     "words": [
@@ -523,7 +523,7 @@
     "id": 20,
     "korean": "끝나면 연락해주세요.",
     "english": "If it finishes, please contact me.",
-    "japanese": "終(お)わっ**たら、連絡(れんらく)してください**。",
+    "japanese": "終わっ**たら、連絡してください**。",
     "pronounce_r": "Owattara, renraku shite kudasai.",
     "pronounce_h": "おわったら、れんらくしてください。",
     "words": [
@@ -543,7 +543,7 @@
     "id": 21,
     "korean": "합격하면 좋겠네요.",
     "english": "If I/you pass, that would be great.",
-    "japanese": "合格(ごうかく)し**たら、いいですね**。",
+    "japanese": "合格し**たら、いいですね**。",
     "pronounce_r": "Gōkaku shitara, ii desu ne.",
     "pronounce_h": "ごうかくしたら、いいですね。",
     "words": [
@@ -563,7 +563,7 @@
     "id": 22,
     "korean": "피곤하면 쉬는 것은 어떻습니까?",
     "english": "If you are tired, how about taking a rest?",
-    "japanese": "疲(つか)れ**たら、休(やす)んだらどうですか**。",
+    "japanese": "疲れ**たら、休んだらどうですか**。",
     "pronounce_r": "Tsukaretara, yasundara dō desu ka.",
     "pronounce_h": "つかれたら、やすんだらどうですか。",
     "words": [
@@ -583,7 +583,7 @@
     "id": 23,
     "korean": "주말에는 책을 읽거나 산책하거나 합니다.",
     "english": "On weekends, I do things like reading books or taking walks.",
-    "japanese": "週末(しゅうまつ)は本(ほん)を読(よ)ん**だり**、散歩(さんぽ)し**たり****します**。",
+    "japanese": "週末は本を読ん**だり**、散歩し**たり****します**。",
     "pronounce_r": "Shūmatsu wa hon o yondari, sanpo shitari shimasu.",
     "pronounce_h": "しゅうまつは ほんをよんだり、さんぽしたり します。",
     "words": [
@@ -618,7 +618,7 @@
     "id": 24,
     "korean": "어제는 청소하거나 빨래하거나 했습니다.",
     "english": "Yesterday, I did things like cleaning or doing laundry.",
-    "japanese": "昨日(きのう)は掃除(そうじ)し**たり**、洗濯(せんたく)し**たり****しました**。",
+    "japanese": "昨日は掃除し**たり**、洗濯し**たり****しました**。",
     "pronounce_r": "Kinō wa sōji shitari, sentaku shitari shimashita.",
     "pronounce_h": "きのうは そうじしたり、せんたくしたり しました。",
     "words": [
@@ -648,7 +648,7 @@
     "id": 25,
     "korean": "숙제를 하거나 텔레비전을 보거나 하지 않습니다.",
     "english": "I do not do things like doing homework or watching TV.",
-    "japanese": "宿題(しゅくだい)をし**たり**、テレビを見(み)**たり****しません**。",
+    "japanese": "宿題をし**たり**、テレビを見**たり****しません**。",
     "pronounce_r": "Shukudai o shitari, terebi o mitari shimasen.",
     "pronounce_h": "しゅくだいをしたり、テレビをみたり しません。",
     "words": [
@@ -678,7 +678,7 @@
     "id": 26,
     "korean": "일본어를 공부하기 위해서 학교에 갑니다.",
     "english": "I go to school in order to study Japanese.",
-    "japanese": "日本語(にほんご)を勉強(べんきょう)する**ために**学校(がっこう)へ行(い)きます。",
+    "japanese": "日本語を勉強する**ために**学校へ行きます。",
     "pronounce_r": "Nihongo o benkyō suru tame ni gakkō e ikimasu.",
     "pronounce_h": "にほんごを べんきょうする ために がっこうへいきます。",
     "words": [
@@ -708,7 +708,7 @@
     "id": 27,
     "korean": "가족을 위해서 돈을 법니다.",
     "english": "I earn money for my family.",
-    "japanese": "家族(かぞく)**のために**お金(かね)を稼(かせ)ぎます。",
+    "japanese": "家族**のために**お金を稼ぎます。",
     "pronounce_r": "Kazoku no tame ni okane o kasegimasu.",
     "pronounce_h": "かぞくの ために おかねをかせぎます。",
     "words": [
@@ -733,7 +733,7 @@
     "id": 28,
     "korean": "꿈을 이루기 위해서 노력했습니다.",
     "english": "I made an effort to realize my dream.",
-    "japanese": "夢(ゆめ)を叶(かな)える**ために**努力(どりょく)しました。",
+    "japanese": "夢を叶える**ために**努力しました。",
     "pronounce_r": "Yume o kanaeru tame ni doryoku shimashita.",
     "pronounce_h": "ゆめをかなえる ために どりょくしました。",
     "words": [
@@ -758,7 +758,7 @@
     "id": 29,
     "korean": "방을 깨끗하게 청소했습니다.",
     "english": "I cleaned the room neatly.",
-    "japanese": "部屋(へや)を綺麗(きれい)**に**掃除(そうじ)しました。",
+    "japanese": "部屋を綺麗**に**掃除しました。",
     "pronounce_r": "Heya o kirei ni sōji shimashita.",
     "pronounce_h": "へやを きれいに そうじしました。",
     "words": [
@@ -783,7 +783,7 @@
     "id": 30,
     "korean": "간단하게 보고서를 정리했습니다.",
     "english": "I summarized the report simply.",
-    "japanese": "簡単(かんたん)**に**報告書(ほうこくしょ)をまとめました。",
+    "japanese": "簡単**に**報告書をまとめました。",
     "pronounce_r": "Kantan ni hōkokusho o matemashita.",
     "pronounce_h": "かんたんに ほうこくしょをまとめました。",
     "words": [
@@ -808,7 +808,7 @@
     "id": 31,
     "korean": "아침에 빨리 일어납니다.",
     "english": "I wake up early in the morning.",
-    "japanese": "朝(あさ)**早(はや)く**起(お)きます。",
+    "japanese": "朝**早く**起きます。",
     "pronounce_r": "Asa hayaku okimasu.",
     "pronounce_h": "あさ はやく おきます。",
     "words": [
@@ -833,7 +833,7 @@
     "id": 32,
     "korean": "시험 공부를 많이 했습니다.",
     "english": "I studied a lot for the exam.",
-    "japanese": "試験(しけん)の勉強(べんきょう)を**多(おお)く**しました。",
+    "japanese": "試験の勉強を**多く**しました。",
     "pronounce_r": "Shiken no benkyō o ōku shimashita.",
     "pronounce_h": "しけんのべんきょうを おおく しました。",
     "words": [
@@ -863,7 +863,7 @@
     "id": 33,
     "korean": "방이 깨끗해졌습니다.",
     "english": "The room became clean.",
-    "japanese": "部屋(へや)が綺麗(きれい)に**なりました**。",
+    "japanese": "部屋が綺麗に**なりました**。",
     "pronounce_r": "Heya ga kirei ni narimashita.",
     "pronounce_h": "へやが きれいになりました。",
     "words": [
@@ -888,7 +888,7 @@
     "id": 34,
     "korean": "아이들을 조용하게 했습니다.",
     "english": "I made the children quiet.",
-    "japanese": "子供(こども)を静(しず)か**に****しました**。",
+    "japanese": "子供を静か**に****しました**。",
     "pronounce_r": "Kodomo o shizuka ni shimashita.",
     "pronounce_h": "こどもを しずかに しました。",
     "words": [
@@ -913,7 +913,7 @@
     "id": 35,
     "korean": "걷는 것이 빨라졌습니다.",
     "english": "Walking became faster.",
-    "japanese": "歩(ある)くのが早(はや)く**なりました**。",
+    "japanese": "歩くのが早く**なりました**。",
     "pronounce_r": "Aruku no ga hayaku narimashita.",
     "pronounce_h": "あるくのが はやくなりました。",
     "words": [
@@ -938,7 +938,7 @@
     "id": 36,
     "korean": "소리를 높였습니다.",
     "english": "I made the sound loud (raised the volume).",
-    "japanese": "音(おと)を高(たか)く**しました**。",
+    "japanese": "音を高く**しました**。",
     "pronounce_r": "Oto o takaku shimashita.",
     "pronounce_h": "おとを たかく しました。",
     "words": [
@@ -963,7 +963,7 @@
     "id": 37,
     "korean": "식사 후에 약을 먹는 편이 좋습니다.",
     "english": "It is better to take medicine after a meal.",
-    "japanese": "食事(しょくじ)の後(あと)で、薬(くすり)を飲(の)んだ**ほうがいいです**。",
+    "japanese": "食事の後で、薬を飲んだ**ほうがいいです**。",
     "pronounce_r": "Shokuji no ato de, kusuri o nonda hō ga ii desu.",
     "pronounce_h": "しょくじの あとで、くすりを のんだほうがいいです。",
     "words": [
@@ -988,7 +988,7 @@
     "id": 38,
     "korean": "저는 이전에 일본에서 산 적이 있습니다.",
     "english": "I have lived in Japan before.",
-    "japanese": "私(わたし)は以前(いぜん)に日本(にほん)で暮(く)らし**たことがあります**。",
+    "japanese": "私は以前に日本で暮らし**たことがあります**。",
     "pronounce_r": "Watashi wa izen ni Nihon de kurashita koto ga arimasu.",
     "pronounce_h": "わたしは いぜんに にほんで くらしたことが あります。",
     "words": [
@@ -1018,7 +1018,7 @@
     "id": 39,
     "korean": "청소하거나 음악을 듣거나 하며 하루를 보냅니다.",
     "english": "I spend the day doing things like cleaning or listening to music.",
-    "japanese": "掃除(そうじ)し**たり**、音楽(おんがく)を聴(き)い**たりして**過(す)ごします。",
+    "japanese": "掃除し**たり**、音楽を聴い**たりして**過ごします。",
     "pronounce_r": "Sōji shitari, ongaku o kiitari shite sugoshimasu.",
     "pronounce_h": "そうじしたり、おんがくを きいたりして すごします。",
     "words": [
@@ -1048,7 +1048,7 @@
     "id": 40,
     "korean": "돈이 있다면, 여행 가는 것은 어떻습니까?",
     "english": "If you have money, how about going on a trip?",
-    "japanese": "お金(かね)があっ**たら**、旅行(りょこう)に**行(い)ったらどうですか**。",
+    "japanese": "お金があっ**たら**、旅行に**行ったらどうですか**。",
     "pronounce_r": "Okane ga attara, ryokō ni ittara dō desu ka.",
     "pronounce_h": "おかねが あったら、りょこうに いったらどうですか。",
     "words": [
@@ -1078,7 +1078,7 @@
     "id": 41,
     "korean": "건강을 위해서 매일 아침 뜁니다.",
     "english": "I run every morning for my health.",
-    "japanese": "健康(けんこう)の**ため(ため)に**毎日(まいにち)朝(あさ)**走(はし)ります**。",
+    "japanese": "健康の**ために**毎日朝**走ります**。",
     "pronounce_r": "Kenkō no tame ni mainichi asa hashirimasu.",
     "pronounce_h": "けんこうの ために まいにちあさ はしります。",
     "words": [
@@ -1103,7 +1103,7 @@
     "id": 42,
     "korean": "어제는 너무 피곤해서 숙제를 하지 않는 편이 좋았습니다.",
     "english": "Yesterday, I was too tired, so it would have been better not to do homework.",
-    "japanese": "昨日(きのう)は疲(つか)れすぎて、宿題(しゅくだい)を**しないほうがよかった**です。",
+    "japanese": "昨日は疲れすぎて、宿題を**しないほうがよかった**です。",
     "pronounce_r": "Kinō wa tsukaresugite, shukudai o shinai hō ga yokatta desu.",
     "pronounce_h": "きのうは つかれすぎて、しゅくだいを しないほうが よかったです。",
     "words": [
@@ -1133,7 +1133,7 @@
     "id": 43,
     "korean": "(나는) 아직 그 사람을 만난 적이 없습니다.",
     "english": "I still haven't met that person.",
-    "japanese": "私(わたし)はまだその人(ひと)に**会(あ)ったことがありません**。",
+    "japanese": "私はまだその人に**会ったことがありません**。",
     "pronounce_r": "Watashi wa mada sono hito ni atta koto ga arimasen.",
     "pronounce_h": "わたしは まだ そのひとに あったことが ありません。",
     "words": [
@@ -1163,7 +1163,7 @@
     "id": 44,
     "korean": "깨끗하게 정리하면, 사진을 찍어주세요.",
     "english": "If you clean it up neatly, please take a picture.",
-    "japanese": "綺麗(きれい)**に**整理(せいり)し**たら**、写真(しゃしん)を撮(と)って**ください**。",
+    "japanese": "綺麗**に**整理し**たら**、写真を撮って**ください**。",
     "pronounce_r": "Kirei ni seiri shitara, shashin o totte kudasai.",
     "pronounce_h": "きれいに せいりしたら、しゃしんを とってください。",
     "words": [
@@ -1193,7 +1193,7 @@
     "id": 45,
     "korean": "시험에 합격하기 위해서 열심히 공부했습니다.",
     "english": "I studied hard in order to pass the exam.",
-    "japanese": "試験(しけん)に合格(ごうかく)する**ため(ため)に**、一生懸命(いっしょうけんめい)勉強(べんきょう)しました。",
+    "japanese": "試験に合格する**ために**、一生懸命勉強しました。",
     "pronounce_r": "Shiken ni gōkaku suru tame ni, isshōkenmei benkyō shimashita.",
     "pronounce_h": "しけんに ごうかくする ために、いっしょうけんめい べんきょうしました。",
     "words": [
@@ -1223,7 +1223,7 @@
     "id": 46,
     "korean": "(나는) 아침밥을 먹은 후에 바로 외출했습니다.",
     "english": "I went out immediately after eating breakfast.",
-    "japanese": "朝ご飯(あさごはん)を食(た)べ**た後(あと)で**、すぐ外出(がいしゅつ)しました。",
+    "japanese": "朝ご飯を食べ**た後で**、すぐ外出しました。",
     "pronounce_r": "Asagohan o tabeta ato de, sugu gaishutsu shimashita.",
     "pronounce_h": "あさごはんを たべたあとで、すぐ がいしゅつしました。",
     "words": [
@@ -1253,7 +1253,7 @@
     "id": 47,
     "korean": "몸이 안 좋으면, 무리하지 않는 편이 좋습니다.",
     "english": "If your physical condition is not good, it is better not to overdo it.",
-    "japanese": "体(からだ)の調子(ちょうし)が良(よ)くなかっ**たら**、無理(むり)を**しないほうがいいです**。",
+    "japanese": "体の調子が良くなかっ**たら**、無理を**しないほうがいいです**。",
     "pronounce_r": "Karada no chōshi ga yokunakattara, muri o shinai hō ga ii desu.",
     "pronounce_h": "からだの ちょうしが よくなったら、むりを しないほうがいいです。",
     "words": [
@@ -1283,7 +1283,7 @@
     "id": 48,
     "korean": "(저는) 외국인과 이야기한 적이 없었습니다.",
     "english": "I had never talked with a foreigner.",
-    "japanese": "外国人(がいこくじん)と**話(はな)したことがありませんでした**。",
+    "japanese": "外国人と**話したことがありませんでした**。",
     "pronounce_r": "Gaikokujin to hanashita koto ga arimasen deshita.",
     "pronounce_h": "がいこくじん と はなしたことが ありませんでした。",
     "words": [
@@ -1303,7 +1303,7 @@
     "id": 49,
     "korean": "일이 끝나면, 집에 돌아가는 것은 어떻습니까?",
     "english": "If work finishes, how about going back home?",
-    "japanese": "仕事(しごと)が終(お)わっ**たら**、家(いえ)に**帰(かえ)ったらどうですか**。",
+    "japanese": "仕事が終わっ**たら**、家に**帰ったらどうですか**。",
     "pronounce_r": "Shigoto ga owattara, ie ni kaettara dō desu ka.",
     "pronounce_h": "しごとが おわったら、いえに かえったら どうですか。",
     "words": [
@@ -1333,7 +1333,7 @@
     "id": 50,
     "korean": "숙제가 많아서, 놀거나 자거나 할 수 없었습니다.",
     "english": "Because there was a lot of homework, I could not do things like playing or sleeping.",
-    "japanese": "宿題(しゅくだい)が多(おお)くて、遊(あそ)ん**だり**、寝(ね)**たり****できませんでした**。",
+    "japanese": "宿題が多くて、遊ん**だり**、寝**たり****できませんでした**。",
     "pronounce_r": "Shukudai ga ōkute, asondari, netari dekimasen deshita.",
     "pronounce_h": "しゅくだいが おおくて、あそんだり、ねたり できませんでした。",
     "words": [
@@ -1363,7 +1363,7 @@
     "id": 51,
     "korean": "일본어를 잘하게 되기 위해서 노력하고 있습니다.",
     "english": "I am making an effort to become good at Japanese.",
-    "japanese": "日本語(にほんご)が上手(じょうず)になる**ため(ため)に**努力(どりょく)**しています**。",
+    "japanese": "日本語が上手になる**ために**努力**しています**。",
     "pronounce_r": "Nihongo ga jōzu ni naru tame ni doryoku shite imasu.",
     "pronounce_h": "にほんごが じょうずになる ために どりょくしています。",
     "words": [
@@ -1393,7 +1393,7 @@
     "id": 52,
     "korean": "더 조용하게 말해주지 않겠습니까?",
     "english": "Could you speak more quietly?",
-    "japanese": "もっと静(しず)か**に**話(はな)して**くれませんか**。",
+    "japanese": "もっと静か**に**話して**くれませんか**。",
     "pronounce_r": "Motto shizuka ni hanashite kuremasen ka.",
     "pronounce_h": "もっと しずかに はなしてくれませんか。",
     "words": [
@@ -1418,7 +1418,7 @@
     "id": 53,
     "korean": "이전에 그 레스토랑에 간 적이 없었습니다.",
     "english": "I had never been to that restaurant before.",
-    "japanese": "以前(いぜん)にそのレストランに**行(い)ったことがありませんでした**。",
+    "japanese": "以前にそのレストランに**行ったことがありませんでした**。",
     "pronounce_r": "Izen ni sono resutoran ni itta koto ga arimasen deshita.",
     "pronounce_h": "いぜんに そのレストランに いったことが ありませんでした。",
     "words": [
@@ -1443,7 +1443,7 @@
     "id": 54,
     "korean": "비가 온 후에도 우산을 가져가지 않았습니다.",
     "english": "Even after it rained, I did not take an umbrella.",
-    "japanese": "雨(あめ)が降(ふ)った後(あと)で**も**、傘(かさ)を**持(も)っていきませんでした**。",
+    "japanese": "雨が降った後で**も**、傘を**持っていきませんでした**。",
     "pronounce_r": "Ame ga futta ato de mo, kasa o motte ikimasen deshita.",
     "pronounce_h": "あめがふった あとでも、かさを もっていきませんでした。",
     "words": [
@@ -1478,7 +1478,7 @@
     "id": 55,
     "korean": "가격을 낮게 하고 싶습니다. (가격을 내리고 싶습니다.)",
     "english": "I want to make the price low.",
-    "japanese": "値段(ねだん)を低(ひく)**く****したいです**。",
+    "japanese": "値段を低**く****したいです**。",
     "pronounce_r": "Nedan o hikuku shitai desu.",
     "pronounce_h": "ねだんを ひくく したいです。",
     "words": [
@@ -1503,7 +1503,7 @@
     "id": 56,
     "korean": "오늘은 일찍 자는 편이 좋습니다.",
     "english": "It is better to go to bed early today.",
-    "japanese": "今日(きょう)は**早(はや)く**寝(ね)**たほうがいいです**。",
+    "japanese": "今日は**早く**寝**たほうがいいです**。",
     "pronounce_r": "Kyō wa hayaku neta hō ga ii desu.",
     "pronounce_h": "きょうは はやく ねたほうがいいです。",
     "words": [

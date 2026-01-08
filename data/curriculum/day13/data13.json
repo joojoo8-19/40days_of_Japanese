@@ -3,7 +3,7 @@
     "id": 1,
     "korean": "이 책은 1,200엔입니다.",
     "english": "This book is 1,200 yen.",
-    "japanese": "この本(ほん)は千二百円(えん)です。",
+    "japanese": "この本は千二百円です。",
     "pronounce_r": "Kono hon wa sen nihyaku en desu.",
     "pronounce_h": "この ほんは せんにひゃくえんです。",
     "words": [
@@ -28,7 +28,7 @@
     "id": 2,
     "korean": "우리 집은 34층에 있습니다.",
     "english": "My house is on the 34th floor.",
-    "japanese": "私(わたし)の家(いえ)は三十四階(かい)にあります。",
+    "japanese": "私の家は三十四階にあります。",
     "pronounce_r": "Watashi no ie wa sanjūyon kai ni arimasu.",
     "pronounce_h": "わたしの いえは さんじゅうよんかいに あります。",
     "words": [
@@ -58,7 +58,7 @@
     "id": 3,
     "korean": "편의점에서 850엔짜리 물건을 샀습니다.",
     "english": "I bought an 850 yen item at the convenience store.",
-    "japanese": "コンビニで八百五十円(えん)の物(もの)を買(か)いました。",
+    "japanese": "コンビニで八百五十円の物を買いました。",
     "pronounce_r": "Konbini de happyaku gojū en no mono o kaimashita.",
     "pronounce_h": "コンビニで はっぴゃくごじゅうえんの ものを かいました。",
     "words": [
@@ -88,7 +88,7 @@
     "id": 4,
     "korean": "이 책은 1권만 필요합니다.",
     "english": "Only 1 copy of this book is needed.",
-    "japanese": "この本(ほん)は一冊(さつ)だけ必要(ひつよう)です。",
+    "japanese": "この本は一冊だけ必要です。",
     "pronounce_r": "Kono hon wa issatsu dake hitsuyō desu.",
     "pronounce_h": "この ほんは いっさつだけ ひつようです。",
     "words": [
@@ -118,7 +118,7 @@
     "id": 5,
     "korean": "물을 8잔 마셨습니다.",
     "english": "I drank 8 glasses of water.",
-    "japanese": "水(みず)を八杯(はい)飲(の)みました。",
+    "japanese": "水を八杯飲みました。",
     "pronounce_r": "Mizu o happai nomimashita.",
     "pronounce_h": "みずを はっぱい のみました。",
     "words": [
@@ -143,7 +143,7 @@
     "id": 6,
     "korean": "이 다리는 6년 전에 건설되었습니다.",
     "english": "This bridge was built 6 years ago.",
-    "japanese": "この橋(はし)は六年(ねん)前(まえ)に建(た)てられました。",
+    "japanese": "この橋は六年前に建てられました。",
     "pronounce_r": "Kono hashi wa roku nen mae ni tateraremashita.",
     "pronounce_h": "この はしは ろくねんまえに たてられました。",
     "words": [
@@ -173,7 +173,7 @@
     "id": 7,
     "korean": "몇 초 입니까?",
     "english": "How many seconds is it?",
-    "japanese": "何秒(なんびょう)ですか?",
+    "japanese": "何秒ですか?",
     "pronounce_r": "Nan byō desu ka?",
     "pronounce_h": "なんびょうですか?",
     "words": [
@@ -238,7 +238,7 @@
     "id": 11,
     "korean": "몇 분 입니까?",
     "english": "How many minutes is it?",
-    "japanese": "何分(なんぷん)ですか?",
+    "japanese": "何分ですか?",
     "pronounce_r": "Nan pun desu ka?",
     "pronounce_h": "なんぷんですか?",
     "words": [
@@ -318,7 +318,7 @@
     "id": 16,
     "korean": "몇 시 입니까?",
     "english": "What time is it?",
-    "japanese": "何時(なんじ)ですか?",
+    "japanese": "何時ですか?",
     "pronounce_r": "Nanji desu ka?",
     "pronounce_h": "なんじですか?",
     "words": [
@@ -398,7 +398,7 @@
     "id": 21,
     "korean": "몇 월 입니까?",
     "english": "What month is it?",
-    "japanese": "何月(なんがつ)ですか?",
+    "japanese": "何月ですか?",
     "pronounce_r": "Nan gatsu desu ka?",
     "pronounce_h": "なんがつですか?",
     "words": [
@@ -478,7 +478,7 @@
     "id": 26,
     "korean": "몇 년 입니까?",
     "english": "How many years is it?",
-    "japanese": "何年(なんねん)ですか?",
+    "japanese": "何年ですか?",
     "pronounce_r": "Nan nen desu ka?",
     "pronounce_h": "なんねんですか?",
     "words": [
@@ -558,7 +558,7 @@
     "id": 31,
     "korean": "몇 살 입니까?",
     "english": "How old are you?",
-    "japanese": "何歳(なんさい)ですか?",
+    "japanese": "何歳ですか?",
     "pronounce_r": "Nan sai desu ka?",
     "pronounce_h": "なんさいですか?",
     "words": [
@@ -638,7 +638,7 @@
     "id": 36,
     "korean": "몇 권 입니까?",
     "english": "How many copies is it?",
-    "japanese": "何冊(なんさつ)ですか?",
+    "japanese": "何冊ですか?",
     "pronounce_r": "Nan satsu desu ka?",
     "pronounce_h": "なんさつですか?",
     "words": [
@@ -718,7 +718,7 @@
     "id": 41,
     "korean": "몇 등 입니까?",
     "english": "What rank is it?",
-    "japanese": "何等(なんとう)ですか?",
+    "japanese": "何等ですか?",
     "pronounce_r": "Nan tō desu ka?",
     "pronounce_h": "なんとうですか?",
     "words": [
@@ -738,7 +738,7 @@
     "id": 42,
     "korean": "몇 등/번 입니까?",
     "english": "What rank/number is it?",
-    "japanese": "何番(なんばん)ですか?",
+    "japanese": "何番ですか?",
     "pronounce_r": "Nan ban desu ka?",
     "pronounce_h": "なんばんですか?",
     "words": [
@@ -818,7 +818,7 @@
     "id": 47,
     "korean": "몇 층 입니까?",
     "english": "What floor is it?",
-    "japanese": "何階(なんがい)ですか?",
+    "japanese": "何階ですか?",
     "pronounce_r": "Nan gai desu ka?",
     "pronounce_h": "なんがいですか?",
     "words": [
@@ -898,7 +898,7 @@
     "id": 52,
     "korean": "몇 회 입니까?",
     "english": "How many times is it?",
-    "japanese": "何回(なんかい)ですか?",
+    "japanese": "何回ですか?",
     "pronounce_r": "Nan kai desu ka?",
     "pronounce_h": "なんかいですか?",
     "words": [
@@ -978,7 +978,7 @@
     "id": 57,
     "korean": "몇 마리 입니까? (작은 동물)",
     "english": "How many (small) animals are there?",
-    "japanese": "何匹(なんびき)ですか?",
+    "japanese": "何匹ですか?",
     "pronounce_r": "Nan biki desu ka?",
     "pronounce_h": "なんびきですか?",
     "words": [
@@ -1058,7 +1058,7 @@
     "id": 62,
     "korean": "몇 마리 입니까? (큰 동물)",
     "english": "How many (large) animals are there?",
-    "japanese": "何頭(なんとう)ですか?",
+    "japanese": "何頭ですか?",
     "pronounce_r": "Nan tō desu ka?",
     "pronounce_h": "なんとうですか?",
     "words": [
@@ -1138,7 +1138,7 @@
     "id": 67,
     "korean": "몇 장 입니까?",
     "english": "How many sheets is it?",
-    "japanese": "何枚(なんまい)ですか?",
+    "japanese": "何枚ですか?",
     "pronounce_r": "Nan mai desu ka?",
     "pronounce_h": "なんまいですか?",
     "words": [
@@ -1218,7 +1218,7 @@
     "id": 72,
     "korean": "몇 잔 입니까?",
     "english": "How many cups is it?",
-    "japanese": "何杯(なんばい)ですか?",
+    "japanese": "何杯ですか?",
     "pronounce_r": "Nan bai desu ka?",
     "pronounce_h": "なんばいですか?",
     "words": [
@@ -1298,7 +1298,7 @@
     "id": 77,
     "korean": "몇 박 입니까?",
     "english": "How many nights is it?",
-    "japanese": "何泊(なんぱく)ですか?",
+    "japanese": "何泊ですか?",
     "pronounce_r": "Nan paku desu ka?",
     "pronounce_h": "なんぱくですか?",
     "words": [
@@ -1378,7 +1378,7 @@
     "id": 82,
     "korean": "몇 자루 입니까?",
     "english": "How many (long, cylindrical) items are there?",
-    "japanese": "何本(なんぼん)ですか?",
+    "japanese": "何本ですか?",
     "pronounce_r": "Nan bon desu ka?",
     "pronounce_h": "なんぼんですか?",
     "words": [
@@ -1458,7 +1458,7 @@
     "id": 87,
     "korean": "이 필통에는 연필이 5자루 있습니다.",
     "english": "There are 5 pencils in this pencil case.",
-    "japanese": "この筆箱(ふでばこ)に鉛筆(えんぴつ)が五本(ほん)あります。",
+    "japanese": "この筆箱に鉛筆が五本あります。",
     "pronounce_r": "Kono fudebako ni enpitsu ga gohon arimasu.",
     "pronounce_h": "この ふでばこに えんぴつが ごほんあります。",
     "words": [
@@ -1488,7 +1488,7 @@
     "id": 88,
     "korean": "저는 2005년에 태어났습니다.",
     "english": "I was born in 2005.",
-    "japanese": "私(わたし)は二千五(にせんご)年(ねん)に生(う)まれました。",
+    "japanese": "私は二千五年に生まれました。",
     "pronounce_r": "Watashi wa nisen go nen ni umaremashita.",
     "pronounce_h": "わたしは にせんごねんに うまれました。",
     "words": [
@@ -1513,7 +1513,7 @@
     "id": 89,
     "korean": "저는 스무 살입니다. (정중한 표현)",
     "english": "I am twenty years old. (polite)",
-    "japanese": "私(わたし)は二十歳(はたち)です。",
+    "japanese": "私は二十歳です。",
     "pronounce_r": "Watashi wa hatachi desu.",
     "pronounce_h": "わたしは はたちです。",
     "words": [
@@ -1533,7 +1533,7 @@
     "id": 90,
     "korean": "이 건물은 10층까지 있습니다.",
     "english": "This building has up to 10 floors.",
-    "japanese": "この建物(たてもの)は十階(かい)まであります。",
+    "japanese": "この建物は十階まであります。",
     "pronounce_r": "Kono tatemono wa jukkai made arimasu.",
     "pronounce_h": "この たてものは じゅっかいまで あります。",
     "words": [
@@ -1563,7 +1563,7 @@
     "id": 91,
     "korean": "콜라를 3잔 주문해도 될까요?",
     "english": "May I order 3 glasses of cola?",
-    "japanese": "コーラを三杯(はい)注文(ちゅうもん)してもいいですか。",
+    "japanese": "コーラを三杯注文してもいいですか。",
     "pronounce_r": "Kōra o sanbai chūmon shite mo ii desu ka.",
     "pronounce_h": "コーラを さんばい ちゅうもんしてもいいですか。",
     "words": [
@@ -1588,7 +1588,7 @@
     "id": 92,
     "korean": "회의는 8시에 시작합니다.",
     "english": "The meeting starts at 8 o'clock.",
-    "japanese": "会議(かいぎ)は八時(じ)に始(はじ)まります。",
+    "japanese": "会議は八時に始まります。",
     "pronounce_r": "Kaigi wa hachiji ni hajimarimasu.",
     "pronounce_h": "かいぎは はちじに はじまります。",
     "words": [
@@ -1613,7 +1613,7 @@
     "id": 93,
     "korean": "이 서점에는 만화책이 6권 있습니다.",
     "english": "This bookstore has 6 comic books.",
-    "japanese": "この本屋(ほんや)に漫画(まんが)が六冊(さつ)あります。",
+    "japanese": "この本屋に漫画が六冊あります。",
     "pronounce_r": "Kono honya ni manga ga roku satsu arimasu.",
     "pronounce_h": "この ほんやに まんがが ろくさつあります。",
     "words": [
@@ -1643,7 +1643,7 @@
     "id": 94,
     "korean": "이곳에서 1분만 기다려주세요.",
     "english": "Please wait here for just 1 minute.",
-    "japanese": "ここで一分(ふん)だけ待(ま)ってください。",
+    "japanese": "ここで一分だけ待ってください。",
     "pronounce_r": "Koko de ippun dake matte kudasai.",
     "pronounce_h": "ここで いっぷんだけ まってください。",
     "words": [
@@ -1673,7 +1673,7 @@
     "id": 95,
     "korean": "여행은 4박 5일 일정입니다.",
     "english": "The trip is a 4-night, 5-day itinerary.",
-    "japanese": "旅行(りょこう)は四泊(はく)五日(いつか)の日程(にってい)です。",
+    "japanese": "旅行は四泊五日の日程です。",
     "pronounce_r": "Ryokō wa yonpaku itsuka no nittei desu.",
     "pronounce_h": "りょこうは よんぱくいつかの にっていです。",
     "words": [
@@ -1703,7 +1703,7 @@
     "id": 96,
     "korean": "이 방에는 고양이가 7마리 있습니다.",
     "english": "There are 7 cats in this room.",
-    "japanese": "この部屋(へや)に猫(ねこ)が七匹(ひき)います。",
+    "japanese": "この部屋に猫が七匹います。",
     "pronounce_r": "Kono heya ni neko ga nana hiki imasu.",
     "pronounce_h": "この へやに ねこが ななひきいます。",
     "words": [
@@ -1733,7 +1733,7 @@
     "id": 97,
     "korean": "이 CD는 990엔입니다.",
     "english": "This CD is 990 yen.",
-    "japanese": "このCDは九百九十円(えん)です。",
+    "japanese": "このCDは九百九十円です。",
     "pronounce_r": "Kono shī dī wa kyūhyaku kyūjū en desu.",
     "pronounce_h": "この シーディーは きゅうひゃくきゅうじゅうえんです。",
     "words": [
@@ -1753,7 +1753,7 @@
     "id": 98,
     "korean": "오늘 커피를 4잔 마셨습니다.",
     "english": "I drank 4 cups of coffee today.",
-    "japanese": "今日(きょう)コーヒーを四杯(はい)飲(の)みました。",
+    "japanese": "今日コーヒーを四杯飲みました。",
     "pronounce_r": "Kyō kōhī o yon hai nomimashita.",
     "pronounce_h": "きょう コーヒーを よんはい のみました。",
     "words": [
@@ -1783,7 +1783,7 @@
     "id": 99,
     "korean": "어제 게임을 10회 플레이했습니다.",
     "english": "I played the game 10 times yesterday.",
-    "japanese": "昨日(きのう)ゲームを十回(かい)プレイしました。",
+    "japanese": "昨日ゲームを十回プレイしました。",
     "pronounce_r": "Kinō gēmu o jukkai purei shimashita.",
     "pronounce_h": "きのう ゲームを じゅっかい プレイしました。",
     "words": [
@@ -1813,7 +1813,7 @@
     "id": 100,
     "korean": "8권짜리 책을 샀습니다.",
     "english": "I bought an 8-volume book.",
-    "japanese": "八冊(さつ)の本(ほん)を買(か)いました。",
+    "japanese": "八冊の本を買いました。",
     "pronounce_r": "Hassatsu no hon o kaimashita.",
     "pronounce_h": "はっさつの ほんを かいました。",
     "words": [
@@ -1838,7 +1838,7 @@
     "id": 101,
     "korean": "이 도서관은 2층에 있습니다.",
     "english": "This library is on the 2nd floor.",
-    "japanese": "この図書館(としょかん)は二階(かい)にあります。",
+    "japanese": "この図書館は二階にあります。",
     "pronounce_r": "Kono toshokan wa nikai ni arimasu.",
     "pronounce_h": "この としょかんは にかいに あります。",
     "words": [
@@ -1863,7 +1863,7 @@
     "id": 102,
     "korean": "오늘은 12월 25일입니다.",
     "english": "Today is December 25th.",
-    "japanese": "今日(きょう)は十二月(がつ)二十五日(にち)です。",
+    "japanese": "今日は十二月二十五日です。",
     "pronounce_r": "Kyō wa jūni gatsu nijūgo nichi desu.",
     "pronounce_h": "きょうは じゅうにがつ にじゅうごにちです。",
     "words": [
@@ -1888,7 +1888,7 @@
     "id": 103,
     "korean": "이 종이를 1장 잘라주세요.",
     "english": "Please cut 1 sheet of this paper.",
-    "japanese": "この紙(かみ)を一枚(まい)切(き)ってください。",
+    "japanese": "この紙を一枚切ってください。",
     "pronounce_r": "Kono kami o ichi mai kitte kudasai.",
     "pronounce_h": "この かみを いちまい きってください。",
     "words": [
@@ -1913,7 +1913,7 @@
     "id": 104,
     "korean": "저에게 100엔을 주세요.",
     "english": "Please give me 100 yen.",
-    "japanese": "私(わたし)に百円(えん)をください。",
+    "japanese": "私に百円をください。",
     "pronounce_r": "Watashi ni hyaku en o kudasai.",
     "pronounce_h": "わたしに ひゃくえんを ください。",
     "words": [
@@ -1938,7 +1938,7 @@
     "id": 105,
     "korean": "이 다리를 건너는 데 8초 걸립니다.",
     "english": "It takes 8 seconds to cross this bridge.",
-    "japanese": "この橋(はし)を渡(わた)るのに八秒(びょう)掛(か)かります。",
+    "japanese": "この橋を渡るのに八秒掛かります。",
     "pronounce_r": "Kono hashi o wataru no ni hachi byō kakarimasu.",
     "pronounce_h": "この はしを わたるのに はちびょう かかります。",
     "words": [
@@ -1968,7 +1968,7 @@
     "id": 106,
     "korean": "3분 후에 전화하겠습니다.",
     "english": "I will call in 3 minutes.",
-    "japanese": "三分(ふん)後(ご)に電話(でんわ)します。",
+    "japanese": "三分後に電話します。",
     "pronounce_r": "Sanpun go ni denwa shimasu.",
     "pronounce_h": "さんぷんごに でんわします。",
     "words": [
