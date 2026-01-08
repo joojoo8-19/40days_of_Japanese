@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 generate_tts_jp.py
+generate_tts.py
+squash_tts.py
 
 # Virtual env
 venv/
