@@ -103,11 +103,13 @@
                                 </div>
                             </div>
                             <div class="card-back" hidden>
-                                <div class="kana-char" id="back-char">あ</div>
-                                <div class="kana-romaji" id="back-romaji">a</div>
+                                <div class="kana-char" id="kana-svg-container"></div>
+                                <!-- <div class="kana-char" id="back-char">あ</div> -->
+                                <!-- <div class="kana-romaji" id="back-romaji">a</div> -->
                                 <div class="answer-controls">
                                     <button id="correct-btn" class="correct">정답</button>
                                     <button id="wrong-btn" class="wrong">오답</button>
+                                    <button id="replay-btn">다시 보기</button>
                                 </div>
                             </div>
                         </div>
@@ -218,6 +220,6 @@
     </footer>
   </main>
   <!-- app.js -->
-  <script src="app.js"></script>
+  <script type="module" src="app.js"></script>
 </body>
 </html>
