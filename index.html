@@ -1,225 +1,272 @@
 <!doctype html>
 <html lang="ko">
+
 <head>
-<!-- Google Tag Manager -->
-  <script>
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-TPTN8WLK');
-  </script>
-<!-- End Google Tag Manager -->
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>🇯🇵 40 days of Japanese: 40일 일본어 기초 회화</title>
-  <link rel="stylesheet" href="style.css" />
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TPTN8WLK');
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>🇯🇵 40 days of Japanese: 40일 일본어 기초 회화</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPTN8WLK"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  <main class="app-container">
-    <header class="top-menu">
-      <nav class="menu">
-        <button class="menu-button" data-menu="letters">
-            <span class="menu-icon">ᓚ₍ ^. .^₎</span>
-            char
-        </button>
-        <button class="menu-button" data-menu="grammar">
-            <span class="menu-icon">₍^. .^₎Ⳋ</span>
-            lecture
-        </button>
-        <button class="menu-button" data-menu="sentences">
-            <span class="menu-icon">₍^. .^₎⟆</span>
-            repeat
-        </button>
-      </nav>
-    </header>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPTN8WLK" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <main class="app-container">
+        <header class="top-menu">
+            <nav class="menu">
+                <button class="menu-button" data-menu="letters">
+                    <span class="menu-icon">ᓚ₍ ^. .^₎</span>
+                    char
+                </button>
+                <button class="menu-button" data-menu="grammar">
+                    <span class="menu-icon">₍^. .^₎Ⳋ</span>
+                    lecture
+                </button>
+                <button class="menu-button" data-menu="sentences">
+                    <span class="menu-icon">₍^. .^₎⟆</span>
+                    repeat
+                </button>
+            </nav>
+        </header>
 
-    <section class="window-frame">
-        <div class="window-header">
-            <div class="window-controls">
-                <div class="control-dot red"></div>
-                <div class="control-dot yellow"></div>
-                <div class="control-dot green"></div>
-            </div>
-        </div>
-        
-        <div class="window-content" id="window">
-            <div id="initial-state" class="initial-message">
-                <span class="hand-icon">👆🏼</span>
-                <p>원하는 고양이를 클릭해 보세요!<br>일본어 학습을 시작할 수 있습니다.</p>
-            </div>
-
-            <!-- LETTERS PANEL (기존 히라/카타) -->
-            <div id="letters-panel" class="panel hidden">
-                <div class="top-controls">
-                    <div class="mode-switch">
-                        <label>
-                            <input type="radio" name="kana" value="hiragana" checked>
-                            히라가나
-                        </label>
-                        <label>
-                            <input type="radio" name="kana" value="katakana">
-                            가타카나
-                        </label>
-                    </div>
-
-                    <div class="box-buttons" role="tablist" aria-label="Leitner boxes">
-                        <button class="box-btn" data-box="1">Box 1</button>
-                        <button class="box-btn" data-box="2">Box 2</button>
-                        <button class="box-btn" data-box="3">Box 3</button>
-                        <button class="box-btn" data-box="4">Box 4</button>
-                        <button class="box-btn" data-box="5">Box 5</button>
-                    </div>
-                </div>
-
-                <div class="learning-area">
-                    <aside class="sidebar">
-                        <h3>라이트너 박스 (글자)</h3>
-                        <ul id="box-counts" class="counts">
-                            <li>Box 1: <span data-count="1">0</span></li>
-                            <li>Box 2: <span data-count="2">0</span></li>
-                            <li>Box 3: <span data-count="3">0</span></li>
-                            <li>Box 4: <span data-count="4">0</span></li>
-                            <li>Box 5: <span data-count="5">0</span></li>
-                        </ul>
-                        <button id="reset-progress" class="small">초기화</button>
-                    </aside>
-
-                    <section class="card-area" aria-live="polite">
-                        <div id="flashcard" class="card wide">
-                            <div class="card-front">
-                                <div class="kana-sound" id="front-hangul">아</div>
-                                <div class="front-controls">
-                                    <button id="hint-btn">힌트</button>
-                                    <button id="flip-btn">뒤집기</button>
-                                </div>
-                                <div id="hint-area" class="hint" hidden>
-                                    <strong id="hint-keyword">키워드</strong>
-                                    <p id="hint-explanation">설명</p>
-                                </div>
-                            </div>
-                            <div class="card-back" hidden>
-                                <div class="kana-char" id="kana-svg-container"></div>
-                                <!-- <div class="kana-char" id="back-char">あ</div> -->
-                                <!-- <div class="kana-romaji" id="back-romaji">a</div> -->
-                                <div class="answer-controls">
-                                    <button id="correct-btn" class="correct">정답</button>
-                                    <button id="wrong-btn" class="wrong">오답</button>
-                                    <button id="replay-btn">다시 보기</button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div id="empty-state" class="empty" hidden>
-                            <p>선택한 박스에 학습할 카드가 없습니다.</p>
-                        </div>
-                    </section>
+        <section class="window-frame">
+            <div class="window-header">
+                <div class="window-controls">
+                    <div class="control-dot red"></div>
+                    <div class="control-dot yellow"></div>
+                    <div class="control-dot green"></div>
                 </div>
             </div>
 
-            <!-- GRAMMAR PANEL -->
-            <div id="grammar-panel" class="panel hidden">
-                <div class="top-controls">
-                    <div class="mode-switch">
-                            <label>Day:
-                            <select id="day-select-g">
-                                <!-- options 1..40 inserted by JS -->
-                            </select>
+            <div class="window-content" id="window">
+                <!-- initial page -->
+                <div id="initial-state" class="initial-message">
+                    <div class="roadmap-section">
+                        <div class="section-header">
+                            <h4>1️⃣ 히라가나/가타카나부터 시작할까요?</h4>
+                        </div>
+                        <div class="guide-box">
+                            <p>Char 메뉴에서 글자 쓰기 애니메이션과 함께 기초를 다져보세요!</p>
+                            <button class="action-btn" onclick="document.querySelector('[data-menu=\'letters\']').click()">
+                                지금 글자 배우러 가기 ✍️
+                            </button>
+                        </div>
+                    </div>
+
+                    <hr class="divider">
+
+                    <div class="roadmap-section">
+                        <div class="section-header">
+                            <h4>2️⃣ 강의를 듣고(Lecture), 오디오와 함께 복습(Repeat)하세요!</h4>
+                        </div>
+                        <div id="roadmap-container" class="roadmap-container">
+                            <div id="milestones-list"></div>
+                        </div>
+                    </div>
+
+                    <hr class="divider">
+
+                    <div class="roadmap-section final-step">
+                        <div class="section-header">
+                            <h4>3️⃣ 대단해요! Day 28까지 완주하셨나요?</h4>
+                        </div>
+                        <div class="guide-box gold">
+                            <p>이제부터 진짜 시작입니다! 함께 복습해요.</p>
+                            <button class="action-btn"
+                                onclick="document.querySelector('[data-menu=\'sentences\']').click()">
+                                전체 문장 복습하기 📢
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- LETTERS PANEL (기존 히라/카타) -->
+                <div id="letters-panel" class="panel hidden">
+                    <div class="top-controls">
+                        <div class="mode-switch">
+                            <label>
+                                <input type="radio" name="kana" value="hiragana" checked>
+                                히라가나
                             </label>
-                    </div>
-                    <a id="lecture-pdf" href="data/curriculum/day1/study1.pdf" download>Day 1 pdf 강의자료</a>
-                </div>
-                <div class="video-container">
-                    <video id="lecture-video" controls>
-                        <source id="lecture-source" src="data/curriculum/day1/day1.mp4" type="video/mp4" />
-                    </video>
-                </div>
-                <canvas id="canvas" style="display:none;"></canvas>
-            </div>
+                            <label>
+                                <input type="radio" name="kana" value="katakana">
+                                가타카나
+                            </label>
+                        </div>
 
-            <!-- SENTENCES PANEL (새로 추가) -->
-            <div id="sentences-panel" class="panel hidden">
-                <div class="top-controls">
-                    <div class="mode-switch">
-                        <label>Day:
-                          <select id="day-select-s">
-                            <!-- options 1..40 inserted by JS -->
-                          </select>
-                        </label>
+                        <div class="box-buttons" role="tablist" aria-label="Leitner boxes">
+                            <button class="box-btn" data-box="1">Box 1</button>
+                            <button class="box-btn" data-box="2">Box 2</button>
+                            <button class="box-btn" data-box="3">Box 3</button>
+                            <button class="box-btn" data-box="4">Box 4</button>
+                            <button class="box-btn" data-box="5">Box 5</button>
+                        </div>
                     </div>
 
-                    <div class="box-buttons" role="tablist" aria-label="Sentence Leitner boxes">
-                        <button class="sentence-box-btn box-btn" data-box="1">Box 1</button>
-                        <button class="sentence-box-btn box-btn" data-box="2">Box 2</button>
-                        <button class="sentence-box-btn box-btn" data-box="3">Box 3</button>
-                        <button class="sentence-box-btn box-btn" data-box="4">Box 4</button>
-                        <button class="sentence-box-btn box-btn" data-box="5">Box 5</button>
-                    </div>
-                </div>
+                    <div class="learning-area">
+                        <aside class="sidebar">
+                            <h3>라이트너 박스 (글자)</h3>
+                            <ul id="box-counts" class="counts">
+                                <li>Box 1: <span data-count="1">0</span></li>
+                                <li>Box 2: <span data-count="2">0</span></li>
+                                <li>Box 3: <span data-count="3">0</span></li>
+                                <li>Box 4: <span data-count="4">0</span></li>
+                                <li>Box 5: <span data-count="5">0</span></li>
+                            </ul>
+                            <button id="reset-progress" class="small">초기화</button>
+                        </aside>
 
-                <div class="learning-area">
-                    <aside class="sidebar">
-                        <h3>라이트너 박스 (문장)</h3>
-                        <ul id="sentence-box-counts" class="counts">
-                            <li>Box 1: <span data-scount="1">0</span></li>
-                            <li>Box 2: <span data-scount="2">0</span></li>
-                            <li>Box 3: <span data-scount="3">0</span></li>
-                            <li>Box 4: <span data-scount="4">0</span></li>
-                            <li>Box 5: <span data-scount="5">0</span></li>
-                        </ul>
-                        <button id="reset-sentences" class="small">초기화(문장)</button>
-                    </aside>
-
-                    <section class="card-area" aria-live="polite">
-                        <div id="sentence-card" class="card wide">
-                            <div class="card-front">
-                                <div class="sentence-korean" id="s-front-kr" style="font-size:20px; font-weight:700;">(한국어 문장)</div>
-                                <div class="front-controls">
-                                    <button id="s-hint-btn">힌트</button>
-                                    <button id="s-flip-btn">뒤집기</button>
-                                </div>
-                                <div id="s-hint-area" class="hint" hidden>
-                                  <p id="s-hint-explain"></p>
-                                  <ul id="s-hints" class="sentence-hints"></ul>
-                                </div>
-                            </div>
-                            <div class="card-back" hidden>
-                                <div style="text-align:center;">
-                                    <div class="sentence-kr-small" id="s-back-kr" style="font-size:14px;color:#666;margin-bottom:12px;"></div>
-        
-                                    <div class="sentence-row" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-                                        <button class="sound-btn" id="s-back-sound">📢</button>
-                                        <div class="sentence-jp" id="s-back-jp" style="font-size:28px;font-weight:800;"></div>
+                        <section class="card-area" aria-live="polite">
+                            <div id="flashcard" class="card wide">
+                                <div class="card-front">
+                                    <div class="kana-sound" id="front-hangul">아</div>
+                                    <div class="front-controls">
+                                        <button id="hint-btn">힌트</button>
+                                        <button id="flip-btn">뒤집기</button>
                                     </div>
-
-                                    <div class="sentence-pronounce" id="s-back-pron" style="font-size:18px;color:#666;margin-top:8px;"></div>
+                                    <div id="hint-area" class="hint" hidden>
+                                        <strong id="hint-keyword">키워드</strong>
+                                        <p id="hint-explanation">설명</p>
+                                    </div>
                                 </div>
-                                <div class="answer-controls" style="margin-top:25px;">
-                                    <button id="s-correct-btn" class="correct">정답</button>
-                                    <button id="s-wrong-btn" class="wrong">오답</button>
+                                <div class="card-back" hidden>
+                                    <div class="kana-char" id="kana-svg-container"></div>
+                                    <!-- <div class="kana-char" id="back-char">あ</div> -->
+                                    <!-- <div class="kana-romaji" id="back-romaji">a</div> -->
+                                    <div class="answer-controls">
+                                        <button id="correct-btn" class="correct">정답</button>
+                                        <button id="wrong-btn" class="wrong">오답</button>
+                                        <button id="replay-btn">다시 보기</button>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div id="sentence-empty" class="empty" hidden>
-                            <p>선택한 박스에 학습할 문장이 없습니다.</p>
-                        </div>
-                    </section>
+                            <div id="empty-state" class="empty" hidden>
+                                <p>선택한 박스에 학습할 카드가 없습니다.</p>
+                            </div>
+                        </section>
+                    </div>
                 </div>
+
+                <!-- GRAMMAR PANEL -->
+                <div id="grammar-panel" class="panel hidden">
+                    <div class="top-controls">
+                        <div class="mode-switch">
+                            <label>Day:
+                                <select id="day-select-g">
+                                    <!-- options 1..40 inserted by JS -->
+                                </select>
+                            </label>
+                        </div>
+                        <a id="lecture-pdf" href="data/curriculum/day1/study1.pdf" download>Day 1 pdf 강의자료</a>
+                    </div>
+                    <div class="video-container">
+                        <video id="lecture-video" controls>
+                            <source id="lecture-source" src="data/curriculum/day1/day1.mp4" type="video/mp4" />
+                        </video>
+                    </div>
+                    <canvas id="canvas" style="display:none;"></canvas>
+                </div>
+
+                <!-- SENTENCES PANEL (새로 추가) -->
+                <div id="sentences-panel" class="panel hidden">
+                    <div class="top-controls">
+                        <div class="mode-switch">
+                            <label>Day:
+                                <select id="day-select-s">
+                                    <!-- options 1..40 inserted by JS -->
+                                </select>
+                            </label>
+                        </div>
+
+                        <div class="box-buttons" role="tablist" aria-label="Sentence Leitner boxes">
+                            <button class="sentence-box-btn box-btn" data-box="1">Box 1</button>
+                            <button class="sentence-box-btn box-btn" data-box="2">Box 2</button>
+                            <button class="sentence-box-btn box-btn" data-box="3">Box 3</button>
+                            <button class="sentence-box-btn box-btn" data-box="4">Box 4</button>
+                            <button class="sentence-box-btn box-btn" data-box="5">Box 5</button>
+                        </div>
+                    </div>
+
+                    <div class="learning-area">
+                        <aside class="sidebar">
+                            <h3>라이트너 박스 (문장)</h3>
+                            <ul id="sentence-box-counts" class="counts">
+                                <li>Box 1: <span data-scount="1">0</span></li>
+                                <li>Box 2: <span data-scount="2">0</span></li>
+                                <li>Box 3: <span data-scount="3">0</span></li>
+                                <li>Box 4: <span data-scount="4">0</span></li>
+                                <li>Box 5: <span data-scount="5">0</span></li>
+                            </ul>
+                            <button id="reset-sentences" class="small">초기화(문장)</button>
+                        </aside>
+
+                        <section class="card-area" aria-live="polite">
+                            <div id="sentence-card" class="card wide">
+                                <div class="card-front">
+                                    <div class="sentence-korean" id="s-front-kr"
+                                        style="font-size:20px; font-weight:700;">(한국어 문장)</div>
+                                    <div class="front-controls">
+                                        <button id="s-hint-btn">힌트</button>
+                                        <button id="s-flip-btn">뒤집기</button>
+                                    </div>
+                                    <div id="s-hint-area" class="hint" hidden>
+                                        <p id="s-hint-explain"></p>
+                                        <ul id="s-hints" class="sentence-hints"></ul>
+                                    </div>
+                                </div>
+                                <div class="card-back" hidden>
+                                    <div style="text-align:center;">
+                                        <div class="sentence-kr-small" id="s-back-kr"
+                                            style="font-size:14px;color:#666;margin-bottom:12px;"></div>
+
+                                        <div class="sentence-row"
+                                            style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+                                            <button class="sound-btn" id="s-back-sound">📢</button>
+                                            <div class="sentence-jp" id="s-back-jp"
+                                                style="font-size:28px;font-weight:800;"></div>
+                                        </div>
+
+                                        <div class="sentence-pronounce" id="s-back-pron"
+                                            style="font-size:18px;color:#666;margin-top:8px;"></div>
+                                    </div>
+                                    <div class="answer-controls" style="margin-top:25px;">
+                                        <button id="s-correct-btn" class="correct">정답</button>
+                                        <button id="s-wrong-btn" class="wrong">오답</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="sentence-empty" class="empty" hidden>
+                                <p>선택한 박스에 학습할 문장이 없습니다.</p>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+
             </div>
+        </section>
 
-        </div>
-    </section>
-
-    <footer class="footer">
-      <small>간단한 Leitner 암기 시스템 • 진행은 브라우저에 저장됩니다.</small>
-    </footer>
-  </main>
-  <!-- app.js -->
-  <script type="module" src="app.js"></script>
+        <footer class="footer">
+            <small>간단한 Leitner 암기 시스템 • 진행은 브라우저에 저장됩니다.</small>
+        </footer>
+    </main>
+    <!-- app.js -->
+    <script type="module" src="app.js"></script>
 </body>
+
 </html>

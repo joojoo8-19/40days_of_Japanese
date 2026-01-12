@@ -1,6 +1,6 @@
 // app.js
-  import { HIRAGANA } from "./data/char/hiragana.js";
-  import { KATAKANA } from "./data/char/katakana.js";
+import { HIRAGANA } from "./data/char/hiragana.js";
+import { KATAKANA } from "./data/char/katakana.js";
 (() => {
   /*********************************************************
    * 1. 설정
@@ -35,6 +35,49 @@
       ]
     }
   ];
+  const DAY_TITLE = {
+    "1": "저는 ~입니다",
+    "2": "~에 ~가 있습니다",
+    "3": "나형용사",
+    "4": "이형용사",
+    "5": "~합니다(동사의 ます형)",
+    "6": "조사",
+    "7": "~하러 가다/~하고싶다",
+    "8": "동사의 て형과 た형",
+    "9": "동사 て형의 활용",
+    "10": "유용한 동사 활용 표현들",
+    "11": "동사 た형의 활용",
+    "12": "부정형 정중체",
+    "13": "단위 표현과 함께 숫자 세기",
+    "14": "~하면(가정법)",
+    "15": "가정법 심화",
+    "16": "~할 수 있다(동사 가능형)",
+    "17": "~라고 합니다/~인 것 같습니다",
+    "18": "계획/의지를 나타내는 표현",
+    "19": "한자를 읽는 두가지 방법",
+    "20": "복습 (1)",
+    "21": "복습 (2)",
+    "22": "복습 (3)",
+    "23": "복습 (4)",
+    "24": "복습 (5)",
+    "25": "복습 (6)",
+    "26": "복습 (7)",
+    "27": "복습 (8)",
+    "28": "복습 (9)"
+  };
+  const ROADMAP_GROUPS = [
+    { category: "💎 명사", days: [1, 2] },
+    { category: "🎨 형용사", days: [3, 4] },
+    { category: "🏃 동사 기초", days: [5] },
+    { category: "🔗 조사", days: [6] },
+    { category: "⚙️ 동사의 활용", days: [7, 8, 9, 10, 11] },
+    { category: "🚫 부정과 수량", days: [12, 13] },
+    { category: "❓ 가정과 가능", days: [14, 15, 16] },
+    { category: "🗣️ 추측과 의지", days: [17, 18] },
+    { category: "📚 한자", days: [19] },
+    { category: "🔄 패턴 복습", days: [20, 21, 22, 23, 24, 25, 26, 27, 28] }
+  ];
+
 
   /*********************************************************
    * 2. Storage keys & default progress builders
@@ -189,67 +232,67 @@
   }
 
   function createKanaSVG(kana) {
-  if (!kana.svg) return null;
+    if (!kana.svg) return null;
 
-  const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-  svg.setAttribute("viewBox", kana.svg.viewBox);
-  svg.classList.add("kana-svg");
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("viewBox", kana.svg.viewBox);
+    svg.classList.add("kana-svg");
 
-  kana.svg.strokes.forEach((d, i) => {
-    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-    path.setAttribute("d", d);
-    path.style.animationDelay = `${i * 0.8}s`;
-    svg.appendChild(path);
-  });
+    kana.svg.strokes.forEach((d, i) => {
+      const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+      path.setAttribute("d", d);
+      path.style.animationDelay = `${i * 0.8}s`;
+      svg.appendChild(path);
+    });
 
-  return svg;
-}
-
-function replaySVG(svg) {
-  if (!svg) return;
-
-  svg.querySelectorAll("path").forEach(p => {
-    p.style.animation = "none";
-    p.getBoundingClientRect(); // force reflow
-    p.style.animation = "";
-  });
-}
-
-function renderCard() {
-  const card = getCurrentCard();
-  if (!card) {
-    flashcard.hidden = true;
-    emptyState.hidden = false;
-    return;
+    return svg;
   }
 
-  flashcard.hidden = false;
-  emptyState.hidden = true;
+  function replaySVG(svg) {
+    if (!svg) return;
 
-  frontEl.hidden = false;
-  backEl.hidden = true;
-
-  // front
-  frontHangul.textContent = card.data.hangul || card.data.romaji;
-  hintKeyword.textContent = card.data.keyword || '';
-  hintExplanation.textContent = card.data.explanation || '';
-  hintArea.hidden = true;
-
-  // // back (텍스트)
-  // backChar.textContent = card.data.char;
-  // backRomaji.textContent = card.data.romaji;
-
-  // 🔹 SVG 처리
-  kanaSvgContainer.innerHTML = ""; // 이전 SVG 제거
-  const svg = createKanaSVG(card.data);
-  if (svg) {
-    kanaSvgContainer.appendChild(svg);
-    replayBtn.onclick = () => replaySVG(svg);
-    replayBtn.hidden = false;
-  } else {
-    replayBtn.hidden = true;
+    svg.querySelectorAll("path").forEach(p => {
+      p.style.animation = "none";
+      p.getBoundingClientRect(); // force reflow
+      p.style.animation = "";
+    });
   }
-}
+
+  function renderCard() {
+    const card = getCurrentCard();
+    if (!card) {
+      flashcard.hidden = true;
+      emptyState.hidden = false;
+      return;
+    }
+
+    flashcard.hidden = false;
+    emptyState.hidden = true;
+
+    frontEl.hidden = false;
+    backEl.hidden = true;
+
+    // front
+    frontHangul.textContent = card.data.hangul || card.data.romaji;
+    hintKeyword.textContent = card.data.keyword || '';
+    hintExplanation.textContent = card.data.explanation || '';
+    hintArea.hidden = true;
+
+    // // back (텍스트)
+    // backChar.textContent = card.data.char;
+    // backRomaji.textContent = card.data.romaji;
+
+    // 🔹 SVG 처리
+    kanaSvgContainer.innerHTML = ""; // 이전 SVG 제거
+    const svg = createKanaSVG(card.data);
+    if (svg) {
+      kanaSvgContainer.appendChild(svg);
+      replayBtn.onclick = () => replaySVG(svg);
+      replayBtn.hidden = false;
+    } else {
+      replayBtn.hidden = true;
+    }
+  }
 
   function moveCard(itemIdx, fromBox, toBox) {
     const arrFrom = getBoxArray(fromBox);
@@ -539,16 +582,12 @@ function renderCard() {
   });
 
   // sentences controls
-  const dayTitles = [
-    "저는 ~입니다", "~에 ~가 있습니다", "나형용사", "이형용사", "~합니다(동사의 ます형)", "조사", "~하러 가다/~하고싶다", "동사의 て형과 た형", "동사 て형의 활용", "유용한 동사 활용 표현들", "동사 た형의 활용", "부정형 정중체", "단위 표현과 함께 숫자 세기", "~하면(가정법)", "가정법 심화", "~할 수 있다(동사 가능형)", "~라고 합니다/~인 것 같습니다", "계획/의지를 나타내는 표현", "한자를 읽는 두가지 방법", "복습 (1)", "복습 (2)", "복습 (3)", "복습 (4)", "복습 (5)", "복습 (6)", "복습 (7)", "복습 (8)", "복습 (9)"
-  ]
-
   function populateDaySelect(element) {
     if (element.options.length === 0) {
       for (let d = 1; d <= 28; d++) {
         const opt = document.createElement('option');
         opt.value = d;
-        opt.textContent = `${d}. ${dayTitles[d-1]}`;
+        opt.textContent = `${d}. ${DAY_TITLE[d]}`;
         element.appendChild(opt);
       }
       element.value = String(state.sentenceDay || 1);
@@ -636,6 +675,43 @@ function renderCard() {
     lectureVideo.setAttribute("poster", thumbnail);
   });
 
+  // initial page - roadmap
+
+  function renderRoadmap() {
+    // 1. 카드 만들기
+    const list = document.getElementById('milestones-list');
+    if (!list) return;
+
+    list.innerHTML = ''; // 초기화
+
+    ROADMAP_GROUPS.forEach(group => {
+      // 그룹 제목 추가
+      const groupTitle = document.createElement('div');
+      groupTitle.className = 'group-category-title';
+      groupTitle.innerText = group.category;
+      list.appendChild(groupTitle);
+
+      // 해당 그룹 내의 Day 카드들 생성
+      group.days.forEach(dayNum => {
+        const card = document.createElement('div');
+        card.className = 'milestone-card';
+        card.innerHTML = `
+                <span class="day-badge">DAY ${dayNum}</span>
+                <span class="day-title">${DAY_TITLE[dayNum]}</span>
+            `;
+
+        // 기존 클릭 이벤트 로직
+        card.onclick = () => {
+          const dayStr = String(dayNum);
+            document.querySelector('[data-menu="grammar"]').click();
+            const selectL = document.getElementById('day-select-g');
+            if (selectL) { selectL.value = dayStr; selectL.dispatchEvent(new Event('change')); }
+        };
+        list.appendChild(card);
+      });
+    });
+  }
+
   /*********************************************************
    * 7. Initialization
    *********************************************************/
@@ -659,6 +735,7 @@ function renderCard() {
     setActiveBoxBtn(state.progress.selectedBox);
     populateDaySelect(daySelect);
     populateDaySelect(daySelectG)
+    renderRoadmap()
   }
 
   normalizeProgress();
