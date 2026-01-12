@@ -510,7 +510,7 @@
     lectureVideo.load();
     } catch (e) {
     console.log(e);
-    window.alert(`🙇🏻‍♀️ Day ${day} 학습자료는 아직 준비중입니다.`);
+    window.alert(`🙇🏻‍♀️ Day ${day}(은)는 학습자료만 이용 가능합니다.`);
     }
   }
 
