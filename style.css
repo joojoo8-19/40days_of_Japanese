@@ -30,12 +30,12 @@ body {
 
 a {
   text-decoration: none;
-  color: var(--text-main);
+  color: var(--heart);
 }
 
 a:hover {
   text-decoration: underline;
-  color: var(--heart);
+  color: var(--text-main);
 }
 
 .app-container {
@@ -138,21 +138,6 @@ a:hover {
 
 .window-content {
   padding: 20px;
-}
-
-/* 초기 메시지 스타일 (이미지 참고) */
-.initial-message {
-  text-align: center;
-  padding-top: 100px;
-  color: var(--text-muted);
-  font-size: 18px;
-}
-
-.hand-icon {
-  display: block;
-  font-size: 40px;
-  margin-bottom: 10px;
-  color: #F7B500;
 }
 
 /* --- 패널 및 탑 컨트롤 --- */
@@ -499,13 +484,16 @@ a:hover {
 }
 
 /* initial page(roadmap) */
-.initial-message {
+
+ .initial-message {
+  padding: 25px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px;
+  color: var(--text-muted);
+  font-size: 18px;
   padding: 0;
   overflow: hidden;
-}
-
-.roadmap-section {
-  padding: 25px;
 }
 
 .section-header {
@@ -519,31 +507,13 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.step-badge {
-  background: #333;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 4px;
-  font-size: 10px;
-  font-weight: 800;
+.section-header h3 {
+  word-break: keep-all;
+  /* 한글 줄바꿈 최적화 */
 }
 
-.section-desc {
-  font-size: 13px;
-  color: #666;
-  margin-bottom: 20px;
-  margin-left: 5px;
-}
-
-.guide-box {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 20px;
-  background: #f9f9f9;
-  border-radius: 12px;
+.section-header h4 {
+  margin-top: 10px;
 }
 
 .action-btn {
@@ -581,6 +551,27 @@ a:hover {
   padding: 20px;
   background: #fafafa;
   border-radius: 12px;
+}
+
+
+.guide-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.guide-box p {
+  margin: 12px 0;
+  line-height: 1.6;
+}
+
+.guide-box {
+  background: #fafafa;
 }
 
 /* 그룹 카테고리 제목 스타일 */
@@ -655,44 +646,52 @@ a:hover {
 
 /* 문장 리스트 컨테이너 */
 .sentence-list-container {
-    width: 100%;
-    background: white;
-    padding: 25px;
-    border-radius: 15px;
-    border: 1px solid var(--border-color);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  width: 100%;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 /* 문장 아이템들 정렬 */
 .sentence-items-list {
-    max-height: 350px;
-    overflow-y: auto;
-    margin-bottom: 10px;
-    padding-right: 5px;
+  max-height: 350px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  padding-right: 5px;
 }
 
 /* 개별 문장 스타일 */
 .list-item {
-    padding: 12px 15px;
-    border-bottom: 1px solid #f0f0f0;
-    font-size: 15px;
-    color: var(--text-main);
-    text-align: left;
-    display: flex;
-    gap: 10px;
+  padding: 12px 15px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 15px;
+  color: var(--text-main);
+  text-align: left;
+  display: flex;
+  gap: 10px;
 }
 
-.list-item:last-child { border-bottom: none; }
+.list-item:last-child {
+  border-bottom: none;
+}
 
 .list-item-num {
-    color: var(--menu-color);
-    font-weight: bold;
-    min-width: 25px;
+  color: var(--menu-color);
+  font-weight: bold;
+  min-width: 25px;
 }
 
 /* 스크롤바 디자인 */
-.sentence-items-list::-webkit-scrollbar { width: 6px; }
-.sentence-items-list::-webkit-scrollbar-thumb { background: #ddd; border-radius: 10px; }
+.sentence-items-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sentence-items-list::-webkit-scrollbar-thumb {
+  background: #ddd;
+  border-radius: 10px;
+}
 
 /* 1024px 이하: 여백·정렬 자연스럽게 */
 @media (max-width: 1024px) {
@@ -743,6 +742,18 @@ a:hover {
   .milestone-card {
     margin-left: 30px;
     margin-bottom: 15px;
+  }
+
+  .roadmap-section {
+    padding: 30px 15px;
+  }
+
+  .section-header h3 {
+    font-size: 1.2rem;
+  }
+
+  .guide-box {
+    padding: 18px;
   }
 }
 

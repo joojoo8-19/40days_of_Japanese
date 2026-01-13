@@ -57,22 +57,46 @@
                 <div id="initial-state" class="initial-message">
                     <div class="roadmap-section">
                         <div class="section-header">
-                            <h4>1️⃣ 히라가나/가타카나부터 시작할까요?</h4>
-                        </div>
-                        <div class="guide-box">
-                            <p>Char 메뉴에서 글자 쓰기 애니메이션과 함께 기초를 다져보세요!</p>
-                            <button class="action-btn"
-                                onclick="document.querySelector('[data-menu=\'letters\']').click()">
-                                지금 글자 배우러 가기 ✍️
-                            </button>
+                            <strong>
+                                <h3>"나는 해적왕이 될 거야!"라고 외칠 줄은 알지만,<br>
+                                    "가장 가까운 역이 어디인가요?" 라는 말은 할 줄 모르던 때가 있었다.
+                                </h3>
+                            </strong>
+
                         </div>
                     </div>
-
+                    <hr class="divider">
+                    <div class="section-header">
+                        <h3>1️⃣ Char: 히라가나/가타카나부터 시작할까요?</h3>
+                        <h4>❌ 그냥 쓰면서 외우지 마세요. <br>⭕ 이미지 연상 암기법을 활용해 보세요.</h4>
+                    </div>
+                    <div class="guide-box">
+                        <p>✅ <a href="https://youtu.be/TOaNd-rjaQg?si=YiWl_VnXf2KYGr1X">히라가나 암기법 영상</a>을
+                            보며 '이빨(い)', '우산(う)' 같은 이미지를 머릿속에 그리세요.</p>
+                        <p>✅ 영상으로 익힌 글자들을 Char 메뉴에서 제공하는 플래시 카드로 복습하세요. <br>등하굣길이나 출퇴근길에 폰으로 슥슥 넘기다 보면 어느새 글자가 눈에
+                            익을 거예요.</p>
+                        <button class="action-btn" onclick="document.querySelector('[data-menu=\'letters\']').click()">
+                            지금 글자 배우러 가기 ✍🏻
+                        </button>
+                    </div>
                     <hr class="divider">
 
-                    <div class="roadmap-section">
+                    <div class="roadmap-section initial-message">
                         <div class="section-header">
-                            <h4>2️⃣ 강의를 듣고(Lecture), 오디오와 함께 복습(Repeat)하세요!</h4>
+                            <h3>2️⃣ Lecture: 초보자의 가려운 곳을 긁어드려요.</h3>
+                            <h4>📚 검증된 무료 강의 <a
+                                    href="https://youtube.com/playlist?list=PLw1jTnVa5IIrUWZgXYZd5TUbOJOeSaoQJ&si=NtS550sEKP4j9h_5">홍쌤
+                                    일본어TV</a>와 <a href="https://youtu.be/hrygtLV0NlQ?si=em7KHxNclck3KERq">와카메센세</a>를
+                                기반으로,<br> 📝 실제 학습자가 느낀 궁금증을 보완하여 만들었습니다.</h4>
+                        </div>
+                        <div class="guide-box">
+                            <p>✅ 강의 내용을 그대로 베낀 자료가 아닙니다! <br>일본어 초보자 입장에서 실제로 궁금했던 내용을 중심으로 정리했습니다.</p>
+                            <p>✅ "일본인들도 가정법을 외워서 말 할까요?" 설마요. <br>문법의 핵심 특징만 알면 외울 양이 확 줄어듭니다. 이런 꿀팁들을 학습 자료에 녹여냈습니다.</p>
+                            <p>✅ 직접 만든 자료로 Notebook LM을 활용해 만든 강의를 들어보세요.</p>
+                            <button class="action-btn"
+                                onclick="document.querySelector('[data-menu=\'grammar\']').click()">
+                                지금 강의 들으러 가기 💻
+                            </button>
                         </div>
                         <div id="roadmap-container" class="roadmap-container">
                             <div id="milestones-list"></div>
@@ -81,19 +105,30 @@
 
                     <hr class="divider">
 
-                    <div class="roadmap-section final-step">
+                    <div class="roadmap-section initial-message">
                         <div class="section-header">
-                            <h4>3️⃣ 대단해요! Day 28까지 완주하셨나요?</h4>
+                            <h3>3️⃣ Repeat: 입이 기억할 때까지 반복하세요</h3>
+                            <h4>🤯 뇌를 회화 모드로 전환하는 최종 단계입니다. <br> 🚀 이제부터가 진짜 시작이에요!</h4>
+
                         </div>
-                        <div class="guide-box gold">
-                            <p>이제부터 진짜 시작입니다! 함께 복습해요.</p>
-                            <button class="action-btn"
-                                onclick="document.querySelector('[data-menu=\'sentences\']').click()">
-                                전체 문장 복습하기 📢
-                            </button>
+                        <div class="guide-box">
+                            <div class="guide-box final">
+                                <p>✅ 음성을 반복해서 들으며 귀를 틔우세요.</p>
+                                <p>✅ 한국어 문장을 보고 스스로 일본어 문장을 만들어 보세요. <br>머릿속으로 조합하고 직접 뱉어보는 과정이 <strong>회화와 작문 실력을 동시에
+                                        수직
+                                        상승</strong>시킵니다.</p>
+                                <div class="action-btn-wrapper">
+                                    <button class="action-btn"
+                                        onclick="document.querySelector('[data-menu=\'sentences\']').click()">
+                                        지금 회화 연습하러 가기 📢
+                                    </button>
+                                </div>
+
+                            </div>
                         </div>
                     </div>
                 </div>
+
 
                 <!-- LETTERS PANEL (기존 히라/카타) -->
                 <div id="letters-panel" class="panel hidden">
