@@ -61,7 +61,8 @@
                         </div>
                         <div class="guide-box">
                             <p>Char 메뉴에서 글자 쓰기 애니메이션과 함께 기초를 다져보세요!</p>
-                            <button class="action-btn" onclick="document.querySelector('[data-menu=\'letters\']').click()">
+                            <button class="action-btn"
+                                onclick="document.querySelector('[data-menu=\'letters\']').click()">
                                 지금 글자 배우러 가기 ✍️
                             </button>
                         </div>
@@ -120,6 +121,7 @@
                     <div class="learning-area">
                         <aside class="sidebar">
                             <h3>라이트너 박스 (글자)</h3>
+                            <p>정답을 맞힐수록 카드는 박스 1에서 5로 이동합니다. <br>박스 숫자가 클수록 해당 내용을 더 잘 익혔다는 뜻입니다.</p>
                             <ul id="box-counts" class="counts">
                                 <li>Box 1: <span data-count="1">0</span></li>
                                 <li>Box 2: <span data-count="2">0</span></li>
@@ -202,9 +204,10 @@
                         </div>
                     </div>
 
-                    <div class="learning-area">
+                    <div class="learning-area sentence">
                         <aside class="sidebar">
                             <h3>라이트너 박스 (문장)</h3>
+                            <p>정답을 맞힐수록 카드는 박스 1에서 5로 이동합니다. <br>박스 숫자가 클수록 해당 내용을 더 잘 익혔다는 뜻입니다.</p>
                             <ul id="sentence-box-counts" class="counts">
                                 <li>Box 1: <span data-scount="1">0</span></li>
                                 <li>Box 2: <span data-scount="2">0</span></li>
@@ -214,47 +217,56 @@
                             </ul>
                             <button id="reset-sentences" class="small">초기화(문장)</button>
                         </aside>
-
-                        <section class="card-area" aria-live="polite">
-                            <div id="sentence-card" class="card wide">
-                                <div class="card-front">
-                                    <div class="sentence-korean" id="s-front-kr"
-                                        style="font-size:20px; font-weight:700;">(한국어 문장)</div>
-                                    <div class="front-controls">
-                                        <button id="s-hint-btn">힌트</button>
-                                        <button id="s-flip-btn">뒤집기</button>
-                                    </div>
-                                    <div id="s-hint-area" class="hint" hidden>
-                                        <p id="s-hint-explain"></p>
-                                        <ul id="s-hints" class="sentence-hints"></ul>
-                                    </div>
+                        <div class="sentence-main-container">
+                            <section id="sentence-list-view" class="sentence-list-container wide">
+                                <div class="list-header">
+                                    <h4>📝 학습 문장 미리보기</h4>
+                                    <p>이 박스에서 배울 문장을 미리 확인해 보세요.</p>
                                 </div>
-                                <div class="card-back" hidden>
-                                    <div style="text-align:center;">
-                                        <div class="sentence-kr-small" id="s-back-kr"
-                                            style="font-size:14px;color:#666;margin-bottom:12px;"></div>
-
-                                        <div class="sentence-row"
-                                            style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-                                            <button class="sound-btn" id="s-back-sound">📢</button>
-                                            <div class="sentence-jp" id="s-back-jp"
-                                                style="font-size:28px;font-weight:800;"></div>
+                                <div id="sentence-items" class="sentence-items-list">
+                                </div>
+                            </section>
+                            <section class="card-area" aria-live="polite">
+                                <div id="sentence-card" class="card wide">
+                                    <div class="card-front">
+                                        <div class="sentence-korean" id="s-front-kr"
+                                            style="font-size:20px; font-weight:700;">(한국어 문장)</div>
+                                        <div class="front-controls">
+                                            <button id="s-hint-btn">힌트</button>
+                                            <button id="s-flip-btn">뒤집기</button>
                                         </div>
-
-                                        <div class="sentence-pronounce" id="s-back-pron"
-                                            style="font-size:18px;color:#666;margin-top:8px;"></div>
+                                        <div id="s-hint-area" class="hint" hidden>
+                                            <p id="s-hint-explain"></p>
+                                            <ul id="s-hints" class="sentence-hints"></ul>
+                                        </div>
                                     </div>
-                                    <div class="answer-controls" style="margin-top:25px;">
-                                        <button id="s-correct-btn" class="correct">정답</button>
-                                        <button id="s-wrong-btn" class="wrong">오답</button>
+                                    <div class="card-back" hidden>
+                                        <div style="text-align:center;">
+                                            <div class="sentence-kr-small" id="s-back-kr"
+                                                style="font-size:14px;color:#666;margin-bottom:12px;"></div>
+
+                                            <div class="sentence-row"
+                                                style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+                                                <button class="sound-btn" id="s-back-sound">📢</button>
+                                                <div class="sentence-jp" id="s-back-jp"
+                                                    style="font-size:28px;font-weight:800;"></div>
+                                            </div>
+
+                                            <div class="sentence-pronounce" id="s-back-pron"
+                                                style="font-size:18px;color:#666;margin-top:8px;"></div>
+                                        </div>
+                                        <div class="answer-controls" style="margin-top:25px;">
+                                            <button id="s-correct-btn" class="correct">정답</button>
+                                            <button id="s-wrong-btn" class="wrong">오답</button>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div id="sentence-empty" class="empty" hidden>
-                                <p>선택한 박스에 학습할 문장이 없습니다.</p>
-                            </div>
-                        </section>
+                                <div id="sentence-empty" class="empty" hidden>
+                                    <p>선택한 박스에 학습할 문장이 없습니다.</p>
+                                </div>
+                            </section>
+                        </div>
                     </div>
                 </div>
 

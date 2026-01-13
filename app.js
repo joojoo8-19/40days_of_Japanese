@@ -198,12 +198,14 @@ import { KATAKANA } from "./data/char/katakana.js";
   const jpAudio = new Audio();
   jpAudio.preload = "auto";
 
+  const sListView = document.getElementById('sentence-list-view');
+  const sItemsContainer = document.getElementById('sentence-items');
+
   /*********************************************************
    * 4. Helper functions (letters)
    *********************************************************/
   function currentKanaArray() { return state.progress.kanaType === 'hiragana' ? HIRAGANA : KATAKANA; }
   function getBoxArray(n) { return state.progress.boxes[state.progress.kanaType][n - 1]; }
-  function setBoxArray(n, arr) { state.progress.boxes[state.progress.kanaType][n - 1] = arr; saveProgress(state.progress); renderCounts(); }
   function renderCounts() {
     const type = state.progress.kanaType;
     for (let i = 1; i <= 5; i++) {
@@ -274,7 +276,7 @@ import { KATAKANA } from "./data/char/katakana.js";
 
     // front
     frontHangul.textContent = card.data.hangul || card.data.romaji;
-    hintKeyword.textContent = card.data.keyword || '';
+    hintKeyword.textContent = `${card.data.hangul}: ${card.data.keyword}` || '';
     hintExplanation.textContent = card.data.explanation || '';
     hintArea.hidden = true;
 
@@ -333,6 +335,34 @@ import { KATAKANA } from "./data/char/katakana.js";
    *********************************************************/
   function keyForDay(day) { return sentenceStorageKey(day); }
 
+  function renderSentenceList() {
+    const selected = state.sentenceProgress.selectedBox;
+    const arr = getSentenceBoxArray(selected); // 현재 선택된 박스의 인덱스 배열 [0, 3, 5...]
+
+    // 데이터가 없는 경우 처리
+    if (!arr || arr.length === 0) {
+      sListView.style.display = 'none';
+      sEmpty.hidden = false;
+      return;
+    }
+
+    sListView.style.display ='block';
+    sEmpty.hidden = true;
+    sItemsContainer.innerHTML = ''; // 초기화
+
+    arr.forEach((itemIdx, index) => {
+      const sentenceData = state.sentences[itemIdx]; // 실제 문장 데이터 객체
+      const item = document.createElement('div');
+      item.className = 'list-item';
+      item.innerHTML = `
+        <span class="list-item-num">${index + 1}</span>
+        <span class="list-item-text">${sentenceData.korean}</span>
+      `;
+      sItemsContainer.appendChild(item);
+    });
+
+  }
+
   async function loadSentencesForDay(day) {
     state.sentenceDay = day;
     // attempt fetch
@@ -374,6 +404,7 @@ import { KATAKANA } from "./data/char/katakana.js";
     state.sentenceIndexInBox = 0;
     renderSentenceCounts();
     renderSentenceCard();
+    renderSentenceList();
   }
 
   function saveSentenceProgress() {
@@ -480,6 +511,9 @@ import { KATAKANA } from "./data/char/katakana.js";
     renderSentenceCard();
   }
 
+  /*********************************************************
+   * 6. lecture data loader
+   *********************************************************/
   async function loadLectureForDay(day) {
     const pdfPath = LECTURE_PDF_PATH_TEMPLATE.replace(/{N}/g, String(day));
     const videoPath = LECTURE_VIDEO_PATH_TEMPLATE.replace(/{N}/g, String(day));
@@ -506,7 +540,44 @@ import { KATAKANA } from "./data/char/katakana.js";
   }
 
   /*********************************************************
-   * 6. Events binding
+   * 7. initial page
+   *********************************************************/
+  function renderRoadmap() {
+    // 1. 카드 만들기
+    const list = document.getElementById('milestones-list');
+    if (!list) return;
+
+    list.innerHTML = ''; // 초기화
+
+    ROADMAP_GROUPS.forEach(group => {
+      // 그룹 제목 추가
+      const groupTitle = document.createElement('div');
+      groupTitle.className = 'group-category-title';
+      groupTitle.innerText = group.category;
+      list.appendChild(groupTitle);
+
+      // 해당 그룹 내의 Day 카드들 생성
+      group.days.forEach(dayNum => {
+        const card = document.createElement('div');
+        card.className = 'milestone-card';
+        card.innerHTML = `
+                <span class="day-badge">DAY ${dayNum}</span>
+                <span class="day-title">${DAY_TITLE[dayNum]}</span>
+            `;
+
+        // 기존 클릭 이벤트 로직
+        card.onclick = () => {
+          const dayStr = String(dayNum);
+          document.querySelector('[data-menu="grammar"]').click();
+          const selectL = document.getElementById('day-select-g');
+          if (selectL) { selectL.value = dayStr; selectL.dispatchEvent(new Event('change')); }
+        };
+        list.appendChild(card);
+      });
+    });
+  }
+  /*********************************************************
+   * 8. Events binding
    *********************************************************/
   // top menu
   menuBtns.forEach(btn => {
@@ -613,30 +684,9 @@ import { KATAKANA } from "./data/char/katakana.js";
       state.sentenceIndexInBox = 0;
       setActiveSentenceBoxBtn(n);
       renderSentenceCard();
+      renderSentenceList();
     });
   });
-
-  // japanese sentence sounds
-  function playJapaneseTTS(sentenceId, day) {
-
-    jpAudio.pause();
-    jpAudio.currentTime = 0;
-
-    jpAudio.src = `data/curriculum/day${day}/tts_jp/jp_${sentenceId}.wav`;
-    jpAudio.play().catch(err => {
-      console.error("Audio play failed:", err);
-    });
-  }
-
-  sBackSoundBtn.addEventListener('click', () => {
-    const cur = getCurrentSentence()
-    if (!cur) return;
-
-    const curDay = state.sentenceDay
-    const curId = cur.data.id
-    playJapaneseTTS(curId, curDay)
-  })
-
 
   sHintBtn.addEventListener('click', () => sHintArea.hidden = !sHintArea.hidden);
   sFlipBtn.addEventListener('click', () => { const front = sentenceCard.querySelector('.card-front'); const back = sentenceCard.querySelector('.card-back'); back.hidden = !back.hidden; front.hidden = !front.hidden; });
@@ -675,42 +725,26 @@ import { KATAKANA } from "./data/char/katakana.js";
     lectureVideo.setAttribute("poster", thumbnail);
   });
 
-  // initial page - roadmap
+  // japanese sentence sounds
+  function playJapaneseTTS(sentenceId, day) {
 
-  function renderRoadmap() {
-    // 1. 카드 만들기
-    const list = document.getElementById('milestones-list');
-    if (!list) return;
+    jpAudio.pause();
+    jpAudio.currentTime = 0;
 
-    list.innerHTML = ''; // 초기화
-
-    ROADMAP_GROUPS.forEach(group => {
-      // 그룹 제목 추가
-      const groupTitle = document.createElement('div');
-      groupTitle.className = 'group-category-title';
-      groupTitle.innerText = group.category;
-      list.appendChild(groupTitle);
-
-      // 해당 그룹 내의 Day 카드들 생성
-      group.days.forEach(dayNum => {
-        const card = document.createElement('div');
-        card.className = 'milestone-card';
-        card.innerHTML = `
-                <span class="day-badge">DAY ${dayNum}</span>
-                <span class="day-title">${DAY_TITLE[dayNum]}</span>
-            `;
-
-        // 기존 클릭 이벤트 로직
-        card.onclick = () => {
-          const dayStr = String(dayNum);
-            document.querySelector('[data-menu="grammar"]').click();
-            const selectL = document.getElementById('day-select-g');
-            if (selectL) { selectL.value = dayStr; selectL.dispatchEvent(new Event('change')); }
-        };
-        list.appendChild(card);
-      });
+    jpAudio.src = `data/curriculum/day${day}/tts_jp/jp_${sentenceId}.wav`;
+    jpAudio.play().catch(err => {
+      console.error("Audio play failed:", err);
     });
   }
+
+  sBackSoundBtn.addEventListener('click', () => {
+    const cur = getCurrentSentence()
+    if (!cur) return;
+
+    const curDay = state.sentenceDay
+    const curId = cur.data.id
+    playJapaneseTTS(curId, curDay)
+  })
 
   /*********************************************************
    * 7. Initialization

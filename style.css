@@ -306,8 +306,11 @@ a:hover {
 }
 
 /* 문장 카드: 넓게 (wide) */
+.wide {
+  width: 100%;
+}
+
 .card.wide {
-  width: 760px;
   min-height: 300px;
   padding: 32px;
 }
@@ -646,6 +649,51 @@ a:hover {
   color: var(--text-main);
 }
 
+.sentence-main-container {
+  width: 100%;
+}
+
+/* 문장 리스트 컨테이너 */
+.sentence-list-container {
+    width: 100%;
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* 문장 아이템들 정렬 */
+.sentence-items-list {
+    max-height: 350px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    padding-right: 5px;
+}
+
+/* 개별 문장 스타일 */
+.list-item {
+    padding: 12px 15px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 15px;
+    color: var(--text-main);
+    text-align: left;
+    display: flex;
+    gap: 10px;
+}
+
+.list-item:last-child { border-bottom: none; }
+
+.list-item-num {
+    color: var(--menu-color);
+    font-weight: bold;
+    min-width: 25px;
+}
+
+/* 스크롤바 디자인 */
+.sentence-items-list::-webkit-scrollbar { width: 6px; }
+.sentence-items-list::-webkit-scrollbar-thumb { background: #ddd; border-radius: 10px; }
+
 /* 1024px 이하: 여백·정렬 자연스럽게 */
 @media (max-width: 1024px) {
   body {
@@ -663,6 +711,10 @@ a:hover {
   .learning-area {
     flex-direction: column;
     gap: 20px;
+  }
+
+  .learning-area.sentence {
+    flex-direction: column-reverse;
   }
 
   .sidebar {
