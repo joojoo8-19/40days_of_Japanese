@@ -298,7 +298,7 @@
     "id": 14,
     "korean": "저것은 무엇입니까?",
     "english": "What is that over there?",
-    "japanese": "あれは何ですか。",
+    "japanese": "あれはなんですか。",
     "pronounce_r": "Are wa nan desu ka.",
     "pronounce_h": "あれ は なん ですか。",
     "words": [
@@ -868,7 +868,7 @@
     "id": 39,
     "korean": "여러 권의 책 중 어느 것이 가장 좋습니까?",
     "english": "Which book is the best among several volumes?",
-    "japanese": "何冊の本の中で、どれが一番いいですか。",
+    "japanese": "なん冊の本の中で、どれが一番いいですか。",
     "pronounce_r": "Nansatsu no hon no naka de, dore ga ichiban ii desu ka.",
     "pronounce_h": "なんさつ の ほん の なか で、 どれ が いちばん いい ですか。",
     "words": [
@@ -958,7 +958,7 @@
     "id": 43,
     "korean": "저 앞에 있는 것은 무엇입니까?",
     "english": "What is that thing in front of me?",
-    "japanese": "あの前にあるのは何ですか。",
+    "japanese": "あの前にあるのはなんですか。",
     "pronounce_r": "Ano mae ni aru no wa nan desu ka.",
     "pronounce_h": "あの まえ に ある の は なん ですか。",
     "words": [

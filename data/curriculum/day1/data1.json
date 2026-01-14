@@ -63,7 +63,7 @@
     "id": 4,
     "korean": "당신의 이름은 무엇입니까?",
     "english": "What is your name?",
-    "japanese": "あなたの名前は何ですか。",
+    "japanese": "あなたの名前はなんですか。",
     "pronounce_r": "Anata no namae wa nan desu ka.",
     "pronounce_h": "あなた の なまえ は なん ですか。",
     "words": [
@@ -71,6 +71,11 @@
         "korean": "당신",
         "japanese": "あなた",
         "pronounce_h": "あなた"
+      },
+      {
+        "korean": "무엇",
+        "japanese": "何",
+        "pronounce_h": "なん・なに"
       },
       {
         "korean": "이름",
@@ -398,7 +403,7 @@
     "id": 19,
     "korean": "이것은 무엇입니까?",
     "english": "What is this?",
-    "japanese": "これは何ですか。",
+    "japanese": "これはなんですか。",
     "pronounce_r": "Kore wa nan desu ka.",
     "pronounce_h": "これ は なん ですか。",
     "words": [
@@ -483,7 +488,7 @@
     "id": 23,
     "korean": "당신의 이름은 무엇입니까?",
     "english": "What is your name?",
-    "japanese": "あなたの名前は何ですか。",
+    "japanese": "あなたの名前はなんですか。",
     "pronounce_r": "Anata no namae wa nan desu ka.",
     "pronounce_h": "あなた の なまえ は なん ですか。",
     "words": [
@@ -688,7 +693,7 @@
     "id": 33,
     "korean": "회의는 몇 시입니까?",
     "english": "What time is the meeting?",
-    "japanese": "会議は何時ですか。",
+    "japanese": "会議はなん時ですか。",
     "pronounce_r": "Kaigi wa nan-ji desu ka.",
     "pronounce_h": "かいぎ は なんじ ですか。",
     "words": [
