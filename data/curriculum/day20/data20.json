@@ -1,952 +1,753 @@
 [
   {
     "id": 1,
-    "korean": "명품백을 갖고 싶어",
-    "english": "I want a designer bag.",
-    "japanese": "ブランドのバッグがほしい。",
-    "pronounce_r": "Burando no baggu ga hoshii.",
-    "pronounce_h": "ぶらんどの ばっぐが ほしい。",
+    "korean": "저 사람은 누구예요?",
+    "english": "Who is that person?",
+    "japanese": "あの人は誰ですか。",
+    "pronounce_r": "Ano hito wa dare desu ka.",
+    "pronounce_h": "あのひとは だれですか。",
     "words": [
-      {
-        "korean": "명품백",
-        "japanese": "ブランドバッグ",
-        "pronounce_h": "ぶらんどばっぐ"
-      },
-      {
-        "korean": "갖고 싶다",
-        "japanese": "ほしい",
-        "pronounce_h": "ほしい"
-      }
+      { "korean": "저 사람", "japanese": "あの人", "pronounce_h": "あのひと" },
+      { "korean": "누구", "japanese": "誰", "pronounce_h": "だれ" }
     ]
   },
   {
     "id": 2,
-    "korean": "내 방을 갖고 싶어",
-    "english": "I want my own room.",
-    "japanese": "私の部屋がほしい。",
-    "pronounce_r": "Watashi no heya ga hoshii.",
-    "pronounce_h": "わたしの へやが ほしい。",
+    "korean": "어느 분이세요? (누구세요?)",
+    "english": "Who are you? (Polite)",
+    "japanese": "どなたですか。",
+    "pronounce_r": "Donata desu ka.",
+    "pronounce_h": "どなたですか。",
     "words": [
-      {
-        "korean": "나",
-        "japanese": "私",
-        "pronounce_h": "わたし"
-      },
-      {
-        "korean": "방",
-        "japanese": "部屋",
-        "pronounce_h": "へや"
-      }
+      { "korean": "누구(존댓말)", "japanese": "どなた", "pronounce_h": "どなた" }
     ]
   },
   {
     "id": 3,
-    "korean": "많은 돈을 갖고 싶어",
-    "english": "I want a lot of money.",
-    "japanese": "たくさんのお金がほしい。",
-    "pronounce_r": "Takusan no okane ga hoshii.",
-    "pronounce_h": "たくさんのおかねが ほしい。",
+    "korean": "누구와 함께 왔어요?",
+    "english": "Who did you come with?",
+    "japanese": "誰と来ましたか。",
+    "pronounce_r": "Dare to kimashita ka.",
+    "pronounce_h": "だれと きましたか。",
     "words": [
-      {
-        "korean": "많이",
-        "japanese": "たくさん",
-        "pronounce_h": "たくさん"
-      },
-      {
-        "korean": "돈",
-        "japanese": "お金",
-        "pronounce_h": "おかね"
-      }
+      { "korean": "누구", "japanese": "誰", "pronounce_h": "だれ" },
+      { "korean": "오다", "japanese": "来る", "pronounce_h": "くる" }
     ]
   },
   {
     "id": 4,
-    "korean": "새로운 노트북이 갖고 싶어요",
-    "english": "I want a new laptop.",
-    "japanese": "新しいノートパソコンがほしいです。",
-    "pronounce_r": "Atarashii nooto pasokon ga hoshii desu.",
-    "pronounce_h": "あたらしい のーとぱそこんが ほしいです。",
+    "korean": "일행은 어느 분이세요?",
+    "english": "Who is your companion?",
+    "japanese": "お連れ様はどなたですか。",
+    "pronounce_r": "Otsuresama wa donata desu ka.",
+    "pronounce_h": "おつれさまは どなたですか。",
     "words": [
-      {
-        "korean": "새롭다",
-        "japanese": "新しい",
-        "pronounce_h": "あたらしい"
-      },
-      {
-        "korean": "노트북",
-        "japanese": "ノートパソコン",
-        "pronounce_h": "のーとぱそこん"
-      }
+      { "korean": "일행(존댓말)", "japanese": "お連れ様", "pronounce_h": "おつれさま" },
+      { "korean": "누구(존댓말)", "japanese": "どなた", "pronounce_h": "どなた" }
     ]
   },
   {
     "id": 5,
-    "korean": "지금 가장 갖고싶은 물건은 뭐에요?",
-    "english": "What is the thing you want most right now?",
-    "japanese": "今、一番ほしい物はなんですか。",
-    "pronounce_r": "Ima, ichiban hoshii mono wa nan desu ka.",
-    "pronounce_h": "いま、いちばん ほしい ものは なんですか。",
+    "korean": "누구의 것(물건)이에요?",
+    "english": "Whose is it?",
+    "japanese": "誰のですか。",
+    "pronounce_r": "Dare no desu ka.",
+    "pronounce_h": "だれのですか。",
     "words": [
-      {
-        "korean": "지금",
-        "japanese": "今",
-        "pronounce_h": "いま"
-      },
-      {
-        "korean": "가장",
-        "japanese": "一番",
-        "pronounce_h": "いちばん"
-      },
-      {
-        "korean": "물건",
-        "japanese": "物",
-        "pronounce_h": "もの"
-      }
+      { "korean": "누구", "japanese": "誰", "pronounce_h": "だれ" }
     ]
   },
   {
     "id": 6,
-    "korean": "글쎄요. 역시 새 차를 갖고싶네요.",
-    "english": "Well, I want a new car as expected.",
-    "japanese": "そうですね、やはり新しい車がほしいですね。",
-    "pronounce_r": "Sou desu ne, yahari atarashii kuruma ga hoshii desu ne.",
-    "pronounce_h": "そうですね、やはり あたらしい くるま가 ほしいですね。",
+    "korean": "담당자는 어느 분이세요?",
+    "english": "Who is the person in charge?",
+    "japanese": "担当者はどなたですか。",
+    "pronounce_r": "Tantousha wa donata desu ka.",
+    "pronounce_h": "たんとうしゃは どなたですか。",
     "words": [
-      {
-        "korean": "역시",
-        "japanese": "やはり",
-        "pronounce_h": "やはり"
-      },
-      {
-        "korean": "차",
-        "japanese": "車",
-        "pronounce_h": "くるま"
-      }
+      { "korean": "담당자", "japanese": "担当者", "pronounce_h": "たんとうしゃ" },
+      { "korean": "누구(존댓말)", "japanese": "どなた", "pronounce_h": "どなた" }
     ]
   },
   {
     "id": 7,
-    "korean": "맛있는 것을 먹고싶어",
-    "english": "I want to eat something delicious.",
-    "japanese": "美味しい物が食べたい。",
-    "pronounce_r": "Oishii mono ga tabetai.",
-    "pronounce_h": "おいしい ものが たべたい。",
+    "korean": "(예약자) 성함이 어떻게 되세요?",
+    "english": "What is your name?",
+    "japanese": "お名前はどなたですか。",
+    "pronounce_r": "Onamae wa donata desu ka.",
+    "pronounce_h": "お나まえは どなたですか。",
     "words": [
-      {
-        "korean": "맛있다",
-        "japanese": "美味しい",
-        "pronounce_h": "おいしい"
-      },
-      {
-        "korean": "먹다",
-        "japanese": "食べる",
-        "pronounce_h": "たべる"
-      }
+      { "korean": "이름(존댓말)", "japanese": "お名前", "pronounce_h": "おなまえ" }
     ]
   },
   {
     "id": 8,
-    "korean": "돼지고기나 소고기를 먹고싶어",
-    "english": "I want to eat pork or beef.",
-    "japanese": "豚肉か牛肉が食べたい。",
-    "pronounce_r": "Butaniku ka gyuuniku ga tabetai.",
-    "pronounce_h": "ぶたにくか ぎゅうにくが たべたい。",
-    "words": [
-      {
-        "korean": "돼지",
-        "japanese": "豚",
-        "pronounce_h": "ぶた"
-      },
-      {
-        "korean": "소",
-        "japanese": "牛",
-        "pronounce_h": "ぎゅう"
-      },
-      {
-        "korean": "고기",
-        "japanese": "肉",
-        "pronounce_h": "にく"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "korean": "야식으로 간단히 라멘이라도 먹고싶어",
-    "english": "I want to eat something like ramen for a late-night snack.",
-    "japanese": "夜食でかんたんにラーメンでも食べたい。",
-    "pronounce_r": "Yashoku de kantan ni raamen demo tabetai.",
-    "pronounce_h": "やしょくで かんたんに らーめんでも たべたい。",
-    "words": [
-      {
-        "korean": "야식",
-        "japanese": "夜食",
-        "pronounce_h": "やしょく"
-      },
-      {
-        "korean": "간단히",
-        "japanese": "簡単に",
-        "pronounce_h": "かんたんに"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "korean": "온천에 가고싶어요",
-    "english": "I want to go to a hot spring.",
-    "japanese": "温泉に行きたいです。",
-    "pronounce_r": "Onsen ni ikitai desu.",
-    "pronounce_h": "おんせんに いきたいです。",
-    "words": [
-      {
-        "korean": "온천",
-        "japanese": "温泉",
-        "pronounce_h": "おんせん"
-      },
-      {
-        "korean": "가다",
-        "japanese": "行く",
-        "pronounce_h": "いく"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "korean": "다음에는 가족과 함께 가고싶어요",
-    "english": "I want to go with my family next time.",
-    "japanese": "こんどは家族といっしょに行きたいです。",
-    "pronounce_r": "Kondo wa kazoku to issho ni ikitai desu.",
-    "pronounce_h": "こんどは かぞくと いっしょに いきたいです。",
-    "words": [
-      {
-        "korean": "다음/이번",
-        "japanese": "今度",
-        "pronounce_h": "こんど"
-      },
-      {
-        "korean": "가족",
-        "japanese": "家族",
-        "pronounce_h": "かぞく"
-      },
-      {
-        "korean": "함께",
-        "japanese": "一緒に",
-        "pronounce_h": "いっしょに"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "korean": "날씬해지고싶어",
-    "english": "I want to become slim.",
-    "japanese": "スリムになりたい。",
-    "pronounce_r": "Surimu ni naritai.",
-    "pronounce_h": "すりむに なりたい。",
-    "words": [
-      {
-        "korean": "슬림(날씬)",
-        "japanese": "スリム",
-        "pronounce_h": "すりむ"
-      },
-      {
-        "korean": "되다",
-        "japanese": "なる",
-        "pronounce_h": "なる"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "korean": "같이 헬스장에 안 다닐래?",
-    "english": "Would you like to go to the gym together?",
-    "japanese": "いっしょにジムに通わない？",
-    "pronounce_r": "Issho ni jimu ni kayowanai?",
-    "pronounce_h": "いっしょに じむに か요わない？",
-    "words": [
-      {
-        "korean": "헬스장",
-        "japanese": "ジム",
-        "pronounce_h": "じむ"
-      },
-      {
-        "korean": "다니다",
-        "japanese": "通う",
-        "pronounce_h": "かよう"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "korean": "매운 것을 좋아해/싫어해",
-    "english": "I like/hate spicy food.",
-    "japanese": "辛いのが好きだ/嫌いだ。",
-    "pronounce_r": "Karai no ga suki da / kirai da.",
-    "pronounce_h": "からいのが すきだ / きらいだ。",
-    "words": [
-      {
-        "korean": "맵다",
-        "japanese": "辛い",
-        "pronounce_h": "からい"
-      },
-      {
-        "korean": "좋아하다",
-        "japanese": "好きだ",
-        "pronounce_h": "すきだ"
-      },
-      {
-        "korean": "싫어하다",
-        "japanese": "嫌いだ",
-        "pronounce_h": "きらいだ"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "korean": "라멘에 달걀을 넣어서 먹는 것을 좋아해요",
-    "english": "I like eating ramen with an egg in it.",
-    "japanese": "ラーメンに卵を入れて食べるのが好きです。",
-    "pronounce_r": "Raamen ni tamago o irete taberu no ga suki desu.",
-    "pronounce_h": "らーめんに たまごを いれて たべるのが すきです。",
-    "words": [
-      {
-        "korean": "달걀",
-        "japanese": "卵",
-        "pronounce_h": "たまご"
-      },
-      {
-        "korean": "넣다",
-        "japanese": "入れる",
-        "pronounce_h": "いれる"
-      },
-      {
-        "korean": "먹다",
-        "japanese": "食べる",
-        "pronounce_h": "たべる"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "korean": "사람과 만나는 것을 좋아해요",
-    "english": "I like meeting and interacting with people.",
-    "japanese": "人と触れ合うことが好きです。",
-    "pronounce_r": "Hito to fureau koto ga suki desu.",
-    "pronounce_h": "ひとと ふれあうことが すきです。",
-    "words": [
-      {
-        "korean": "사람",
-        "japanese": "人",
-        "pronounce_h": "ひと"
-      },
-      {
-        "korean": "교류하다/만나다",
-        "japanese": "触れ合う",
-        "pronounce_h": "ふれあう"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "korean": "공을 사용하는 운동을 싫어해요",
-    "english": "I dislike sports that use a ball.",
-    "japanese": "ボールを使う運動が嫌いです。",
-    "pronounce_r": "Booru o tsukau undou ga kirai desu.",
-    "pronounce_h": "ぼーるを つかう うんどうが きらいです。",
-    "words": [
-      {
-        "korean": "공",
-        "japanese": "ボール",
-        "pronounce_h": "ぼーる"
-      },
-      {
-        "korean": "사용하다",
-        "japanese": "使う",
-        "pronounce_h": "つかう"
-      },
-      {
-        "korean": "운동",
-        "japanese": "運動",
-        "pronounce_h": "うんどう"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "korean": "친절한 사람은 좋아하지만, 뻔뻔한 사람은 싫어요",
-    "english": "I like kind people, but I hate shameless people.",
-    "japanese": "親切な人は好きですが、図々しい人は嫌いです。",
-    "pronounce_r": "Shinsetsu na hito wa suki desu ga, zuuzuushii hito wa kirai desu.",
-    "pronounce_h": "しんせつな ひとは すきですが、ずうずうしい ひとは きらいです。",
-    "words": [
-      {
-        "korean": "친절하다",
-        "japanese": "親切だ",
-        "pronounce_h": "しんせつだ"
-      },
-      {
-        "korean": "뻔뻔하다",
-        "japanese": "図々しい",
-        "pronounce_h": "ずうずうしい"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "korean": "그는 영어도 일본어도 잘해요",
-    "english": "He is good at both English and Japanese.",
-    "japanese": "彼は英語も日本語も上手です。",
-    "pronounce_r": "Kare wa eigo mo nihongo mo jouzu desu.",
-    "pronounce_h": "かれ는 えいごも にほんごも じょうずです。",
-    "words": [
-      {
-        "korean": "영어",
-        "japanese": "英語",
-        "pronounce_h": "えいご"
-      },
-      {
-        "korean": "일본어",
-        "japanese": "日本語",
-        "pronounce_h": "にほんご"
-      },
-      {
-        "korean": "잘하다",
-        "japanese": "上手だ",
-        "pronounce_h": "じょうずだ"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "korean": "못합니다만, 최선을 다하겠습니다",
-    "english": "I'm not good at it, but I will do my best.",
-    "japanese": "下手ですが、一生懸命頑張ります。",
-    "pronounce_r": "Heta desu ga, isshoukenmei ganbarimasu.",
-    "pronounce_h": "へたですが、いっしょうけんめい がんばります。",
-    "words": [
-      {
-        "korean": "못하다",
-        "japanese": "下手だ",
-        "pronounce_h": "へただ"
-      },
-      {
-        "korean": "열심히",
-        "japanese": "一生懸命",
-        "pronounce_h": "いっしょうけんめい"
-      },
-      {
-        "korean": "힘내다/노력하다",
-        "japanese": "頑張る",
-        "pronounce_h": "がんばる"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "korean": "바람피우는 것은 안 돼",
-    "english": "Cheating is not allowed.",
-    "japanese": "浮気をするのはだめ。",
-    "pronounce_r": "Uwaki o suru no wa dame.",
-    "pronounce_h": "うわきを するのは だめ。",
-    "words": [
-      {
-        "korean": "바람기/바람",
-        "japanese": "浮気",
-        "pronounce_h": "うわき"
-      },
-      {
-        "korean": "안 되다",
-        "japanese": "だめ",
-        "pronounce_h": "だめ"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "korean": "수업 중 잡담은 안 돼요",
-    "english": "No chatting during class.",
-    "japanese": "授業中のお喋りはだめです。",
-    "pronounce_r": "Jugyouchuu no oshaberi wa dame desu.",
-    "pronounce_h": "じゅぎょうちゅうの おしゃべりは だめです。",
-    "words": [
-      {
-        "korean": "수업",
-        "japanese": "授業",
-        "pronounce_h": "じゅぎょう"
-      },
-      {
-        "korean": "잡담/수다",
-        "japanese": "お喋り",
-        "pronounce_h": "おしゃべり"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "korean": "좋아하는 연예인이 누구에요?",
-    "english": "Who is your favorite celebrity?",
-    "japanese": "好きな芸能人は誰ですか。",
-    "pronounce_r": "Suki na geinoujin wa dare desu ka.",
-    "pronounce_h": "すきな げいのうじんは だれですか。",
-    "words": [
-      {
-        "korean": "연예인",
-        "japanese": "芸能人",
-        "pronounce_h": "げいのうじん"
-      },
-      {
-        "korean": "누구",
-        "japanese": "誰",
-        "pronounce_h": "だれ"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "korean": "생일은 언제에요?",
+    "korean": "생일은 언제예요?",
     "english": "When is your birthday?",
     "japanese": "誕生日はいつですか。",
     "pronounce_r": "Tanjoubi wa itsu desu ka.",
     "pronounce_h": "たんじょうびは いつですか。",
     "words": [
-      {
-        "korean": "생일",
-        "japanese": "誕生日",
-        "pronounce_h": "たんじょうび"
-      },
-      {
-        "korean": "언제",
-        "japanese": "いつ",
-        "pronounce_h": "いつ"
-      }
+      { "korean": "생일", "japanese": "誕生日", "pronounce_h": "たんじょうび" },
+      { "korean": "언제", "japanese": "いつ", "pronounce_h": "いつ" }
     ]
   },
   {
-    "id": 25,
-    "korean": "역은 어디에요?",
+    "id": 9,
+    "korean": "결혼식은 언제예요?",
+    "english": "When is the wedding?",
+    "japanese": "結婚式はいつですか。",
+    "pronounce_r": "Kekkonshiki wa itsu desu ka.",
+    "pronounce_h": "けっこん시きは いつですか。",
+    "words": [
+      { "korean": "결혼식", "japanese": "結婚式", "pronounce_h": "けっこんしき" }
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "송별회는 언제예요?",
+    "english": "When is the farewell party?",
+    "japanese": "送別会はいつですか。",
+    "pronounce_r": "Soubetsukai wa itsu desu ka.",
+    "pronounce_h": "そうべつかいは いつですか。",
+    "words": [
+      { "korean": "송별회", "japanese": "送別会", "pronounce_h": "そうべつかい" }
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "언제부터 출근해요?",
+    "english": "From when do you start work?",
+    "japanese": "いつから出勤しますか。",
+    "pronounce_r": "Itsu kara shukkin shimasu ka.",
+    "pronounce_h": "いつから しゅっきんしますか。",
+    "words": [
+      { "korean": "출근", "japanese": "出勤", "pronounce_h": "しゅっきん" },
+      { "korean": "~부터", "japanese": "から", "pronounce_h": "から" }
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "언제 만날까요?",
+    "english": "When shall we meet?",
+    "japanese": "いつ会いましょうか。",
+    "pronounce_r": "Itsu aimashou ka.",
+    "pronounce_h": "いつ あいましょうか。",
+    "words": [
+      { "korean": "만나다", "japanese": "会う", "pronounce_h": "아우" }
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "언제 한가해요?",
+    "english": "When are you free?",
+    "japanese": "いつ暇ですか。",
+    "pronounce_r": "Itsu hima desu ka.",
+    "pronounce_h": "いつ ひまですか。",
+    "words": [
+      { "korean": "한가함", "japanese": "暇", "pronounce_h": "ひま" }
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "언제 오사카에 가세요?",
+    "english": "When are you going to Osaka?",
+    "japanese": "いつ大阪に行きますか。",
+    "pronounce_r": "Itsu Osaka ni ikimasu ka.",
+    "pronounce_h": "いつ おおさかに いきますか。",
+    "words": [
+      { "korean": "가다", "japanese": "行く", "pronounce_h": "いく" }
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "예약은 언제로 할까요?",
+    "english": "When shall we make the reservation for?",
+    "japanese": "予約はいつにしますか。",
+    "pronounce_r": "Yoyaku wa itsu ni shimasu ka.",
+    "pronounce_h": "よやくは いつに しますか。",
+    "words": [
+      { "korean": "예약", "japanese": "予約", "pronounce_h": "よやく" }
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "가게는 언제 열어요?",
+    "english": "When does the shop open?",
+    "japanese": "お店はいつ開きますか。",
+    "pronounce_r": "Omise wa itsu akimasu ka.",
+    "pronounce_h": "おみせは いつ あきますか。",
+    "words": [
+      { "korean": "가게", "japanese": "店", "pronounce_h": "みせ" },
+      { "korean": "열리다", "japanese": "開く", "pronounce_h": "あく" }
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "체크인은 언제예요?",
+    "english": "When is check-in?",
+    "japanese": "チェックインはいつですか。",
+    "pronounce_r": "Chekkuin wa itsu desu ka.",
+    "pronounce_h": "チェックインは いつですか。",
+    "words": [
+      { "korean": "체크인", "japanese": "チェックイン", "pronounce_h": "チェックイン" }
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "당신의 열쇠는 어느 것입니까?",
+    "english": "Which one is your key?",
+    "japanese": "あなたの鍵はどれですか。",
+    "pronounce_r": "Anata no kagi wa dore desu ka.",
+    "pronounce_h": "あなた の かぎ は どれ ですか。",
+    "words": [
+      { "korean": "당신", "japanese": "あなた", "pronounce_h": "あなた" },
+      { "korean": "열쇠", "japanese": "鍵", "pronounce_h": "かぎ" },
+      { "korean": "어느 것", "japanese": "どれ", "pronounce_h": "どれ" }
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "커피와 홍차, 어느 쪽이 좋습니까?",
+    "english": "Which do you prefer, coffee or tea?",
+    "japanese": "コーヒーと紅茶、どちらが好きですか。",
+    "pronounce_r": "Ko-hi- to koucha, dochira ga suki desu ka.",
+    "pronounce_h": "こーひー と こうちゃ、どちら が すき ですか。",
+    "words": [
+      { "korean": "홍차", "japanese": "紅茶", "pronounce_h": "こうちゃ" },
+      { "korean": "어느 쪽", "japanese": "どちら", "pronounce_h": "どちら" },
+      { "korean": "좋아하다", "japanese": "好きだ", "pronounce_h": "すき다" }
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "버스정류장은 어디예요?",
+    "english": "Where is the bus stop?",
+    "japanese": "バス停はどこですか。",
+    "pronounce_r": "Basutei wa doko desu ka.",
+    "pronounce_h": "バスていは どこですか。",
+    "words": [
+      { "korean": "버스정류장", "japanese": "버스정류장", "pronounce_h": "バスてい" },
+      { "korean": "어디", "japanese": "どこ", "pronounce_h": "どこ" }
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "역은 어디예요?",
     "english": "Where is the station?",
     "japanese": "駅はどこですか。",
     "pronounce_r": "Eki wa doko desu ka.",
     "pronounce_h": "えきは どこですか。",
     "words": [
-      {
-        "korean": "역",
-        "japanese": "駅",
-        "pronounce_h": "えき"
-      },
-      {
-        "korean": "어디",
-        "japanese": "どこ",
-        "pronounce_h": "どこ"
-      }
+      { "korean": "역", "japanese": "駅", "pronounce_h": "えき" }
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "1번 출구는 어느 쪽이에요?",
+    "english": "Which way is Exit 1?",
+    "japanese": "1番出口はどちらですか。",
+    "pronounce_r": "Ichiban deguchi wa dochira desu ka.",
+    "pronounce_h": "いちばんでぐちは どちらですか。",
+    "words": [
+      { "korean": "출구", "japanese": "出口", "pronounce_h": "でぐち" },
+      { "korean": "어느 쪽", "japanese": "どちら", "pronounce_h": "どちら" }
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "지금 어디예요?",
+    "english": "Where are you now?",
+    "japanese": "今、どこですか。",
+    "pronounce_r": "Ima, doko desu ka.",
+    "pronounce_h": "いま, どこですか。",
+    "words": [
+      { "korean": "지금", "japanese": "今", "pronounce_h": "いま" }
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "프레젠테이션 자료는 어디에 있어요?",
+    "english": "Where are the presentation materials?",
+    "japanese": "プレゼンの資料はどこにありますか。",
+    "pronounce_r": "Purezen no shiryou wa doko ni arimasu ka.",
+    "pronounce_h": "プレゼンの しりょうは どこ에 ありますか。",
+    "words": [
+      { "korean": "자료", "japanese": "資料", "pronounce_h": "しりょう" },
+      { "korean": "있다", "japanese": "ある", "pronounce_h": "ある" }
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "어디에서 오셨어요?",
+    "english": "Where are you from?",
+    "japanese": "ご出身はどこですか。",
+    "pronounce_r": "Goshusshin wa doko desu ka.",
+    "pronounce_h": "ごしゅっしんは どこですか。",
+    "words": [
+      { "korean": "출신", "japanese": "出身", "pronounce_h": "しゅっしん" }
     ]
   },
   {
     "id": 26,
-    "korean": "취미는 뭐에요?",
-    "english": "What is your hobby?",
-    "japanese": "趣味はなんですか。",
-    "pronounce_r": "Shumi wa nan desu ka.",
-    "pronounce_h": "しゅみは なんですか。",
+    "korean": "화장실은 어디야?",
+    "english": "Where is the bathroom?",
+    "japanese": "トイレはどこ？",
+    "pronounce_r": "Toire wa doko?",
+    "pronounce_h": "トイレは どこ？",
     "words": [
-      {
-        "korean": "취미",
-        "japanese": "趣味",
-        "pronounce_h": "しゅみ"
-      },
-      {
-        "korean": "무엇",
-        "japanese": "何",
-        "pronounce_h": "なに/なん"
-      }
+      { "korean": "화장실", "japanese": "トイレ", "pronounce_h": "といれ" }
     ]
   },
   {
     "id": 27,
+    "korean": "바로 저쪽이에요.",
+    "english": "It's right over there.",
+    "japanese": "あそこです。",
+    "pronounce_r": "Asoko desu.",
+    "pronounce_h": "あそこです。",
+    "words": [
+      { "korean": "저기", "japanese": "あそこ", "pronounce_h": "あそこ" }
+    ]
+  },
+  {
+    "id": 28,
+    "korean": "계산대는 어디예요?",
+    "english": "Where is the cashier?",
+    "japanese": "レジはどこですか。",
+    "pronounce_r": "Reji wa doko desu ka.",
+    "pronounce_h": "レジは どこですか。",
+    "words": [
+      { "korean": "계산대", "japanese": "レジ", "pronounce_h": "れじ" }
+    ]
+  },
+  {
+    "id": 29,
+    "korean": "이쪽이 입구예요?",
+    "english": "Is this the entrance?",
+    "japanese": "こちらが入口ですか。",
+    "pronounce_r": "Kochira ga iriguchi desu ka.",
+    "pronounce_h": "こちらが いりぐちですか。",
+    "words": [
+      { "korean": "이쪽(정중)", "japanese": "こちら", "pronounce_h": "こちら" },
+      { "korean": "입구", "japanese": "入口", "pronounce_h": "이리구치" }
+    ]
+  },
+  {
+    "id": 30,
+    "korean": "갑자기 휴일이 생기면 뭐 해?",
+    "english": "What do you do if you suddenly have a holiday?",
+    "japanese": "急に休みができたら、何する？",
+    "pronounce_r": "Kyuu ni yasumi ga dekitara, nani suru?",
+    "pronounce_h": "きゅうに やすみが できたら、なにする？",
+    "words": [
+      { "korean": "갑자기", "japanese": "急に", "pronounce_h": "きゅうに" },
+      { "korean": "휴일", "japanese": "休み", "pronounce_h": "やすみ" },
+      { "korean": "생기다", "japanese": "できる", "pronounce_h": "できる" },
+      { "korean": "하다", "japanese": "する", "pronounce_h": "する" }
+    ]
+  },
+  {
+    "id": 31,
+    "korean": "오늘 점심은 뭐예요?",
+    "english": "What is for lunch today?",
+    "japanese": "今日の昼ご飯はなんですか。",
+    "pronounce_r": "Kyou no hirugohan wa nan desu ka.",
+    "pronounce_h": "きょうの ひるごはんは なにですか。",
+    "words": [
+      { "korean": "오늘", "japanese": "今日", "pronounce_h": "きょう" },
+      { "korean": "점심", "japanese": "昼ご飯", "pronounce_h": "ひるごはん" }
+    ]
+  },
+  {
+    "id": 32,
+    "korean": "취미는 뭐예요?",
+    "english": "What is your hobby?",
+    "japanese": "趣味はなんですか。",
+    "pronounce_r": "Shumi wa nan desu ka.",
+    "pronounce_h": "しゅみは なにですか。",
+    "words": [
+      { "korean": "취미", "japanese": "趣味", "pronounce_h": "しゅみ" }
+    ]
+  },
+  {
+    "id": 33,
+    "korean": "좋아하는 과자는 뭐예요?",
+    "english": "What is your favorite snack?",
+    "japanese": "好きなお菓子はなんですか。",
+    "pronounce_r": "Suki na okashi wa nan desu ka.",
+    "pronounce_h": "すきな おかしは なにですか。",
+    "words": [
+      { "korean": "과자", "japanese": "お菓子", "pronounce_h": "おかし" },
+      { "korean": "좋아하다", "japanese": "好きだ", "pronounce_h": "すきだ" }
+    ]
+  },
+  {
+    "id": 34,
+    "korean": "이제부터 뭐 하고 싶어요?",
+    "english": "What do you want to do from now on?",
+    "japanese": "これから何がしたいですか。",
+    "pronounce_r": "Korekara nani ga shitai desu ka.",
+    "pronounce_h": "これから なにが したいですか。",
+    "words": [
+      { "korean": "이제부터", "japanese": "これから", "pronounce_h": "これから" }
+    ]
+  },
+  {
+    "id": 35,
+    "korean": "요즘 고민은 뭐예요?",
+    "english": "What are your worries these days?",
+    "japanese": "今の悩みはなんですか。",
+    "pronounce_r": "Ima no nayami wa nan desu ka.",
+    "pronounce_h": "いまの なやみは なにですか。",
+    "words": [
+      { "korean": "고민", "japanese": "悩み", "pronounce_h": "なやみ" }
+    ]
+  },
+  {
+    "id": 36,
+    "korean": "요즘 어때?",
+    "english": "How are things lately?",
+    "japanese": "最近、どう？",
+    "pronounce_r": "Saikin, dou?",
+    "pronounce_h": "さいきん、どう？",
+    "words": [
+      { "korean": "요즘", "japanese": "最近", "pronounce_h": "さいきん" },
+      { "korean": "어떻게", "japanese": "どう", "pronounce_h": "どう" }
+    ]
+  },
+  {
+    "id": 37,
+    "korean": "어떻게 하면 좋을지 모르겠어요",
+    "english": "I don't know what I should do.",
+    "japanese": "どうしたらいいか分かりません。",
+    "pronounce_r": "Doushitara ii ka wakarimasen.",
+    "pronounce_h": "どうしたら いいか わかりません。",
+    "words": [
+      { "korean": "어떻게 하면", "japanese": "どうしたら", "pronounce_h": "どうしたら" },
+      { "korean": "알다", "japanese": "分かる", "pronounce_h": "わかる" }
+    ]
+  },
+  {
+    "id": 38,
+    "korean": "초보자라서 어떻게 해야 좋을지 모르겠어요",
+    "english": "I'm a beginner, so I don't know what to do.",
+    "japanese": "初心者なのでどうしたらいいか分かりません。",
+    "pronounce_r": "Shoshinsha na node doushitara ii ka wakarimasen.",
+    "pronounce_h": "しょしんしゃなので どうしたら いいか わかりません。",
+    "words": [
+      { "korean": "초보자", "japanese": "初心者", "pronounce_h": "しょしんしゃ" }
+    ]
+  },
+  {
+    "id": 39,
     "korean": "역까지 어떻게 가나요?",
     "english": "How do I get to the station?",
     "japanese": "駅までどうやって行きますか。",
     "pronounce_r": "Eki made douyatte ikimasu ka.",
     "pronounce_h": "えきまで どうやって いきますか。",
     "words": [
-      {
-        "korean": "어떻게(방법)",
-        "japanese": "どうやって",
-        "pronounce_h": "どうやって"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "korean": "먹고 있는 것을 보았다",
-    "english": "I saw someone eating.",
-    "japanese": "食べているのを見た。",
-    "pronounce_r": "Tabete iru no o mita.",
-    "pronounce_h": "たべているのを みた。",
-    "words": [
-      {
-        "korean": "먹다",
-        "japanese": "食べる",
-        "pronounce_h": "たべる"
-      },
-      {
-        "korean": "보다",
-        "japanese": "見る",
-        "pronounce_h": "みる"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "korean": "먹는 것이 취미다",
-    "english": "Eating is my hobby.",
-    "japanese": "食べることが趣味だ。",
-    "pronounce_r": "Taberu koto ga shumi da.",
-    "pronounce_h": "たべることが しゅみだ。",
-    "words": [
-      {
-        "korean": "먹다",
-        "japanese": "食べる",
-        "pronounce_h": "たべる"
-      },
-      {
-        "korean": "취미",
-        "japanese": "趣味",
-        "pronounce_h": "しゅみ"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "korean": "맛있어요! (추천)",
-    "english": "It's delicious! (Informing)",
-    "japanese": "おいしいですよ。",
-    "pronounce_r": "Oishii desu yo.",
-    "pronounce_h": "おいしいですよ。",
-    "words": [
-      {
-        "korean": "맛있다",
-        "japanese": "おいしい",
-        "pronounce_h": "おいしい"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "korean": "그건 안 돼요! (주장)",
-    "english": "That's not allowed!",
-    "japanese": "それはだめですよ。",
-    "pronounce_r": "Sore wa dame desu yo.",
-    "pronounce_h": "それは だめですよ。",
-    "words": [
-      {
-        "korean": "안 되다",
-        "japanese": "だめ",
-        "pronounce_h": "だめ"
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "korean": "맛있네요. (공감)",
-    "english": "It's delicious, isn't it?",
-    "japanese": "おいしいですね。",
-    "pronounce_r": "Oishii desu ne.",
-    "pronounce_h": "おいしいですね。",
-    "words": [
-      {
-        "korean": "맛있다",
-        "japanese": "おいしい",
-        "pronounce_h": "おいしい"
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "korean": "맛있네~ (감탄)",
-    "english": "It's delicious. (To oneself)",
-    "japanese": "おいしいな。",
-    "pronounce_r": "Oishii na.",
-    "pronounce_h": "おいしいな。",
-    "words": [
-      {
-        "korean": "맛있다",
-        "japanese": "おいしい",
-        "pronounce_h": "おいしい"
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "korean": "왜 그래? (부드러운 질문)",
-    "english": "What's the matter?",
-    "japanese": "どうしたの？",
-    "pronounce_r": "Dou shita no?",
-    "pronounce_h": "どうしたの？",
-    "words": [
-      {
-        "korean": "어떻게 하다",
-        "japanese": "どうする (どうした)",
-        "pronounce_h": "どうする (どうした)"
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "korean": "일본에 가다 (목적지)",
-    "english": "Go to Japan.",
-    "japanese": "日本に行く。",
-    "pronounce_r": "Nihon ni iku.",
-    "pronounce_h": "にほんに いく。",
-    "words": [
-      {
-        "korean": "일본",
-        "japanese": "日本",
-        "pronounce_h": "にほん"
-      },
-      {
-        "korean": "가다",
-        "japanese": "行く",
-        "pronounce_h": "いく"
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "korean": "일본으로 가다 (방향)",
-    "english": "Go towards Japan.",
-    "japanese": "日本へ行く。",
-    "pronounce_r": "Nihon e iku.",
-    "pronounce_h": "にほんへ いく。",
-    "words": [
-      {
-        "korean": "일본",
-        "japanese": "日本",
-        "pronounce_h": "にほん"
-      },
-      {
-        "korean": "가다",
-        "japanese": "行く",
-        "pronounce_h": "いく"
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "korean": "먹고 싶습니다만, 돈이 없어요.",
-    "english": "I want to eat, but I don't have money.",
-    "japanese": "食べたいですが、お金がないです。",
-    "pronounce_r": "Tabetai desu ga, okane ga nai desu.",
-    "pronounce_h": "たべたいですが、おかねが ないです。",
-    "words": [
-      {
-        "korean": "먹다",
-        "japanese": "食べる",
-        "pronounce_h": "たべる"
-      },
-      {
-        "korean": "돈",
-        "japanese": "お金",
-        "pronounce_h": "おかね"
-      },
-      {
-        "korean": "없다",
-        "japanese": "ない",
-        "pronounce_h": "ない"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "korean": "바쁘지만 괜찮아.",
-    "english": "I'm busy but I'm okay.",
-    "japanese": "忙しいけれど、大丈夫。",
-    "pronounce_r": "Isogashii keredo, daijoubu.",
-    "pronounce_h": "いそがしいけれど、だいじょうぶ。",
-    "words": [
-      {
-        "korean": "바쁘다",
-        "japanese": "忙しい",
-        "pronounce_h": "いそがしい"
-      },
-      {
-        "korean": "괜찮다",
-        "japanese": "大丈夫だ",
-        "pronounce_h": "だいじょうぶだ"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "korean": "초보자이지만, 열심히 하겠습니다.",
-    "english": "I'm a beginner, but I'll do my best.",
-    "japanese": "初心者だけれど、頑張ります。",
-    "pronounce_r": "Shoshinsha da keredo, ganbarimasu.",
-    "pronounce_h": "しょしんしゃだけれ도、がんばります。",
-    "words": [
-      {
-        "korean": "초보자",
-        "japanese": "初心者",
-        "pronounce_h": "しょしんしゃ"
-      },
-      {
-        "korean": "노력하다/힘내다",
-        "japanese": "頑張る",
-        "pronounce_h": "がんばる"
-      }
+      { "korean": "어떻게", "japanese": "どうやって", "pronounce_h": "どうやって" },
+      { "korean": "가다", "japanese": "行く", "pronounce_h": "いく" }
     ]
   },
   {
     "id": 40,
-    "korean": "개와 고양이 중, 어느 쪽을 좋아합니까?",
-    "english": "Which do you like better, dogs or cats?",
-    "japanese": "犬と猫と、どちらが好きですか。",
-    "pronounce_r": "Inu to neko to, dochira ga suki desu ka.",
-    "pronounce_h": "いぬと ねこと、どちらが すきですか。",
+    "korean": "이것은 어떻게 먹는 거예요?",
+    "english": "How do you eat this?",
+    "japanese": "これはどうやって食べるのですか。",
+    "pronounce_r": "Kore wa douyatte taberu no desu ka.",
+    "pronounce_h": "これは どうやって たべるのですか。",
     "words": [
-      {
-        "korean": "개",
-        "japanese": "犬",
-        "pronounce_h": "いぬ"
-      },
-      {
-        "korean": "고양이",
-        "japanese": "猫",
-        "pronounce_h": "ねこ"
-      },
-      {
-        "korean": "어느 쪽",
-        "japanese": "どちら",
-        "pronounce_h": "どちら"
-      }
+      { "korean": "먹다", "japanese": "食べる", "pronounce_h": "たべる" }
     ]
   },
   {
     "id": 41,
-    "korean": "서울과 도쿄 중, 어느 쪽이 춥습니까?",
-    "english": "Which is colder, Seoul or Tokyo?",
-    "japanese": "ソウルと東京と、どちらが寒いですか。",
-    "pronounce_r": "Souru to Toukyou to, dochira ga samui desu ka.",
-    "pronounce_h": "そうると とうきょうと、どちらが さむいですか。",
+    "korean": "이것은 어떻게 사용하나요?",
+    "english": "How do you use this?",
+    "japanese": "これはどうやって使いますか。",
+    "pronounce_r": "Kore wa douyatte tsukaimasu ka.",
+    "pronounce_h": "これは どうやって つかいますか。",
     "words": [
-      {
-        "korean": "춥다",
-        "japanese": "寒い",
-        "pronounce_h": "さむい"
-      }
+      { "korean": "사용하다", "japanese": "使う", "pronounce_h": "つかう" }
     ]
   },
   {
     "id": 42,
-    "korean": "비가 오기 때문에 우산을 가지고 갑니다.",
-    "english": "I will bring an umbrella because it rains.",
-    "japanese": "雨が降るので、傘を持っていきます。",
-    "pronounce_r": "Ame ga furu node, kasa o motte ikimasu.",
-    "pronounce_h": "あめが ふるので、かさを もっていきます。",
+    "korean": "왜 그래? 안 좋은 얼굴을 하고",
+    "english": "What's wrong? You have a serious look on your face.",
+    "japanese": "どうしたの？難しい顔をして。",
+    "pronounce_r": "Doushita no? Muzukashii kao o shite.",
+    "pronounce_h": "どうしたの？むずかしい かおを して。",
     "words": [
-      {
-        "korean": "비가 오다",
-        "japanese": "雨が降る",
-        "pronounce_h": "あめがふる"
-      },
-      {
-        "korean": "우산",
-        "japanese": "傘",
-        "pronounce_h": "かさ"
-      },
-      {
-        "korean": "가지고 가다",
-        "japanese": "持っていく",
-        "pronounce_h": "もっていく"
-      }
+      { "korean": "무슨 일이야", "japanese": "どうしたの", "pronounce_h": "どうしたの" },
+      { "korean": "심각한", "japanese": "難しい", "pronounce_h": "むずかしい" },
+      { "korean": "얼굴", "japanese": "顔", "pronounce_h": "かお" }
     ]
   },
   {
     "id": 43,
-    "korean": "위험하니까 만지지 마!",
-    "english": "It's dangerous, don't touch it!",
-    "japanese": "危ないから、触らないで！",
-    "pronounce_r": "Abunai kara, sawaranaide!",
-    "pronounce_h": "あぶないから、さわらないで！",
+    "korean": "왜 먼저 갔어?",
+    "english": "Why did you go first?",
+    "japanese": "どう해서先に行ったの。",
+    "pronounce_r": "Doushite saki ni itta no.",
+    "pronounce_h": "どうしてさきにいっったの。",
     "words": [
-      {
-        "korean": "위험하다",
-        "japanese": "危ない",
-        "pronounce_h": "あぶない"
-      },
-      {
-        "korean": "만지다",
-        "japanese": "触る",
-        "pronounce_h": "さわる"
-      }
+      { "korean": "먼저", "japanese": "先に", "pronounce_h": "さきに" },
+      { "korean": "가다", "japanese": "行く", "pronounce_h": "いく" }
     ]
   },
   {
     "id": 44,
-    "korean": "병 때문에 학교를 쉬었습니다.",
-    "english": "I was absent from school due to illness.",
-    "japanese": "病気で学校を休みました。",
-    "pronounce_r": "Byouki de gakkou o yasumimashita.",
-    "pronounce_h": "びょうきで がっこうを やすみました。",
+    "korean": "왜 이렇게 늦었어?",
+    "english": "Why are you so late?",
+    "japanese": "なんでこんなに遅れたの。",
+    "pronounce_r": "Nande konna ni okureta no.",
+    "pronounce_h": "なんでこんなにおくれたの。",
     "words": [
-      {
-        "korean": "병",
-        "japanese": "病気",
-        "pronounce_h": "びょうき"
-      },
-      {
-        "korean": "학교",
-        "japanese": "学校",
-        "pronounce_h": "がっこう"
-      },
-      {
-        "korean": "쉬다",
-        "japanese": "休む",
-        "pronounce_h": "やすむ"
-      }
+      { "korean": "늦다", "japanese": "遅れる", "pronounce_h": "おくれる" }
     ]
   },
   {
     "id": 45,
-    "korean": "이 요리는 맛있어서 행복합니다.",
-    "english": "I am happy because this food is delicious.",
-    "japanese": "この料理は美味しくて幸せです。",
-    "pronounce_r": "Kono ryouri wa oishikute shiawase desu.",
-    "pronounce_h": "このりょうりは おいしくて しあわせです。",
+    "korean": "왜 막히는 걸까요?",
+    "english": "Why is it crowded?",
+    "japanese": "どうして混んでいるんですか。",
+    "pronounce_r": "Doushite konde iru n desu ka.",
+    "pronounce_h": "どうして こんでいるんですか。",
     "words": [
-      {
-        "korean": "요리",
-        "japanese": "料理",
-        "pronounce_h": "りょうり"
-      },
-      {
-        "korean": "행복하다",
-        "japanese": "幸せだ",
-        "pronounce_h": "しあわせだ"
-      }
+      { "korean": "붐비다", "japanese": "混む", "pronounce_h": "こむ" }
     ]
   },
   {
     "id": 46,
-    "korean": "지갑을 깜빡해서 난처했습니다.",
-    "english": "I was in trouble because I forgot my wallet.",
-    "japanese": "財布を忘れて困りました。",
-    "pronounce_r": "Saifu o wasurete komarimashita.",
-    "pronounce_h": "さいふを わすれて こまりました。",
+    "korean": "왜 안 되나요?",
+    "english": "Why is it not allowed?",
+    "japanese": "どうしてダメなんですか。",
+    "pronounce_r": "Doushite dame nan desu ka.",
+    "pronounce_h": "どうして だめなんですか。",
     "words": [
-      {
-        "korean": "지갑",
-        "japanese": "財布",
-        "pronounce_h": "さいふ"
-      },
-      {
-        "korean": "잊어버리다",
-        "japanese": "忘れる",
-        "pronounce_h": "わすれる"
-      },
-      {
-        "korean": "곤란하다",
-        "japanese": "困る",
-        "pronounce_h": "こまる"
-      }
+      { "korean": "안 됨", "japanese": "ダメ", "pronounce_h": "だめ" }
+    ]
+  },
+  {
+    "id": 47,
+    "korean": "왜 인기가 많은 걸까?",
+    "english": "I wonder why it's so popular?",
+    "japanese": "なんで人気があるんだろう？",
+    "pronounce_r": "Nande ninki ga aru n darou?",
+    "pronounce_h": "なんで にんきが あるんだろう？",
+    "words": [
+      { "korean": "인기", "japanese": "人気", "pronounce_h": "にんき" },
+      { "korean": "있다", "japanese": "ある", "pronounce_h": "ある" }
+    ]
+  },
+  {
+    "id": 48,
+    "korean": "어째서 안 되는 걸까?",
+    "english": "I wonder why it's not working?",
+    "japanese": "どうして駄目なんだろう？",
+    "pronounce_r": "Doushite dame nan darou?",
+    "pronounce_h": "どうして だめな んだろう？",
+    "words": [
+      { "korean": "안 됨", "japanese": "駄目", "pronounce_h": "だめ" }
+    ]
+  },
+  {
+    "id": 49,
+    "korean": "왜 예약이 안 된 거지?",
+    "english": "Why was the reservation not made?",
+    "japanese": "なぜ予約ができていないんだろう？",
+    "pronounce_r": "Naze yoyaku ga dekite inai n darou?",
+    "pronounce_h": "왜 요야쿠가 데키테 이나인다로우?",
+    "words": [
+      { "korean": "예약", "japanese": "予約", "pronounce_h": "よやく" },
+      { "korean": "안 되어 있다", "japanese": "できていない", "pronounce_h": "できていない" }
+    ]
+  },
+  {
+    "id": 50,
+    "korean": "왜 이렇게 비싼 걸까?",
+    "english": "Why is it so expensive?",
+    "japanese": "なんでこんなに高いんだろう？",
+    "pronounce_r": "Nande konna ni takai n darou?",
+    "pronounce_h": "なんで こんなに たかいんだろう？",
+    "words": [
+      { "korean": "비싸다", "japanese": "高い", "pronounce_h": "たかい" }
+    ]
+  },
+  {
+    "id": 51,
+    "korean": "왜 이렇게 줄이 길지?",
+    "english": "Why is the line so long?",
+    "japanese": "どうしてこんなに列が長いんだろう？",
+    "pronounce_r": "Doushite konna ni retsu ga nagai n darou?",
+    "pronounce_h": "どうして こんなに れつが ながいんだろう？",
+    "words": [
+      { "korean": "줄", "japanese": "列", "pronounce_h": "れつ" },
+      { "korean": "길다", "japanese": "長い", "pronounce_h": "ながい" }
+    ]
+  },
+  {
+    "id": 52,
+    "korean": "어째서 내 것만 안 나오지?",
+    "english": "Why is mine the only one not coming?",
+    "japanese": "なんで自分だけ来ないんだろう？",
+    "pronounce_r": "Nande jibun dake konai n darou?",
+    "pronounce_h": "なんで じぶんだけ こないんだろう？",
+    "words": [
+      { "korean": "자신/나", "japanese": "自分", "pronounce_h": "じぶん" },
+      { "korean": "오다", "japanese": "来る", "pronounce_h": "くる" }
+    ]
+  },
+  {
+    "id": 53,
+    "korean": "병(감기) 때문에 학교를 쉬었습니다.",
+    "english": "I was absent from school due to illness.",
+    "japanese": "病気で学校を休みました。",
+    "pronounce_r": "Byouki de gakkou o yasumimashita.",
+    "pronounce_h": "びょうきで がっこうをやすみました。",
+    "words": [
+      { "korean": "병", "japanese": "病기", "pronounce_h": "びょうき" },
+      { "korean": "학교", "japanese": "学校", "pronounce_h": "がっこう" },
+      { "korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ" }
+    ]
+  },
+  {
+    "id": 54,
+    "korean": "비 때문에 길이 막혔어요.",
+    "english": "The road was crowded because of the rain.",
+    "japanese": "雨で道が混みました。",
+    "pronounce_r": "Ame de michi ga komimashita.",
+    "pronounce_h": "あめで みちがこみました。",
+    "words": [
+      { "korean": "비", "japanese": "雨", "pronounce_h": "あめ" },
+      { "korean": "길", "japanese": "道", "pronounce_h": "みち" },
+      { "korean": "붐비다", "japanese": "混む", "pronounce_h": "こむ" }
+    ]
+  },
+  {
+    "id": 55,
+    "korean": "여기는 조용해서 좋아요.",
+    "english": "I like it here because it's quiet.",
+    "japanese": "ここは静かで好きです。",
+    "pronounce_r": "Koko wa shizuka de suki desu.",
+    "pronounce_h": "ここは しずかで すきです。",
+    "words": [
+      { "korean": "조용하다", "japanese": "静かだ", "pronounce_h": "しずかだ" },
+      { "korean": "좋아하다", "japanese": "好きだ", "pronounce_h": "すきだ" }
+    ]
+  },
+  {
+    "id": 56,
+    "korean": "오늘은 바빠서 피곤해요.",
+    "english": "I'm tired because I'm busy today.",
+    "japanese": "今日は忙しくて疲れました。",
+    "pronounce_r": "Kyou wa isogashikute tsukaremashita.",
+    "pronounce_h": "きょうは いそ가しくて つかれました。",
+    "words": [
+      { "korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそがしい" },
+      { "korean": "피곤하다", "japanese": "疲れる", "pronounce_h": "つかれる" }
+    ]
+  },
+  {
+    "id": 57,
+    "korean": "전철이 늦어서 곤란했어요.",
+    "english": "I was in trouble because the train was late.",
+    "japanese": "電車が遅れて困りました。",
+    "pronounce_r": "Densha ga okurete komarimashita.",
+    "pronounce_h": "でんしゃが おくれて こまりました。",
+    "words": [
+      { "korean": "전철", "japanese": "電車", "pronounce_h": "でんしゃ" },
+      { "korean": "늦다", "japanese": "遅れる", "pronounce_h": "おくれる" },
+      { "korean": "곤란하다", "japanese": "困る", "pronounce_h": "こまる" }
+    ]
+  },
+  {
+    "id": 58,
+    "korean": "비가 내리고 있어서 택시로 갈게요.",
+    "english": "It's raining, so I'll go by taxi.",
+    "japanese": "雨が降っているので、タクシーで行きます。",
+    "pronounce_r": "Ame ga futte iru node, takushi- de ikimasu.",
+    "pronounce_h": "あめがふっているので、タクシーでいきます。",
+    "words": [
+      { "korean": "비가 내리다", "japanese": "雨が降る", "pronounce_h": "あめがふる" },
+      { "korean": "가다", "japanese": "行く", "pronounce_h": "いく" }
+    ]
+  },
+  {
+    "id": 59,
+    "korean": "몸 상태가 안 좋아서 먼저 실례할게요.",
+    "english": "I'm not feeling well, so I'll excuse myself first.",
+    "japanese": "体調が悪いので、先に失礼します。",
+    "pronounce_r": "Taichou ga warui node, saki ni shitsurei shimasu.",
+    "pronounce_h": "たいちょうがわるいので、さきにしつれいします。",
+    "words": [
+      { "korean": "몸 상태", "japanese": "体調", "pronounce_h": "たいちょう" },
+      { "korean": "나쁘다", "japanese": "悪い", "pronounce_h": "わるい" },
+      { "korean": "실례하다", "japanese": "失礼する", "pronounce_h": "しつれいする" }
+    ]
+  },
+  {
+    "id": 60,
+    "korean": "회의 중이라서 나중에 연락할게요.",
+    "english": "I'm in a meeting, so I'll contact you later.",
+    "japanese": "会議中なので、あとで連絡します。",
+    "pronounce_r": "Kaigichuu na node, ato de renraku shimasu.",
+    "pronounce_h": "かいぎちゅうなので、あとでれんらくします。",
+    "words": [
+      { "korean": "회의 중", "japanese": "会議中", "pronounce_h": "かいぎちゅう" },
+      { "korean": "나중에", "japanese": "あとで", "pronounce_h": "あとで" },
+      { "korean": "연락하다", "japanese": "連絡する", "pronounce_h": "れんらくする" }
+    ]
+  },
+  {
+    "id": 61,
+    "korean": "비니까 집에 있을래.",
+    "english": "It's raining, so I'll stay home.",
+    "japanese": "雨だから、家にいよう。",
+    "pronounce_r": "Ame da kara, ie ni iyou.",
+    "pronounce_h": "あめだから、いえにいよう。",
+    "words": [
+      { "korean": "집", "japanese": "家", "pronounce_h": "いえ" },
+      { "korean": "있다", "japanese": "いる", "pronounce_h": "いる" }
+    ]
+  },
+  {
+    "id": 62,
+    "korean": "오늘은 바쁘니까 안 갈게요.",
+    "english": "I'm busy today, so I won't go.",
+    "japanese": "今日は忙しいから、行きません。",
+    "pronounce_r": "Kyou wa isogashii kara, ikimasen.",
+    "pronounce_h": "きょうはいそがしいから、いきません。",
+    "words": [
+      { "korean": "바쁘다", "japanese": "忙しい", "pronounce_h": "いそがしい" },
+      { "korean": "가다", "japanese": "行く", "pronounce_h": "いく" }
+    ]
+  },
+  {
+    "id": 63,
+    "korean": "위험하니까 들어가지 마세요.",
+    "english": "It's dangerous, so please don't enter.",
+    "japanese": "危ないから、入らないでください。",
+    "pronounce_r": "Abunai kara, hairanaide kudasai.",
+    "pronounce_h": "あぶないから、はいらないでください。",
+    "words": [
+      { "korean": "위험하다", "japanese": "危ない", "pronounce_h": "あぶない" },
+      { "korean": "들어가다", "japanese": "入る", "pronounce_h": "はいる" }
+    ]
+  },
+  {
+    "id": 64,
+    "korean": "피곤하니까 먼저 잘게.",
+    "english": "I'm tired, so I'm going to sleep first.",
+    "japanese": "疲れたから、先に寝るね。",
+    "pronounce_r": "Tsukareta kara, saki ni neru ne.",
+    "pronounce_h": "つかれたから、さきにねるね。",
+    "words": [
+      { "korean": "피곤하다", "japanese": "疲れる", "pronounce_h": "つかれる" },
+      { "korean": "자다", "japanese": "寝る", "pronounce_h": "ねる" }
     ]
   }
 ]
