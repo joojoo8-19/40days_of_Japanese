@@ -1,788 +1,647 @@
 [
   {
     "id": 1,
-    "korean": "왜 거짓말 했어?",
-    "english": "Why did you lie?",
-    "japanese": "どうして嘘をついたの？",
-    "pronounce_r": "Doushite uso o tsuita no?",
-    "pronounce_h": "どうして うそを ついたの？",
+    "korean": "여기는 내 방이야",
+    "english": "This is my room.",
+    "japanese": "ここは私の部屋だ。",
+    "pronounce_r": "Koko wa watashi no heya da.",
+    "pronounce_h": "ここはわたしのへやだ。",
     "words": [
-      {"korean": "거짓말을 하다", "japanese": "嘘をつく", "pronounce_h": "うそを つく"}
+      { "korean": "방", "japanese": "部屋", "pronounce_h": "へや" }
     ]
   },
   {
     "id": 2,
-    "korean": "왜 이렇게 늦었어?",
-    "english": "Why are you so late?",
-    "japanese": "なんでこんなに遅れたの？",
-    "pronounce_r": "Nande konna ni okureta no?",
-    "pronounce_h": "なんで こんなに おくれた의？",
+    "korean": "나는 한국 사람이야",
+    "english": "I am Korean.",
+    "japanese": "私は韓国人だ。",
+    "pronounce_r": "Watashi wa kankokujin da.",
+    "pronounce_h": "わたしはかんこくじんだ。",
     "words": [
-      {"korean": "늦다", "japanese": "遅れる", "pronounce_h": "おくれる"},
-      {"korean": "이렇게", "japanese": "こんなに", "pronounce_h": "こんなに"}
+      { "korean": "한국인", "japanese": "韓国人", "pronounce_h": "かんこくじん" }
     ]
   },
   {
     "id": 3,
-    "korean": "어제는 왜 쉬었어?",
-    "english": "Why did you take a rest yesterday?",
-    "japanese": "昨日はなぜ休んだの？",
-    "pronounce_r": "Kinou wa naze yasunda no?",
-    "pronounce_h": "きのうは なぜ やすんだの？",
+    "korean": "이 가게는 카페야",
+    "english": "This shop is a cafe.",
+    "japanese": "この店はカフェだ。",
+    "pronounce_r": "Kono mise wa kafe da.",
+    "pronounce_h": "このみせはかふぇだ。",
     "words": [
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"},
-      {"korean": "쉬다", "japanese": "休む", "pronounce_h": "やすむ"}
+      { "korean": "가게", "japanese": "店", "pronounce_h": "미세" },
+      { "korean": "카페", "japanese": "カフェ", "pronounce_h": "かふぇ" }
     ]
   },
   {
     "id": 4,
-    "korean": "왜 잠자코 있는 거야?",
-    "english": "Why are you staying silent?",
-    "japanese": "どうして黙っているの？",
-    "pronounce_r": "Doushite damatte iru no?",
-    "pronounce_h": "どうして だまっているの？",
+    "korean": "화장실은 저쪽이야",
+    "english": "The restroom is over there.",
+    "japanese": "トイレはあっちだ。",
+    "pronounce_r": "Toire wa acchi da.",
+    "pronounce_h": "といれはあっちだ。",
     "words": [
-      {"korean": "입을 다물다", "japanese": "黙る", "pronounce_h": "だまる"}
+      { "korean": "저쪽", "japanese": "あっち", "pronounce_h": "あっち" }
     ]
   },
   {
     "id": 5,
-    "korean": "왜 아무 말도 안해?",
-    "english": "Why don't you say anything?",
-    "japanese": "なんで何も言わないの？",
-    "pronounce_r": "Nande nani mo iwanai no?",
-    "pronounce_h": "なんで なにも いわないの？",
+    "korean": "취미는 여행이야",
+    "english": "My hobby is traveling.",
+    "japanese": "趣味は旅行だ。",
+    "pronounce_r": "Shumi wa ryokou da.",
+    "pronounce_h": "しゅみはりょこうだ。",
     "words": [
-      {"korean": "아무것도", "japanese": "何も", "pronounce_h": "なにも"},
-      {"korean": "말하다", "japanese": "言う", "pronounce_h": "いう"}
+      { "korean": "취미", "japanese": "趣味", "pronounce_h": "しゅみ" },
+      { "korean": "여행", "japanese": "旅行", "pronounce_h": "りょこう" }
     ]
   },
   {
     "id": 6,
-    "korean": "왜 그럴까?",
-    "english": "I wonder why.",
-    "japanese": "なぜだろう？",
-    "pronounce_r": "Naze darou?",
-    "pronounce_h": "なぜだろう？",
+    "korean": "저 사람은 직원이야",
+    "english": "That person is a staff member.",
+    "japanese": "あの人は店員だ。",
+    "pronounce_r": "Ano hito wa ten'in da.",
+    "pronounce_h": "あのひとはてんいんだ。",
     "words": [
-      {"korean": "왜", "japanese": "なぜ", "pronounce_h": "なぜ"}
+      { "korean": "점원", "japanese": "店員", "pronounce_h": "てんいん" }
     ]
   },
   {
     "id": 7,
-    "korean": "왜 먼저 갔어?",
-    "english": "Why did you go first?",
-    "japanese": "どうして先に行ったの？",
-    "pronounce_r": "Doushite saki ni itta no?",
-    "pronounce_h": "どうして さきに いったの？",
+    "korean": "아침밥은 샌드위치였어",
+    "english": "Breakfast was a sandwich.",
+    "japanese": "朝ご飯はサンドイッチだった。",
+    "pronounce_r": "Asagohan wa sandoicchi datta.",
+    "pronounce_h": "あさごはんはさんどいっちだった。",
     "words": [
-      {"korean": "먼저", "japanese": "先に", "pronounce_h": "さきに"},
-      {"korean": "가다", "japanese": "行く", "pronounce_h": "いく"}
+      { "korean": "아침밥", "japanese": "朝ご飯", "pronounce_h": "아사ごはん" }
     ]
   },
   {
     "id": 8,
-    "korean": "급한 일이 생겼어.",
-    "english": "Something urgent came up.",
-    "japanese": "急用ができたの。",
-    "pronounce_r": "Kyuuyou ga dekita no.",
-    "pronounce_h": "きゅうようが できたの。",
+    "korean": "점심은 라멘이었어",
+    "english": "Lunch was ramen.",
+    "japanese": "昼ご飯はラーメンだった。",
+    "pronounce_r": "Hirugohan wa raamen datta.",
+    "pronounce_h": "ひるごはんはらーめんだった。",
     "words": [
-      {"korean": "급한 일", "japanese": "急用", "pronounce_h": "きゅうよう"},
-      {"korean": "생기다", "japanese": "できる", "pronounce_h": "できる"}
+      { "korean": "점심", "japanese": "昼ご飯", "pronounce_h": "ひるごはん" },
+      { "korean": "라멘", "japanese": "ラーメン", "pronounce_h": "らーめん" }
     ]
   },
   {
     "id": 9,
-    "korean": "어라? 왜지? (일상적)",
-    "english": "Oh? Why?",
-    "japanese": "なんでだろう？",
-    "pronounce_r": "Nande darou?",
-    "pronounce_h": "なんでだろう？",
+    "korean": "선물은 꽃이었어",
+    "english": "The gift was flowers.",
+    "japanese": "プレゼントは花だった。",
+    "pronounce_r": "Purezento wa hana datta.",
+    "pronounce_h": "ぷれぜんとははなだった。",
     "words": [
-      {"korean": "왜", "japanese": "なんで", "pronounce_h": "なんで"}
+      { "korean": "꽃", "japanese": "花", "pronounce_h": "はな" }
     ]
   },
   {
     "id": 10,
-    "korean": "왜 그럴까? (표준/감정적)",
-    "english": "I wonder why.",
-    "japanese": "どうしてだろう？",
-    "pronounce_r": "Doushite darou?",
-    "pronounce_h": "どうしてだろう？",
+    "korean": "생일은 어제였어",
+    "english": "The birthday was yesterday.",
+    "japanese": "誕生日は昨日だった。",
+    "pronounce_r": "Tanjoubi wa kinou datta.",
+    "pronounce_h": "たんじょうびはきのうだった。",
     "words": [
-      {"korean": "왜", "japanese": "どうして", "pronounce_h": "どうして"}
+      { "korean": "어제", "japanese": "昨日", "pronounce_h": "きのう" }
     ]
   },
   {
     "id": 11,
-    "korean": "왜 그럴까? (분석적/독백)",
-    "english": "I wonder why.",
-    "japanese": "なぜだろう？",
-    "pronounce_r": "Naze darou?",
-    "pronounce_h": "なぜだろう？",
+    "korean": "어제는 휴일이었어",
+    "english": "Yesterday was a holiday.",
+    "japanese": "昨日は休みだった。",
+    "pronounce_r": "Kinou wa yasumi datta.",
+    "pronounce_h": "きのうはやすみだった。",
     "words": [
-      {"korean": "왜", "japanese": "なぜ", "pronounce_h": "なぜ"}
+      { "korean": "휴일", "japanese": "休み", "pronounce_h": "やすみ" }
     ]
   },
   {
     "id": 12,
-    "korean": "2010년 생이야",
-    "english": "I was born in 2010.",
-    "japanese": "2010年生まれだ",
-    "pronounce_r": "Nisen-juu-nen umare da",
-    "pronounce_h": "2010ねん うまれだ",
+    "korean": "거기는 카페였어",
+    "english": "That place was a cafe.",
+    "japanese": "そこはカフェだった。",
+    "pronounce_r": "Soko wa kafe datta.",
+    "pronounce_h": "そこはかふぇだった。",
     "words": [
-      {"korean": "태생/출생", "japanese": "生まれ", "pronounce_h": "うまれ"}
+      { "korean": "카페", "japanese": "카페", "pronounce_h": "かふぇ" }
     ]
   },
   {
     "id": 13,
-    "korean": "여기는 내 방이야",
-    "english": "This is my room.",
-    "japanese": "ここは私の部屋だ",
-    "pronounce_r": "Koko wa watashi no heya da",
-    "pronounce_h": "ここは わたしの へやだ",
+    "korean": "거기는 은행이 아니야",
+    "english": "That place is not a bank.",
+    "japanese": "あそこは銀行じゃない。",
+    "pronounce_r": "Asoko wa ginkou janai.",
+    "pronounce_h": "あそこはぎんこうじゃない。",
     "words": [
-      {"korean": "여기", "japanese": "ここ", "pronounce_h": "ここ"},
-      {"korean": "방", "japanese": "部屋", "pronounce_h": "へや"}
+      { "korean": "은행", "japanese": "銀行", "pronounce_h": "ぎんこう" }
     ]
   },
   {
     "id": 14,
-    "korean": "범인은 저 사람이다!",
-    "english": "The culprit is that person!",
-    "japanese": "犯人はあの人だ！",
-    "pronounce_r": "Hannin wa ano hito da!",
-    "pronounce_h": "はんにんは あのひとだ！",
+    "korean": "이 가게는 카페가 아니야",
+    "english": "This shop is not a cafe.",
+    "japanese": "この店はカフェじゃない。",
+    "pronounce_r": "Kono mise wa kafe janai.",
+    "pronounce_h": "このみせはかふぇじゃない。",
     "words": [
-      {"korean": "범인", "japanese": "犯人", "pronounce_h": "はんにん"},
-      {"korean": "저 사람", "japanese": "あの人", "pronounce_h": "あのひと"}
+      { "korean": "가게", "japanese": "店", "pronounce_h": "みせ" },
+      { "korean": "카페", "japanese": "카페", "pronounce_h": "かふぇ" }
     ]
   },
   {
     "id": 15,
-    "korean": "취미는 드라이브고, 특기는 세차야",
-    "english": "My hobby is driving, and my specialty is car washing.",
-    "japanese": "趣味はドライブで、特技は洗車だ",
-    "pronounce_r": "Shumi wa doraibu de, tokugi wa sensha da",
-    "pronounce_h": "しゅみは どらいぶで、とくぎは せんしゃだ",
+    "korean": "오늘은 휴일이 아니야",
+    "english": "Today is not a holiday.",
+    "japanese": "今日は休日じゃない。",
+    "pronounce_r": "Kyou wa kyuujitsu janai.",
+    "pronounce_h": "きょうはきゅうじつじゃない。",
     "words": [
-      {"korean": "취미", "japanese": "趣味", "pronounce_h": "しゅみ"},
-      {"korean": "특기", "japanese": "特技", "pronounce_h": "とくぎ"},
-      {"korean": "세차", "japanese": "洗車", "pronounce_h": "せんしゃ"}
+      { "korean": "휴일", "japanese": "休日", "pronounce_h": "きゅうじつ" }
     ]
   },
   {
     "id": 16,
-    "korean": "저 사람 누구야?",
-    "english": "Who is that person?",
-    "japanese": "あの人は誰だ？",
-    "pronounce_r": "Ano hito wa dare da?",
-    "pronounce_h": "あのひと[は] だれだ？",
+    "korean": "지금은 영업 시간이 아니야",
+    "english": "It is not business hours now.",
+    "japanese": "今は営業時間じゃない。",
+    "pronounce_r": "Ima wa eigiou jikan janai.",
+    "pronounce_h": "いまはえいぎょうじかんじゃない。",
     "words": [
-      {"korean": "누구", "japanese": "誰", "pronounce_h": "だれ"}
+      { "korean": "영업시간", "japanese": "営業時間", "pronounce_h": "えいぎょうじかん" }
     ]
   },
   {
     "id": 17,
-    "korean": "인기 아이돌이야",
-    "english": "He/She is a popular idol.",
-    "japanese": "人気のアイドルだ",
-    "pronounce_r": "Ninki no aidoru da",
-    "pronounce_h": "にんきの あいどるだ",
+    "korean": "내일이 아니야. 모레야.",
+    "english": "It's not tomorrow. It's the day after tomorrow.",
+    "japanese": "明日じゃないよ。明後일だよ。",
+    "pronounce_r": "Ashita janai yo. Asatte da yo.",
+    "pronounce_h": "あしたじゃないよ。あさってだよ。",
     "words": [
-      {"korean": "인기", "japanese": "人気", "pronounce_h": "にんき"},
-      {"korean": "아이돌", "japanese": "アイドル", "pronounce_h": "あいどる"}
+      { "korean": "모레", "japanese": "明後日", "pronounce_h": "あさって" }
     ]
   },
   {
     "id": 18,
-    "korean": "아침밥은 샌드위치였어",
-    "english": "Breakfast was a sandwich.",
-    "japanese": "朝ご飯はサンドイッチだった",
-    "pronounce_r": "Asagohan wa sandoitchi datta",
-    "pronounce_h": "あさごはん[は] さんどいっちだった",
+    "korean": "여기는 출구가 아니야",
+    "english": "This is not the exit.",
+    "japanese": "ここは出口じゃない。",
+    "pronounce_r": "Koko wa deguchi janai.",
+    "pronounce_h": "ここはでぐちじゃない。",
     "words": [
-      {"korean": "아침밥", "japanese": "朝ご飯", "pronounce_h": "あさごはん"}
+      { "korean": "출구", "japanese": "出口", "pronounce_h": "でぐち" }
     ]
   },
   {
     "id": 19,
-    "korean": "선물은 꽃이었어",
-    "english": "The gift was flowers.",
-    "japanese": "プレゼントは花だった",
-    "pronounce_r": "Purezento wa hana datta",
-    "pronounce_h": "ぷれぜんと[は] はなだった",
+    "korean": "이건 제 주문이 아니에요",
+    "english": "This is not my order.",
+    "japanese": "これは私の注文ではないです。",
+    "pronounce_r": "Kore wa watashi no chuumon dewa nai desu.",
+    "pronounce_h": "これはわたしのちゅうもんではないです。",
     "words": [
-      {"korean": "선물", "japanese": "プレゼント", "pronounce_h": "ぷれぜんと"},
-      {"korean": "꽃", "japanese": "花", "pronounce_h": "はな"}
+      { "korean": "주문", "japanese": "注文", "pronounce_h": "ちゅうもん" }
     ]
   },
   {
     "id": 20,
-    "korean": "생일은 어제였어",
-    "english": "My birthday was yesterday.",
-    "japanese": "誕生日は昨日だった",
-    "pronounce_r": "Tanjoubi wa kinou datta",
-    "pronounce_h": "たんじょうび[は] きのうだった",
+    "korean": "그 병원은 친절하지 않았어",
+    "english": "That hospital was not kind.",
+    "japanese": "あの病院は親切じゃなかった。",
+    "pronounce_r": "Ano byouin wa shinsetsu janakatta.",
+    "pronounce_h": "あのびょういんはしんせつじゃなかった。",
     "words": [
-      {"korean": "생일", "japanese": "誕生日", "pronounce_h": "たんじょうび"},
-      {"korean": "어제", "japanese": "昨日", "pronounce_h": "きのう"}
+      { "korean": "병원", "japanese": "病院", "pronounce_h": "びょういん" },
+      { "korean": "친절함", "japanese": "親切", "pronounce_h": "しんせつ" }
     ]
   },
   {
     "id": 21,
-    "korean": "연주는 최고였어",
-    "english": "The performance was the best.",
-    "japanese": "演奏は最高だった",
-    "pronounce_r": "Ensou wa saikou datta",
-    "pronounce_h": "えんそう[は] さいこうだった",
+    "korean": "전철은 만원이 아니었어",
+    "english": "The train was not crowded.",
+    "japanese": "電車は満員じゃなかった。",
+    "pronounce_r": "Densha wa man'in janakatta.",
+    "pronounce_h": "でんしゃはまんいんじゃなかった。",
     "words": [
-      {"korean": "연주", "japanese": "演奏", "pronounce_h": "えんそう"},
-      {"korean": "최고", "japanese": "最高", "pronounce_h": "さいこう"}
+      { "korean": "만원", "japanese": "満員", "pronounce_h": "まんいん" }
     ]
   },
   {
     "id": 22,
-    "korean": "어머니는 공무원이었어",
-    "english": "My mother was a civil servant.",
-    "japanese": "母は公務員だった",
-    "pronounce_r": "Haha wa koumuin datta",
-    "pronounce_h": "はは[は] こうむいんだった",
+    "korean": "어제는 휴일이 아니었어",
+    "english": "Yesterday was not a holiday.",
+    "japanese": "昨日は休みじゃなかった。",
+    "pronounce_r": "Kinou wa yasumi janakatta.",
+    "pronounce_h": "きのうはやすみじゃなかった。",
     "words": [
-      {"korean": "어머니", "japanese": "母", "pronounce_h": "はは"},
-      {"korean": "공무원", "japanese": "公務員", "pronounce_h": "こうむいん"}
+      { "korean": "휴일", "japanese": "休み", "pronounce_h": "やすみ" }
     ]
   },
   {
     "id": 23,
-    "korean": "1위는 누구였어?",
-    "english": "Who was number one?",
-    "japanese": "1位はだれだった？",
-    "pronounce_r": "Ichii wa dare datta?",
-    "pronounce_h": "いちい[は] だれだった？",
+    "korean": "그 가게는 카페가 아니었어",
+    "english": "That shop was not a cafe.",
+    "japanese": "あの店はカフェじゃなかった。",
+    "pronounce_r": "Ano mise wa kafe janakatta.",
+    "pronounce_h": "あのみ세はかふぇじゃなかった。",
     "words": [
-      {"korean": "1위", "japanese": "1位", "pronounce_h": "いちい"}
+      { "korean": "가게", "japanese": "店", "pronounce_h": "みせ" },
+      { "korean": "카페", "japanese": "카페", "pronounce_h": "かふぇ" }
     ]
   },
   {
     "id": 24,
-    "korean": "거기는 은행이 아니야",
-    "english": "That's not a bank.",
-    "japanese": "あそこは銀行じゃない",
-    "pronounce_r": "Asoko wa ginkou janai",
-    "pronounce_h": "あそこ[は] ぎんこうじゃない",
+    "korean": "콘서트는 오늘 밤이 아니었어",
+    "english": "The concert was not tonight.",
+    "japanese": "コンサートは今夜じゃなかった。",
+    "pronounce_r": "Konsaato wa konya janakatta.",
+    "pronounce_h": "こんさーとはこんやじゃなかった。",
     "words": [
-      {"korean": "저기", "japanese": "あそこ", "pronounce_h": "あそこ"},
-      {"korean": "은행", "japanese": "銀行", "pronounce_h": "ぎんこう"}
+      { "korean": "오늘 밤", "japanese": "今夜", "pronounce_h": "こん야" }
     ]
   },
   {
     "id": 25,
-    "korean": "지금은 간호사가 아니야",
-    "english": "I am not a nurse now.",
-    "japanese": "今は看護師ではない",
-    "pronounce_r": "Ima wa kangoshi dewa nai",
-    "pronounce_h": "いま[は] かんごしではない",
+    "korean": "거기는 출구가 아니었어",
+    "english": "That place was not the exit.",
+    "japanese": "あそこは出口じゃなかった。",
+    "pronounce_r": "Asoko wa deguchi janakatta.",
+    "pronounce_h": "あそこはでぐちじゃなかった。",
     "words": [
-      {"korean": "지금", "japanese": "今", "pronounce_h": "いま"},
-      {"korean": "간호사", "japanese": "看護師", "pronounce_h": "かんごし"}
+      { "korean": "출구", "japanese": "出口", "pronounce_h": "でぐち" }
     ]
   },
   {
     "id": 26,
-    "korean": "김 씨는 사장이 아니야",
-    "english": "Mr. Kim is not the president.",
-    "japanese": "金さんは社長じゃない",
-    "pronounce_r": "Kin-san wa shachou janai",
-    "pronounce_h": "きんさん[は] しゃちょうじゃない",
+    "korean": "예약은 어제 것이 아니었어",
+    "english": "The reservation was not for yesterday.",
+    "japanese": "予約は昨日のじゃなかった。",
+    "pronounce_r": "Yoyaku wa kinou no janakatta.",
+    "pronounce_h": "よやくはきのうのじゃなかった。",
     "words": [
-      {"korean": "사장", "japanese": "社長", "pronounce_h": "しゃちょう"}
+      { "korean": "예약", "japanese": "予約", "pronounce_h": "よやく" }
     ]
   },
   {
     "id": 27,
-    "korean": "오늘은 휴일이 아니야",
-    "english": "Today is not a holiday.",
-    "japanese": "今日は休日じゃない",
-    "pronounce_r": "Kyou wa kyuujitsu janai",
-    "pronounce_h": "きょう[は] きゅうじつじゃない",
+    "korean": "제 것이에요",
+    "english": "It is mine.",
+    "japanese": "私のです。",
+    "pronounce_r": "Watashi no desu.",
+    "pronounce_h": "わたしのです。",
     "words": [
-      {"korean": "오늘", "japanese": "今日", "pronounce_h": "きょう"},
-      {"korean": "휴일", "japanese": "休日", "pronounce_h": "きゅうじつ"}
+      { "korean": "나", "japanese": "私", "pronounce_h": "わたし" }
     ]
   },
   {
     "id": 28,
-    "korean": "그는 내 타입이 아니야",
-    "english": "He is not my type.",
-    "japanese": "彼は私のタイプじゃない",
-    "pronounce_r": "Kare wa watashi no taipu janai",
-    "pronounce_h": "かれ[は] わたしの たいぷじゃない",
+    "korean": "제 직업은 회사원이에요",
+    "english": "My job is an office worker.",
+    "japanese": "私の仕事は会社員です。",
+    "pronounce_r": "Watashi no shigoto wa kaishain desu.",
+    "pronounce_h": "わたしのしごとはかいしゃいんです。",
     "words": [
-      {"korean": "그", "japanese": "彼", "pronounce_h": "かれ"},
-      {"korean": "타입", "japanese": "タイプ", "pronounce_h": "たいぷ"}
+      { "korean": "회사원", "japanese": "회사원", "pronounce_h": "かいしゃいん" }
     ]
   },
   {
     "id": 29,
-    "korean": "내일, 테스트지?",
-    "english": "Tomorrow is a test, right?",
-    "japanese": "明日、テストだよね？",
-    "pronounce_r": "Ashita, tesuto dayone?",
-    "pronounce_h": "あした、てすとだよね？",
+    "korean": "저는 A형이에요",
+    "english": "I am type A.",
+    "japanese": "私はA型です。",
+    "pronounce_r": "Watashi wa eegata desu.",
+    "pronounce_h": "わたしはえーがたです。",
     "words": [
-      {"korean": "내일", "japanese": "明日", "pronounce_h": "あした"},
-      {"korean": "테스트", "japanese": "テスト", "pronounce_h": "てすと"}
+      { "korean": "혈액형", "japanese": "型", "pronounce_h": "がた" }
     ]
   },
   {
     "id": 30,
-    "korean": "내일이 아니야. 모레야.",
-    "english": "It's not tomorrow. It's the day after tomorrow.",
-    "japanese": "明日じゃないよ。明後日だよ。",
-    "pronounce_r": "Ashita janai yo. Asatte dayo.",
-    "pronounce_h": "あしたじゃないよ。あさってだよ。",
+    "korean": "여기 자리 있어요",
+    "english": "There is a seat here.",
+    "japanese": "ここは席があります。",
+    "pronounce_r": "Koko wa seki ga arimasu.",
+    "pronounce_h": "ここはせきがあります。",
     "words": [
-      {"korean": "모레", "japanese": "明後日", "pronounce_h": "あさって"}
+      { "korean": "자리", "japanese": "席", "pronounce_h": "せき" },
+      { "korean": "있다", "japanese": "ある", "pronounce_h": "ある" }
     ]
   },
   {
     "id": 31,
-    "korean": "친절한 의사가 아니었어",
-    "english": "He was not a kind doctor.",
-    "japanese": "親切な医者じゃなかった",
-    "pronounce_r": "Shinsetsu na isha janakatta",
-    "pronounce_h": "しんせつな いしゃじゃなかった",
+    "korean": "이 메뉴는 추천이에요",
+    "english": "This menu is a recommendation.",
+    "japanese": "このメニューはおすすめです。",
+    "pronounce_r": "Kono menyuu wa osusume desu.",
+    "pronounce_h": "このめにゅーはおすすめです。",
     "words": [
-      {"korean": "친절하다", "japanese": "親切だ", "pronounce_h": "しんせつだ"},
-      {"korean": "의사", "japanese": "医者", "pronounce_h": "いしゃ"}
+      { "korean": "추천", "japanese": "おすすめ", "pronounce_h": "おすすめ" }
     ]
   },
   {
     "id": 32,
-    "korean": "전철은 만원이 아니었어",
-    "english": "The train was not crowded.",
-    "japanese": "電車は満員じゃなかった",
-    "pronounce_r": "Densha wa man-in janakatta",
-    "pronounce_h": "でんしゃ[は] まんいんじゃなかった",
+    "korean": "이건 인기 메뉴에요",
+    "english": "This is a popular menu.",
+    "japanese": "これは人気のメニュー입니다。",
+    "pronounce_r": "Kore wa ninki no menyuu desu.",
+    "pronounce_h": "これはにんきのめにゅーです。",
     "words": [
-      {"korean": "전철", "japanese": "電車", "pronounce_h": "でんしゃ"},
-      {"korean": "만원", "japanese": "満員", "pronounce_h": "まんいん"}
+      { "korean": "인기", "japanese": "人気", "pronounce_h": "にんき" }
     ]
   },
   {
     "id": 33,
-    "korean": "범인은 그가 아니었어",
-    "english": "The culprit was not him.",
-    "japanese": "犯人は彼じゃなかった",
-    "pronounce_r": "Hannin wa kare janakatta",
-    "pronounce_h": "はんにん[は] かれじゃなかった",
+    "korean": "물은 무료에요",
+    "english": "Water is free.",
+    "japanese": "お水は無料です。",
+    "pronounce_r": "Omizu wa muryou desu.",
+    "pronounce_h": "おみずはむりょう입니다.",
     "words": [
-      {"korean": "범인", "japanese": "犯人", "pronounce_h": "はんにん"}
+      { "korean": "무료", "japanese": "無料", "pronounce_h": "むりょう" }
     ]
   },
   {
     "id": 34,
-    "korean": "11 페이지는 숙제가 아니었어",
-    "english": "Page 11 was not homework.",
-    "japanese": "11ページは宿題じゃなかった",
-    "pronounce_r": "Juu-ichi peeji wa shukudai janakatta",
-    "pronounce_h": "11ぺーじ[は] しゅくだいじゃなかった",
+    "korean": "계산은 여기서에요",
+    "english": "The payment is here.",
+    "japanese": "会計はここです。",
+    "pronounce_r": "Kaikei wa koko desu.",
+    "pronounce_h": "かいけいはここです。",
     "words": [
-      {"korean": "숙제", "japanese": "宿題", "pronounce_h": "しゅくだい"}
+      { "korean": "계산", "japanese": "会計", "pronounce_h": "かいけい" }
     ]
   },
   {
     "id": 35,
-    "korean": "콘서트는 오늘 밤이 아니었어",
-    "english": "The concert was not tonight.",
-    "japanese": "コンサートは今夜じゃなかった",
-    "pronounce_r": "Konsaato wa konya janakatta",
-    "pronounce_h": "こんさーと[は] こんやじゃなかった",
+    "korean": "체크인은 3시부터에요",
+    "english": "Check-in is from 3 o'clock.",
+    "japanese": "チェックインは3時からです。",
+    "pronounce_r": "Chekkuin wa san-ji kara desu.",
+    "pronounce_h": "ちぇっくいんはさんじからです。",
     "words": [
-      {"korean": "오늘 밤", "japanese": "今夜", "pronounce_h": "こんや"}
+      { "korean": "체크인", "japanese": "チェック인", "pronounce_h": "ちぇっくいん" }
     ]
   },
   {
     "id": 36,
-    "korean": "어제 쉬는 날이었어?",
-    "english": "Was yesterday a day off?",
-    "japanese": "昨日、休みだったの？",
-    "pronounce_r": "Kinou, yasumi datta no?",
-    "pronounce_h": "きのう、やすみだったの？",
+    "korean": "이 방은 금연이에요",
+    "english": "This room is non-smoking.",
+    "japanese": "この部屋は禁煙です。",
+    "pronounce_r": "Kono heya wa kin'en desu.",
+    "pronounce_h": "このへやはきんえんです。",
     "words": [
-      {"korean": "쉬는 날/휴일", "japanese": "休み", "pronounce_h": "やすみ"}
+      { "korean": "금연", "japanese": "禁煙", "pronounce_h": "きんえん" }
     ]
   },
   {
     "id": 37,
-    "korean": "내 것이에요",
-    "english": "It's mine.",
-    "japanese": "私のです",
-    "pronounce_r": "Watashi no desu",
-    "pronounce_h": "わたしの[です]",
+    "korean": "카드 결제 가능해요",
+    "english": "Card payment is possible.",
+    "japanese": "カードで支払い可能です。",
+    "pronounce_r": "Kaado de shiharai kanou desu.",
+    "pronounce_h": "かーどでしはらいかのう입니다.",
     "words": [
-      {"korean": "나/저", "japanese": "私", "pronounce_h": "わたし"}
+      { "korean": "결제", "japanese": "支払い", "pronounce_h": "しはらい" },
+      { "korean": "가능", "japanese": "可能", "pronounce_h": "かのう" }
     ]
   },
   {
     "id": 38,
-    "korean": "선생님 노트북이에요",
-    "english": "It's the teacher's laptop.",
-    "japanese": "先生のノートパソコンです",
-    "pronounce_r": "Sensei no nooto pasokon desu",
-    "pronounce_h": "せんせいの[のーとぱそこんです]",
+    "korean": "어제는 비였어요",
+    "english": "It was rain yesterday.",
+    "japanese": "昨日は雨でした。",
+    "pronounce_r": "Kinou wa ame deshita.",
+    "pronounce_h": "きのうはあめでした。",
     "words": [
-      {"korean": "선생님", "japanese": "先生", "pronounce_h": "せんせい"},
-      {"korean": "노트북", "japanese": "ノートパソコン", "pronounce_h": "のーとぱそこん"}
+      { "korean": "비", "japanese": "雨", "pronounce_h": "あめ" }
     ]
   },
   {
     "id": 39,
-    "korean": "다나카 씨는 학교 선배에요",
-    "english": "Mr. Tanaka is a senior at school.",
-    "japanese": "田中さんは学校の先輩です",
-    "pronounce_r": "Tanaka-san wa gakkou no senpai desu",
-    "pronounce_h": "たなかさん[は] がっこうの せんぱいです",
+    "korean": "호텔은 1박에 5천 엔이었어요",
+    "english": "The hotel was 5,000 yen per night.",
+    "japanese": "ホテルは一泊五千円でした。",
+    "pronounce_r": "Hoteru wa ippaku gosen-en deshita.",
+    "pronounce_h": "ほてるはいっぱくごせんえんでした。",
     "words": [
-      {"korean": "학교", "japanese": "学校", "pronounce_h": "がっこう"},
-      {"korean": "선배", "japanese": "先輩", "pronounce_h": "せんぱい"}
+      { "korean": "1박", "japanese": "一泊", "pronounce_h": "いっぱく" },
+      { "korean": "엔", "japanese": "円", "pronounce_h": "えん" }
     ]
   },
   {
     "id": 40,
-    "korean": "남편 분은 공무원이고, 아내 분은 변호사에요",
-    "english": "The husband is a civil servant and the wife is a lawyer.",
-    "japanese": "ご主人は公務員で、奥さんは弁護士です",
-    "pronounce_r": "Goshujin wa koumuin de, okusan wa bengoshi desu",
-    "pronounce_h": "ごしゅじんは こうむいんで、おくさんは べんごしです",
+    "korean": "이곳은 예전에 백화점이었어요",
+    "english": "This place used to be a department store.",
+    "japanese": "ここは昔デパートでした。",
+    "pronounce_r": "Koko wa mukashi depaato deshita.",
+    "pronounce_h": "ここはむかしでぱーとでした。",
     "words": [
-      {"korean": "남편(남)", "japanese": "ご主人", "pronounce_h": "ごしゅじん"},
-      {"korean": "아내(남)", "japanese": "奥さん", "pronounce_h": "おくさん"}
+      { "korean": "옛날", "japanese": "昔", "pronounce_h": "むかし" }
     ]
   },
   {
     "id": 41,
-    "korean": "남편(나)은 공무원이고, 아내(나)는 변호사에요",
-    "english": "My husband is a civil servant and my wife is a lawyer.",
-    "japanese": "夫は公務員で、妻は弁護士です",
-    "pronounce_r": "Otto wa koumuin de, tsuma wa bengoshi desu",
-    "pronounce_h": "おっとは こう무いんで、つまは べんごしです",
+    "korean": "여기는 10년 전에는 편의점이었어요",
+    "english": "This place was a convenience store 10 years ago.",
+    "japanese": "ここは10年前コンビニでした。",
+    "pronounce_r": "Koko wa juunen mae konbini deshita.",
+    "pronounce_h": "ここはじゅうねんまえこんびにでした。",
     "words": [
-      {"korean": "남편(나)", "japanese": "夫", "pronounce_h": "おっと"},
-      {"korean": "아내(나)", "japanese": "妻", "pronounce_h": "つま"},
-      {"korean": "변호사", "japanese": "弁護士", "pronounce_h": "べんごし"}
+      { "korean": "10년 전", "japanese": "10年前", "pronounce_h": "じゅうねんまえ" }
     ]
   },
   {
     "id": 42,
-    "korean": "혈액형은 무슨 형이에요?",
-    "english": "What is your blood type?",
-    "japanese": "血液型はなに型ですか？",
-    "pronounce_r": "Ketsuekigata wa nanigata desu ka?",
-    "pronounce_h": "けつえきがたは なにがたですか？",
+    "korean": "오늘 점심은 뭐였어요?",
+    "english": "What was today's lunch?",
+    "japanese": "今日の昼ご飯は何でしたか。",
+    "pronounce_r": "Kyou no hirugohan wa nan deshita ka.",
+    "pronounce_h": "きょうのひるごはんはなにでしたか。",
     "words": [
-      {"korean": "혈액형", "japanese": "血液型", "pronounce_h": "けつえきがた"}
+      { "korean": "점심", "japanese": "昼ご飯", "pronounce_h": "ひるごはん" }
     ]
   },
   {
     "id": 43,
-    "korean": "저는 A형이에요",
-    "english": "I am type A.",
-    "japanese": "私はA型です",
-    "pronounce_r": "Watashi wa ee-gata desu",
-    "pronounce_h": "わたし[は] Aがたです",
-    "words": [
-      {"korean": "형", "japanese": "型", "pronounce_h": "がた"}
-    ]
+    "korean": "돈코츠 라멘이었어요",
+    "english": "It was Tonkotsu ramen.",
+    "japanese": "とんこつラーメンでした。",
+    "pronounce_r": "Tonkotsu raamen deshita.",
+    "pronounce_h": "とんこつらーめんでした。",
+    "words": []
   },
   {
     "id": 44,
-    "korean": "어릴 적 꿈은 연예인이었어요",
-    "english": "My childhood dream was to be a celebrity.",
-    "japanese": "子供の頃の夢は芸能人でした",
-    "pronounce_r": "Kodomo no koro no yume wa geinoujin deshita",
-    "pronounce_h": "こどもの ころの ゆめ[は] げいのうじんでした",
+    "korean": "체크인은 3시였어요",
+    "english": "Check-in was at 3 o'clock.",
+    "japanese": "チェックインは3時でした。",
+    "pronounce_r": "Chekkuin wa san-ji deshita.",
+    "pronounce_h": "ちぇっくいんはさんじでした。",
     "words": [
-      {"korean": "어릴 적", "japanese": "子供の頃", "pronounce_h": "こどものころ"},
-      {"korean": "연예인", "japanese": "芸能人", "pronounce_h": "げいのうじん"}
+      { "korean": "체크인", "japanese": "チェック인", "pronounce_h": "ちぇっくいん" }
     ]
   },
   {
     "id": 45,
-    "korean": "어제는 비였어요",
-    "english": "Yesterday was rainy.",
-    "japanese": "昨日は雨でした",
-    "pronounce_r": "Kinou wa ame deshita",
-    "pronounce_h": "きのう[は] あめでした",
+    "korean": "여기는 입구가 아니에요",
+    "english": "This is not the entrance.",
+    "japanese": "ここは入口じゃないです。",
+    "pronounce_r": "Koko wa iriguchi janai desu.",
+    "pronounce_h": "ここはいりぐちじゃないです。",
     "words": [
-      {"korean": "비", "japanese": "雨", "pronounce_h": "あめ"}
+      { "korean": "입구", "japanese": "入口", "pronounce_h": "いりぐち" }
     ]
   },
   {
     "id": 46,
-    "korean": "호텔은 1박에 5천엔이었어요",
-    "english": "The hotel was 5,000 yen for one night.",
-    "japanese": "ホテルは一泊五千円でした",
-    "pronounce_r": "Hoteru wa ippaku gosen-en deshita",
-    "pronounce_h": "ほてる[は] いっぱく ごせんえんでした",
+    "korean": "이건 제 주문이 아니에요",
+    "english": "This is not my order.",
+    "japanese": "これは私の注文じゃないです。",
+    "pronounce_r": "Kore wa watashi no chuumon janai desu.",
+    "pronounce_h": "これはわたしのちゅうもんじゃないです。",
     "words": [
-      {"korean": "1박", "japanese": "一泊", "pronounce_h": "いっぱく"}
+      { "korean": "주문", "japanese": "注文", "pronounce_h": "ちゅうもん" }
     ]
   },
   {
     "id": 47,
-    "korean": "저기는 옛날에 백화점이었어요",
-    "english": "That used to be a department store.",
-    "japanese": "あそこは昔、デパートでした",
-    "pronounce_r": "Asoko wa mukashi, depaato deshita",
-    "pronounce_h": "あそこ[は] むかし、でぱーとでした",
+    "korean": "오늘은 수요일이 아니에요",
+    "english": "Today is not Wednesday.",
+    "japanese": "今日は水曜日じゃないです。",
+    "pronounce_r": "Kyou wa suiyoubi janai desu.",
+    "pronounce_h": "きょうはすいようびじゃないです。",
     "words": [
-      {"korean": "옛날", "japanese": "昔", "pronounce_h": "むかし"},
-      {"korean": "백화점", "japanese": "デパート", "pronounce_h": "でぱーと"}
+      { "korean": "수요일", "japanese": "水曜日", "pronounce_h": "すいようび" }
     ]
   },
   {
     "id": 48,
-    "korean": "여기는 10년 전 편의점이었어요",
-    "english": "This was a convenience store 10 years ago.",
-    "japanese": "ここは10年前、コンビニでした",
-    "pronounce_r": "Koko wa juu-nen mae, konbini deshita",
-    "pronounce_h": "ここ[は] 10ねんまえ、こんびにでした",
+    "korean": "은행은 거기가 아니에요",
+    "english": "The bank is not there.",
+    "japanese": "銀行はあそこじゃないです。",
+    "pronounce_r": "Ginkou wa asoko janai desu.",
+    "pronounce_h": "ぎんこうはあそこじゃないです。",
     "words": [
-      {"korean": "편의점", "japanese": "コンビニ", "pronounce_h": "こんびに"}
+      { "korean": "은행", "japanese": "銀行", "pronounce_h": "ぎんこう" }
     ]
   },
   {
     "id": 49,
-    "korean": "오늘 점심은 뭐였어요?",
-    "english": "What was lunch today?",
-    "japanese": "今日の昼ご飯はなんでしたか？",
-    "pronounce_r": "Kyou no hirugohan wa nan deshita ka?",
-    "pronounce_h": "きょうの ひるごはん[は] なんでしたか？",
+    "korean": "이 방은 금연실이 아니에요",
+    "english": "This room is not a non-smoking room.",
+    "japanese": "この部屋は禁煙室じゃないです。",
+    "pronounce_r": "Kono heya wa kin'enshitsu janai desu.",
+    "pronounce_h": "このへやはきんえんしつじゃないです。",
     "words": [
-      {"korean": "점심밥", "japanese": "昼ご飯", "pronounce_h": "ひるごはん"}
+      { "korean": "금연실", "japanese": "禁煙室", "pronounce_h": "きんえん시つ" }
     ]
   },
   {
     "id": 50,
-    "korean": "돈코츠 라멘이었어요",
-    "english": "It was Tonkotsu Ramen.",
-    "japanese": "とんこつラーメンでした",
-    "pronounce_r": "Tonkotsu raamen deshita",
-    "pronounce_h": "とんこつらーめんでした",
-    "words": [
-      {"korean": "돈코츠 라멘", "japanese": "とんこつラーメン", "pronounce_h": "とんこつらーめん"}
-    ]
+    "korean": "2시부터가 아니에요. 3시부터에요.",
+    "english": "It's not from 2 o'clock. It's from 3 o'clock.",
+    "japanese": "2時からじゃないです。3시からです。",
+    "pronounce_r": "Ni-ji kara janai desu. San-ji kara desu.",
+    "pronounce_h": "にじからじゃないです。さんじからです。",
+    "words": []
   },
   {
     "id": 51,
-    "korean": "여기는 입구가 아니에요",
-    "english": "This is not the entrance.",
-    "japanese": "ここは入口じゃないです",
-    "pronounce_r": "Koko wa iriguchi janai desu",
-    "pronounce_h": "ここ[は] いりぐちじゃないです",
+    "korean": "여기는 계산대가 아니에요",
+    "english": "This is not the cashier.",
+    "japanese": "ここは会計じゃないです。",
+    "pronounce_r": "Koko wa kaikei janai desu.",
+    "pronounce_h": "ここはかいけいじゃないです。",
     "words": [
-      {"korean": "입구", "japanese": "入口", "pronounce_h": "いりぐち"}
+      { "korean": "계산", "japanese": "会計", "pronounce_h": "かいけい" }
     ]
   },
   {
     "id": 52,
-    "korean": "교과서는 이 책이 아니에요",
-    "english": "The textbook is not this book.",
-    "japanese": "教科書はこの本じゃないです",
-    "pronounce_r": "Kyoukasho wa kono hon janai desu",
-    "pronounce_h": "きょうかしょ[は] このほんじゃないです",
+    "korean": "약속은 4시가 아니었어요",
+    "english": "The appointment was not at 4 o'clock.",
+    "japanese": "約束は4時じゃなかったです。",
+    "pronounce_r": "Yakusoku wa yo-ji janakatta desu.",
+    "pronounce_h": "やくそくはよじじゃなかったです。",
     "words": [
-      {"korean": "교과서", "japanese": "教科書", "pronounce_h": "きょうかしょ"}
+      { "korean": "약속", "japanese": "約束", "pronounce_h": "やくそく" }
     ]
   },
   {
     "id": 53,
-    "korean": "오늘은 수요일이 아니에요",
-    "english": "Today is not Wednesday.",
-    "japanese": "今日は水曜日じゃないです",
-    "pronounce_r": "Kyou wa suiyoubi janai desu",
-    "pronounce_h": "きょう[は] すいようびじゃないです",
+    "korean": "오늘은 알바가 아니었어요",
+    "english": "Today was not part-time work.",
+    "japanese": "今日はバイトじゃなかったです。",
+    "pronounce_r": "Kyou wa baito janakatta desu.",
+    "pronounce_h": "きょうはばいとじゃなかったです。",
     "words": [
-      {"korean": "수요일", "japanese": "水曜日", "pronounce_h": "すいようび"}
+      { "korean": "아르바이트", "japanese": "バイト", "pronounce_h": "ばいと" }
     ]
   },
   {
     "id": 54,
-    "korean": "시합은 2시부터에요?",
-    "english": "Is the match from 2 o'clock?",
-    "japanese": "試合は2時からですか？",
-    "pronounce_r": "Shiai wa ni-ji kara desu ka?",
-    "pronounce_h": "しあい[は] 2じからですか？",
+    "korean": "오늘은 월급날이 아니었어요",
+    "english": "Today was not payday.",
+    "japanese": "今日は給料日じゃなかったです。",
+    "pronounce_r": "Kyou wa kyuuryoubi janakatta desu.",
+    "pronounce_h": "きょうはきゅうりょうびじゃなかったです。",
     "words": [
-      {"korean": "시합", "japanese": "試合", "pronounce_h": "しあい"}
+      { "korean": "월급날", "japanese": "給料日", "pronounce_h": "きゅうりょうび" }
     ]
   },
   {
     "id": 55,
-    "korean": "2시부터가 아니에요. 3시부터에요.",
-    "english": "It's not from 2. It's from 3.",
-    "japanese": "2時からじゃないです。3時からです。",
-    "pronounce_r": "Ni-ji kara janai desu. San-ji kara desu.",
-    "pronounce_h": "2じからじゃないです。3じからです。",
-    "words": []
+    "korean": "그 가게는 휴무가 아니었어요",
+    "english": "That shop was not closed.",
+    "japanese": "あの店は休みじゃなかったです。",
+    "pronounce_r": "Ano mise wa yasumi janakatta desu.",
+    "pronounce_h": "あのみせはやすみじゃなかった입니다.",
+    "words": [
+      { "korean": "휴무", "japanese": "休み", "pronounce_h": "やすみ" }
+    ]
   },
   {
     "id": 56,
-    "korean": "약속은 4시가 아니었어요",
-    "english": "The appointment was not at 4.",
-    "japanese": "約束は4時じゃなかったです",
-    "pronounce_r": "Yakusoku wa yo-ji janakatta desu",
-    "pronounce_h": "やくそく[は] 4じじゃなかったです",
-    "words": []
+    "korean": "이 방은 예약한 방이 아니었어요",
+    "english": "This room was not the reserved room.",
+    "japanese": "この部屋は予約した部屋じゃなかったです。",
+    "pronounce_r": "Kono heya wa yoyaku shita heya janakatta desu.",
+    "pronounce_h": "このへやはよやくしたへやじゃなかったです。",
+    "words": [
+      { "korean": "예약", "japanese": "予約", "pronounce_h": "よやく" },
+      { "korean": "하다", "japanese": "する", "pronounce_h": "する" }
+    ]
   },
   {
     "id": 57,
-    "korean": "오늘은 알바가 아니었어요",
-    "english": "I didn't have part-time work today.",
-    "japanese": "今日はバイトじゃなかったです",
-    "pronounce_r": "Kyou wa baito janakatta desu",
-    "pronounce_h": "きょう[は] ばいとじゃなかったです",
+    "korean": "약속 장소는 긴자 역이었어요?",
+    "english": "Was the meeting place Ginza Station?",
+    "japanese": "待ち合わせは銀座駅でしたか。",
+    "pronounce_r": "Machiawase wa Ginza-eki deshita ka.",
+    "pronounce_h": "まちあわせはぎんざえきでしたか。",
     "words": [
-      {"korean": "아르바이트", "japanese": "バイト", "pronounce_h": "ばいと"}
+      { "korean": "약속 장소", "japanese": "待ち合わせ", "pronounce_h": "まちあわせ" },
+      { "korean": "역", "japanese": "駅", "pronounce_h": "えき" }
     ]
   },
   {
     "id": 58,
-    "korean": "두 사람은 형제가 아니었어요",
-    "english": "The two were not brothers.",
-    "japanese": "二人は兄弟じゃなかったです",
-    "pronounce_r": "Futari wa kyoudai janakatta desu",
-    "pronounce_h": "ふたり[は] きょうだいじゃなかったです",
-    "words": [
-      {"korean": "형제", "japanese": "兄弟", "pronounce_h": "きょうだい"}
-    ]
-  },
-  {
-    "id": 59,
-    "korean": "약속장소는 긴자 역이었어요?",
-    "english": "Was the meeting place Ginza Station?",
-    "japanese": "待ち合わせは銀座駅でしたか？",
-    "pronounce_r": "Machiawase wa Ginza-eki deshita ka?",
-    "pronounce_h": "まちあわせ[は] ぎんざえきでしたか？",
-    "words": [
-      {"korean": "만남/약속", "japanese": "待ち合わせ", "pronounce_h": "まちあわせ"},
-      {"korean": "역", "japanese": "駅", "pronounce_h": "えき"}
-    ]
-  },
-  {
-    "id": 60,
-    "korean": "긴자 역이 아니었어요. 신주쿠 역이었어요",
+    "korean": "긴자 역이 아니었어요. 신주쿠 역이었어요.",
     "english": "It wasn't Ginza Station. It was Shinjuku Station.",
     "japanese": "銀座駅じゃなかったです。新宿駅でした。",
     "pronounce_r": "Ginza-eki janakatta desu. Shinjuku-eki deshita.",
     "pronounce_h": "ぎんざえきじゃなかったです。しんじゅくえきでした。",
-    "words": []
-  },
-  {
-    "id": 61,
-    "korean": "이 라멘 집은 맛있어요",
-    "english": "This ramen shop is delicious.",
-    "japanese": "このラーメン屋は美味しいです",
-    "pronounce_r": "Kono raamen-ya wa oishii desu",
-    "pronounce_h": "この らーめんや[は] おいしいです",
     "words": [
-      {"korean": "가게/집", "japanese": "屋", "pronounce_h": "や"},
-      {"korean": "맛있다", "japanese": "美味しい", "pronounce_h": "おいしい"}
-    ]
-  },
-  {
-    "id": 62,
-    "korean": "역에서 가까워",
-    "english": "It's close to the station.",
-    "japanese": "駅から近い",
-    "pronounce_r": "Eki kara chikai",
-    "pronounce_h": "えきから ちかい",
-    "words": [
-      {"korean": "가깝다", "japanese": "近い", "pronounce_h": "ちかい"}
-    ]
-  },
-  {
-    "id": 63,
-    "korean": "그녀는 밝은 사람이에요",
-    "english": "She is a bright person.",
-    "japanese": "彼女は明るい人です",
-    "pronounce_r": "Kanojo wa akarui hito desu",
-    "pronounce_h": "かのじょ[は] あかるいひとです",
-    "words": [
-      {"korean": "밝다", "japanese": "明るい", "pronounce_h": "あかるい"}
-    ]
-  },
-  {
-    "id": 64,
-    "korean": "선배, 멋있어",
-    "english": "Senior, you're cool.",
-    "japanese": "先輩、かっこいい",
-    "pronounce_r": "Senpai, kakkoii",
-    "pronounce_h": "せんぱい、かっこいい",
-    "words": [
-      {"korean": "멋지다", "japanese": "かっこいい", "pronounce_h": "かっこいい"}
-    ]
-  },
-  {
-    "id": 65,
-    "korean": "배가 아파서 화장실에 갔어요",
-    "english": "My stomach hurt, so I went to the restroom.",
-    "japanese": "お腹が痛くてトイレに行きました",
-    "pronounce_r": "Onaka ga itakute toire ni ikimashita",
-    "pronounce_h": "おなかが いたくて といれに いきました",
-    "words": [
-      {"korean": "배", "japanese": "お腹", "pronounce_h": "おなか"},
-      {"korean": "아프다", "japanese": "痛い", "pronounce_h": "いたい"}
-    ]
-  },
-  {
-    "id": 66,
-    "korean": "오늘은 일찍 왔네",
-    "english": "You're early today.",
-    "japanese": "今日は早いね",
-    "pronounce_r": "Kyou wa hayai ne",
-    "pronounce_h": "きょう[は] はやいね",
-    "words": [
-      {"korean": "이르다", "japanese": "早い", "pronounce_h": "はやい"}
-    ]
-  },
-  {
-    "id": 67,
-    "korean": "응. 회의 준비 때문에",
-    "english": "Yes. Because of meeting preparation.",
-    "japanese": "うん。会議の準備でね。",
-    "pronounce_r": "Un. Kaigi no junbi de ne.",
-    "pronounce_h": "うん。かいぎの じゅんびでね。",
-    "words": [
-      {"korean": "회의", "japanese": "会議", "pronounce_h": "かいぎ"},
-      {"korean": "준비", "japanese": "準備", "pronounce_h": "じゅんび"}
-    ]
-  },
-  {
-    "id": 68,
-    "korean": "발이 빠르다",
-    "english": "To be fast on one's feet.",
-    "japanese": "足が速い",
-    "pronounce_r": "Ashi ga hayai",
-    "pronounce_h": "あし[が] はやい",
-    "words": [
-      {"korean": "발", "japanese": "足", "pronounce_h": "あし"},
-      {"korean": "빠르다(속도)", "japanese": "速い", "pronounce_h": "はやい"}
-    ]
-  },
-  {
-    "id": 69,
-    "korean": "오늘은 일찍이네",
-    "english": "It's early today.",
-    "japanese": "今日は早いね",
-    "pronounce_r": "Kyou wa hayai ne",
-    "pronounce_h": "きょう[は] はやいね",
-    "words": [
-      {"korean": "이르다(시간)", "japanese": "早い", "pronounce_h": "はやい"}
+      { "korean": "신주쿠역", "japanese": "新宿駅", "pronounce_h": "しんじゅくえき" }
     ]
   }
 ]
