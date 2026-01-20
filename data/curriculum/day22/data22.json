@@ -1,1160 +1,694 @@
 [
   {
     "id": 1,
-    "korean": "테스트는 어려웠어",
-    "english": "The test was difficult.",
-    "japanese": "テストは難しかった。",
-    "pronounce_r": "Tesuto wa muzukashikatta.",
-    "pronounce_h": "てすとわ むずかしくあった",
+    "korean": "이 지역은 안전해",
+    "english": "This area is safe.",
+    "japanese": "この地域は安全だ。",
+    "pronounce_r": "Kono chiiki wa anzen da.",
+    "pronounce_h": "このちいきはあんぜんだ。",
     "words": [
-      {
-        "korean": "테스트",
-        "japanese": "テスト",
-        "pronounce_h": "てすと"
-      },
-      {
-        "korean": "어렵다",
-        "japanese": "難しい",
-        "pronounce_h": "むずかしい"
-      }
+      { "korean": "지역", "japanese": "地域", "pronounce_h": "ちいき" },
+      { "korean": "안전함", "japanese": "安全", "pronounce_h": "あんぜん" }
     ]
   },
   {
     "id": 2,
-    "korean": "어제는 더웠다",
-    "english": "It was hot yesterday.",
-    "japanese": "昨日は暑かった。",
-    "pronounce_r": "Kinō wa atsukatta.",
-    "pronounce_h": "きのうわ あつくあった",
+    "korean": "이 방법은 간단해",
+    "english": "This method is simple.",
+    "japanese": "この方法は簡単だ。",
+    "pronounce_r": "Kono houhou wa kantan da.",
+    "pronounce_h": "このほうほうはかんたんだ。",
     "words": [
-      {
-        "korean": "어제",
-        "japanese": "昨日",
-        "pronounce_h": "きのう"
-      },
-      {
-        "korean": "덥다",
-        "japanese": "暑い",
-        "pronounce_h": "あつい"
-      }
+      { "korean": "방법", "japanese": "方法", "pronounce_h": "ほうほう" },
+      { "korean": "간단함", "japanese": "簡単", "pronounce_h": "かんたん" }
     ]
   },
   {
     "id": 3,
-    "korean": "오늘은 굉장히 바빴어",
-    "english": "I was very busy today.",
-    "japanese": "今日はすごく忙しかった。",
-    "pronounce_r": "Kyō wa sugoku isogashikatta.",
-    "pronounce_h": "きょうわ すごく いそがしくあった",
+    "korean": "여기 음식은 담백해",
+    "english": "The food here is light.",
+    "japanese": "ここの料理はあっさりだ。",
+    "pronounce_r": "Koko no ryouri wa assari da.",
+    "pronounce_h": "ここのりょうりはあっさりだ。",
     "words": [
-      {
-        "korean": "오늘",
-        "japanese": "今日",
-        "pronounce_h": "きょう"
-      },
-      {
-        "korean": "굉장히",
-        "japanese": "すごく",
-        "pronounce_h": "すごく"
-      },
-      {
-        "korean": "바쁘다",
-        "japanese": "忙しい",
-        "pronounce_h": "いそがしい"
-      }
+      { "korean": "요리", "japanese": "料理", "pronounce_h": "りょうり" },
+      { "korean": "담백함", "japanese": "あっさり", "pronounce_h": "あっさり" }
     ]
   },
   {
     "id": 4,
-    "korean": "새 옷은 가벼웠어",
-    "english": "The new clothes were light.",
-    "japanese": "新しい服は軽かった。",
-    "pronounce_r": "Atarashii fuku wa karukatta.",
-    "pronounce_h": "あたらしい ふくわ かるくあった",
+    "korean": "오늘 일정은 한가해",
+    "english": "Today's schedule is free.",
+    "japanese": "今日の予定は暇だ。",
+    "pronounce_r": "Kyou no yotei wa hima da.",
+    "pronounce_h": "きょうのよていはひまだ。",
     "words": [
-      {
-        "korean": "새롭다",
-        "japanese": "新しい",
-        "pronounce_h": "あたらしい"
-      },
-      {
-        "korean": "옷",
-        "japanese": "服",
-        "pronounce_h": "ふく"
-      },
-      {
-        "korean": "가볍다",
-        "japanese": "軽い",
-        "pronounce_h": "かるい"
-      }
+      { "korean": "일정", "japanese": "予定", "pronounce_h": "よてい" },
+      { "korean": "한가함", "japanese": "暇", "pronounce_h": "ひま" }
     ]
   },
   {
     "id": 5,
-    "korean": "그녀는 상냥했어",
-    "english": "She was kind.",
-    "japanese": "彼女は優しかった。",
-    "pronounce_r": "Kanojo wa yasashikatta.",
-    "pronounce_h": "かのじょわ やさしくあった",
+    "korean": "그 선택은 합리적이야",
+    "english": "That choice is rational.",
+    "japanese": "その選択は合理的だ。",
+    "pronounce_r": "Sono sentaku wa gouriteki da.",
+    "pronounce_h": "そのせんたくはごうりてきだ。",
     "words": [
-      {
-        "korean": "그녀",
-        "japanese": "彼女",
-        "pronounce_h": "かのじょ"
-      },
-      {
-        "korean": "상냥하다",
-        "japanese": "優しい",
-        "pronounce_h": "やさしい"
-      }
+      { "korean": "선택", "japanese": "選択", "pronounce_h": "せんたく" },
+      { "korean": "합리적", "japanese": "合理的", "pronounce_h": "ごう리てき" }
     ]
   },
   {
     "id": 6,
-    "korean": "미안, 내가 나빴어",
-    "english": "Sorry, I was wrong.",
-    "japanese": "ごめん、僕が悪かった。",
-    "pronounce_r": "Gomen, boku ga warukatta.",
-    "pronounce_h": "ごめん、ぼく가 わるくあった",
+    "korean": "그 가게 직원은 친절해",
+    "english": "The staff at that shop is kind.",
+    "japanese": "あの店の店員は親切だ。",
+    "pronounce_r": "Ano mise no ten'in wa shinsetsu da.",
+    "pronounce_h": "あのみせのてんいんはしんせつ다。",
     "words": [
-      {
-        "korean": "미안",
-        "japanese": "ごめん",
-        "pronounce_h": "ごめん"
-      },
-      {
-        "korean": "나",
-        "japanese": "僕",
-        "pronounce_h": "ぼく"
-      },
-      {
-        "korean": "나쁘다",
-        "japanese": "悪い",
-        "pronounce_h": "わるい"
-      }
+      { "korean": "점원", "japanese": "店員", "pronounce_h": "てんいん" },
+      { "korean": "친절함", "japanese": "親切", "pronounce_h": "しんせつ" }
     ]
   },
   {
     "id": 7,
-    "korean": "이제 괜찮아",
-    "english": "It's okay now.",
-    "japanese": "もう大丈夫。",
-    "pronounce_r": "Mō daijōbu.",
-    "pronounce_h": "もう だいじょうぶ",
+    "korean": "이 카페 분위기 좋다",
+    "english": "The atmosphere of this cafe is wonderful.",
+    "japanese": "このカフェの雰囲気は素敵だ。",
+    "pronounce_r": "Kono kafe no fun'iki wa suteki da.",
+    "pronounce_h": "このかふぇのふんいきはすてきだ。",
     "words": [
-      {
-        "korean": "이제/벌써",
-        "japanese": "もう",
-        "pronounce_h": "もう"
-      },
-      {
-        "korean": "괜찮다",
-        "japanese": "大丈夫",
-        "pronounce_h": "だいじょうぶ"
-      }
+      { "korean": "분위기", "japanese": "雰囲気", "pronounce_h": "ふんいき" },
+      { "korean": "멋짐", "japanese": "素敵", "pronounce_h": "すてき" }
     ]
   },
   {
     "id": 8,
-    "korean": "오늘은 안 추워",
-    "english": "It's not cold today.",
-    "japanese": "今日は寒くない。",
-    "pronounce_r": "Kyō wa samukunai.",
-    "pronounce_h": "きょうわ さむくない",
+    "korean": "이 옷 디자인은 독특해",
+    "english": "The design of these clothes is unique.",
+    "japanese": "この服のデザインは独特だ。",
+    "pronounce_r": "Kono fuku no dezain wa dokutoku da.",
+    "pronounce_h": "このふくのでざいんはどくとくだ。",
     "words": [
-      {
-        "korean": "춥다",
-        "japanese": "寒い",
-        "pronounce_h": "さむい"
-      }
+      { "korean": "옷", "japanese": "服", "pronounce_h": "ふく" },
+      { "korean": "독특함", "japanese": "独特", "pronounce_h": "どくとく" }
     ]
   },
   {
     "id": 9,
-    "korean": "역에서 안 멀어",
-    "english": "It's not far from the station.",
-    "japanese": "駅から遠くない。",
-    "pronounce_r": "Eki kara tōkunai.",
-    "pronounce_h": "えきから とおくない",
+    "korean": "이 방은 의외로 조용해",
+    "english": "This room is unexpectedly quiet.",
+    "japanese": "この部屋は意外に静かだ。",
+    "pronounce_r": "Kono heya wa igai ni shizuka da.",
+    "pronounce_h": "このへやはいがいにしずかだ。",
     "words": [
-      {
-        "korean": "역",
-        "japanese": "駅",
-        "pronounce_h": "えき"
-      },
-      {
-        "korean": "멀다",
-        "japanese": "遠い",
-        "pronounce_h": "とおい"
-      }
+      { "korean": "의외", "japanese": "意外", "pronounce_h": "いがい" },
+      { "korean": "조용함", "japanese": "静か", "pronounce_h": "しずか" }
     ]
   },
   {
     "id": 10,
-    "korean": "이 노트는 안 얇아",
-    "english": "This notebook is not thin.",
-    "japanese": "このノートは薄くない。",
-    "pronounce_r": "Kono nōto wa usukunai.",
-    "pronounce_h": "この のーとわ うすくない",
+    "korean": "그 선택은 무리였어",
+    "english": "That choice was impossible.",
+    "japanese": "その選択は無理だった。",
+    "pronounce_r": "Sono sentaku wa muri datta.",
+    "pronounce_h": "そのせんたくはむりだった。",
     "words": [
-      {
-        "korean": "노트",
-        "japanese": "ノート",
-        "pronounce_h": "のーと"
-      },
-      {
-        "korean": "얇다",
-        "japanese": "薄い",
-        "pronounce_h": "うすい"
-      }
+      { "korean": "선택", "japanese": "選択", "pronounce_h": "せんたく" },
+      { "korean": "무리함", "japanese": "無理", "pronounce_h": "むり" }
     ]
   },
   {
     "id": 11,
-    "korean": "밖은 안 밝아",
-    "english": "It's not bright outside.",
-    "japanese": "外は明るくない。",
-    "pronounce_r": "Soto wa akarukunai.",
-    "pronounce_h": "そとわ あかるくない",
+    "korean": "그 설명은 불친절했어",
+    "english": "That explanation was unkind.",
+    "japanese": "その説明は不親切だった。",
+    "pronounce_r": "Sono setsumei wa fushinsetsu datta.",
+    "pronounce_h": "そのせつめいはふしんせつだった。",
     "words": [
-      {
-        "korean": "밖",
-        "japanese": "外",
-        "pronounce_h": "そと"
-      },
-      {
-        "korean": "밝다",
-        "japanese": "明る이",
-        "pronounce_h": "あかるい"
-      }
+      { "korean": "설명", "japanese": "説明", "pronounce_h": "せつめい" },
+      { "korean": "불친절", "japanese": "不親切", "pronounce_h": "ふしんせつ" }
     ]
   },
   {
     "id": 12,
-    "korean": "담배는 몸에 안 좋아",
-    "english": "Smoking is not good for your body.",
-    "japanese": "タバコは体に良くない。",
-    "pronounce_r": "Tabako wa karada ni yokunai.",
-    "pronounce_h": "たばこわ からだに よくない",
+    "korean": "그 설명은 불충분했어",
+    "english": "That explanation was insufficient.",
+    "japanese": "その説明は不十分だった。",
+    "pronounce_r": "Sono setsumei wa fujuubun datta.",
+    "pronounce_h": "そのせつめいはふじゅうぶんだった。",
     "words": [
-      {
-        "korean": "담배",
-        "japanese": "タバコ",
-        "pronounce_h": "たばこ"
-      },
-      {
-        "korean": "몸",
-        "japanese": "体",
-        "pronounce_h": "からだ"
-      },
-      {
-        "korean": "좋다",
-        "japanese": "良い",
-        "pronounce_h": "よい"
-      }
+      { "korean": "불충분", "japanese": "不十分", "pronounce_h": "ふじゅうぶん" }
     ]
   },
   {
     "id": 13,
-    "korean": "학교에서 집은 가까워?",
-    "english": "Is your house close from school?",
-    "japanese": "学校から家は近い？",
-    "pronounce_r": "Gakkō kara ie wa chikai?",
-    "pronounce_h": "がっこうから いえわ ちかい",
+    "korean": "이 거리는 밤에 위험했어",
+    "english": "This street was dangerous at night.",
+    "japanese": "この通りは夜危険だった。",
+    "pronounce_r": "Kono toori wa yoru kiken datta.",
+    "pronounce_h": "このとおりはよるきけんだった。",
     "words": [
-      {
-        "korean": "학교",
-        "japanese": "学校",
-        "pronounce_h": "がっこう"
-      },
-      {
-        "korean": "집",
-        "japanese": "家",
-        "pronounce_h": "いえ"
-      },
-      {
-        "korean": "가깝다",
-        "japanese": "近い",
-        "pronounce_h": "ちかい"
-      }
+      { "korean": "거리", "japanese": "通り", "pronounce_h": "とおり" },
+      { "korean": "위험", "japanese": "危険", "pronounce_h": "きけん" }
     ]
   },
   {
     "id": 14,
-    "korean": "아니. 안 가까워. 한 시간 반이야.",
-    "english": "No. It's not close. It takes an hour and a half.",
-    "japanese": "ううん、近くない。一時間半だよ。",
-    "pronounce_r": "Uun, chikukunai. Ichijikan-han dayo.",
-    "pronounce_h": "ううん、ちかくない。いちじかんはん だよ",
+    "korean": "이 방법은 꽤 효과적이었어",
+    "english": "This method was quite effective.",
+    "japanese": "この方法はかなり効果的だった。",
+    "pronounce_r": "Kono houhou wa kanari koukateki datta.",
+    "pronounce_h": "このほうほうはかなりこうかてきだった。",
     "words": [
-      {
-        "korean": "한 시간 반",
-        "japanese": "一時間半",
-        "pronounce_h": "いちじかんはん"
-      }
+      { "korean": "효과적", "japanese": "効果的", "pronounce_h": "こうかてき" }
     ]
   },
   {
     "id": 15,
-    "korean": "바다는 안 가까웠어",
-    "english": "The sea was not close.",
-    "japanese": "海は近くなかった。",
-    "pronounce_r": "Umi wa chikukunakatta.",
-    "pronounce_h": "うみわ ちかくなかった",
+    "korean": "오랜만이야. 잘 지냈어?",
+    "english": "Long time no see. How have you been?",
+    "japanese": "久しぶり。元気だった？",
+    "pronounce_r": "Hisashiburi. Genki datta?",
+    "pronounce_h": "ひさしぶり。げんきだった？",
     "words": [
-      {
-        "korean": "바다",
-        "japanese": "海",
-        "pronounce_h": "うみ"
-      }
+      { "korean": "오랜만", "japanese": "久しぶり", "pronounce_h": "ひさしぶり" },
+      { "korean": "잘 지냄/건강", "japanese": "元気", "pronounce_h": "げんき" }
     ]
   },
   {
     "id": 16,
-    "korean": "그 일은 안 바빴어",
-    "english": "That job was not busy.",
-    "japanese": "その仕事は忙しくなかった。",
-    "pronounce_r": "Sono shigoto wa isogashikunakatta.",
-    "pronounce_h": "その しごとわ いそがしくなかった",
+    "korean": "그 가게, 기대 이하였어?",
+    "english": "Was that shop below expectations?",
+    "japanese": "あの店、期待外れだった？",
+    "pronounce_r": "Ano mise, kitai-hazure datta?",
+    "pronounce_h": "あのみせ、きたいはずれだった？",
     "words": [
-      {
-        "korean": "일",
-        "japanese": "仕事",
-        "pronounce_h": "しごと"
-      }
+      { "korean": "기대 이하", "japanese": "期待外れ", "pronounce_h": "きたいはずれ" }
     ]
   },
   {
     "id": 17,
-    "korean": "기념품 종류는 안 적었어",
-    "english": "There were not few types of souvenirs.",
-    "japanese": "お土産の種類は少なくなかった。",
-    "pronounce_r": "Omiyage no shurui wa sukunakunakatta.",
-    "pronounce_h": "おみやげの しゅるいわ すくなくなかった",
+    "korean": "응, 분위기가 좀 애매했어",
+    "english": "Yeah, the atmosphere was a bit questionable.",
+    "japanese": "うん、雰囲気がちょっと微妙だった。",
+    "pronounce_r": "Un, fun'iki ga chotto bimyou datta.",
+    "pronounce_h": "うん、ふんいきがちょっとびみょうだった。",
     "words": [
-      {
-        "korean": "기념품",
-        "japanese": "お土産",
-        "pronounce_h": "おみやげ"
-      },
-      {
-        "korean": "종류",
-        "japanese": "種類",
-        "pronounce_h": "しゅるい"
-      },
-      {
-        "korean": "적다",
-        "japanese": "少ない",
-        "pronounce_h": "すくない"
-      }
+      { "korean": "애매함", "japanese": "微妙", "pronounce_h": "びみょう" }
     ]
   },
   {
     "id": 18,
-    "korean": "레스토랑은 안 비쌌어",
-    "english": "The restaurant was not expensive.",
-    "japanese": "レストランは高くなかった。",
-    "pronounce_r": "Resutoran wa takakunakatta.",
-    "pronounce_h": "れすとらんわ たかくなかった",
+    "korean": "오늘 일정은 여유 있었어",
+    "english": "Today's schedule was easy.",
+    "japanese": "今日の予定は余裕だった。",
+    "pronounce_r": "Kyou no yotei wa yoyuu datta.",
+    "pronounce_h": "きょうのよていはよゆうだった。",
     "words": [
-      {
-        "korean": "레스토랑",
-        "japanese": "レストラン",
-        "pronounce_h": "れすとらん"
-      },
-      {
-        "korean": "비싸다",
-        "japanese": "高い",
-        "pronounce_h": "たかい"
-      }
+      { "korean": "여유", "japanese": "余裕", "pronounce_h": "よゆう" }
     ]
   },
   {
     "id": 19,
-    "korean": "어제는 몸 상태가 안 좋았어",
-    "english": "I was not feeling well yesterday.",
-    "japanese": "昨日は具合が良くなかった。",
-    "pronounce_r": "Kinō wa guai ga yokunakatta.",
-    "pronounce_h": "きのうわ ぐあいが よくなかった",
+    "korean": "그 설명은 충분하지 않아",
+    "english": "That explanation is not sufficient.",
+    "japanese": "その説明は十分じゃない。",
+    "pronounce_r": "Sono setsumei wa juubun janai.",
+    "pronounce_h": "그 설명은 じゅうぶんじゃない。",
     "words": [
-      {
-        "korean": "상태/컨디션",
-        "japanese": "具合",
-        "pronounce_h": "ぐあい"
-      }
+      { "korean": "충분함", "japanese": "十分", "pronounce_h": "じゅうぶん" }
     ]
   },
   {
     "id": 20,
-    "korean": "중국어 발음, 쉬웠어?",
-    "english": "Was the Chinese pronunciation easy?",
-    "japanese": "中国語の発音、易しかった？",
-    "pronounce_r": "Chūgokugo no hatsuon, yasashikatta?",
-    "pronounce_h": "ちゅうごくごの はつおん、やさしくあった",
+    "korean": "여기는 그렇게 깨끗하지 않아",
+    "english": "It's not that clean here.",
+    "japanese": "ここはそんなに綺麗じゃない。",
+    "pronounce_r": "Koko wa sonnani kirei janai.",
+    "pronounce_h": "ここはそんなにきれいじゃない。",
     "words": [
-      {
-        "korean": "중국어",
-        "japanese": "中国語",
-        "pronounce_h": "ちゅうごくご"
-      },
-      {
-        "korean": "발음",
-        "japanese": "発音",
-        "pronounce_h": "はつおん"
-      },
-      {
-        "korean": "쉽다",
-        "japanese": "易しい",
-        "pronounce_h": "やさしい"
-      }
+      { "korean": "깨끗함", "japanese": "綺麗", "pronounce_h": "きれい" }
     ]
   },
   {
     "id": 21,
-    "korean": "아니. 안 쉬웠어.",
-    "english": "No. It wasn't easy.",
-    "japanese": "ううん、易しくなかった。",
-    "pronounce_r": "Uun, yasashikunakatta.",
-    "pronounce_h": "ううん、やさしくなかった",
-    "words": []
+    "korean": "이 일정은 여유롭지 않아",
+    "english": "This schedule is not relaxed.",
+    "japanese": "この日程は余裕じゃない。",
+    "pronounce_r": "Kono nittei wa yoyuu janai.",
+    "pronounce_h": "このにっていはよゆうじゃない。",
+    "words": [
+      { "korean": "일정", "japanese": "日程", "pronounce_h": "にってい" }
+    ]
   },
   {
     "id": 22,
-    "korean": "새 집은 밝고 넓어요.",
-    "english": "The new house is bright and spacious.",
-    "japanese": "新しい家は明るくて広いです。",
-    "pronounce_r": "Atarashii ie wa akarukute hiroi desu.",
-    "pronounce_h": "あたらしい いえわ あかるくて ひろいです",
+    "korean": "그 선택은 현명하지 않아",
+    "english": "That choice is not wise.",
+    "japanese": "その選択は賢明じゃない。",
+    "pronounce_r": "Sono sentaku wa kenmei janai.",
+    "pronounce_h": "そのせんたくはけんめいじゃない。",
     "words": [
-      {
-        "korean": "넓다",
-        "japanese": "広い",
-        "pronounce_h": "ひろい"
-      }
+      { "korean": "현명함", "japanese": "賢明", "pronounce_h": "けんめい" }
     ]
   },
   {
     "id": 23,
-    "korean": "일본어는 재미있어요",
-    "english": "Japanese is interesting.",
-    "japanese": "日本語は面白いです。",
-    "pronounce_r": "Nihongo wa omoshiroi desu.",
-    "pronounce_h": "にほんごわ おもしろいです",
+    "korean": "이 설명은 정확하지 않아요",
+    "english": "This explanation is not accurate.",
+    "japanese": "この説明は正確ではないです。",
+    "pronounce_r": "Kono setsumei wa seikaku dewa nai desu.",
+    "pronounce_h": "このせつ메いはせいかくではないです。",
     "words": [
-      {
-        "korean": "일본어",
-        "japanese": "日本語",
-        "pronounce_h": "にほんご"
-      },
-      {
-        "korean": "재미있다",
-        "japanese": "面白い",
-        "pronounce_h": "おもしろい"
-      }
+      { "korean": "정확함", "japanese": "正確", "pronounce_h": "せいかく" }
     ]
   },
   {
     "id": 24,
-    "korean": "감기로 목이 아파요",
-    "english": "My throat hurts because of a cold.",
-    "japanese": "風邪で喉が痛いです。",
-    "pronounce_r": "Kaze de nodo ga itai desu.",
-    "pronounce_h": "かぜで のどが いたいですね",
+    "korean": "이 의자는 편하지 않아",
+    "english": "This chair is not comfortable.",
+    "japanese": "この椅子は楽じゃない。",
+    "pronounce_r": "Kono isu wa raku janai.",
+    "pronounce_h": "このいすはらくじゃない。",
     "words": [
-      {
-        "korean": "감기",
-        "japanese": "風邪",
-        "pronounce_h": "かぜ"
-      },
-      {
-        "korean": "목",
-        "japanese": "喉",
-        "pronounce_h": "のど"
-      },
-      {
-        "korean": "아프다",
-        "japanese": "痛이",
-        "pronounce_h": "いたい"
-      }
+      { "korean": "의자", "japanese": "椅子", "pronounce_h": "いす" },
+      { "korean": "편함", "japanese": "楽", "pronounce_h": "らく" }
     ]
   },
   {
     "id": 25,
-    "korean": "가격은 싸요",
-    "english": "The price is cheap.",
-    "japanese": "値段は安いです。",
-    "pronounce_r": "Nedan wa yasui desu.",
-    "pronounce_h": "ねだんわ やすいです",
+    "korean": "이 방법은 확실하지 않아",
+    "english": "This method is not certain.",
+    "japanese": "この方法は確実じゃない。",
+    "pronounce_r": "Kono houhou wa kakujitsu janai.",
+    "pronounce_h": "このほうほうはかくじつじゃない。",
     "words": [
-      {
-        "korean": "가격",
-        "japanese": "値段",
-        "pronounce_h": "ねだん"
-      },
-      {
-        "korean": "싸다",
-        "japanese": "安이",
-        "pronounce_h": "やすい"
-      }
+      { "korean": "확실함", "japanese": "確実", "pronounce_h": "かくじつ" }
     ]
   },
   {
     "id": 26,
-    "korean": "다나카씨, 안색이 나빠요",
-    "english": "Mr. Tanaka, you look pale.",
-    "japanese": "田中さん、顔色が悪いですね。",
-    "pronounce_r": "Tanaka-san, kaoiro ga warui desu ne.",
-    "pronounce_h": "たなかさん、かおいろが わるいですね",
+    "korean": "그 가격은 적당하지 않아",
+    "english": "That price is not appropriate.",
+    "japanese": "그 가격은 適当じゃない。",
+    "pronounce_r": "Sono kakaku wa tekitou janai.",
+    "pronounce_h": "そのかかくはてきとうじゃない。",
     "words": [
-      {
-        "korean": "안색",
-        "japanese": "顔色",
-        "pronounce_h": "かおいろ"
-      }
+      { "korean": "가격", "japanese": "価格", "pronounce_h": "かかく" },
+      { "korean": "적당함", "japanese": "適당", "pronounce_h": "てきとう" }
     ]
   },
   {
     "id": 27,
-    "korean": "네. 아침부터 컨디션이 나빠요.",
-    "english": "Yes. I've been feeling unwell since morning.",
-    "japanese": "はい。朝から体調が悪いです。",
-    "pronounce_r": "Hai. Asa kara taichō ga warui desu.",
-    "pronounce_h": "はい。あさから たいちょうが わるいです",
+    "korean": "이 방은 쾌적하지 않아",
+    "english": "This room is not comfortable.",
+    "japanese": "この部屋は快適じゃない。",
+    "pronounce_r": "Kono heya wa kaiteki janai.",
+    "pronounce_h": "このへやはかいてきじゃない。",
     "words": [
-      {
-        "korean": "아침",
-        "japanese": "朝",
-        "pronounce_h": "あさ"
-      },
-      {
-        "korean": "컨디션",
-        "japanese": "体調",
-        "pronounce_h": "たいちょう"
-      }
+      { "korean": "방", "japanese": "部屋", "pronounce_h": "へや" },
+      { "korean": "쾌적함", "japanese": "快適", "pronounce_h": "かいてき" }
     ]
   },
   {
     "id": 28,
-    "korean": "영화는 재밌었어요",
-    "english": "The movie was interesting.",
-    "japanese": "映画は面白かったです。",
-    "pronounce_r": "Eiga wa omoshiroikatta desu.",
-    "pronounce_h": "えいがわ おもしろかったです",
+    "korean": "이 대응은 친절하지 않아",
+    "english": "This response is not kind.",
+    "japanese": "この対応は親切ではないです。",
+    "pronounce_r": "Kono taiou wa shinsetsu dewa nai desu.",
+    "pronounce_h": "このたいおうはしんせつではないです。",
     "words": [
-      {
-        "korean": "영화",
-        "japanese": "映画",
-        "pronounce_h": "えいが"
-      }
+      { "korean": "대응", "japanese": "対応", "pronounce_h": "たいおう" },
+      { "korean": "친절함", "japanese": "親切", "pronounce_h": "しんせつ" }
     ]
   },
   {
     "id": 29,
-    "korean": "인터넷 속도가 느렸어요",
-    "english": "The internet speed was slow.",
-    "japanese": "ネットの速度が遅かったです。",
-    "pronounce_r": "Netto no sokudo ga osokatta desu.",
-    "pronounce_h": "ねっとの そくどが おそかったです",
+    "korean": "방은 안 깨끗했어",
+    "english": "The room was not clean.",
+    "japanese": "部屋は綺麗じゃなかった。",
+    "pronounce_r": "Heya wa kirei janakatta.",
+    "pronounce_h": "へやはきれいじゃなかった。",
     "words": [
-      {
-        "korean": "속도",
-        "japanese": "速度",
-        "pronounce_h": "そくど"
-      },
-      {
-        "korean": "느리다",
-        "japanese": "遅い",
-        "pronounce_h": "おそい"
-      }
+      { "korean": "방", "japanese": "部屋", "pronounce_h": "へや" },
+      { "korean": "깨끗함", "japanese": "綺麗", "pronounce_h": "きれい" }
     ]
   },
   {
     "id": 30,
-    "korean": "해외여행은 즐거웠어요",
-    "english": "The overseas trip was fun.",
-    "japanese": "海外旅行は楽しかったです。",
-    "pronounce_r": "Kaigai ryokō wa tanoshikatta desu.",
-    "pronounce_h": "かいがいりょこうわ たのしくあったです",
+    "korean": "여행 준비는 안 힘들었어",
+    "english": "The travel preparation was not hard.",
+    "japanese": "旅行の準備は大変じゃなかった。",
+    "pronounce_r": "Ryokou no junbi wa taihen janakatta.",
+    "pronounce_h": "りょこうのじゅんびはたいへんじゃなかった。",
     "words": [
-      {
-        "korean": "해외여행",
-        "japanese": "海外旅行",
-        "pronounce_h": "かいがいりょこう"
-      },
-      {
-        "korean": "즐겁다",
-        "japanese": "楽しい",
-        "pronounce_h": "たのしい"
-      }
+      { "korean": "여행", "japanese": "旅行", "pronounce_h": "りょこう" },
+      { "korean": "준비", "japanese": "準備", "pronounce_h": "じゅんび" },
+      { "korean": "힘듦", "japanese": "大変", "pronounce_h": "たいへん" }
     ]
   },
   {
     "id": 31,
-    "korean": "주사는 아팠어요",
-    "english": "The injection was painful.",
-    "japanese": "注射は痛かったです。",
-    "pronounce_r": "Chūsha wa itakatta desu.",
-    "pronounce_h": "ちゅうしゃわ いたかったです",
+    "korean": "화장실 청소는 안 싫었어",
+    "english": "I didn't dislike cleaning the toilet.",
+    "japanese": "トイレの掃除は嫌じゃなかった。",
+    "pronounce_r": "Toire no souji wa iya janakatta.",
+    "pronounce_h": "といれのそうじはいやじゃなかった。",
     "words": [
-      {
-        "korean": "주사",
-        "japanese": "注射",
-        "pronounce_h": "ちゅうしゃ"
-      }
+      { "korean": "청소", "japanese": "掃除", "pronounce_h": "そうじ" },
+      { "korean": "싫음", "japanese": "嫌", "pronounce_h": "いや" }
     ]
   },
   {
     "id": 32,
-    "korean": "뷔페, 맛있었죠?",
-    "english": "The buffet was delicious, wasn't it?",
-    "japanese": "ビュッフェ、美味しかったでしょう？",
-    "pronounce_r": "Byuffe, oishikatta deshō?",
-    "pronounce_h": "びゅっふぇ、おいしくあったでしょう",
+    "korean": "그 아이의 태도는 유순하지 않았어",
+    "english": "That child's attitude was not gentle.",
+    "japanese": "あの子の態度は素直じゃなかった。",
+    "pronounce_r": "Ano ko no taido wa sunao janakatta.",
+    "pronounce_h": "あのこのたいどはすなおじゃなかった。",
     "words": [
-      {
-        "korean": "맛있다",
-        "japanese": "美味しい",
-        "pronounce_h": "おいしい"
-      }
+      { "korean": "태도", "japanese": "態度", "pronounce_h": "たいど" },
+      { "korean": "유순함/솔직함", "japanese": "素直", "pronounce_h": "すなお" }
     ]
   },
   {
     "id": 33,
-    "korean": "네. 하지만 조금 비쌌어요.",
-    "english": "Yes. But it was a little expensive.",
-    "japanese": "はい.でも少し高かったです。",
-    "pronounce_r": "Hai. Demo sukoshi takakatta desu.",
-    "pronounce_h": "はい。でも すこし たかかったです",
+    "korean": "그 가게는 생각보다 비싸지 않았어",
+    "english": "That shop was not as expensive as I thought.",
+    "japanese": "あの店は思ったより高くなかった。",
+    "pronounce_r": "Ano mise wa omotta yori takaku nakatta.",
+    "pronounce_h": "あのみせはおもったよりたかくなかった。",
     "words": [
-      {
-        "korean": "하지만",
-        "japanese": "でも",
-        "pronounce_h": "でも"
-      },
-      {
-        "korean": "조금",
-        "japanese": "少し",
-        "pronounce_h": "すこし"
-      }
+      { "korean": "비쌈", "japanese": "高い", "pronounce_h": "たかい" }
     ]
   },
   {
     "id": 34,
-    "korean": "이 김치는 안 매워요",
-    "english": "This Kimchi is not spicy.",
-    "japanese": "このキムチは辛くないです。",
-    "pronounce_r": "Kono kimuchi wa karakunai desu.",
-    "pronounce_h": "この きむちわ からくないです",
+    "korean": "그 장소는 그렇게 위험하지 않았어",
+    "english": "That place was not that dangerous.",
+    "japanese": "あの場所はそんなに危険じゃなかった。",
+    "pronounce_r": "Ano basho wa sonnani kiken janakatta.",
+    "pronounce_h": "あのばしょはそんなにきけんじゃなかった。",
     "words": [
-      {
-        "korean": "맵다",
-        "japanese": "辛い",
-        "pronounce_h": "からい"
-      }
+      { "korean": "장소", "japanese": "場所", "pronounce_h": "ばしょ" },
+      { "korean": "위험", "japanese": "危険", "pronounce_h": "きけん" }
     ]
   },
   {
     "id": 35,
-    "korean": "인생은 안 길어요",
-    "english": "Life is not long.",
-    "japanese": "人生は長くないです。",
-    "pronounce_r": "Jinsei wa nagakunai desu.",
-    "pronounce_h": "じんせいわ ながくないです",
+    "korean": "그 선택은 그렇게 무리는 아니었어",
+    "english": "That choice was not that much of a stretch.",
+    "japanese": "그 선택은 そんなに無理じゃなかった。",
+    "pronounce_r": "Sono sentaku wa sonnani muri janakatta.",
+    "pronounce_h": "そのせんたくはそんなにむ리じゃなかった。",
     "words": [
-      {
-        "korean": "인생",
-        "japanese": "人生",
-        "pronounce_h": "じんせい"
-      },
-      {
-        "korean": "길다",
-        "japanese": "長い",
-        "pronounce_h": "ながい"
-      }
+      { "korean": "무리", "japanese": "無理", "pronounce_h": "むり" }
     ]
   },
   {
     "id": 36,
-    "korean": "남동생/여동생은 전혀 안 귀여워요",
-    "english": "My brother/sister is not cute at all.",
-    "japanese": "弟/妹は全然可愛くないです。",
-    "pronounce_r": "Otōto/Imōto wa zenzen kawaikunai desu.",
-    "pronounce_h": "おとうと/いもうとわ ぜんぜん かわいくないです",
+    "korean": "쭉 개를 좋아했어?",
+    "english": "Have you always liked dogs?",
+    "japanese": "ずっと犬が好きだった？",
+    "pronounce_r": "Zutto inu ga suki datta?",
+    "pronounce_h": "ずっといぬがすきだった？",
     "words": [
-      {
-        "korean": "남동생",
-        "japanese": "弟",
-        "pronounce_h": "おとうと"
-      },
-      {
-        "korean": "여동생",
-        "japanese": "妹",
-        "pronounce_h": "いもうと"
-      },
-      {
-        "korean": "전혀",
-        "japanese": "全然",
-        "pronounce_h": "ぜんぜん"
-      },
-      {
-        "korean": "귀엽다",
-        "japanese": "可愛い",
-        "pronounce_h": "かわいい"
-      }
+      { "korean": "개", "japanese": "犬", "pronounce_h": "いぬ" },
+      { "korean": "좋아하다", "japanese": "好きだ", "pronounce_h": "すきだ" }
     ]
   },
   {
     "id": 37,
-    "korean": "그 쿠키 달아요?",
-    "english": "Is that cookie sweet?",
-    "japanese": "そのクッキー甘い？",
-    "pronounce_r": "Sono kukkī amai?",
-    "pronounce_h": "その くっきー あまい",
+    "korean": "생선이 신선해요",
+    "english": "The fish is fresh.",
+    "japanese": "魚が新鮮です。",
+    "pronounce_r": "Sakana ga shinsen desu.",
+    "pronounce_h": "さかながしんせんです。",
     "words": [
-      {
-        "korean": "달다",
-        "japanese": "甘い",
-        "pronounce_h": "あまい"
-      }
+      { "korean": "생선", "japanese": "魚", "pronounce_h": "さかな" },
+      { "korean": "신선함", "japanese": "新鮮", "pronounce_h": "しんせん" }
     ]
   },
   {
     "id": 38,
-    "korean": "아니요. 그렇게 달지 않아요",
-    "english": "No. It's not that sweet.",
-    "japanese": "いいえ.そんなに甘くないです.",
-    "pronounce_r": "Iie. Sonnan ni amakunai desu.",
-    "pronounce_h": "いいえ。そんなに あまくないです",
+    "korean": "나는 행복해요",
+    "english": "I am happy.",
+    "japanese": "私は幸せです。",
+    "pronounce_r": "Watashi wa shiawase desu.",
+    "pronounce_h": "わたしはしあわせです。",
     "words": [
-      {
-        "korean": "그렇게",
-        "japanese": "そんなに",
-        "pronounce_h": "そんなに"
-      }
+      { "korean": "행복", "japanese": "幸せ", "pronounce_h": "しあわせ" }
     ]
   },
   {
     "id": 39,
-    "korean": "일본 요리는 안 매웠어요",
-    "english": "Japanese food was not spicy.",
-    "japanese": "日本料理は辛くなかったです。",
-    "pronounce_r": "Nihon ryōri wa karakunakatta desu.",
-    "pronounce_h": "にほんりょうりわ からくなかったです",
+    "korean": "남 앞에서 말하는 걸 못해요",
+    "english": "I'm bad at speaking in front of people.",
+    "japanese": "人の前で話すのが下手です。",
+    "pronounce_r": "Hito no mae de hanasu no ga heta desu.",
+    "pronounce_h": "ひとのまえではなすのがへたです。",
     "words": [
-      {
-        "korean": "일본 요리",
-        "japanese": "日本料理",
-        "pronounce_h": "にほんりょうり"
-      }
+      { "korean": "앞", "japanese": "前", "pronounce_h": "まえ" },
+      { "korean": "말하다", "japanese": "話す", "pronounce_h": "はなす" },
+      { "korean": "서투름", "japanese": "下手", "pronounce_h": "へた" }
     ]
   },
   {
     "id": 40,
-    "korean": "옆 방은 안 시끄러웠어요",
-    "english": "The next room was not noisy.",
-    "japanese": "隣の部屋はうるさくなかったです。",
-    "pronounce_r": "Tonari no heya wa urusakunakatta desu.",
-    "pronounce_h": "となりの へやわ うるさくなかったです",
+    "korean": "이 음식 정말 마음에 들어요",
+    "english": "I really love this food.",
+    "japanese": "この料理、大好きです。",
+    "pronounce_r": "Kono ryouri, daisuki desu.",
+    "pronounce_h": "このりょうり、だいすきです。",
     "words": [
-      {
-        "korean": "옆",
-        "japanese": "隣",
-        "pronounce_h": "となり"
-      },
-      {
-        "korean": "방",
-        "japanese": "部屋",
-        "pronounce_h": "へや"
-      },
-      {
-        "korean": "시끄럽다",
-        "japanese": "うるさい",
-        "pronounce_h": "うるさい"
-      }
+      { "korean": "정말 좋아함", "japanese": "大好き", "pronounce_h": "だいすき" }
     ]
   },
   {
     "id": 41,
-    "korean": "마라톤 참가자가 안 많았어요",
-    "english": "There were not many marathon participants.",
-    "japanese": "マラソンの参加者は多くなかったです。",
-    "pronounce_r": "Marason no sankasha wa ōkunakatta desu.",
-    "pronounce_h": "まらそんの さんかしゃわ おおくなかったです",
+    "korean": "조용하고 깨끗한 방이네요",
+    "english": "It's a quiet and clean room.",
+    "japanese": "静かで綺麗な部屋ですね。",
+    "pronounce_r": "Shizuka de kirei na heya desu ne.",
+    "pronounce_h": "しずかできれいなへやですね。",
     "words": [
-      {
-        "korean": "참가자",
-        "japanese": "参加者",
-        "pronounce_h": "さんかしゃ"
-      },
-      {
-        "korean": "많다",
-        "japanese": "多い",
-        "pronounce_h": "おおい"
-      }
+      { "korean": "조용함", "japanese": "静か", "pronounce_h": "しずか" },
+      { "korean": "방", "japanese": "部屋", "pronounce_h": "へや" }
     ]
   },
   {
     "id": 42,
-    "korean": "올 봄은 별로 안 따뜻했어요",
-    "english": "It wasn't very warm this spring.",
-    "japanese": "今年の春はあまり暖かくなかったです。",
-    "pronounce_r": "Kotoshi no haru wa amari atatakakunakatta desu.",
-    "pronounce_h": "ことしの はるわ あまり あたたかくなかったです",
+    "korean": "도쿄타워는 멋지네요",
+    "english": "Tokyo Tower is wonderful.",
+    "japanese": "東京タワーは素敵ですね。",
+    "pronounce_r": "Toukyou tawaa wa suteki desu ne.",
+    "pronounce_h": "とうきょうたわーはすてきですね。",
     "words": [
-      {
-        "korean": "봄",
-        "japanese": "春",
-        "pronounce_h": "はる"
-      },
-      {
-        "korean": "별로",
-        "japanese": "あまり",
-        "pronounce_h": "あまり"
-      },
-      {
-        "korean": "따뜻하다",
-        "japanese": "暖かい",
-        "pronounce_h": "あたたかい"
-      }
+      { "korean": "멋짐", "japanese": "素敵", "pronounce_h": "すてき" }
     ]
   },
   {
     "id": 43,
-    "korean": "그는 성실해",
-    "english": "He is diligent.",
-    "japanese": "彼は真面目だ。",
-    "pronounce_r": "Kare wa majime da.",
-    "pronounce_h": "かれわ まじめだ",
+    "korean": "그러네요. 멋진 야경이네요",
+    "english": "Indeed. It's a wonderful night view.",
+    "japanese": "そうですね。素敵な夜景ですね。",
+    "pronounce_r": "Sou desu ne. Suteki na yakei desu ne.",
+    "pronounce_h": "そうですね。すてきなやけいですね。",
     "words": [
-      {
-        "korean": "성실하다",
-        "japanese": "真面目だ",
-        "pronounce_h": "まじめだ"
-      }
+      { "korean": "야경", "japanese": "夜景", "pronounce_h": "야けい" }
     ]
   },
   {
     "id": 44,
-    "korean": "김 씨는 일본어를 잘 해",
-    "english": "Mr. Kim is good at Japanese.",
-    "japanese": "金さんは日本語が上手だ。",
-    "pronounce_r": "Kin-san wa nihongo ga jōzu da.",
-    "pronounce_h": "きんさんわ にほんごが じょうずだ",
+    "korean": "점심은 만족스러웠어요",
+    "english": "Lunch was satisfying.",
+    "japanese": "ランチは満足でした。",
+    "pronounce_r": "Ranchi wa manzoku deshita.",
+    "pronounce_h": "らんちはまんぞくでした。",
     "words": [
-      {
-        "korean": "잘하다",
-        "japanese": "上手だ",
-        "pronounce_h": "じょうずだ"
-      }
+      { "korean": "만족", "japanese": "満足", "pronounce_h": "まんぞく" }
     ]
   },
   {
     "id": 45,
-    "korean": "나는 버섯을 매우 싫어해",
-    "english": "I hate mushrooms very much.",
-    "japanese": "私はきのこが大嫌いだ。",
-    "pronounce_r": "Watashi wa kinoko ga daikirai da.",
-    "pronounce_h": "わたしわ きのこが だいきらいだ",
+    "korean": "방은 쾌적했어요",
+    "english": "The room was comfortable.",
+    "japanese": "部屋は快適でした。",
+    "pronounce_r": "Heya wa kaiteki deshita.",
+    "pronounce_h": "へやはかいてきでした。",
     "words": [
-      {
-        "korean": "버섯",
-        "japanese": "きのこ",
-        "pronounce_h": "きのこ"
-      },
-      {
-        "korean": "정말 싫어하다",
-        "japanese": "大嫌いだ",
-        "pronounce_h": "だいきらいだ"
-      }
+      { "korean": "쾌적함", "japanese": "快適", "pronounce_h": "かいてき" }
     ]
   },
   {
     "id": 46,
-    "korean": "여기는 교통이 편리하다",
-    "english": "Transportation is convenient here.",
-    "japanese": "ここは交通が便利だ。",
-    "pronounce_r": "Koko wa kōtsū ga benri da.",
-    "pronounce_h": "ここわ こうつうが べんりだ",
+    "korean": "오늘은 정말로 힘들었어요",
+    "english": "Today was really hard.",
+    "japanese": "今日は本当に大変でした。",
+    "pronounce_r": "Kyou wa hontou ni taihen deshita.",
+    "pronounce_h": "きょうはほんとうにたいへんでした。",
     "words": [
-      {
-        "korean": "교통",
-        "japanese": "交通",
-        "pronounce_h": "こうつう"
-      },
-      {
-        "korean": "편리하다",
-        "japanese": "便利だ",
-        "pronounce_h": "べんりだ"
-      }
+      { "korean": "정말", "japanese": "本当に", "pronounce_h": "ほんとうに" },
+      { "korean": "힘듦", "japanese": "大変", "pronounce_h": "たいへん" }
     ]
   },
   {
     "id": 47,
-    "korean": "조용한 도서관이네요",
-    "english": "It's a quiet library.",
-    "japanese": "静かな図書館ですね。",
-    "pronounce_r": "Shizuka na toshokan desu ne.",
-    "pronounce_h": "しずかな としょかんですね",
+    "korean": "샐러드 바의 채소는 신선했어요",
+    "english": "The vegetables in the salad bar were fresh.",
+    "japanese": "サラダバーの野菜は新鮮でした。",
+    "pronounce_r": "Saradabaa no yasai wa shinsen deshita.",
+    "pronounce_h": "さらだばーのやさいはしんせんでした。",
     "words": [
-      {
-        "korean": "조용하다",
-        "japanese": "静かだ",
-        "pronounce_h": "しずかだ"
-      },
-      {
-        "korean": "도서관",
-        "japanese": "図書館",
-        "pronounce_h": "としょかん"
-      }
+      { "korean": "채소", "japanese": "野菜", "pronounce_h": "やさい" }
     ]
   },
   {
     "id": 48,
-    "korean": "정말이네. 예쁘다",
-    "english": "Indeed. It's beautiful.",
-    "japanese": "本当だね.綺麗だ.",
-    "pronounce_r": "Hontō da ne. Kirei da.",
-    "pronounce_h": "ほんとうだね。きれいだ",
+    "korean": "역 앞 공원은 떠들썩했어요",
+    "english": "The park in front of the station was lively.",
+    "japanese": "駅前の公園は賑やかでした。",
+    "pronounce_r": "Ekimae no kouen wa nigiyaka deshita.",
+    "pronounce_h": "えきまえのこうえんはにぎやかでした。",
     "words": [
-      {
-        "korean": "정말",
-        "japanese": "本当",
-        "pronounce_h": "ほんとう"
-      },
-      {
-        "korean": "예쁘다/깨끗하다",
-        "japanese": "綺麗だ",
-        "pronounce_h": "きれいだ"
-      }
+      { "korean": "떠들썩함", "japanese": "賑やか", "pronounce_h": "にぎやか" }
     ]
   },
   {
     "id": 49,
-    "korean": "테스트는 간단했어",
-    "english": "The test was simple.",
-    "japanese": "テストは簡単だった。",
-    "pronounce_r": "Tesuto wa kantan datta.",
-    "pronounce_h": "てすとわ かんたんだった",
+    "korean": "어젯밤 파티 드레스는 화려했어요?",
+    "english": "Was last night's party dress flashy?",
+    "japanese": "昨夜のパーティードレスは派手でしたか。",
+    "pronounce_r": "Sakuya no paatii doresu wa hade deshita ka.",
+    "pronounce_h": "さくやのぱーてぃーどれすははででしたか。",
     "words": [
-      {
-        "korean": "간단하다",
-        "japanese": "簡単だ",
-        "pronounce_h": "かんたんだ"
-      }
+      { "korean": "화려함", "japanese": "派手", "pronounce_h": "はで" }
     ]
   },
   {
     "id": 50,
-    "korean": "채소는 신선했어",
-    "english": "The vegetables were fresh.",
-    "japanese": "野菜は新鮮だった。",
-    "pronounce_r": "Yasai wa shinsen datta.",
-    "pronounce_h": "やさいわ しんせんだった",
+    "korean": "오늘은 후지산이 안 보여서 유감이었어요",
+    "english": "It was a pity that Mt. Fuji was not visible today.",
+    "japanese": "今日は富士山が見えなくて残念でした。",
+    "pronounce_r": "Kyou wa Fujisan ga mienakute zannen deshita.",
+    "pronounce_h": "きょうはふじさんがみえなくてざんねんでした。",
     "words": [
-      {
-        "korean": "채소",
-        "japanese": "野菜",
-        "pronounce_h": "やさい"
-      },
-      {
-        "korean": "신선하다",
-        "japanese": "新鮮だ",
-        "pronounce_h": "しんせんだ"
-      }
+      { "korean": "유감", "japanese": "残念", "pronounce_h": "ざんねん" }
     ]
   },
   {
     "id": 51,
-    "korean": "영어는 자신 없었어",
-    "english": "I was not good at English.",
-    "japanese": "英語は苦手だった。",
-    "pronounce_r": "Eigo wa nigate datta.",
-    "pronounce_h": "えいごわ にがてだった",
+    "korean": "그는 안 화려해요",
+    "english": "He is not flashy.",
+    "japanese": "彼は派手じゃないです。",
+    "pronounce_r": "Kare wa hade janai desu.",
+    "pronounce_h": "かれははでじゃないです。",
     "words": [
-      {
-        "korean": "서투르다/자신없다",
-        "japanese": "苦手だ",
-        "pronounce_h": "にがてだ"
-      }
+      { "korean": "화려함", "japanese": "派手", "pronounce_h": "はで" }
     ]
   },
   {
     "id": 52,
-    "korean": "오늘은 정말 힘들었어",
-    "english": "It was really tough today.",
-    "japanese": "今日は本当に大変だった。",
-    "pronounce_r": "Kyō wa hontō ni taihen datta.",
-    "pronounce_h": "きょうわ ほんとうに たいへんだった",
+    "korean": "나는 그렇게 우수하지 않아요",
+    "english": "I'm not that excellent.",
+    "japanese": "私はそんなに優秀じゃないです。",
+    "pronounce_r": "Watashi wa sonnani yuushuu janai desu.",
+    "pronounce_h": "わたしはそんなにゆうしゅうじゃないです。",
     "words": [
-      {
-        "korean": "힘들다/큰일이다",
-        "japanese": "大変だ",
-        "pronounce_h": "たいへんだ"
-      }
+      { "korean": "우수함", "japanese": "優秀", "pronounce_h": "ゆうしゅう" }
     ]
   },
   {
     "id": 53,
-    "korean": "오랜만. 잘 지내?",
-    "english": "Long time no see. How are you?",
-    "japanese": "久しぶり.元気だった？",
-    "pronounce_r": "Hisashiburi. Genki datta?",
-    "pronounce_h": "ひさしぶり. げんきだった",
+    "korean": "할머니는 요즘 컨디션이 안 좋아요",
+    "english": "My grandmother is not feeling well lately.",
+    "japanese": "祖母は最近元気じゃないです。",
+    "pronounce_r": "Sobo wa saikin genki janai desu.",
+    "pronounce_h": "そぼはさいきんげんきじゃないです。",
     "words": [
-      {
-        "korean": "오랜만",
-        "japanese": "久しぶり",
-        "pronounce_h": "ひさしぶり"
-      },
-      {
-        "korean": "건강하다/잘지내다",
-        "japanese": "元気だ",
-        "pronounce_h": "げんきだ"
-      }
+      { "korean": "건강/기운", "japanese": "元気", "pronounce_h": "げんき" }
     ]
   },
   {
     "id": 54,
-    "korean": "저 가게, 일본어로 괜찮았어?",
-    "english": "Was that shop okay in Japanese?",
-    "japanese": "あの店,日本語で大丈夫だった？",
-    "pronounce_r": "Ano mise, nihongo de daijōbu datta?",
-    "pronounce_h": "あの みせ, にほんごで だいじょうぶだった",
+    "korean": "이 가게는 그렇게 붐비지 않아요",
+    "english": "This shop is not that crowded.",
+    "japanese": "この店는 そんなに賑やかじゃないです。",
+    "pronounce_r": "Kono mise wa sonnani nigiyaka janai desu.",
+    "pronounce_h": "このみせ는 そんなににぎやかじゃないです。",
     "words": [
-      {
-        "korean": "가게",
-        "japanese": "店",
-        "pronounce_h": "みせ"
-      }
+      { "korean": "붐빔/떠들썩함", "japanese": "賑やか", "pronounce_h": "にぎやか" }
     ]
   },
   {
     "id": 55,
-    "korean": "아니. 일본어가 통하지 않아서 힘들었어",
-    "english": "No. It was tough because Japanese didn't work.",
-    "japanese": "ううん,日本語が通じなくて大変だった。",
-    "pronounce_r": "Uun, nihongo ga tsujinakute taihen datta.",
-    "pronounce_h": "ううん, にほんごが つうじなくて たいへんだった",
+    "korean": "화장실은 별로 안 깨끗해요",
+    "english": "The toilet is not very clean.",
+    "japanese": "トイレはあまり綺麗じゃないです。",
+    "pronounce_r": "Toire wa amari kirei janai desu.",
+    "pronounce_h": "といれはあまりきれいじゃないです。",
     "words": [
-      {
-        "korean": "통하다",
-        "japanese": "通じる",
-        "pronounce_h": "つうじる"
-      }
+      { "korean": "깨끗함", "japanese": "綺麗", "pronounce_h": "きれい" }
     ]
   },
   {
     "id": 56,
-    "korean": "여기 안 조용해",
-    "english": "It's not quiet here.",
-    "japanese": "ここは静かじゃない。",
-    "pronounce_r": "Koko wa shizuka janai.",
-    "pronounce_h": "ここわ しずかじゃない",
-    "words": []
+    "korean": "그렇게 간단하지 않았습니다",
+    "english": "It was not that simple.",
+    "japanese": "それほど簡単じゃなかったです。",
+    "pronounce_r": "Sorehodo kantan janakatta desu.",
+    "pronounce_h": "それほどかんたんじゃなかったです。",
+    "words": [
+      { "korean": "간단함", "japanese": "簡単", "pronounce_h": "かんたん" }
+    ]
   },
   {
     "id": 57,
-    "korean": "여권은 안 필요해",
-    "english": "I don't need a passport.",
-    "japanese": "パスポートは必要じゃない。",
-    "pronounce_r": "Pasupōto wa hitsuyō janai.",
-    "pronounce_h": "ぱすぽーとわ ひつようじゃない",
+    "korean": "이동은 그렇게 힘들지 않았어요",
+    "english": "The move was not that hard.",
+    "japanese": "移動은 そんなに大変じゃなかったです。",
+    "pronounce_r": "Idou wa sonnani taihen janakatta desu.",
+    "pronounce_h": "いどうはそんなにたいへんじゃなかった입니다.",
     "words": [
-      {
-        "korean": "여권",
-        "japanese": "パスポート",
-        "pronounce_h": "ぱすぽーと"
-      },
-      {
-        "korean": "필요하다",
-        "japanese": "必要だ",
-        "pronounce_h": "ひつようだ"
-      }
+      { "korean": "이동", "japanese": "移動", "pronounce_h": "いどう" },
+      { "korean": "힘듦", "japanese": "大変", "pronounce_h": "たいへん" }
     ]
   },
   {
     "id": 58,
-    "korean": "이 우산은 안 튼튼해",
-    "english": "This umbrella is not sturdy.",
-    "japanese": "この傘は丈夫じゃない。",
-    "pronounce_r": "Kono kasa wa jōbu janai.",
-    "pronounce_h": "この かさわ じょうぶじゃない",
+    "korean": "지난주는 안 한가했어요",
+    "english": "I was not free last week.",
+    "japanese": "先週は暇じゃなかったです。",
+    "pronounce_r": "Senshuu wa hima janakatta desu.",
+    "pronounce_h": "せんしゅうはひまじゃなかったです。",
     "words": [
-      {
-        "korean": "우산",
-        "japanese": "傘",
-        "pronounce_h": "かさ"
-      },
-      {
-        "korean": "튼튼하다",
-        "japanese": "丈夫だ",
-        "pronounce_h": "じょうぶだ"
-      }
+      { "korean": "지난주", "japanese": "先週", "pronounce_h": "せんしゅう" },
+      { "korean": "한가함", "japanese": "暇", "pronounce_h": "ひ마" }
     ]
   },
   {
     "id": 59,
-    "korean": "그 옷, 안 이상해",
-    "english": "Those clothes are not weird.",
-    "japanese": "その服,変じゃない。",
-    "pronounce_r": "Sono fuku, hen janai.",
-    "pronounce_h": "その ふく, へんじゃない",
+    "korean": "어릴 때는 몸이 튼튼하지 않았어요",
+    "english": "My body was not strong when I was a child.",
+    "japanese": "子供の時は体が丈夫じゃなかったです。",
+    "pronounce_r": "Kodomo no toki wa karada ga joubu janakatta desu.",
+    "pronounce_h": "こどものときはからだがじょうぶじゃなかったです。",
     "words": [
-      {
-        "korean": "이상하다",
-        "japanese": "変だ",
-        "pronounce_h": "へんだ"
-      }
+      { "korean": "때", "japanese": "時", "pronounce_h": "とき" },
+      { "korean": "튼튼함", "japanese": "丈夫", "pronounce_h": "じょうぶ" }
     ]
   },
   {
     "id": 60,
-    "korean": "오토바이는 안전하지 않아",
-    "english": "Motorcycles are not safe.",
-    "japanese": "バイクは安全じゃない。",
-    "pronounce_r": "Baiku wa anzen janai.",
-    "pronounce_h": "ばいくわ あんぜんじゃない",
+    "korean": "그 가게는 생각보다 붐비지 않았어요",
+    "english": "That shop was not as crowded as I thought.",
+    "japanese": "あの店は思ったより賑やかじゃなかったです。",
+    "pronounce_r": "Ano mise wa omotta yori nigiyaka janakatta desu.",
+    "pronounce_h": "あのみせはおもったよりにぎやかじゃなかったです。",
     "words": [
-      {
-        "korean": "오토바이",
-        "japanese": "バイク",
-        "pronounce_h": "ばいく"
-      },
-      {
-        "korean": "안전하다",
-        "japanese": "安全だ",
-        "pronounce_h": "あんぜんだ"
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "korean": "이 세탁기 편리해?",
-    "english": "Is this washing machine convenient?",
-    "japanese": "この洗濯機,便利？",
-    "pronounce_r": "Kono sentakuki, benri?",
-    "pronounce_h": "この せんたくき, べんり",
-    "words": [
-      {
-        "korean": "세탁기",
-        "japanese": "洗濯機",
-        "pronounce_h": "せんたくき"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "korean": "아니. 편리하지 않아. 불편해",
-    "english": "No. It's not convenient. It's inconvenient.",
-    "japanese": "ううん,便利じゃない.不便だよ.",
-    "pronounce_r": "Uun, benri janai. Fuben dayo.",
-    "pronounce_h": "ううん, べんりじゃない. ふべんだよ",
-    "words": [
-      {
-        "korean": "불편하다",
-        "japanese": "不便だ",
-        "pronounce_h": "ふべんだ"
-      }
+      { "korean": "붐빔/떠들썩함", "japanese": "賑やか", "pronounce_h": "にぎやか" }
     ]
   }
 ]
